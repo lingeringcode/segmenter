@@ -1,0 +1,37 @@
+# sent_id = 1
+# text = Thread_6
+1	Thread_6	thread_6	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 605
+1	605	605	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 604
+1	604	604	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Campnoodles
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Campnoodles	campnoodle	NOUN	_	NS	1	appos	_	_
+
+
+# sent_id = 5
+# text = But yes, the diagnosis code is also on that letter
+1	But	but	CCONJ	_	C	7	cc	_	_
+2	yes	yes	INTJ	_	H	7	intj	_	_
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	diagnosis	diagnosis	NOUN	_	N	6	compound	_	_
+6	code	code	NOUN	_	N	7	nsubj	_	_
+7	is	be	AUX	_	BZ	0	root	_	_
+8	also	also	ADV	_	B	7	advmod	_	_
+9	on	on	ADP	_	N	7	prep	_	_
+10	that	that	DET	_	T	11	det	_	_
+11	letter	letter	NOUN	_	N	9	pobj	_	_
+
+

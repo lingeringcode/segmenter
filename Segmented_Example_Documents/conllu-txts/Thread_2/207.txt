@@ -1,0 +1,55 @@
+# sent_id = 1
+# text = Thread_2
+1	Thread_2	thread_2	ADV	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 207
+1	207	207	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 206
+1	206	206	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/MrTheRiddle
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	MrTheRiddle	mrtheriddle	NUM	_	D	1	punct	_	_
+
+
+# sent_id = 5
+# text = I’d hope so… they got bought out and this new person assigned my case just gave me the “well we tried 🤷‍♂️”
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	’d	’d	AUX	_	D	1	appos	_	_
+3	hope	hope	VERB	_	BP	18	nsubj	_	_
+4	so	so	ADV	_	B	3	advmod	_	_
+5	…	…	PUNCT	_	FP	8	punct	_	_
+6	they	they	PRON	_	RP	8	nsubjpass	_	_
+7	got	get	AUX	_	BD	8	auxpass	_	_
+8	bought	buy	VERB	_	BN	3	conj	_	_
+9	out	out	ADP	_	P	8	prt	_	_
+10	and	and	CCONJ	_	C	8	cc	_	_
+11	this	this	DET	_	T	13	det	_	_
+12	new	new	ADJ	_	J	13	amod	_	_
+13	person	person	NOUN	_	N	14	nsubj	_	_
+14	assigned	assign	VERB	_	BD	8	conj	_	_
+15	my	my	PRON	_	RP$	16	poss	_	_
+16	case	case	NOUN	_	N	14	dobj	_	_
+17	just	just	ADV	_	B	18	advmod	_	_
+18	gave	give	VERB	_	BD	0	root	_	_
+19	me	i	PRON	_	RP	18	dative	_	_
+20	the	the	DET	_	T	24	det	_	_
+21	“	"	PUNCT	_	`	24	punct	_	_
+22	well	well	INTJ	_	H	24	intj	_	_
+23	we	we	PRON	_	RP	24	nsubj	_	_
+24	tried	try	VERB	_	BD	18	ccomp	_	_
+25	🤷	🤷	PROPN	_	NP	26	nmod	_	_
+26	‍	‍	PROPN	_	NP	24	npadvmod	_	_
+27	♂	♂	NOUN	_	N	24	npadvmod	_	_
+28	️	️	X	_	DD	24	dobj	_	_
+29	”	"	PUNCT	_	'	24	punct	_	_
+
+

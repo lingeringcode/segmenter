@@ -1,0 +1,102 @@
+# sent_id = 1
+# text = Thread_14
+1	Thread_14	thread_14	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 1401
+1	1401	1401	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1400
+1	1400	1400	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/No-Produce-6720
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	No	no	NOUN	_	N	1	appos	_	_
+4	-	-	NOUN	_	N	1	punct	_	_
+5	Produce-6720	produce-6720	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = This can't be billed as accidental dental, so about the only thing you'll be able to argue is medical necessity, and that's something the dentist will have to do for you.
+1	This	this	PRON	_	T	5	nsubjpass	_	_
+2	ca	can	AUX	_	D	5	aux	_	_
+3	n't	not	PART	_	B	5	neg	_	_
+4	be	be	AUX	_	B	5	auxpass	_	_
+5	billed	bill	VERB	_	BN	0	root	_	_
+6	as	as	ADP	_	N	5	prep	_	_
+7	accidental	accidental	ADJ	_	J	8	amod	_	_
+8	dental	dental	ADJ	_	J	6	pobj	_	_
+9	,	,	PUNCT	_	_	5	punct	_	_
+10	so	so	ADV	_	B	21	advmod	_	_
+11	about	about	ADP	_	N	21	prep	_	_
+12	the	the	DET	_	T	14	det	_	_
+13	only	only	ADJ	_	J	14	amod	_	_
+14	thing	thing	NOUN	_	N	21	nsubj	_	_
+15	you	you	PRON	_	RP	17	nsubj	_	_
+16	'll	will	AUX	_	D	17	aux	_	_
+17	be	be	AUX	_	B	14	relcl	_	_
+18	able	able	ADJ	_	J	17	acomp	_	_
+19	to	to	PART	_	O	20	aux	_	_
+20	argue	argue	VERB	_	B	18	xcomp	_	_
+21	is	be	AUX	_	BZ	5	conj	_	_
+22	medical	medical	ADJ	_	J	23	amod	_	_
+23	necessity	necessity	NOUN	_	N	21	attr	_	_
+24	,	,	PUNCT	_	_	21	punct	_	_
+25	and	and	CCONJ	_	C	5	cc	_	_
+26	that	that	PRON	_	T	27	nsubj	_	_
+27	's	be	AUX	_	BZ	5	conj	_	_
+28	something	something	PRON	_	N	27	attr	_	_
+29	the	the	DET	_	T	30	det	_	_
+30	dentist	dentist	NOUN	_	N	32	nsubj	_	_
+31	will	will	AUX	_	D	32	aux	_	_
+32	have	have	VERB	_	B	28	relcl	_	_
+33	to	to	PART	_	O	34	aux	_	_
+34	do	do	VERB	_	B	32	xcomp	_	_
+35	for	for	ADP	_	N	34	dative	_	_
+36	you	you	PRON	_	RP	35	pobj	_	_
+37	.	.	PUNCT	_	_	27	punct	_	_
+
+
+# sent_id = 6
+# text = It may help to have your son's cardiologist offer info on his condition, and why it might have been necessary to to have this done with access to medical care.
+1	It	it	PRON	_	RP	3	nsubj	_	_
+2	may	may	AUX	_	D	3	aux	_	_
+3	help	help	VERB	_	B	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	have	have	VERB	_	B	3	xcomp	_	_
+6	your	your	PRON	_	RP$	7	poss	_	_
+7	son	son	NOUN	_	N	9	poss	_	_
+8	's	's	PART	_	OS	7	case	_	_
+9	cardiologist	cardiologist	ADJ	_	J	10	nsubj	_	_
+10	offer	offer	VERB	_	B	5	ccomp	_	_
+11	info	info	NOUN	_	N	10	dobj	_	_
+12	on	on	ADP	_	N	11	prep	_	_
+13	his	his	PRON	_	RP$	14	poss	_	_
+14	condition	condition	NOUN	_	N	12	pobj	_	_
+15	,	,	PUNCT	_	_	3	punct	_	_
+16	and	and	CCONJ	_	C	3	cc	_	_
+17	why	why	SCONJ	_	RB	21	advmod	_	_
+18	it	it	PRON	_	RP	21	nsubj	_	_
+19	might	might	AUX	_	D	21	aux	_	_
+20	have	have	AUX	_	B	21	aux	_	_
+21	been	be	AUX	_	BN	3	conj	_	_
+22	necessary	necessary	ADJ	_	J	21	acomp	_	_
+23	to	to	PART	_	O	25	aux	_	_
+24	to	to	PART	_	O	25	aux	_	_
+25	have	have	VERB	_	B	21	xcomp	_	_
+26	this	this	PRON	_	T	27	nsubj	_	_
+27	done	do	VERB	_	BN	25	ccomp	_	_
+28	with	with	ADP	_	N	27	prep	_	_
+29	access	access	NOUN	_	N	28	pobj	_	_
+30	to	to	ADP	_	N	29	prep	_	_
+31	medical	medical	ADJ	_	J	32	amod	_	_
+32	care	care	NOUN	_	N	30	pobj	_	_
+33	.	.	PUNCT	_	_	3	punct	_	_
+
+

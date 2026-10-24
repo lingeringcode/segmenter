@@ -1,0 +1,139 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1109
+1	1109	1109	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1108
+1	1108	1108	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/YouCooper
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	YouCooper	youcooper	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Thank you, this is really practical advice.
+1	Thank	thank	VERB	_	BP	5	advcl	_	_
+2	you	you	PRON	_	RP	1	dobj	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	this	this	PRON	_	T	5	nsubj	_	_
+5	is	be	AUX	_	BZ	0	root	_	_
+6	really	really	ADV	_	B	7	advmod	_	_
+7	practical	practical	ADJ	_	J	8	amod	_	_
+8	advice	advice	NOUN	_	N	5	attr	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = I will call each provider’s billing office this week and ask about both charity care and a social worker.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	will	will	AUX	_	D	3	aux	_	_
+3	call	call	VERB	_	B	0	root	_	_
+4	each	each	DET	_	T	5	det	_	_
+5	provider	provider	NOUN	_	N	8	poss	_	_
+6	’s	’s	PART	_	OS	5	case	_	_
+7	billing	billing	NOUN	_	N	8	compound	_	_
+8	office	office	NOUN	_	N	3	dobj	_	_
+9	this	this	DET	_	T	10	det	_	_
+10	week	week	NOUN	_	N	3	npadvmod	_	_
+11	and	and	CCONJ	_	C	3	cc	_	_
+12	ask	ask	VERB	_	B	3	conj	_	_
+13	about	about	ADP	_	N	12	prep	_	_
+14	both	both	DET	_	T	16	det	_	_
+15	charity	charity	NOUN	_	N	16	compound	_	_
+16	care	care	NOUN	_	N	13	pobj	_	_
+17	and	and	CCONJ	_	C	16	cc	_	_
+18	a	a	DET	_	T	20	det	_	_
+19	social	social	ADJ	_	J	20	amod	_	_
+20	worker	worker	NOUN	_	N	16	conj	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = Good point about the insurer possibly arguing that the drug reaction traces back to a pre-existing condition.
+1	Good	good	ADJ	_	J	2	amod	_	_
+2	point	point	NOUN	_	N	7	nsubj	_	_
+3	about	about	ADP	_	N	2	prep	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	insurer	insurer	NOUN	_	N	3	pobj	_	_
+6	possibly	possibly	ADV	_	B	7	advmod	_	_
+7	arguing	argue	VERB	_	BG	0	root	_	_
+8	that	that	SCONJ	_	N	12	mark	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	drug	drug	NOUN	_	N	11	compound	_	_
+11	reaction	reaction	NOUN	_	N	12	nsubj	_	_
+12	traces	trace	VERB	_	BZ	7	ccomp	_	_
+13	back	back	ADV	_	B	12	advmod	_	_
+14	to	to	ADP	_	N	13	prep	_	_
+15	a	a	DET	_	T	19	det	_	_
+16	pre	pre	ADJ	_	J	19	amod	_	_
+17	-	-	ADJ	_	J	19	amod	_	_
+18	existing	existing	ADJ	_	J	19	amod	_	_
+19	condition	condition	NOUN	_	N	14	pobj	_	_
+20	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 8
+# text = That is the exact chain the insurer will probably try to make.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	exact	exact	ADJ	_	J	5	amod	_	_
+5	chain	chain	NOUN	_	N	2	attr	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	insurer	insurer	NOUN	_	N	10	nsubj	_	_
+8	will	will	AUX	_	D	10	aux	_	_
+9	probably	probably	ADV	_	B	10	advmod	_	_
+10	try	try	VERB	_	B	5	relcl	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	make	make	VERB	_	B	10	xcomp	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = Hopefully the fact that the ER’s own discharge diagnosis was for the drug reaction and not H pylori helps break that chain, but you are right that they will fight it.
+1	Hopefully	hopefully	ADV	_	B	21	advmod	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	fact	fact	NOUN	_	N	21	nsubj	_	_
+4	that	that	SCONJ	_	N	11	mark	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	ER	er	PROPN	_	NP	10	poss	_	_
+7	’s	’s	PART	_	OS	10	amod	_	_
+8	own	own	ADJ	_	J	10	amod	_	_
+9	discharge	discharge	NOUN	_	N	10	compound	_	_
+10	diagnosis	diagnosis	NOUN	_	N	11	nsubj	_	_
+11	was	be	AUX	_	BD	3	acl	_	_
+12	for	for	ADP	_	N	11	prep	_	_
+13	the	the	DET	_	T	15	det	_	_
+14	drug	drug	NOUN	_	N	15	compound	_	_
+15	reaction	reaction	NOUN	_	N	12	pobj	_	_
+16	and	and	CCONJ	_	C	15	cc	_	_
+17	not	not	PART	_	B	20	neg	_	_
+18	H	h	PROPN	_	NP	19	compound	_	_
+19	pylori	pylori	NOUN	_	N	20	nsubj	_	_
+20	helps	helps	AUX	_	BZ	21	aux	_	_
+21	break	break	VERB	_	B	0	root	_	_
+22	that	that	DET	_	T	23	det	_	_
+23	chain	chain	NOUN	_	N	21	dobj	_	_
+24	,	,	PUNCT	_	_	21	punct	_	_
+25	but	but	CCONJ	_	C	21	cc	_	_
+26	you	you	PRON	_	RP	27	nsubj	_	_
+27	are	be	AUX	_	BP	21	conj	_	_
+28	right	right	ADJ	_	J	27	acomp	_	_
+29	that	that	SCONJ	_	N	32	mark	_	_
+30	they	they	PRON	_	RP	32	nsubj	_	_
+31	will	will	AUX	_	D	32	aux	_	_
+32	fight	fight	VERB	_	B	28	ccomp	_	_
+33	it	it	PRON	_	RP	32	dobj	_	_
+34	.	.	PUNCT	_	_	27	punct	_	_
+
+

@@ -1,0 +1,63 @@
+# sent_id = 1
+# text = Thread_6
+1	Thread_6	thread_6	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 607
+1	607	607	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 606
+1	606	606	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Campnoodles
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Campnoodles	campnoodle	NOUN	_	NS	1	appos	_	_
+
+
+# sent_id = 5
+# text = As I mentioned in my last reply, I received a letter from them after the surgery and procedure stating that the procedure had been approved, so Im pretty sure it is not a preapproval
+1	As	as	SCONJ	_	N	3	mark	_	_
+2	I	i	PRON	_	RP	3	nsubj	_	_
+3	mentioned	mention	VERB	_	BD	10	advcl	_	_
+4	in	in	ADP	_	N	3	prep	_	_
+5	my	my	PRON	_	RP$	7	poss	_	_
+6	last	last	ADJ	_	J	7	amod	_	_
+7	reply	reply	NOUN	_	N	4	pobj	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	I	i	PRON	_	RP	10	nsubj	_	_
+10	received	receive	VERB	_	BD	0	root	_	_
+11	a	a	DET	_	T	12	det	_	_
+12	letter	letter	NOUN	_	N	10	dobj	_	_
+13	from	from	ADP	_	N	12	prep	_	_
+14	them	they	PRON	_	RP	13	pobj	_	_
+15	after	after	ADP	_	N	10	prep	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	surgery	surgery	NOUN	_	N	15	pobj	_	_
+18	and	and	CCONJ	_	C	17	cc	_	_
+19	procedure	procedure	NOUN	_	N	17	conj	_	_
+20	stating	state	VERB	_	BG	10	advcl	_	_
+21	that	that	SCONJ	_	N	26	mark	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	procedure	procedure	NOUN	_	N	26	nsubjpass	_	_
+24	had	have	AUX	_	BD	26	aux	_	_
+25	been	be	AUX	_	BN	26	auxpass	_	_
+26	approved	approve	VERB	_	BN	20	ccomp	_	_
+27	,	,	PUNCT	_	_	10	punct	_	_
+28	so	so	SCONJ	_	N	10	cc	_	_
+29	I	i	PRON	_	RP	30	nsubj	_	_
+30	m	m	VERB	_	BP	10	conj	_	_
+31	pretty	pretty	ADV	_	B	32	advmod	_	_
+32	sure	sure	ADJ	_	J	30	acomp	_	_
+33	it	it	PRON	_	RP	34	nsubj	_	_
+34	is	be	AUX	_	BZ	32	ccomp	_	_
+35	not	not	PART	_	B	34	neg	_	_
+36	a	a	DET	_	T	37	det	_	_
+37	preapproval	preapproval	NOUN	_	N	34	attr	_	_
+
+

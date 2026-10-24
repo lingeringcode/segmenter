@@ -1,0 +1,266 @@
+# sent_id = 1
+# text = Thread_9
+1	Thread_9	thread_9	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 907
+1	907	907	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 906
+1	906	906	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/theoreticalking
+1	u	u	NOUN	_	N	3	meta	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	theoreticalking	theoreticalking	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = I’m sorry that you are going through this.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	’m	’m	VERB	_	BZ	0	root	_	_
+3	sorry	sorry	ADJ	_	J	2	acomp	_	_
+4	that	that	SCONJ	_	N	7	mark	_	_
+5	you	you	PRON	_	RP	7	nsubj	_	_
+6	are	be	AUX	_	BP	7	aux	_	_
+7	going	go	VERB	_	BG	3	ccomp	_	_
+8	through	through	ADP	_	N	7	prep	_	_
+9	this	this	PRON	_	T	8	pobj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = I would continue to reach out to your employer, employee benefit manager, and broker by email or by phone.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	would	would	AUX	_	D	3	aux	_	_
+3	continue	continue	VERB	_	B	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	reach	reach	VERB	_	B	3	xcomp	_	_
+6	out	out	ADP	_	P	5	prt	_	_
+7	to	to	ADP	_	N	5	prep	_	_
+8	your	your	PRON	_	RP$	9	poss	_	_
+9	employer	employer	NOUN	_	N	7	pobj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	employee	employee	NOUN	_	N	12	compound	_	_
+12	benefit	benefit	NOUN	_	N	13	compound	_	_
+13	manager	manager	NOUN	_	N	9	appos	_	_
+14	,	,	PUNCT	_	_	9	punct	_	_
+15	and	and	CCONJ	_	C	5	cc	_	_
+16	broker	broker	VERB	_	B	5	conj	_	_
+17	by	by	ADP	_	N	16	prep	_	_
+18	email	email	NOUN	_	N	17	pobj	_	_
+19	or	or	CCONJ	_	C	17	cc	_	_
+20	by	by	ADP	_	N	17	conj	_	_
+21	phone	phone	NOUN	_	N	20	pobj	_	_
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = Remind them that the issue is still unresolved after how many months
+1	Remind	remind	VERB	_	B	0	root	_	_
+2	them	they	PRON	_	RP	1	dobj	_	_
+3	that	that	SCONJ	_	N	6	mark	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	issue	issue	NOUN	_	N	6	nsubj	_	_
+6	is	be	AUX	_	BZ	1	ccomp	_	_
+7	still	still	ADV	_	B	6	advmod	_	_
+8	unresolved	unresolved	ADJ	_	J	6	acomp	_	_
+9	after	after	ADP	_	N	8	prep	_	_
+10	how	how	SCONJ	_	RB	11	advmod	_	_
+11	many	many	ADJ	_	J	12	amod	_	_
+12	months	month	NOUN	_	NS	9	pobj	_	_
+
+
+# sent_id = 8
+# text = and you need their help.
+1	and	and	CCONJ	_	C	3	cc	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	need	need	VERB	_	BP	0	root	_	_
+4	their	their	PRON	_	RP$	5	poss	_	_
+5	help	help	NOUN	_	N	3	dobj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = Ask them to follow up with IBX or anything else they can do without providing them with the itemized bills.
+1	Ask	ask	VERB	_	B	0	root	_	_
+2	them	they	PRON	_	RP	1	dobj	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	follow	follow	VERB	_	B	1	xcomp	_	_
+5	up	up	ADP	_	P	4	prt	_	_
+6	with	with	ADP	_	N	4	prep	_	_
+7	IBX	ibx	PROPN	_	NP	6	pobj	_	_
+8	or	or	CCONJ	_	C	7	cc	_	_
+9	anything	anything	PRON	_	N	7	conj	_	_
+10	else	else	ADV	_	B	9	advmod	_	_
+11	they	they	PRON	_	RP	13	nsubj	_	_
+12	can	can	AUX	_	D	13	aux	_	_
+13	do	do	VERB	_	B	9	relcl	_	_
+14	without	without	ADP	_	N	13	prep	_	_
+15	providing	provide	VERB	_	BG	14	pcomp	_	_
+16	them	they	PRON	_	RP	15	dobj	_	_
+17	with	with	ADP	_	N	15	prep	_	_
+18	the	the	DET	_	T	20	det	_	_
+19	itemized	itemize	VERB	_	BN	20	amod	_	_
+20	bills	bill	NOUN	_	NS	17	pobj	_	_
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 10
+# text = Have you tried escalating this up the chain with your employer?
+1	Have	have	AUX	_	BP	3	aux	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	tried	try	VERB	_	BN	0	root	_	_
+4	escalating	escalate	VERB	_	BG	3	xcomp	_	_
+5	this	this	PRON	_	T	4	dobj	_	_
+6	up	up	ADP	_	P	4	prt	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	chain	chain	NOUN	_	N	4	dobj	_	_
+9	with	with	ADP	_	N	4	prep	_	_
+10	your	your	PRON	_	RP$	11	poss	_	_
+11	employer	employer	NOUN	_	N	9	pobj	_	_
+12	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 11
+# text = Is there an HR manager?
+1	Is	be	AUX	_	BZ	0	root	_	_
+2	there	there	PRON	_	X	1	expl	_	_
+3	an	an	DET	_	T	5	det	_	_
+4	HR	hr	NOUN	_	N	5	compound	_	_
+5	manager	manager	NOUN	_	N	1	attr	_	_
+6	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 12
+# text = HR Director?
+1	HR	hr	PROPN	_	NP	2	compound	_	_
+2	Director	director	PROPN	_	NP	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 13
+# text = Head of HR?
+1	Head	head	PROPN	_	NP	0	root	_	_
+2	of	of	ADP	_	N	1	prep	_	_
+3	HR	hr	NOUN	_	N	2	pobj	_	_
+4	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 14
+# text = As you escalate up, remind them that this is an ERISA violation.
+1	As	as	SCONJ	_	N	3	mark	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	escalate	escalate	VERB	_	BP	6	advcl	_	_
+4	up	up	ADP	_	P	3	prt	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	remind	remind	VERB	_	B	0	root	_	_
+7	them	they	PRON	_	RP	6	dobj	_	_
+8	that	that	SCONJ	_	N	10	mark	_	_
+9	this	this	PRON	_	T	10	nsubj	_	_
+10	is	be	AUX	_	BZ	6	ccomp	_	_
+11	an	an	DET	_	T	13	det	_	_
+12	ERISA	erisa	PROPN	_	NP	13	compound	_	_
+13	violation	violation	NOUN	_	N	10	attr	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 15
+# text = Have you officially filed a complaint with DOL?
+1	Have	have	AUX	_	BP	4	aux	_	_
+2	you	you	PRON	_	RP	4	nsubj	_	_
+3	officially	officially	ADV	_	B	4	advmod	_	_
+4	filed	file	VERB	_	BN	0	root	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	complaint	complaint	NOUN	_	N	4	dobj	_	_
+7	with	with	ADP	_	N	4	prep	_	_
+8	DOL	dol	PROPN	_	NP	7	pobj	_	_
+9	?	?	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 16
+# text = I know you’re talking to them but what are they doing to help?
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	know	know	VERB	_	BP	0	root	_	_
+3	you	you	PRON	_	RP	5	nsubj	_	_
+4	’re	’re	AUX	_	BP	5	aux	_	_
+5	talking	talk	VERB	_	BG	2	ccomp	_	_
+6	to	to	ADP	_	N	5	prep	_	_
+7	them	they	PRON	_	RP	6	pobj	_	_
+8	but	but	CCONJ	_	C	2	cc	_	_
+9	what	what	PRON	_	P	12	dobj	_	_
+10	are	be	AUX	_	BP	12	aux	_	_
+11	they	they	PRON	_	RP	12	nsubj	_	_
+12	doing	do	VERB	_	BG	2	conj	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	help	help	VERB	_	B	12	xcomp	_	_
+15	?	?	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 17
+# text = Have you reached out to your employer or IBX for you?
+1	Have	have	AUX	_	BP	3	aux	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	reached	reach	VERB	_	BN	0	root	_	_
+4	out	out	ADP	_	P	3	prt	_	_
+5	to	to	ADP	_	N	3	prep	_	_
+6	your	your	PRON	_	RP$	7	poss	_	_
+7	employer	employer	NOUN	_	N	5	pobj	_	_
+8	or	or	CCONJ	_	C	7	cc	_	_
+9	IBX	ibx	PROPN	_	NP	7	conj	_	_
+10	for	for	ADP	_	N	3	dative	_	_
+11	you	you	PRON	_	RP	10	pobj	_	_
+12	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 18
+# text = In your initial post, you said coverage was incorrectly terminated as of 12/3 but then you mentioned some claims were processed against your deductible?
+1	In	in	ADP	_	N	7	prep	_	_
+2	your	your	PRON	_	RP$	4	poss	_	_
+3	initial	initial	ADJ	_	J	4	amod	_	_
+4	post	post	NOUN	_	N	1	pobj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	you	you	PRON	_	RP	7	nsubj	_	_
+7	said	say	VERB	_	BD	0	root	_	_
+8	coverage	coverage	NOUN	_	N	11	nsubjpass	_	_
+9	was	be	AUX	_	BD	11	auxpass	_	_
+10	incorrectly	incorrectly	ADV	_	B	11	advmod	_	_
+11	terminated	terminate	VERB	_	BN	7	ccomp	_	_
+12	as	as	ADP	_	N	11	prep	_	_
+13	of	of	ADP	_	N	12	prep	_	_
+14	12/3	12/3	NUM	_	D	13	pobj	_	_
+15	but	but	CCONJ	_	C	18	cc	_	_
+16	then	then	ADV	_	B	18	advmod	_	_
+17	you	you	PRON	_	RP	18	nsubj	_	_
+18	mentioned	mention	VERB	_	BD	7	conj	_	_
+19	some	some	DET	_	T	20	det	_	_
+20	claims	claim	NOUN	_	NS	22	nsubjpass	_	_
+21	were	be	AUX	_	BD	22	auxpass	_	_
+22	processed	process	VERB	_	BN	18	ccomp	_	_
+23	against	against	ADP	_	N	22	prep	_	_
+24	your	your	PRON	_	RP$	25	poss	_	_
+25	deductible	deductible	NOUN	_	N	23	pobj	_	_
+26	?	?	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 19
+# text = That implies the claims were approved and your coverage was active?
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	implies	imply	VERB	_	BZ	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	claims	claim	NOUN	_	NS	6	nsubjpass	_	_
+5	were	be	AUX	_	BD	6	auxpass	_	_
+6	approved	approve	VERB	_	BN	2	ccomp	_	_
+7	and	and	CCONJ	_	C	6	cc	_	_
+8	your	your	PRON	_	RP$	9	poss	_	_
+9	coverage	coverage	NOUN	_	N	10	nsubj	_	_
+10	was	be	AUX	_	BD	6	conj	_	_
+11	active	active	ADJ	_	J	10	acomp	_	_
+12	?	?	PUNCT	_	_	10	punct	_	_
+
+

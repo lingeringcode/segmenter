@@ -1,0 +1,37 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1814
+1	1814	1814	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1813
+1	1813	1813	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Midmodstar
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Midmodstar	midmodstar	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = Darn I don’t think FL one of those states.
+1	Darn	darn	INTJ	_	H	5	intj	_	_
+2	I	i	PRON	_	RP	5	nsubj	_	_
+3	do	do	AUX	_	BP	5	aux	_	_
+4	n’t	not	PART	_	B	5	neg	_	_
+5	think	think	VERB	_	B	0	root	_	_
+6	FL	fl	PROPN	_	NP	7	compound	_	_
+7	one	one	NUM	_	D	5	ccomp	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	those	those	DET	_	T	10	det	_	_
+10	states	state	NOUN	_	NS	8	pobj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+

@@ -1,0 +1,95 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1208
+1	1208	1208	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1207
+1	1207	1207	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/DeepFriarMediaReal
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	DeepFriarMediaReal	deepfriarmediareal	NOUN	_	N	1	conj	_	_
+
+
+# sent_id = 5
+# text = I have an existing auto immune condition, and my dermatologist is also a rheumatologist and she determined that the step therapy would likely be a waste of time because of one of the patches being on my groin and causing me a lot of pain.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	have	have	VERB	_	BP	0	root	_	_
+3	an	an	DET	_	T	7	det	_	_
+4	existing	exist	VERB	_	BG	7	amod	_	_
+5	auto	auto	NOUN	_	N	7	nmod	_	_
+6	immune	immune	ADJ	_	J	7	amod	_	_
+7	condition	condition	NOUN	_	N	2	dobj	_	_
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	and	and	CCONJ	_	C	2	cc	_	_
+10	my	my	PRON	_	RP$	11	poss	_	_
+11	dermatologist	dermatologist	NOUN	_	N	12	nsubj	_	_
+12	is	be	AUX	_	BZ	2	conj	_	_
+13	also	also	ADV	_	B	12	advmod	_	_
+14	a	a	DET	_	T	15	det	_	_
+15	rheumatologist	rheumatologist	NOUN	_	N	12	attr	_	_
+16	and	and	CCONJ	_	C	2	cc	_	_
+17	she	she	PRON	_	RP	18	nsubj	_	_
+18	determined	determine	VERB	_	BD	2	conj	_	_
+19	that	that	SCONJ	_	N	25	mark	_	_
+20	the	the	DET	_	T	22	det	_	_
+21	step	step	NOUN	_	N	22	compound	_	_
+22	therapy	therapy	NOUN	_	N	25	nsubj	_	_
+23	would	would	AUX	_	D	25	aux	_	_
+24	likely	likely	ADV	_	B	25	advmod	_	_
+25	be	be	AUX	_	B	18	ccomp	_	_
+26	a	a	DET	_	T	27	det	_	_
+27	waste	waste	NOUN	_	N	25	attr	_	_
+28	of	of	ADP	_	N	27	prep	_	_
+29	time	time	NOUN	_	N	28	pobj	_	_
+30	because	because	SCONJ	_	N	25	prep	_	_
+31	of	of	ADP	_	N	30	pcomp	_	_
+32	one	one	NUM	_	D	36	nsubj	_	_
+33	of	of	ADP	_	N	32	prep	_	_
+34	the	the	DET	_	T	35	det	_	_
+35	patches	patch	NOUN	_	NS	33	pobj	_	_
+36	being	be	AUX	_	BG	30	pcomp	_	_
+37	on	on	ADP	_	N	36	prep	_	_
+38	my	my	PRON	_	RP$	39	poss	_	_
+39	groin	groin	NOUN	_	N	37	pobj	_	_
+40	and	and	CCONJ	_	C	36	cc	_	_
+41	causing	cause	VERB	_	BG	36	conj	_	_
+42	me	i	PRON	_	RP	41	dobj	_	_
+43	a	a	DET	_	T	44	det	_	_
+44	lot	lot	NOUN	_	N	41	dobj	_	_
+45	of	of	ADP	_	N	44	prep	_	_
+46	pain	pain	NOUN	_	N	45	pobj	_	_
+47	.	.	PUNCT	_	_	18	punct	_	_
+
+
+# sent_id = 6
+# text = The Tremfya I’m on has mostly resolved it and I have been reacting to it well.
+1	The	the	DET	_	T	2	det	_	_
+2	Tremfya	tremfya	PROPN	_	NP	8	nsubj	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	’m	’m	VERB	_	BZ	2	relcl	_	_
+5	on	on	ADP	_	N	4	prep	_	_
+6	has	have	AUX	_	BZ	8	aux	_	_
+7	mostly	mostly	ADV	_	B	8	advmod	_	_
+8	resolved	resolve	VERB	_	BN	0	root	_	_
+9	it	it	PRON	_	RP	8	dobj	_	_
+10	and	and	CCONJ	_	C	8	cc	_	_
+11	I	i	PRON	_	RP	14	nsubj	_	_
+12	have	have	AUX	_	BP	14	aux	_	_
+13	been	be	AUX	_	BN	14	aux	_	_
+14	reacting	react	VERB	_	BG	8	conj	_	_
+15	to	to	ADP	_	N	14	prep	_	_
+16	it	it	PRON	_	RP	15	pobj	_	_
+17	well	well	ADV	_	B	14	advmod	_	_
+18	.	.	PUNCT	_	_	14	punct	_	_
+
+

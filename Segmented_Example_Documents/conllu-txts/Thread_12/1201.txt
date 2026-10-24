@@ -1,0 +1,88 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1201
+1	1201	1201	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1200
+1	1200	1200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Tiredmagnolia
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Tiredmagnolia	tiredmagnolia	PROPN	_	NP	1	nummod	_	_
+
+
+# sent_id = 5
+# text = When did your continuation of care run out?
+1	When	when	SCONJ	_	RB	7	advmod	_	_
+2	did	do	AUX	_	BD	7	aux	_	_
+3	your	your	PRON	_	RP$	4	poss	_	_
+4	continuation	continuation	NOUN	_	N	7	nsubj	_	_
+5	of	of	ADP	_	N	4	prep	_	_
+6	care	care	NOUN	_	N	5	pobj	_	_
+7	run	run	VERB	_	BD	0	root	_	_
+8	out	out	ADP	_	P	7	prt	_	_
+9	?	?	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 6
+# text = Normally they have limits (some as short as 30 days).
+1	Normally	normally	ADV	_	B	3	advmod	_	_
+2	they	they	PRON	_	RP	3	nsubj	_	_
+3	have	have	VERB	_	BP	0	root	_	_
+4	limits	limit	NOUN	_	NS	3	dobj	_	_
+5	(	(	PUNCT	_	LRB-	4	punct	_	_
+6	some	some	PRON	_	T	8	nsubj	_	_
+7	as	as	ADV	_	B	8	advmod	_	_
+8	short	short	ADJ	_	J	4	amod	_	_
+9	as	as	ADP	_	N	8	prep	_	_
+10	30	30	NUM	_	D	11	nummod	_	_
+11	days	day	NOUN	_	NS	9	pobj	_	_
+12	)	)	PUNCT	_	RRB-	4	punct	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = You may have to genuinely try out the other options (or at least pretend to) or have your doctor submit evidence for all the past drugs you’ve tried.
+1	You	you	PRON	_	RP	3	nsubj	_	_
+2	may	may	AUX	_	D	3	aux	_	_
+3	have	have	VERB	_	B	0	root	_	_
+4	to	to	PART	_	O	6	aux	_	_
+5	genuinely	genuinely	ADV	_	B	6	advmod	_	_
+6	try	try	VERB	_	B	3	xcomp	_	_
+7	out	out	ADP	_	P	6	prt	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	other	other	ADJ	_	J	10	amod	_	_
+10	options	option	NOUN	_	NS	6	dobj	_	_
+11	(	(	PUNCT	_	LRB-	10	punct	_	_
+12	or	or	CCONJ	_	C	10	cc	_	_
+13	at	at	ADP	_	N	14	advmod	_	_
+14	least	least	ADJ	_	JS	15	advmod	_	_
+15	pretend	pretend	VERB	_	B	10	conj	_	_
+16	to	to	ADP	_	N	15	prep	_	_
+17	)	)	PUNCT	_	RRB-	15	punct	_	_
+18	or	or	CCONJ	_	C	6	cc	_	_
+19	have	have	VERB	_	B	6	conj	_	_
+20	your	your	PRON	_	RP$	21	poss	_	_
+21	doctor	doctor	NOUN	_	N	22	nsubj	_	_
+22	submit	submit	VERB	_	B	19	ccomp	_	_
+23	evidence	evidence	NOUN	_	N	22	dobj	_	_
+24	for	for	ADP	_	N	22	prep	_	_
+25	all	all	DET	_	DT	28	predet	_	_
+26	the	the	DET	_	T	28	det	_	_
+27	past	past	ADJ	_	J	28	amod	_	_
+28	drugs	drug	NOUN	_	NS	24	pobj	_	_
+29	you	you	PRON	_	RP	31	nsubj	_	_
+30	’ve	’ve	AUX	_	BP	31	aux	_	_
+31	tried	try	VERB	_	BN	28	relcl	_	_
+32	.	.	PUNCT	_	_	3	punct	_	_
+
+

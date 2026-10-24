@@ -1,0 +1,72 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1809
+1	1809	1809	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1800
+1	1800	1800	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/rahuliitk
+1	u	u	NOUN	_	N	3	meta	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	rahuliitk	rahuliitk	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 5
+# text = an approval letter naming the exact CPT, surgeon, and office setting gives you a strong basis to demand reconsideration and take the contradiction back to the state regulator or external reviewer with both documents attached.
+1	an	an	DET	_	T	3	det	_	_
+2	approval	approval	NOUN	_	N	3	compound	_	_
+3	letter	letter	NOUN	_	N	14	nsubj	_	_
+4	naming	name	VERB	_	BG	3	acl	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	exact	exact	ADJ	_	J	7	amod	_	_
+7	CPT	cpt	PROPN	_	NP	4	dobj	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	surgeon	surgeon	NOUN	_	N	7	conj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	and	and	CCONJ	_	C	9	cc	_	_
+12	office	office	NOUN	_	N	13	compound	_	_
+13	setting	setting	NOUN	_	N	9	conj	_	_
+14	gives	give	VERB	_	BZ	0	root	_	_
+15	you	you	PRON	_	RP	14	dative	_	_
+16	a	a	DET	_	T	18	det	_	_
+17	strong	strong	ADJ	_	J	18	amod	_	_
+18	basis	basis	NOUN	_	N	14	dobj	_	_
+19	to	to	PART	_	O	20	aux	_	_
+20	demand	demand	VERB	_	B	18	acl	_	_
+21	reconsideration	reconsideration	NOUN	_	N	20	dobj	_	_
+22	and	and	CCONJ	_	C	20	cc	_	_
+23	take	take	VERB	_	B	20	conj	_	_
+24	the	the	DET	_	T	25	det	_	_
+25	contradiction	contradiction	NOUN	_	N	23	dobj	_	_
+26	back	back	ADV	_	B	23	advmod	_	_
+27	to	to	ADP	_	N	26	prep	_	_
+28	the	the	DET	_	T	30	det	_	_
+29	state	state	NOUN	_	N	30	compound	_	_
+30	regulator	regulator	NOUN	_	N	27	pobj	_	_
+31	or	or	CCONJ	_	C	30	cc	_	_
+32	external	external	ADJ	_	J	33	amod	_	_
+33	reviewer	reviewer	NOUN	_	N	30	conj	_	_
+34	with	with	ADP	_	N	23	prep	_	_
+35	both	both	DET	_	T	36	det	_	_
+36	documents	document	NOUN	_	NS	34	pobj	_	_
+37	attached	attach	VERB	_	BN	36	acl	_	_
+38	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 6
+# text = Escalate in writing.
+1	Escalate	escalate	PROPN	_	NP	0	root	_	_
+2	in	in	ADP	_	N	1	prep	_	_
+3	writing	writing	NOUN	_	N	2	pobj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+

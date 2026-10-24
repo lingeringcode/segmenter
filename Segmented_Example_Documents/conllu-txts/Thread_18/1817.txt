@@ -1,0 +1,318 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1817
+1	1817	1817	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1800
+1	1800	1800	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/vivekpadia70
+1	u	u	NOUN	_	N	3	nmod	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	vivekpadia70	vivekpadia70	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = You have an unusually strong paper trail here.
+1	You	you	PRON	_	RP	2	nsubj	_	_
+2	have	have	VERB	_	BP	0	root	_	_
+3	an	an	DET	_	T	7	det	_	_
+4	unusually	unusually	ADV	_	B	5	advmod	_	_
+5	strong	strong	ADJ	_	J	7	amod	_	_
+6	paper	paper	NOUN	_	N	7	compound	_	_
+7	trail	trail	NOUN	_	N	2	dobj	_	_
+8	here	here	ADV	_	B	2	advmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = They authorized CPT 15832 with this specific surgeon in an office setting, in writing, then denied the claim for exactly that setting, citing a policy that only appears on the provider-facing site.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	authorized	authorize	VERB	_	BD	0	root	_	_
+3	CPT	cpt	PROPN	_	NP	2	dobj	_	_
+4	15832	15832	NUM	_	D	3	nummod	_	_
+5	with	with	ADP	_	N	2	prep	_	_
+6	this	this	DET	_	T	8	det	_	_
+7	specific	specific	ADJ	_	J	8	amod	_	_
+8	surgeon	surgeon	NOUN	_	N	5	pobj	_	_
+9	in	in	ADP	_	N	8	prep	_	_
+10	an	an	DET	_	T	12	det	_	_
+11	office	office	NOUN	_	N	12	compound	_	_
+12	setting	setting	NOUN	_	N	9	pobj	_	_
+13	,	,	PUNCT	_	_	2	punct	_	_
+14	in	in	ADP	_	N	2	prep	_	_
+15	writing	writing	NOUN	_	N	14	pobj	_	_
+16	,	,	PUNCT	_	_	2	punct	_	_
+17	then	then	ADV	_	B	2	advmod	_	_
+18	denied	deny	VERB	_	BD	2	dep	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	claim	claim	NOUN	_	N	18	dobj	_	_
+21	for	for	ADP	_	N	18	prep	_	_
+22	exactly	exactly	ADV	_	B	23	advmod	_	_
+23	that	that	DET	_	T	24	det	_	_
+24	setting	set	VERB	_	BG	21	pobj	_	_
+25	,	,	PUNCT	_	_	18	punct	_	_
+26	citing	cite	VERB	_	BG	18	advcl	_	_
+27	a	a	DET	_	T	28	det	_	_
+28	policy	policy	NOUN	_	N	26	dobj	_	_
+29	that	that	PRON	_	DT	31	nsubj	_	_
+30	only	only	ADV	_	B	31	advmod	_	_
+31	appears	appear	VERB	_	BZ	28	relcl	_	_
+32	on	on	ADP	_	N	31	prep	_	_
+33	the	the	DET	_	T	37	det	_	_
+34	provider	provider	NOUN	_	N	36	npadvmod	_	_
+35	-	-	PUNCT	_	YPH	36	punct	_	_
+36	facing	face	VERB	_	BG	37	amod	_	_
+37	site	site	NOUN	_	N	32	pobj	_	_
+38	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = Regulators and external reviewers respond to precisely that inconsistency.
+1	Regulators	regulator	NOUN	_	NS	5	nsubj	_	_
+2	and	and	CCONJ	_	C	1	cc	_	_
+3	external	external	ADJ	_	J	4	amod	_	_
+4	reviewers	reviewer	NOUN	_	NS	1	conj	_	_
+5	respond	respond	VERB	_	BP	0	root	_	_
+6	to	to	ADP	_	N	5	prep	_	_
+7	precisely	precisely	ADV	_	B	9	advmod	_	_
+8	that	that	DET	_	T	9	det	_	_
+9	inconsistency	inconsistency	NOUN	_	N	6	pobj	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 8
+# text = What I'd do next:
+1	What	what	PRON	_	P	4	dobj	_	_
+2	I	i	PRON	_	RP	4	nsubj	_	_
+3	'd	would	AUX	_	D	4	aux	_	_
+4	do	do	VERB	_	B	0	root	_	_
+5	next	next	ADV	_	B	4	advmod	_	_
+6	:	:	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = Request the complete claim file plus the specific policy they relied on.
+1	Request	request	VERB	_	B	0	root	_	_
+2	the	the	DET	_	T	5	det	_	_
+3	complete	complete	ADJ	_	J	5	amod	_	_
+4	claim	claim	NOUN	_	N	5	compound	_	_
+5	file	file	NOUN	_	N	1	dobj	_	_
+6	plus	plus	CCONJ	_	C	5	cc	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	specific	specific	ADJ	_	J	9	amod	_	_
+9	policy	policy	NOUN	_	N	5	conj	_	_
+10	they	they	PRON	_	RP	11	nsubj	_	_
+11	relied	rely	VERB	_	BD	9	relcl	_	_
+12	on	on	ADP	_	P	11	prt	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 10
+# text = For most employer plans, federal law (ERISA) requires them to give you everything the denial was based on, free, on request.
+1	For	for	ADP	_	N	11	prep	_	_
+2	most	most	ADJ	_	JS	4	amod	_	_
+3	employer	employer	NOUN	_	N	4	compound	_	_
+4	plans	plan	NOUN	_	NS	1	pobj	_	_
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	federal	federal	ADJ	_	J	7	amod	_	_
+7	law	law	NOUN	_	N	11	nsubj	_	_
+8	(	(	PUNCT	_	LRB-	7	punct	_	_
+9	ERISA	erisa	PROPN	_	NP	7	appos	_	_
+10	)	)	PUNCT	_	RRB-	7	punct	_	_
+11	requires	require	VERB	_	BZ	0	root	_	_
+12	them	they	PRON	_	RP	11	dobj	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	give	give	VERB	_	B	11	xcomp	_	_
+15	you	you	PRON	_	RP	14	dative	_	_
+16	everything	everything	PRON	_	N	14	dobj	_	_
+17	the	the	DET	_	T	18	det	_	_
+18	denial	denial	NOUN	_	N	20	nsubjpass	_	_
+19	was	be	AUX	_	BD	20	auxpass	_	_
+20	based	base	VERB	_	BN	16	relcl	_	_
+21	on	on	ADP	_	N	20	prep	_	_
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	free	free	ADJ	_	J	21	amod	_	_
+24	,	,	PUNCT	_	_	21	punct	_	_
+25	on	on	ADP	_	N	14	prep	_	_
+26	request	request	NOUN	_	N	25	pobj	_	_
+27	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 11
+# text = If you have an appeal level left, aim it at the setting question, not medical necessity.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	have	have	VERB	_	BP	9	advcl	_	_
+4	an	an	DET	_	T	6	det	_	_
+5	appeal	appeal	NOUN	_	N	6	compound	_	_
+6	level	level	NOUN	_	N	3	dobj	_	_
+7	left	leave	VERB	_	BN	6	acl	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	aim	aim	VERB	_	BP	0	root	_	_
+10	it	it	PRON	_	RP	9	dobj	_	_
+11	at	at	ADP	_	N	9	prep	_	_
+12	the	the	DET	_	T	14	det	_	_
+13	setting	set	VERB	_	BG	14	amod	_	_
+14	question	question	NOUN	_	N	11	pobj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	not	not	PART	_	B	14	neg	_	_
+17	medical	medical	ADJ	_	J	18	amod	_	_
+18	necessity	necessity	NOUN	_	N	14	appos	_	_
+19	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 12
+# text = Attach the authorization letter, point at the office-setting line, and say it plainly: approving a procedure in a specific setting and then excluding reimbursement in that same setting makes the authorization meaningless, and the exclusion was never in member-facing documents.
+1	Attach	attach	VERB	_	B	34	nsubj	_	_
+2	the	the	DET	_	T	4	det	_	_
+3	authorization	authorization	NOUN	_	N	4	compound	_	_
+4	letter	letter	NOUN	_	N	1	dobj	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	point	point	NOUN	_	N	1	conj	_	_
+7	at	at	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	12	det	_	_
+9	office	office	NOUN	_	N	11	npadvmod	_	_
+10	-	-	PUNCT	_	YPH	11	punct	_	_
+11	setting	set	VERB	_	BG	12	amod	_	_
+12	line	line	NOUN	_	N	7	pobj	_	_
+13	,	,	PUNCT	_	_	6	punct	_	_
+14	and	and	CCONJ	_	C	1	cc	_	_
+15	say	say	VERB	_	B	1	conj	_	_
+16	it	it	PRON	_	RP	15	dobj	_	_
+17	plainly	plainly	ADV	_	B	15	advmod	_	_
+18	:	:	PUNCT	_	_	15	punct	_	_
+19	approving	approve	VERB	_	BG	1	advcl	_	_
+20	a	a	DET	_	T	21	det	_	_
+21	procedure	procedure	NOUN	_	N	19	dobj	_	_
+22	in	in	ADP	_	N	21	prep	_	_
+23	a	a	DET	_	T	25	det	_	_
+24	specific	specific	ADJ	_	J	25	amod	_	_
+25	setting	setting	NOUN	_	N	22	pobj	_	_
+26	and	and	CCONJ	_	C	19	cc	_	_
+27	then	then	ADV	_	B	28	advmod	_	_
+28	excluding	exclude	VERB	_	BG	19	conj	_	_
+29	reimbursement	reimbursement	NOUN	_	N	28	dobj	_	_
+30	in	in	ADP	_	N	29	prep	_	_
+31	that	that	DET	_	T	33	det	_	_
+32	same	same	ADJ	_	J	33	amod	_	_
+33	setting	setting	NOUN	_	N	30	pobj	_	_
+34	makes	make	VERB	_	BZ	0	root	_	_
+35	the	the	DET	_	T	36	det	_	_
+36	authorization	authorization	NOUN	_	N	37	nsubj	_	_
+37	meaningless	meaningless	ADJ	_	J	34	ccomp	_	_
+38	,	,	PUNCT	_	_	34	punct	_	_
+39	and	and	CCONJ	_	C	34	cc	_	_
+40	the	the	DET	_	T	41	det	_	_
+41	exclusion	exclusion	NOUN	_	N	42	nsubj	_	_
+42	was	be	AUX	_	BD	34	conj	_	_
+43	never	never	ADV	_	B	42	neg	_	_
+44	in	in	ADP	_	N	42	prep	_	_
+45	member	member	NOUN	_	N	47	npadvmod	_	_
+46	-	-	PUNCT	_	YPH	47	punct	_	_
+47	facing	face	VERB	_	BG	48	amod	_	_
+48	documents	document	NOUN	_	NS	44	pobj	_	_
+49	.	.	PUNCT	_	_	42	punct	_	_
+
+
+# sent_id = 13
+# text = You already beat them once through a state complaint and external review.
+1	You	you	PRON	_	RP	3	nsubj	_	_
+2	already	already	ADV	_	B	3	advmod	_	_
+3	beat	beat	VERB	_	BD	0	root	_	_
+4	them	they	PRON	_	RP	3	dobj	_	_
+5	once	once	ADV	_	B	3	advmod	_	_
+6	through	through	ADP	_	N	3	prep	_	_
+7	a	a	DET	_	T	9	det	_	_
+8	state	state	NOUN	_	N	9	compound	_	_
+9	complaint	complaint	NOUN	_	N	6	pobj	_	_
+10	and	and	CCONJ	_	C	9	cc	_	_
+11	external	external	ADJ	_	J	12	amod	_	_
+12	review	review	NOUN	_	N	9	conj	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 14
+# text = This denial is a different question from the medical-necessity fight, so that route is worth using again.
+1	This	this	DET	_	T	2	det	_	_
+2	denial	denial	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	a	a	DET	_	T	6	det	_	_
+5	different	different	ADJ	_	J	6	amod	_	_
+6	question	question	NOUN	_	N	3	attr	_	_
+7	from	from	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	12	det	_	_
+9	medical	medical	ADJ	_	J	11	amod	_	_
+10	-	-	PUNCT	_	YPH	11	punct	_	_
+11	necessity	necessity	NOUN	_	N	12	compound	_	_
+12	fight	fight	NOUN	_	N	7	pobj	_	_
+13	,	,	PUNCT	_	_	3	punct	_	_
+14	so	so	SCONJ	_	N	17	mark	_	_
+15	that	that	DET	_	T	16	det	_	_
+16	route	route	NOUN	_	N	17	nsubj	_	_
+17	is	be	AUX	_	BZ	3	advcl	_	_
+18	worth	worth	ADJ	_	J	17	acomp	_	_
+19	using	use	VERB	_	BG	18	xcomp	_	_
+20	again	again	ADV	_	B	19	advmod	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 15
+# text = One thing changes the playbook: whether the plan is self-funded or fully insured.
+1	One	one	NUM	_	D	2	nummod	_	_
+2	thing	thing	NOUN	_	N	3	nsubj	_	_
+3	changes	change	VERB	_	BZ	0	root	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	playbook	playbook	NOUN	_	N	3	dobj	_	_
+6	:	:	PUNCT	_	_	3	punct	_	_
+7	whether	whether	SCONJ	_	N	10	mark	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	plan	plan	NOUN	_	N	10	nsubj	_	_
+10	is	be	AUX	_	BZ	3	ccomp	_	_
+11	self	self	NOUN	_	N	13	npadvmod	_	_
+12	-	-	PUNCT	_	YPH	13	punct	_	_
+13	funded	fund	VERB	_	BN	10	acomp	_	_
+14	or	or	CCONJ	_	C	13	cc	_	_
+15	fully	fully	ADV	_	B	16	advmod	_	_
+16	insured	insure	VERB	_	BN	13	conj	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 16
+# text = Ask HR.
+1	Ask	ask	VERB	_	B	0	root	_	_
+2	HR	hr	PROPN	_	NP	1	dobj	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 17
+# text = That answer decides whether your state regulator or the federal Department of Labor is the real pressure point.
+1	That	that	DET	_	T	2	det	_	_
+2	answer	answer	NOUN	_	N	3	nsubj	_	_
+3	decides	decide	VERB	_	BZ	0	root	_	_
+4	whether	whether	SCONJ	_	N	14	mark	_	_
+5	your	your	PRON	_	RP$	7	poss	_	_
+6	state	state	NOUN	_	N	7	compound	_	_
+7	regulator	regulator	NOUN	_	N	14	nsubj	_	_
+8	or	or	CCONJ	_	C	7	cc	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	federal	federal	PROPN	_	NP	11	compound	_	_
+11	Department	department	PROPN	_	NP	7	conj	_	_
+12	of	of	ADP	_	N	11	prep	_	_
+13	Labor	labor	PROPN	_	NP	12	pobj	_	_
+14	is	be	AUX	_	BZ	3	ccomp	_	_
+15	the	the	DET	_	T	18	det	_	_
+16	real	real	ADJ	_	J	18	amod	_	_
+17	pressure	pressure	NOUN	_	N	18	compound	_	_
+18	point	point	NOUN	_	N	14	attr	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+

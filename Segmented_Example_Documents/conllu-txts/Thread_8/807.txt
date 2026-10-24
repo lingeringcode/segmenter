@@ -1,0 +1,112 @@
+# sent_id = 1
+# text = Thread_8
+1	Thread_8	thread_8	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 807
+1	807	807	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 806
+1	806	806	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/No-Produce-6720
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	No	no	NOUN	_	N	1	appos	_	_
+4	-	-	NOUN	_	N	1	punct	_	_
+5	Produce-6720	produce-6720	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = If it's been more than a year, it's possible that this could be the hangup.
+1	If	if	SCONJ	_	N	4	mark	_	_
+2	it	it	PRON	_	RP	4	nsubjpass	_	_
+3	's	be	AUX	_	BZ	4	auxpass	_	_
+4	been	be	AUX	_	BN	11	advcl	_	_
+5	more	more	ADJ	_	JR	7	amod	_	_
+6	than	than	ADP	_	N	7	quantmod	_	_
+7	a	a	DET	_	T	8	det	_	_
+8	year	year	NOUN	_	N	4	attr	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	it	it	PRON	_	RP	11	nsubj	_	_
+11	's	be	AUX	_	BZ	0	root	_	_
+12	possible	possible	ADJ	_	J	11	acomp	_	_
+13	that	that	SCONJ	_	N	16	mark	_	_
+14	this	this	PRON	_	T	16	nsubj	_	_
+15	could	could	AUX	_	D	16	aux	_	_
+16	be	be	AUX	_	B	11	ccomp	_	_
+17	the	the	DET	_	T	18	det	_	_
+18	hangup	hangup	NOUN	_	N	16	attr	_	_
+19	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 6
+# text = If it's been within a year, though, your doctor should be providing that info to your insurance, as well as documentation that shows that you've already done what you can do within the confines of therapy, and for that reason, it's time to bypass that step and move on to the imaging.
+1	If	if	SCONJ	_	N	4	mark	_	_
+2	it	it	PRON	_	RP	4	nsubjpass	_	_
+3	's	be	AUX	_	BZ	4	auxpass	_	_
+4	been	be	AUX	_	BN	15	advcl	_	_
+5	within	within	ADP	_	N	4	prep	_	_
+6	a	a	DET	_	T	7	det	_	_
+7	year	year	NOUN	_	N	5	pobj	_	_
+8	,	,	PUNCT	_	_	15	punct	_	_
+9	though	though	ADV	_	B	15	advmod	_	_
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	your	your	PRON	_	RP$	12	poss	_	_
+12	doctor	doctor	NOUN	_	N	15	nsubj	_	_
+13	should	should	AUX	_	D	15	aux	_	_
+14	be	be	AUX	_	B	15	aux	_	_
+15	providing	provide	VERB	_	BG	0	root	_	_
+16	that	that	DET	_	T	17	det	_	_
+17	info	info	NOUN	_	N	15	dobj	_	_
+18	to	to	ADP	_	N	15	prep	_	_
+19	your	your	PRON	_	RP$	20	poss	_	_
+20	insurance	insurance	NOUN	_	N	18	pobj	_	_
+21	,	,	PUNCT	_	_	15	punct	_	_
+22	as	as	ADV	_	B	24	advmod	_	_
+23	well	well	ADV	_	B	24	advmod	_	_
+24	as	as	ADP	_	N	15	cc	_	_
+25	documentation	documentation	NOUN	_	N	15	conj	_	_
+26	that	that	PRON	_	DT	27	nsubj	_	_
+27	shows	show	VERB	_	BZ	25	relcl	_	_
+28	that	that	SCONJ	_	N	32	mark	_	_
+29	you	you	PRON	_	RP	32	nsubj	_	_
+30	've	have	AUX	_	BP	32	aux	_	_
+31	already	already	ADV	_	B	32	advmod	_	_
+32	done	do	VERB	_	BN	27	ccomp	_	_
+33	what	what	PRON	_	P	36	dobj	_	_
+34	you	you	PRON	_	RP	36	nsubj	_	_
+35	can	can	AUX	_	D	36	aux	_	_
+36	do	do	VERB	_	B	32	ccomp	_	_
+37	within	within	ADP	_	N	36	prep	_	_
+38	the	the	DET	_	T	39	det	_	_
+39	confines	confine	NOUN	_	NS	37	pobj	_	_
+40	of	of	ADP	_	N	39	prep	_	_
+41	therapy	therapy	NOUN	_	N	40	pobj	_	_
+42	,	,	PUNCT	_	_	15	punct	_	_
+43	and	and	CCONJ	_	C	15	cc	_	_
+44	for	for	ADP	_	N	49	prep	_	_
+45	that	that	DET	_	T	46	det	_	_
+46	reason	reason	NOUN	_	N	44	pobj	_	_
+47	,	,	PUNCT	_	_	49	punct	_	_
+48	it	it	PRON	_	RP	49	nsubj	_	_
+49	's	be	AUX	_	BZ	15	conj	_	_
+50	time	time	NOUN	_	N	49	attr	_	_
+51	to	to	PART	_	O	52	aux	_	_
+52	bypass	bypass	VERB	_	B	50	relcl	_	_
+53	that	that	DET	_	T	54	det	_	_
+54	step	step	NOUN	_	N	52	dobj	_	_
+55	and	and	CCONJ	_	C	52	cc	_	_
+56	move	move	VERB	_	B	52	conj	_	_
+57	on	on	ADP	_	P	56	prep	_	_
+58	to	to	ADP	_	N	56	prep	_	_
+59	the	the	DET	_	T	60	det	_	_
+60	imaging	imaging	NOUN	_	N	58	pobj	_	_
+61	.	.	PUNCT	_	_	49	punct	_	_
+
+

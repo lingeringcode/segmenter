@@ -1,0 +1,126 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1512
+1	1512	1512	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Maleficent-Caramel37
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Maleficent	maleficent	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Caramel37	caramel37	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Update*** Husband already spoke to a union rep.
+1	Update	update	NOUN	_	N	7	dep	_	_
+2	*	*	PUNCT	_	FP	1	punct	_	_
+3	*	*	PUNCT	_	FP	7	dep	_	_
+4	*	*	PROPN	_	NP	7	dep	_	_
+5	Husband	husband	PROPN	_	NP	7	nsubj	_	_
+6	already	already	ADV	_	B	7	advmod	_	_
+7	spoke	speak	VERB	_	BD	0	root	_	_
+8	to	to	ADP	_	N	7	prep	_	_
+9	a	a	DET	_	T	11	det	_	_
+10	union	union	PROPN	_	NP	11	compound	_	_
+11	rep	rep	PROPN	_	NP	8	pobj	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 6
+# text = They are looking into it currently.
+1	They	they	PRON	_	RP	3	nsubj	_	_
+2	are	be	AUX	_	BP	3	aux	_	_
+3	looking	look	VERB	_	BG	0	root	_	_
+4	into	into	ADP	_	N	3	prep	_	_
+5	it	it	PRON	_	RP	4	pobj	_	_
+6	currently	currently	ADV	_	B	3	advmod	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = Spoke with BCBS they are saying they recieved nothing basically.
+1	Spoke	speak	VERB	_	BN	6	advcl	_	_
+2	with	with	ADP	_	N	1	prep	_	_
+3	BCBS	bcb	NOUN	_	NS	2	pobj	_	_
+4	they	they	PRON	_	RP	6	nsubj	_	_
+5	are	be	AUX	_	BP	6	aux	_	_
+6	saying	say	VERB	_	BG	0	root	_	_
+7	they	they	PRON	_	RP	8	nsubj	_	_
+8	recieved	recieve	VERB	_	BD	6	ccomp	_	_
+9	nothing	nothing	PRON	_	N	8	dobj	_	_
+10	basically	basically	ADV	_	B	8	advmod	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 8
+# text = Surgeons saying sent everything as they cant even request a PA for case number without it.
+1	Surgeons	surgeon	NOUN	_	NS	0	root	_	_
+2	saying	say	VERB	_	BG	1	acl	_	_
+3	sent	send	VERB	_	BD	2	xcomp	_	_
+4	everything	everything	PRON	_	N	3	dobj	_	_
+5	as	as	SCONJ	_	N	10	mark	_	_
+6	they	they	PRON	_	RP	10	nsubj	_	_
+7	ca	can	AUX	_	D	10	aux	_	_
+8	nt	not	PART	_	B	10	neg	_	_
+9	even	even	ADV	_	B	10	advmod	_	_
+10	request	request	VERB	_	B	3	advcl	_	_
+11	a	a	DET	_	T	12	det	_	_
+12	PA	pa	PROPN	_	NP	10	dobj	_	_
+13	for	for	ADP	_	N	10	prep	_	_
+14	case	case	NOUN	_	N	15	compound	_	_
+15	number	number	NOUN	_	N	13	pobj	_	_
+16	without	without	ADP	_	N	15	prep	_	_
+17	it	it	PRON	_	RP	16	pobj	_	_
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 9
+# text = Surgeons office will be calling.
+1	Surgeons	surgeon	NOUN	_	NS	2	compound	_	_
+2	office	office	NOUN	_	N	5	nsubj	_	_
+3	will	will	AUX	_	D	5	aux	_	_
+4	be	be	AUX	_	B	5	aux	_	_
+5	calling	call	VERB	_	BG	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 10
+# text = Now it's a waiting game until we here anything.
+1	Now	now	ADV	_	B	3	advmod	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	's	be	AUX	_	BZ	0	root	_	_
+4	a	a	DET	_	T	6	det	_	_
+5	waiting	waiting	NOUN	_	N	6	compound	_	_
+6	game	game	NOUN	_	N	3	attr	_	_
+7	until	until	ADP	_	N	3	prep	_	_
+8	we	we	PRON	_	RP	7	pobj	_	_
+9	here	here	ADV	_	B	3	advmod	_	_
+10	anything	anything	PRON	_	N	3	attr	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 11
+# text = Surgeons office sounds doesnt seem too hopeful.
+1	Surgeons	surgeon	NOUN	_	NS	2	compound	_	_
+2	office	office	NOUN	_	N	3	compound	_	_
+3	sounds	sound	NOUN	_	NS	6	nsubj	_	_
+4	does	do	AUX	_	BZ	6	aux	_	_
+5	nt	not	PART	_	B	6	neg	_	_
+6	seem	seem	VERB	_	B	0	root	_	_
+7	too	too	ADV	_	B	8	advmod	_	_
+8	hopeful	hopeful	ADJ	_	J	6	oprd	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+

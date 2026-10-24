@@ -1,0 +1,61 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 413
+1	413	413	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 411
+1	411	411	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/ChiefKC20
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	ChiefKC20	chiefkc20	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = This is why Reddit is awesome.
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	why	why	SCONJ	_	RB	5	advmod	_	_
+4	Reddit	reddit	PROPN	_	NP	5	nsubj	_	_
+5	is	be	AUX	_	BZ	2	ccomp	_	_
+6	awesome	awesome	ADJ	_	J	5	acomp	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = The knowledge available so quickly and folks ready to lend an informed hand is great.
+1	The	the	DET	_	T	2	det	_	_
+2	knowledge	knowledge	NOUN	_	N	3	nsubj	_	_
+3	available	available	ADJ	_	J	0	root	_	_
+4	so	so	ADV	_	B	5	advmod	_	_
+5	quickly	quickly	ADV	_	B	3	advmod	_	_
+6	and	and	CCONJ	_	C	3	cc	_	_
+7	folks	folk	NOUN	_	NS	14	nsubj	_	_
+8	ready	ready	ADJ	_	J	7	amod	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	lend	lend	VERB	_	B	8	xcomp	_	_
+11	an	an	DET	_	T	13	det	_	_
+12	informed	informed	ADJ	_	J	13	amod	_	_
+13	hand	hand	NOUN	_	N	10	dobj	_	_
+14	is	be	AUX	_	BZ	3	conj	_	_
+15	great	great	ADJ	_	J	14	acomp	_	_
+16	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 7
+# text = Thanks for sharing.
+1	Thanks	thank	NOUN	_	NS	0	root	_	_
+2	for	for	ADP	_	N	1	prep	_	_
+3	sharing	share	VERB	_	BG	2	pobj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+

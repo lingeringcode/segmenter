@@ -1,0 +1,72 @@
+# sent_id = 1
+# text = Thread_1
+1	Thread_1	thread_1	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 108
+1	108	108	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 105
+1	105	105	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/OleLadyThinker
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	OleLadyThinker	oleladythinker	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = OMG, I sure hope not especially when it comes to health insurance plans - all types - from public to private plans.
+1	OMG	omg	PROPN	_	NP	5	npadvmod	_	_
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	I	i	PRON	_	RP	5	nsubj	_	_
+4	sure	sure	ADV	_	B	5	advmod	_	_
+5	hope	hope	VERB	_	BP	0	root	_	_
+6	not	not	PART	_	B	7	neg	_	_
+7	especially	especially	ADV	_	B	10	advmod	_	_
+8	when	when	SCONJ	_	RB	10	advmod	_	_
+9	it	it	PRON	_	RP	10	nsubj	_	_
+10	comes	come	VERB	_	BZ	5	ccomp	_	_
+11	to	to	ADP	_	N	10	prep	_	_
+12	health	health	NOUN	_	N	13	compound	_	_
+13	insurance	insurance	NOUN	_	N	14	compound	_	_
+14	plans	plan	NOUN	_	NS	11	pobj	_	_
+15	-	-	PUNCT	_	_	14	punct	_	_
+16	all	all	DET	_	T	17	det	_	_
+17	types	type	NOUN	_	NS	14	appos	_	_
+18	-	-	PUNCT	_	_	17	punct	_	_
+19	from	from	ADP	_	N	17	prep	_	_
+20	public	public	ADJ	_	J	19	pobj	_	_
+21	to	to	ADP	_	N	19	prep	_	_
+22	private	private	ADJ	_	J	23	amod	_	_
+23	plans	plan	NOUN	_	NS	21	pobj	_	_
+24	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = Poor thing (AI) it sure has a hard time with health insurance - especially Medicare.
+1	Poor	poor	ADJ	_	J	2	amod	_	_
+2	thing	thing	NOUN	_	N	8	nsubj	_	_
+3	(	(	PUNCT	_	LRB-	2	punct	_	_
+4	AI	ai	PROPN	_	NP	2	appos	_	_
+5	)	)	PUNCT	_	RRB-	2	punct	_	_
+6	it	it	PRON	_	RP	8	nsubj	_	_
+7	sure	sure	ADV	_	B	8	advmod	_	_
+8	has	have	VERB	_	BZ	0	root	_	_
+9	a	a	DET	_	T	11	det	_	_
+10	hard	hard	ADJ	_	J	11	amod	_	_
+11	time	time	NOUN	_	N	8	dobj	_	_
+12	with	with	ADP	_	N	11	prep	_	_
+13	health	health	NOUN	_	N	14	compound	_	_
+14	insurance	insurance	NOUN	_	N	12	pobj	_	_
+15	-	-	PUNCT	_	_	14	punct	_	_
+16	especially	especially	ADV	_	B	17	advmod	_	_
+17	Medicare	medicare	PROPN	_	NP	14	appos	_	_
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+

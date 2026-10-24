@@ -1,0 +1,32 @@
+# sent_id = 1
+# text = Thread_1
+1	Thread_1	thread_1	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 105
+1	105	105	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 104
+1	104	104	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/iamexman
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	iamexman	iamexman	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = doesnt everyone use AI?
+1	does	do	AUX	_	BZ	4	aux	_	_
+2	nt	not	PART	_	B	4	neg	_	_
+3	everyone	everyone	PRON	_	N	4	nsubj	_	_
+4	use	use	VERB	_	B	0	root	_	_
+5	AI	ai	PROPN	_	NP	4	dobj	_	_
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+

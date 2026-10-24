@@ -1,0 +1,54 @@
+# sent_id = 1
+# text = Thread_13
+1	Thread_13	thread_13	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 1304
+1	1304	1304	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1303
+1	1303	1303	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Inevitable_Let5373
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	X	_	DD	1	punct	_	_
+3	Inevitable_Let5373	inevitable_let5373	NOUN	_	NS	1	punct	_	_
+
+
+# sent_id = 5
+# text = They have only said that they are not paying for it because I didn’t actually have a prior authorization even though I was told I did.
+1	They	they	PRON	_	RP	4	nsubj	_	_
+2	have	have	AUX	_	BP	4	aux	_	_
+3	only	only	ADV	_	B	4	advmod	_	_
+4	said	say	VERB	_	BN	0	root	_	_
+5	that	that	SCONJ	_	N	9	mark	_	_
+6	they	they	PRON	_	RP	9	nsubj	_	_
+7	are	be	AUX	_	BP	9	aux	_	_
+8	not	not	PART	_	B	9	neg	_	_
+9	paying	pay	VERB	_	BG	4	ccomp	_	_
+10	for	for	ADP	_	N	9	prep	_	_
+11	it	it	PRON	_	RP	10	pobj	_	_
+12	because	because	SCONJ	_	N	17	mark	_	_
+13	I	i	PRON	_	RP	17	nsubj	_	_
+14	did	do	AUX	_	BD	17	aux	_	_
+15	n’t	not	PART	_	B	17	neg	_	_
+16	actually	actually	ADV	_	B	17	advmod	_	_
+17	have	have	VERB	_	B	9	advcl	_	_
+18	a	a	DET	_	T	20	det	_	_
+19	prior	prior	ADJ	_	J	20	amod	_	_
+20	authorization	authorization	NOUN	_	N	17	dobj	_	_
+21	even	even	ADV	_	B	25	advmod	_	_
+22	though	though	SCONJ	_	N	25	mark	_	_
+23	I	i	PRON	_	RP	25	nsubjpass	_	_
+24	was	be	AUX	_	BD	25	auxpass	_	_
+25	told	tell	VERB	_	BN	17	advcl	_	_
+26	I	i	PRON	_	RP	27	nsubj	_	_
+27	did	do	VERB	_	BD	25	ccomp	_	_
+28	.	.	PUNCT	_	_	4	punct	_	_
+
+

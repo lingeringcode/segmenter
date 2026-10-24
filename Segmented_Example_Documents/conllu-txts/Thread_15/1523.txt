@@ -1,0 +1,46 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1523
+1	1523	1523	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1522
+1	1522	1522	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Maleficent-Caramel37
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Maleficent	maleficent	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Caramel37	caramel37	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = No date july 14th-sept 14th.
+1	No	no	DET	_	T	2	det	_	_
+2	date	date	NOUN	_	N	0	root	_	_
+3	july	july	PROPN	_	NP	7	nmod	_	_
+4	14th	14th	ADJ	_	J	6	amod	_	_
+5	-	-	PUNCT	_	YPH	6	punct	_	_
+6	sept	sept	VERB	_	BN	7	amod	_	_
+7	14th	14th	NOUN	_	N	2	npadvmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = But schedule surgery for July 15th
+1	But	but	CCONJ	_	C	3	cc	_	_
+2	schedule	schedule	NOUN	_	N	3	compound	_	_
+3	surgery	surgery	NOUN	_	N	0	root	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	July	july	PROPN	_	NP	6	compound	_	_
+6	15th	15th	NOUN	_	N	4	pobj	_	_
+
+

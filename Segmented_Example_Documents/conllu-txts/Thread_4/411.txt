@@ -1,0 +1,292 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 411
+1	411	411	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 410
+1	410	410	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/OleLadyThinker
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	OleLadyThinker	oleladythinker	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = I just asked you this too - Yep- RFA is complicated - your doc will probably have to submit everything he can about the nodule(s) and why it is medically necessary to do the RFA.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	just	just	ADV	_	B	3	advmod	_	_
+3	asked	ask	VERB	_	BD	0	root	_	_
+4	you	you	PRON	_	RP	3	dative	_	_
+5	this	this	DET	_	T	9	det	_	_
+6	too	too	ADV	_	B	8	advmod	_	_
+7	-	-	PUNCT	_	YPH	8	punct	_	_
+8	Yep-	yep-	PROPN	_	NP	9	compound	_	_
+9	RFA	rfa	PROPN	_	NP	10	nsubj	_	_
+10	is	be	AUX	_	BZ	17	ccomp	_	_
+11	complicated	complicated	ADJ	_	J	10	acomp	_	_
+12	-	-	PUNCT	_	_	17	punct	_	_
+13	your	your	PRON	_	RP$	14	poss	_	_
+14	doc	doc	NOUN	_	N	17	nsubj	_	_
+15	will	will	AUX	_	D	17	aux	_	_
+16	probably	probably	ADV	_	B	17	advmod	_	_
+17	have	have	VERB	_	B	3	ccomp	_	_
+18	to	to	PART	_	O	19	aux	_	_
+19	submit	submit	VERB	_	B	17	xcomp	_	_
+20	everything	everything	PRON	_	N	19	dobj	_	_
+21	he	he	PRON	_	RP	22	nsubj	_	_
+22	can	can	AUX	_	D	20	relcl	_	_
+23	about	about	ADP	_	N	19	prep	_	_
+24	the	the	DET	_	T	25	det	_	_
+25	nodule(s	nodule(s	PROPN	_	NP	23	pobj	_	_
+26	)	)	PUNCT	_	RRB-	25	punct	_	_
+27	and	and	CCONJ	_	C	17	cc	_	_
+28	why	why	SCONJ	_	RB	30	advmod	_	_
+29	it	it	PRON	_	RP	30	nsubj	_	_
+30	is	be	AUX	_	BZ	17	conj	_	_
+31	medically	medically	ADV	_	B	30	advmod	_	_
+32	necessary	necessary	ADJ	_	J	30	acomp	_	_
+33	to	to	PART	_	O	34	aux	_	_
+34	do	do	VERB	_	B	30	xcomp	_	_
+35	the	the	DET	_	T	36	det	_	_
+36	RFA	rfa	PROPN	_	NP	34	dobj	_	_
+37	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = NOTE:
+1	NOTE	note	NOUN	_	N	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 7
+# text = Thyroid RFA is FDA cleared, not FDA approved.
+1	Thyroid	thyroid	NOUN	_	N	2	compound	_	_
+2	RFA	rfa	PROPN	_	NP	5	nsubjpass	_	_
+3	is	be	AUX	_	BZ	5	auxpass	_	_
+4	FDA	fda	PROPN	_	NP	5	nsubj	_	_
+5	cleared	clear	VERB	_	BN	9	ccomp	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	not	not	PART	_	B	9	neg	_	_
+8	FDA	fda	PROPN	_	NP	9	nsubj	_	_
+9	approved	approve	VERB	_	BD	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 8
+# text = FDA approval differs from FDA clearance.
+1	FDA	fda	PROPN	_	NP	3	compound	_	_
+2	approval	approval	NOUN	_	N	3	compound	_	_
+3	differs	differ	VERB	_	BZ	0	root	_	_
+4	from	from	ADP	_	N	3	prep	_	_
+5	FDA	fda	PROPN	_	NP	6	compound	_	_
+6	clearance	clearance	NOUN	_	N	4	pobj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = FDA approval means a treatment has been rigorously tested through clinical trials and is proven safe and effective.
+1	FDA	fda	PROPN	_	NP	2	compound	_	_
+2	approval	approval	NOUN	_	N	3	nsubj	_	_
+3	means	mean	VERB	_	BZ	0	root	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	treatment	treatment	NOUN	_	N	9	nsubjpass	_	_
+6	has	have	AUX	_	BZ	9	aux	_	_
+7	been	be	AUX	_	BN	9	auxpass	_	_
+8	rigorously	rigorously	ADV	_	B	9	advmod	_	_
+9	tested	test	VERB	_	BN	3	ccomp	_	_
+10	through	through	ADP	_	N	9	prep	_	_
+11	clinical	clinical	ADJ	_	J	12	amod	_	_
+12	trials	trial	NOUN	_	NS	10	pobj	_	_
+13	and	and	CCONJ	_	C	9	cc	_	_
+14	is	be	AUX	_	BZ	15	auxpass	_	_
+15	proven	prove	VERB	_	BN	9	conj	_	_
+16	safe	safe	ADJ	_	J	15	oprd	_	_
+17	and	and	CCONJ	_	C	16	cc	_	_
+18	effective	effective	ADJ	_	J	16	conj	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 10
+# text = In contrast, clearance is reserved for a treatment that is equivalent to an existing FDA-approved treatment.
+1	In	in	ADP	_	N	6	prep	_	_
+2	contrast	contrast	NOUN	_	N	1	pobj	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	clearance	clearance	NOUN	_	N	6	nsubjpass	_	_
+5	is	be	AUX	_	BZ	6	auxpass	_	_
+6	reserved	reserve	VERB	_	BN	0	root	_	_
+7	for	for	ADP	_	N	6	prep	_	_
+8	a	a	DET	_	T	9	det	_	_
+9	treatment	treatment	NOUN	_	N	7	pobj	_	_
+10	that	that	PRON	_	DT	11	nsubj	_	_
+11	is	be	AUX	_	BZ	9	relcl	_	_
+12	equivalent	equivalent	ADJ	_	J	11	acomp	_	_
+13	to	to	ADP	_	N	12	prep	_	_
+14	an	an	DET	_	T	19	det	_	_
+15	existing	exist	VERB	_	BG	19	amod	_	_
+16	FDA	fda	PROPN	_	NP	18	npadvmod	_	_
+17	-	-	PUNCT	_	YPH	18	punct	_	_
+18	approved	approve	VERB	_	BN	19	amod	_	_
+19	treatment	treatment	NOUN	_	N	13	pobj	_	_
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 11
+# text = https://starmed-america.com/blog/is-thyroid-rfa-fda-approved/
+1	https://starmed-america.com/blog/is-thyroid-rfa-fda-approved/	https://starmed-america.com/blog/is-thyroid-rfa-fda-approved/	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 12
+# text = Your insurance is not the only one to still consider it experimental - or sometimes lacking in medical necessity.
+1	Your	your	PRON	_	RP$	2	poss	_	_
+2	insurance	insurance	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	not	not	PART	_	B	3	neg	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	only	only	ADJ	_	J	7	amod	_	_
+7	one	one	NUM	_	D	3	attr	_	_
+8	to	to	PART	_	O	10	aux	_	_
+9	still	still	ADV	_	B	10	advmod	_	_
+10	consider	consider	VERB	_	B	7	relcl	_	_
+11	it	it	PRON	_	RP	12	nsubj	_	_
+12	experimental	experimental	ADJ	_	J	10	ccomp	_	_
+13	-	-	PUNCT	_	_	12	punct	_	_
+14	or	or	CCONJ	_	C	12	cc	_	_
+15	sometimes	sometimes	ADV	_	B	16	advmod	_	_
+16	lacking	lack	VERB	_	BG	12	conj	_	_
+17	in	in	ADP	_	N	16	prep	_	_
+18	medical	medical	ADJ	_	J	19	amod	_	_
+19	necessity	necessity	NOUN	_	N	17	pobj	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 13
+# text = It just got CPI codes in 2025.
+1	It	it	PRON	_	RP	3	nsubj	_	_
+2	just	just	ADV	_	B	3	advmod	_	_
+3	got	get	VERB	_	BD	0	root	_	_
+4	CPI	cpi	PROPN	_	NP	5	compound	_	_
+5	codes	code	NOUN	_	NS	3	dobj	_	_
+6	in	in	ADP	_	N	3	prep	_	_
+7	2025	2025	NUM	_	D	6	pobj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 14
+# text = https://starmed-america.com/blog/is-rfa-covered-by-insurance/ STARMED is the big proponent of the procedure (Korean) I think because they make the equiptment used in the procedure.
+1	https://starmed-america.com/blog/is-rfa-covered-by-insurance/	https://starmed-america.com/blog/is-rfa-covered-by-insurance/	PROPN	_	NP	2	compound	_	_
+2	STARMED	starmed	PROPN	_	NP	3	nsubj	_	_
+3	is	be	AUX	_	BZ	14	ccomp	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	big	big	ADJ	_	J	6	amod	_	_
+6	proponent	proponent	NOUN	_	N	3	attr	_	_
+7	of	of	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	procedure	procedure	NOUN	_	N	7	pobj	_	_
+10	(	(	PUNCT	_	LRB-	9	punct	_	_
+11	Korean	korean	PROPN	_	NP	9	appos	_	_
+12	)	)	PUNCT	_	RRB-	9	punct	_	_
+13	I	i	PRON	_	RP	14	nsubj	_	_
+14	think	think	VERB	_	BP	0	root	_	_
+15	because	because	SCONJ	_	N	17	mark	_	_
+16	they	they	PRON	_	RP	17	nsubj	_	_
+17	make	make	VERB	_	BP	14	advcl	_	_
+18	the	the	DET	_	T	19	det	_	_
+19	equiptment	equiptment	NOUN	_	N	20	nsubj	_	_
+20	used	use	VERB	_	BN	17	ccomp	_	_
+21	in	in	ADP	_	N	20	prep	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	procedure	procedure	NOUN	_	N	21	pobj	_	_
+24	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 15
+# text = The have tons about it on their website.
+1	The	the	DET	_	T	3	det	_	_
+2	have	have	AUX	_	B	3	amod	_	_
+3	tons	ton	NOUN	_	NS	0	root	_	_
+4	about	about	ADP	_	N	3	prep	_	_
+5	it	it	PRON	_	RP	4	pobj	_	_
+6	on	on	ADP	_	N	3	prep	_	_
+7	their	their	PRON	_	RP$	8	poss	_	_
+8	website	website	NOUN	_	N	6	pobj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 16
+# text = And it sounds like they are up on trying to get insurance companies to cover it.
+1	And	and	CCONJ	_	C	3	cc	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	sounds	sound	VERB	_	BZ	0	root	_	_
+4	like	like	SCONJ	_	N	6	mark	_	_
+5	they	they	PRON	_	RP	6	nsubj	_	_
+6	are	be	AUX	_	BP	3	advcl	_	_
+7	up	up	ADV	_	B	6	advmod	_	_
+8	on	on	ADP	_	N	6	prep	_	_
+9	trying	try	VERB	_	BG	8	pcomp	_	_
+10	to	to	PART	_	O	11	aux	_	_
+11	get	get	VERB	_	B	9	xcomp	_	_
+12	insurance	insurance	NOUN	_	N	13	compound	_	_
+13	companies	company	NOUN	_	NS	15	nsubj	_	_
+14	to	to	PART	_	O	15	aux	_	_
+15	cover	cover	VERB	_	B	11	ccomp	_	_
+16	it	it	PRON	_	RP	15	dobj	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 17
+# text = https://starmed-america.com/thyroid-ablation-cpt-code/ https://starmed-america.com/blog/medicare-vs-commercial-insurance/ Your doc has to be the one that gets it approved by supplying all the medical necessity info to your insurance company as it relates to your condition and why this is the best procedure for fixing the problem for you.
+1	https://starmed-america.com/thyroid-ablation-cpt-code/	https://starmed-america.com/thyroid-ablation-cpt-code/	PROPN	_	NP	2	compound	_	_
+2	https://starmed-america.com/blog/medicare-vs-commercial-insurance/	https://starmed-america.com/blog/medicare-vs-commercial-insurance/	PROPN	_	NP	0	root	_	_
+3	Your	your	PRON	_	RP$	4	poss	_	_
+4	doc	doc	NOUN	_	N	5	nsubj	_	_
+5	has	have	VERB	_	BZ	2	ccomp	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	be	be	AUX	_	B	5	xcomp	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	one	one	NOUN	_	N	7	attr	_	_
+10	that	that	PRON	_	DT	11	nsubj	_	_
+11	gets	get	VERB	_	BZ	9	relcl	_	_
+12	it	it	PRON	_	RP	13	nsubj	_	_
+13	approved	approve	VERB	_	BN	11	ccomp	_	_
+14	by	by	ADP	_	N	13	prep	_	_
+15	supplying	supply	VERB	_	BG	14	pcomp	_	_
+16	all	all	DET	_	DT	20	predet	_	_
+17	the	the	DET	_	T	20	det	_	_
+18	medical	medical	ADJ	_	J	19	amod	_	_
+19	necessity	necessity	NOUN	_	N	20	compound	_	_
+20	info	info	NOUN	_	N	15	dobj	_	_
+21	to	to	ADP	_	N	20	prep	_	_
+22	your	your	PRON	_	RP$	24	poss	_	_
+23	insurance	insurance	NOUN	_	N	24	compound	_	_
+24	company	company	NOUN	_	N	21	pobj	_	_
+25	as	as	SCONJ	_	N	27	mark	_	_
+26	it	it	PRON	_	RP	27	nsubj	_	_
+27	relates	relate	VERB	_	BZ	15	advcl	_	_
+28	to	to	ADP	_	N	27	prep	_	_
+29	your	your	PRON	_	RP$	30	poss	_	_
+30	condition	condition	NOUN	_	N	28	pobj	_	_
+31	and	and	CCONJ	_	C	5	cc	_	_
+32	why	why	SCONJ	_	RB	34	advmod	_	_
+33	this	this	PRON	_	T	34	nsubj	_	_
+34	is	be	AUX	_	BZ	5	conj	_	_
+35	the	the	DET	_	T	37	det	_	_
+36	best	good	ADJ	_	JS	37	amod	_	_
+37	procedure	procedure	NOUN	_	N	34	attr	_	_
+38	for	for	ADP	_	N	37	prep	_	_
+39	fixing	fix	VERB	_	BG	38	pcomp	_	_
+40	the	the	DET	_	T	41	det	_	_
+41	problem	problem	NOUN	_	N	39	dobj	_	_
+42	for	for	ADP	_	N	39	dative	_	_
+43	you	you	PRON	_	RP	42	pobj	_	_
+44	.	.	PUNCT	_	_	5	punct	_	_
+
+

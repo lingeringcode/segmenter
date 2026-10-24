@@ -1,0 +1,128 @@
+# sent_id = 1
+# text = Thread_10
+1	Thread_10	thread_10	VERB	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 1001
+1	1001	1001	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1000
+1	1000	1000	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/lujo317
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	lujo317	lujo317	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = Unfortunately I don't have great news for you.
+1	Unfortunately	unfortunately	ADV	_	B	5	advmod	_	_
+2	I	i	PRON	_	RP	5	nsubj	_	_
+3	do	do	AUX	_	BP	5	aux	_	_
+4	n't	not	PART	_	B	5	neg	_	_
+5	have	have	VERB	_	B	0	root	_	_
+6	great	great	ADJ	_	J	7	amod	_	_
+7	news	news	NOUN	_	N	5	dobj	_	_
+8	for	for	ADP	_	N	5	dative	_	_
+9	you	you	PRON	_	RP	8	pobj	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = This is why they say it's patients responsibility to verify their benefits before scheduling.
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	why	why	SCONJ	_	RB	5	advmod	_	_
+4	they	they	PRON	_	RP	5	nsubj	_	_
+5	say	say	VERB	_	BP	2	advcl	_	_
+6	it	it	PRON	_	RP	7	nsubj	_	_
+7	's	be	AUX	_	BZ	5	ccomp	_	_
+8	patients	patient	NOUN	_	NS	7	attr	_	_
+9	responsibility	responsibility	NOUN	_	N	7	attr	_	_
+10	to	to	PART	_	O	11	aux	_	_
+11	verify	verify	VERB	_	B	9	acl	_	_
+12	their	their	PRON	_	RP$	13	poss	_	_
+13	benefits	benefit	NOUN	_	NS	11	dobj	_	_
+14	before	before	ADP	_	N	11	prep	_	_
+15	scheduling	scheduling	NOUN	_	N	14	pobj	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = And why insurance companies always say "prior authorization is not a guarantee of payment".
+1	And	and	CCONJ	_	C	6	cc	_	_
+2	why	why	SCONJ	_	RB	6	advmod	_	_
+3	insurance	insurance	NOUN	_	N	4	compound	_	_
+4	companies	company	NOUN	_	NS	6	nsubj	_	_
+5	always	always	ADV	_	B	6	advmod	_	_
+6	say	say	VERB	_	BP	0	root	_	_
+7	"	"	PUNCT	_	`	10	punct	_	_
+8	prior	prior	ADJ	_	J	9	amod	_	_
+9	authorization	authorization	NOUN	_	N	10	nsubj	_	_
+10	is	be	AUX	_	BZ	6	ccomp	_	_
+11	not	not	PART	_	B	10	neg	_	_
+12	a	a	DET	_	T	13	det	_	_
+13	guarantee	guarantee	NOUN	_	N	10	attr	_	_
+14	of	of	ADP	_	N	13	prep	_	_
+15	payment	payment	NOUN	_	N	14	pobj	_	_
+16	"	"	PUNCT	_	'	10	punct	_	_
+17	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 8
+# text = I work in DI and it is unfortunately really common for prior auths to get approved for out of network locations.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	work	work	VERB	_	BP	0	root	_	_
+3	in	in	ADP	_	N	2	prep	_	_
+4	DI	di	PROPN	_	NP	3	pobj	_	_
+5	and	and	CCONJ	_	C	2	cc	_	_
+6	it	it	PRON	_	RP	7	nsubj	_	_
+7	is	be	AUX	_	BZ	2	conj	_	_
+8	unfortunately	unfortunately	ADV	_	B	7	advmod	_	_
+9	really	really	ADV	_	B	10	advmod	_	_
+10	common	common	ADJ	_	J	7	acomp	_	_
+11	for	for	ADP	_	N	10	prep	_	_
+12	prior	prior	ADJ	_	J	13	amod	_	_
+13	auths	auth	NOUN	_	NS	11	pobj	_	_
+14	to	to	PART	_	O	16	aux	_	_
+15	get	get	AUX	_	B	16	auxpass	_	_
+16	approved	approve	VERB	_	BN	13	relcl	_	_
+17	for	for	ADP	_	N	16	prep	_	_
+18	out	out	ADP	_	N	16	prep	_	_
+19	of	of	ADP	_	N	18	prep	_	_
+20	network	network	NOUN	_	N	21	compound	_	_
+21	locations	location	NOUN	_	NS	19	pobj	_	_
+22	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 9
+# text = They don't really look at whether a facility is in or out of network when approving auths it seems.
+1	They	they	PRON	_	RP	5	nsubj	_	_
+2	do	do	AUX	_	BP	5	aux	_	_
+3	n't	not	PART	_	B	5	neg	_	_
+4	really	really	ADV	_	B	5	advmod	_	_
+5	look	look	VERB	_	B	0	root	_	_
+6	at	at	ADP	_	N	5	prep	_	_
+7	whether	whether	SCONJ	_	N	10	mark	_	_
+8	a	a	DET	_	T	9	det	_	_
+9	facility	facility	NOUN	_	N	10	nsubj	_	_
+10	is	be	AUX	_	BZ	6	pcomp	_	_
+11	in	in	ADP	_	N	10	prep	_	_
+12	or	or	CCONJ	_	C	11	cc	_	_
+13	out	out	ADP	_	N	11	conj	_	_
+14	of	of	ADP	_	N	13	prep	_	_
+15	network	network	NOUN	_	N	14	pobj	_	_
+16	when	when	SCONJ	_	RB	18	advmod	_	_
+17	approving	approve	VERB	_	BG	18	amod	_	_
+18	auths	auth	NOUN	_	NS	10	advcl	_	_
+19	it	it	PRON	_	RP	20	nsubj	_	_
+20	seems	seem	VERB	_	BZ	18	relcl	_	_
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+

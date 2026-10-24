@@ -1,0 +1,64 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 314
+1	314	314	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 300
+1	300	300	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Dapper-Palpitation90
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Dapper	dapper	PROPN	_	NP	5	npadvmod	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Palpitation90	palpitation90	PROPN	_	NP	1	nummod	_	_
+
+
+# sent_id = 5
+# text = The 14-day window for getting auth is kind of a worst-case scenario.
+1	The	the	DET	_	T	5	det	_	_
+2	14	14	NUM	_	D	4	nummod	_	_
+3	-	-	PUNCT	_	YPH	4	punct	_	_
+4	day	day	NOUN	_	N	5	compound	_	_
+5	window	window	NOUN	_	N	9	nsubj	_	_
+6	for	for	ADP	_	N	5	prep	_	_
+7	getting	get	VERB	_	BG	6	pcomp	_	_
+8	auth	auth	NOUN	_	N	7	dobj	_	_
+9	is	be	AUX	_	BZ	0	root	_	_
+10	kind	kind	ADV	_	B	11	advmod	_	_
+11	of	of	ADV	_	B	16	advmod	_	_
+12	a	a	DET	_	T	16	det	_	_
+13	worst	bad	ADJ	_	JS	15	amod	_	_
+14	-	-	PUNCT	_	YPH	15	punct	_	_
+15	case	case	NOUN	_	N	16	compound	_	_
+16	scenario	scenario	NOUN	_	N	9	attr	_	_
+17	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 6
+# text = The vast majority of requests are either approved or denied much quicker than that.
+1	The	the	DET	_	T	3	det	_	_
+2	vast	vast	ADJ	_	J	3	amod	_	_
+3	majority	majority	NOUN	_	N	8	nsubjpass	_	_
+4	of	of	ADP	_	N	3	prep	_	_
+5	requests	request	NOUN	_	NS	4	pobj	_	_
+6	are	be	AUX	_	BP	8	auxpass	_	_
+7	either	either	CCONJ	_	C	8	preconj	_	_
+8	approved	approve	VERB	_	BN	0	root	_	_
+9	or	or	CCONJ	_	C	8	cc	_	_
+10	denied	deny	VERB	_	BD	8	conj	_	_
+11	much	much	ADV	_	B	12	advmod	_	_
+12	quicker	quick	ADJ	_	JR	10	dobj	_	_
+13	than	than	ADP	_	N	12	prep	_	_
+14	that	that	PRON	_	T	13	pobj	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+

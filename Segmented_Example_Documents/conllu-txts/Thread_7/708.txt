@@ -1,0 +1,164 @@
+# sent_id = 1
+# text = Thread_7
+1	Thread_7	thread_7	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 708
+1	708	708	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 700
+1	700	700	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/vctrlarae
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	vctrlarae	vctrlarae	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = These aren’t issues for you to worry about.
+1	These	these	PRON	_	T	2	nsubj	_	_
+2	are	be	AUX	_	BP	0	root	_	_
+3	n’t	n’t	NUM	_	D	2	punct	_	_
+4	issues	issue	NOUN	_	NS	2	attr	_	_
+5	for	for	SCONJ	_	N	8	mark	_	_
+6	you	you	PRON	_	RP	8	nsubj	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	worry	worry	VERB	_	B	4	relcl	_	_
+9	about	about	ADP	_	N	8	prep	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = You aren’t responsible for determining medical necessity.
+1	You	you	PRON	_	RP	2	nsubj	_	_
+2	are	be	AUX	_	BP	0	root	_	_
+3	n’t	not	PART	_	B	2	neg	_	_
+4	responsible	responsible	ADJ	_	J	2	acomp	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	determining	determine	VERB	_	BG	5	pcomp	_	_
+7	medical	medical	ADJ	_	J	8	amod	_	_
+8	necessity	necessity	NOUN	_	N	6	dobj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = In NICUs, there are different levels.
+1	In	in	ADP	_	N	5	prep	_	_
+2	NICUs	nicu	NOUN	_	NS	1	pobj	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	there	there	PRON	_	X	5	expl	_	_
+5	are	be	VERB	_	BP	0	root	_	_
+6	different	different	ADJ	_	J	7	amod	_	_
+7	levels	level	NOUN	_	NS	5	attr	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 8
+# text = If a doctor kept your child at one level longer than necessary, that’s the them/the hospital.
+1	If	if	SCONJ	_	N	4	mark	_	_
+2	a	a	DET	_	T	3	det	_	_
+3	doctor	doctor	NOUN	_	N	4	nsubj	_	_
+4	kept	keep	VERB	_	BD	15	advcl	_	_
+5	your	your	PRON	_	RP$	6	poss	_	_
+6	child	child	NOUN	_	N	4	dobj	_	_
+7	at	at	ADP	_	N	4	prep	_	_
+8	one	one	NUM	_	D	9	nummod	_	_
+9	level	level	NOUN	_	N	7	pobj	_	_
+10	longer	long	ADV	_	BR	4	advmod	_	_
+11	than	than	ADP	_	N	10	prep	_	_
+12	necessary	necessary	ADJ	_	J	11	amod	_	_
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	that	that	PRON	_	T	15	nsubj	_	_
+15	’s	’s	VERB	_	BP	0	root	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	them	they	PRON	_	RP	15	nsubj	_	_
+18	/	/	SYM	_	YM	17	punct	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	hospital	hospital	NOUN	_	N	17	appos	_	_
+21	.	.	PUNCT	_	_	15	punct	_	_
+
+
+# sent_id = 9
+# text = You won’t receive a bill because of it.
+1	You	you	PRON	_	RP	4	nsubj	_	_
+2	wo	will	AUX	_	D	4	aux	_	_
+3	n’t	not	PART	_	B	4	neg	_	_
+4	receive	receive	VERB	_	B	0	root	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	bill	bill	NOUN	_	N	4	dobj	_	_
+7	because	because	SCONJ	_	N	4	prep	_	_
+8	of	of	ADP	_	N	7	pcomp	_	_
+9	it	it	PRON	_	RP	7	pobj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 10
+# text = Submitting additional medical info is totally normal and also the hospital’s responsibility.
+1	Submitting	submit	VERB	_	BG	5	csubj	_	_
+2	additional	additional	ADJ	_	J	4	amod	_	_
+3	medical	medical	ADJ	_	J	4	amod	_	_
+4	info	info	NOUN	_	N	1	dobj	_	_
+5	is	be	AUX	_	BZ	0	root	_	_
+6	totally	totally	ADV	_	B	7	advmod	_	_
+7	normal	normal	ADJ	_	J	5	acomp	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	also	also	ADV	_	B	13	advmod	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	hospital	hospital	NOUN	_	N	13	poss	_	_
+12	’s	’s	PART	_	OS	11	case	_	_
+13	responsibility	responsibility	NOUN	_	N	7	conj	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 11
+# text = Sometimes there is a lot of back and forth with hospitals and networks before a claim is paid.
+1	Sometimes	sometimes	ADV	_	B	3	advmod	_	_
+2	there	there	PRON	_	X	3	expl	_	_
+3	is	be	VERB	_	BZ	0	root	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	lot	lot	NOUN	_	N	3	attr	_	_
+6	of	of	ADP	_	N	5	prep	_	_
+7	back	back	NOUN	_	N	6	pobj	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	forth	forth	ADV	_	B	7	conj	_	_
+10	with	with	ADP	_	N	5	prep	_	_
+11	hospitals	hospital	NOUN	_	NS	10	pobj	_	_
+12	and	and	CCONJ	_	C	11	cc	_	_
+13	networks	network	NOUN	_	NS	11	conj	_	_
+14	before	before	SCONJ	_	N	18	mark	_	_
+15	a	a	DET	_	T	16	det	_	_
+16	claim	claim	NOUN	_	N	18	nsubjpass	_	_
+17	is	be	AUX	_	BZ	18	auxpass	_	_
+18	paid	pay	VERB	_	BN	3	advcl	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 12
+# text = This is all normal and I wouldn’t be concerned until you receive an actual bill from the hospital
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	all	all	PRON	_	T	4	advmod	_	_
+4	normal	normal	ADJ	_	J	2	acomp	_	_
+5	and	and	CCONJ	_	C	2	cc	_	_
+6	I	i	PRON	_	RP	10	nsubjpass	_	_
+7	would	would	AUX	_	D	10	aux	_	_
+8	n’t	not	PART	_	B	10	neg	_	_
+9	be	be	AUX	_	B	10	auxpass	_	_
+10	concerned	concern	VERB	_	BN	2	conj	_	_
+11	until	until	SCONJ	_	N	13	mark	_	_
+12	you	you	PRON	_	RP	13	nsubj	_	_
+13	receive	receive	VERB	_	BP	10	advcl	_	_
+14	an	an	DET	_	T	16	det	_	_
+15	actual	actual	ADJ	_	J	16	amod	_	_
+16	bill	bill	NOUN	_	N	13	dobj	_	_
+17	from	from	ADP	_	N	16	prep	_	_
+18	the	the	DET	_	T	19	det	_	_
+19	hospital	hospital	NOUN	_	N	17	pobj	_	_
+
+

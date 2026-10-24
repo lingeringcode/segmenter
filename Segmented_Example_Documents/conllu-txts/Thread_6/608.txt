@@ -1,0 +1,128 @@
+# sent_id = 1
+# text = Thread_6
+1	Thread_6	thread_6	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 608
+1	608	608	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 607
+1	607	607	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Alarmed_Year9415
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Alarmed_Year9415	alarmed_year9415	VERB	_	BP	1	punct	_	_
+
+
+# sent_id = 5
+# text = Sometimes providers think a precert is not necessary for a procedure and don't ask for it.
+1	Sometimes	sometimes	ADV	_	B	3	advmod	_	_
+2	providers	provider	NOUN	_	NS	3	nsubj	_	_
+3	think	think	VERB	_	BP	0	root	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	precert	precert	NOUN	_	N	6	nsubj	_	_
+6	is	be	AUX	_	BZ	3	ccomp	_	_
+7	not	not	PART	_	B	6	neg	_	_
+8	necessary	necessary	ADJ	_	J	6	acomp	_	_
+9	for	for	ADP	_	N	6	prep	_	_
+10	a	a	DET	_	T	11	det	_	_
+11	procedure	procedure	NOUN	_	N	9	pobj	_	_
+12	and	and	CCONJ	_	C	6	cc	_	_
+13	do	do	AUX	_	BP	15	aux	_	_
+14	n't	not	PART	_	B	15	neg	_	_
+15	ask	ask	VERB	_	B	6	conj	_	_
+16	for	for	ADP	_	N	15	prep	_	_
+17	it	it	PRON	_	RP	16	pobj	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = Many insurance companies will let the providers do it after the fact if they can show they had all the right info beforehand.
+1	Many	many	ADJ	_	J	3	amod	_	_
+2	insurance	insurance	NOUN	_	N	3	compound	_	_
+3	companies	company	NOUN	_	NS	5	nsubj	_	_
+4	will	will	AUX	_	D	5	aux	_	_
+5	let	let	VERB	_	B	0	root	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	providers	provider	NOUN	_	NS	8	nsubj	_	_
+8	do	do	VERB	_	B	5	ccomp	_	_
+9	it	it	PRON	_	RP	8	dobj	_	_
+10	after	after	ADP	_	N	8	prep	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	fact	fact	NOUN	_	N	10	pobj	_	_
+13	if	if	SCONJ	_	N	16	mark	_	_
+14	they	they	PRON	_	RP	16	nsubj	_	_
+15	can	can	AUX	_	D	16	aux	_	_
+16	show	show	VERB	_	B	8	advcl	_	_
+17	they	they	PRON	_	RP	18	nsubj	_	_
+18	had	have	VERB	_	BD	16	ccomp	_	_
+19	all	all	DET	_	DT	22	predet	_	_
+20	the	the	DET	_	T	22	det	_	_
+21	right	right	ADJ	_	J	22	amod	_	_
+22	info	info	NOUN	_	N	18	dobj	_	_
+23	beforehand	beforehand	ADV	_	B	18	advmod	_	_
+24	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 7
+# text = Sometimes the provider gets a penalty or sometimes they let it slide if it isn't too often.
+1	Sometimes	sometimes	ADV	_	B	4	advmod	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	provider	provider	NOUN	_	N	4	nsubj	_	_
+4	gets	get	VERB	_	BZ	0	root	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	penalty	penalty	NOUN	_	N	4	dobj	_	_
+7	or	or	CCONJ	_	C	4	cc	_	_
+8	sometimes	sometimes	ADV	_	B	10	advmod	_	_
+9	they	they	PRON	_	RP	10	nsubj	_	_
+10	let	let	VERB	_	BD	4	conj	_	_
+11	it	it	PRON	_	RP	12	nsubj	_	_
+12	slide	slide	VERB	_	B	10	ccomp	_	_
+13	if	if	SCONJ	_	N	15	mark	_	_
+14	it	it	PRON	_	RP	15	nsubj	_	_
+15	is	be	AUX	_	BZ	12	advcl	_	_
+16	n't	not	PART	_	B	15	neg	_	_
+17	too	too	ADV	_	B	18	advmod	_	_
+18	often	often	ADV	_	B	15	advmod	_	_
+19	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 8
+# text = This appears to be a precert requested after the fact and was approved.
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	appears	appear	VERB	_	BZ	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	be	be	AUX	_	B	2	xcomp	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	precert	precert	NOUN	_	N	4	attr	_	_
+7	requested	request	VERB	_	BN	6	acl	_	_
+8	after	after	ADP	_	N	7	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	fact	fact	NOUN	_	N	8	pobj	_	_
+11	and	and	CCONJ	_	C	2	cc	_	_
+12	was	be	AUX	_	BD	13	auxpass	_	_
+13	approved	approve	VERB	_	BN	2	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = The hospital/doctor now needs to refile the claim.
+1	The	the	DET	_	T	4	det	_	_
+2	hospital	hospital	NOUN	_	N	4	nmod	_	_
+3	/	/	SYM	_	YM	4	punct	_	_
+4	doctor	doctor	NOUN	_	N	6	nsubj	_	_
+5	now	now	ADV	_	B	6	advmod	_	_
+6	needs	need	VERB	_	BZ	0	root	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	refile	refile	VERB	_	B	6	xcomp	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	claim	claim	NOUN	_	N	8	dobj	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+

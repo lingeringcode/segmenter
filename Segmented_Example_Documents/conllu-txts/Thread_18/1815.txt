@@ -1,0 +1,168 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1815
+1	1815	1815	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1814
+1	1814	1814	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Jump-Funny
+1	u	u	PROPN	_	NP	5	punct	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Jump	jump	NOUN	_	N	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Funny	funny	ADJ	_	J	0	root	_	_
+
+
+# sent_id = 5
+# text = I thought for sure you would say BCBS.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	thought	think	VERB	_	BD	0	root	_	_
+3	for	for	ADP	_	N	2	prep	_	_
+4	sure	sure	ADJ	_	J	3	amod	_	_
+5	you	you	PRON	_	RP	7	nsubj	_	_
+6	would	would	AUX	_	D	7	aux	_	_
+7	say	say	VERB	_	B	2	ccomp	_	_
+8	BCBS	bcbs	PROPN	_	NP	7	dobj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = But it's definitely on the provider to appeal this - or should be, as you stated, the medical policy info is on the provider site, not the member site.
+1	But	but	CCONJ	_	C	3	cc	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	's	be	AUX	_	BZ	0	root	_	_
+4	definitely	definitely	ADV	_	B	3	advmod	_	_
+5	on	on	ADP	_	N	3	prep	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	provider	provider	NOUN	_	N	5	pobj	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	appeal	appeal	VERB	_	B	3	xcomp	_	_
+10	this	this	PRON	_	T	9	dobj	_	_
+11	-	-	PUNCT	_	_	9	punct	_	_
+12	or	or	CCONJ	_	C	9	cc	_	_
+13	should	should	AUX	_	D	14	aux	_	_
+14	be	be	AUX	_	B	9	conj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	as	as	SCONJ	_	N	18	mark	_	_
+17	you	you	PRON	_	RP	18	nsubj	_	_
+18	stated	state	VERB	_	BD	24	advcl	_	_
+19	,	,	PUNCT	_	_	24	punct	_	_
+20	the	the	DET	_	T	23	det	_	_
+21	medical	medical	ADJ	_	J	22	amod	_	_
+22	policy	policy	NOUN	_	N	23	compound	_	_
+23	info	info	NOUN	_	N	24	nsubj	_	_
+24	is	be	AUX	_	BZ	3	ccomp	_	_
+25	on	on	ADP	_	N	24	prep	_	_
+26	the	the	DET	_	T	28	det	_	_
+27	provider	provider	NOUN	_	N	28	compound	_	_
+28	site	site	NOUN	_	N	25	pobj	_	_
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	not	not	PART	_	B	28	neg	_	_
+31	the	the	DET	_	T	33	det	_	_
+32	member	member	NOUN	_	N	33	compound	_	_
+33	site	site	NOUN	_	N	28	appos	_	_
+34	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = I'm guessing they don't take your insurance and are putting it all on you?
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	'm	be	AUX	_	BP	3	aux	_	_
+3	guessing	guess	VERB	_	BG	0	root	_	_
+4	they	they	PRON	_	RP	7	nsubj	_	_
+5	do	do	AUX	_	BP	7	aux	_	_
+6	n't	not	PART	_	B	7	neg	_	_
+7	take	take	VERB	_	B	3	ccomp	_	_
+8	your	your	PRON	_	RP$	9	poss	_	_
+9	insurance	insurance	NOUN	_	N	7	dobj	_	_
+10	and	and	CCONJ	_	C	7	cc	_	_
+11	are	be	AUX	_	BP	12	aux	_	_
+12	putting	put	VERB	_	BG	7	conj	_	_
+13	it	it	PRON	_	RP	12	dobj	_	_
+14	all	all	PRON	_	T	13	appos	_	_
+15	on	on	ADP	_	N	12	prep	_	_
+16	you	you	PRON	_	RP	15	pobj	_	_
+17	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = Get the surgeon to write a medical necessity letter stating why it needed to be done in office instead of a facility.
+1	Get	get	VERB	_	B	0	root	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	surgeon	surgeon	NOUN	_	N	1	dobj	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	write	write	VERB	_	B	1	advcl	_	_
+6	a	a	DET	_	T	9	det	_	_
+7	medical	medical	ADJ	_	J	9	amod	_	_
+8	necessity	necessity	NOUN	_	N	9	compound	_	_
+9	letter	letter	NOUN	_	N	5	dobj	_	_
+10	stating	state	VERB	_	BG	9	acl	_	_
+11	why	why	SCONJ	_	RB	13	advmod	_	_
+12	it	it	PRON	_	RP	13	nsubj	_	_
+13	needed	need	VERB	_	BD	10	ccomp	_	_
+14	to	to	PART	_	O	16	aux	_	_
+15	be	be	AUX	_	B	16	auxpass	_	_
+16	done	do	VERB	_	BN	13	xcomp	_	_
+17	in	in	ADP	_	N	16	prep	_	_
+18	office	office	NOUN	_	N	17	pobj	_	_
+19	instead	instead	ADV	_	B	20	advmod	_	_
+20	of	of	ADP	_	N	13	cc	_	_
+21	a	a	DET	_	T	22	det	_	_
+22	facility	facility	NOUN	_	N	20	pobj	_	_
+23	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 9
+# text = If you can get them to do a p2p, even better.
+1	If	if	SCONJ	_	N	4	mark	_	_
+2	you	you	PRON	_	RP	4	nsubj	_	_
+3	can	can	AUX	_	D	4	aux	_	_
+4	get	get	VERB	_	B	0	root	_	_
+5	them	they	PRON	_	RP	7	nsubj	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	do	do	VERB	_	B	4	ccomp	_	_
+8	a	a	DET	_	T	9	det	_	_
+9	p2p	p2p	NOUN	_	N	7	dobj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	even	even	ADV	_	B	12	advmod	_	_
+12	better	well	ADJ	_	JR	7	advmod	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 10
+# text = You would think UHC would be happy to not be paying a facility bill but of course they don't always follow logic.
+1	You	you	PRON	_	RP	3	nsubj	_	_
+2	would	would	AUX	_	D	3	aux	_	_
+3	think	think	VERB	_	B	0	root	_	_
+4	UHC	uhc	PROPN	_	NP	6	nsubj	_	_
+5	would	would	AUX	_	D	6	aux	_	_
+6	be	be	AUX	_	B	3	ccomp	_	_
+7	happy	happy	ADJ	_	J	6	acomp	_	_
+8	to	to	PART	_	O	11	aux	_	_
+9	not	not	PART	_	B	11	neg	_	_
+10	be	be	AUX	_	B	11	aux	_	_
+11	paying	pay	VERB	_	BG	7	xcomp	_	_
+12	a	a	DET	_	T	14	det	_	_
+13	facility	facility	NOUN	_	N	14	compound	_	_
+14	bill	bill	NOUN	_	N	11	dobj	_	_
+15	but	but	CCONJ	_	C	3	cc	_	_
+16	of	of	ADP	_	N	22	prep	_	_
+17	course	course	NOUN	_	N	16	pobj	_	_
+18	they	they	PRON	_	RP	22	nsubj	_	_
+19	do	do	AUX	_	BP	22	aux	_	_
+20	n't	not	PART	_	B	22	neg	_	_
+21	always	always	ADV	_	B	22	advmod	_	_
+22	follow	follow	VERB	_	B	3	conj	_	_
+23	logic	logic	NOUN	_	N	22	dobj	_	_
+24	.	.	PUNCT	_	_	22	punct	_	_
+
+

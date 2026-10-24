@@ -1,0 +1,94 @@
+# sent_id = 1
+# text = Thread_7
+1	Thread_7	thread_7	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 707
+1	707	707	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 700
+1	700	700	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/whineANDcheese_
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	X	_	DD	1	punct	_	_
+3	whineANDcheese	whineandcheese	PROPN	_	NP	1	appos	_	_
+4	_	_	PROPN	_	NP	1	punct	_	_
+
+
+# sent_id = 5
+# text = The hospital probably just needs to change what they billed it under.
+1	The	the	DET	_	T	2	det	_	_
+2	hospital	hospital	NOUN	_	N	5	nsubj	_	_
+3	probably	probably	ADV	_	B	5	advmod	_	_
+4	just	just	ADV	_	B	5	advmod	_	_
+5	needs	need	VERB	_	BZ	0	root	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	change	change	VERB	_	B	5	xcomp	_	_
+8	what	what	PRON	_	P	10	dobj	_	_
+9	they	they	PRON	_	RP	10	nsubj	_	_
+10	billed	bill	VERB	_	BD	7	ccomp	_	_
+11	it	it	PRON	_	RP	10	dobj	_	_
+12	under	under	ADP	_	P	10	prt	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = Usually the hospital is able to hash all this out.
+1	Usually	usually	ADV	_	B	4	advmod	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	hospital	hospital	NOUN	_	N	4	nsubj	_	_
+4	is	be	AUX	_	BZ	0	root	_	_
+5	able	able	ADJ	_	J	4	acomp	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	hash	hash	VERB	_	B	5	xcomp	_	_
+8	all	all	DET	_	DT	9	predet	_	_
+9	this	this	PRON	_	T	7	dobj	_	_
+10	out	out	ADP	_	P	7	prt	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = My husband was admitted to the hospital for a couple nights last year and his entire stay was declined initially.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	husband	husband	NOUN	_	N	4	nsubjpass	_	_
+3	was	be	AUX	_	BD	4	auxpass	_	_
+4	admitted	admit	VERB	_	BN	0	root	_	_
+5	to	to	ADP	_	N	4	prep	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	hospital	hospital	NOUN	_	N	5	pobj	_	_
+8	for	for	ADP	_	N	4	prep	_	_
+9	a	a	DET	_	T	10	quantmod	_	_
+10	couple	couple	NOUN	_	N	11	nummod	_	_
+11	nights	night	NOUN	_	NS	8	pobj	_	_
+12	last	last	ADJ	_	J	13	amod	_	_
+13	year	year	NOUN	_	N	4	npadvmod	_	_
+14	and	and	CCONJ	_	C	4	cc	_	_
+15	his	his	PRON	_	RP$	17	poss	_	_
+16	entire	entire	ADJ	_	J	17	amod	_	_
+17	stay	stay	NOUN	_	N	19	nsubjpass	_	_
+18	was	be	AUX	_	BD	19	auxpass	_	_
+19	declined	decline	VERB	_	BN	4	conj	_	_
+20	initially	initially	ADV	_	B	19	advmod	_	_
+21	.	.	PUNCT	_	_	19	punct	_	_
+
+
+# sent_id = 8
+# text = The hospital worked it out with the insurance eventually.
+1	The	the	DET	_	T	2	det	_	_
+2	hospital	hospital	NOUN	_	N	3	nsubj	_	_
+3	worked	work	VERB	_	BD	0	root	_	_
+4	it	it	PRON	_	RP	3	dobj	_	_
+5	out	out	ADP	_	P	3	prt	_	_
+6	with	with	ADP	_	N	3	prep	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	insurance	insurance	NOUN	_	N	6	pobj	_	_
+9	eventually	eventually	ADV	_	B	3	advmod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+

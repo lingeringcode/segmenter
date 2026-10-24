@@ -1,0 +1,132 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 310
+1	310	310	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 300
+1	300	300	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/ResponsibilityNo4650
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	X	_	DD	1	punct	_	_
+3	ResponsibilityNo4650	responsibilityno4650	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 5
+# text = I wish I had other options, Cigna is the only insurance can provide; and if I paid out of pocket it would be more than an 1/8 of my paycheck.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	wish	wish	VERB	_	BP	9	ccomp	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	had	have	VERB	_	BD	2	ccomp	_	_
+5	other	other	ADJ	_	J	6	amod	_	_
+6	options	option	NOUN	_	NS	4	dobj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	Cigna	cigna	PROPN	_	NP	9	nsubj	_	_
+9	is	be	AUX	_	BZ	0	root	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	only	only	ADJ	_	J	12	amod	_	_
+12	insurance	insurance	NOUN	_	N	14	nsubj	_	_
+13	can	can	AUX	_	D	14	aux	_	_
+14	provide	provide	VERB	_	B	9	ccomp	_	_
+15	;	;	PUNCT	_	_	9	punct	_	_
+16	and	and	CCONJ	_	C	9	cc	_	_
+17	if	if	SCONJ	_	N	19	mark	_	_
+18	I	i	PRON	_	RP	19	nsubj	_	_
+19	paid	pay	VERB	_	BD	25	advcl	_	_
+20	out	out	ADP	_	N	19	prep	_	_
+21	of	of	ADP	_	N	20	prep	_	_
+22	pocket	pocket	NOUN	_	N	21	pobj	_	_
+23	it	it	PRON	_	RP	25	nsubj	_	_
+24	would	would	AUX	_	D	25	aux	_	_
+25	be	be	AUX	_	B	9	conj	_	_
+26	more	more	ADJ	_	JR	29	amod	_	_
+27	than	than	ADP	_	N	29	quantmod	_	_
+28	an	an	DET	_	T	29	det	_	_
+29	1/8	1/8	NUM	_	D	25	attr	_	_
+30	of	of	ADP	_	N	29	prep	_	_
+31	my	my	PRON	_	RP$	32	poss	_	_
+32	paycheck	paycheck	NOUN	_	N	30	pobj	_	_
+33	.	.	PUNCT	_	_	25	punct	_	_
+
+
+# sent_id = 6
+# text = I’m actively bleeding and the infusions my doctor wants me to be on just got denied… I can’t even call or talk to anyone until Monday.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	’m	’m	AUX	_	BZ	4	aux	_	_
+3	actively	actively	ADV	_	B	4	advmod	_	_
+4	bleeding	bleed	VERB	_	BG	23	ccomp	_	_
+5	and	and	CCONJ	_	C	4	cc	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	infusions	infusion	NOUN	_	NS	4	conj	_	_
+8	my	my	PRON	_	RP$	9	poss	_	_
+9	doctor	doctor	NOUN	_	N	10	nsubj	_	_
+10	wants	want	VERB	_	BZ	7	relcl	_	_
+11	me	i	PRON	_	RP	13	nsubj	_	_
+12	to	to	PART	_	O	13	aux	_	_
+13	be	be	AUX	_	B	10	ccomp	_	_
+14	on	on	ADP	_	P	13	prep	_	_
+15	just	just	ADV	_	B	17	advmod	_	_
+16	got	get	AUX	_	BD	17	auxpass	_	_
+17	denied	deny	VERB	_	BN	4	conj	_	_
+18	…	…	PUNCT	_	FP	23	punct	_	_
+19	I	i	PRON	_	RP	23	nsubj	_	_
+20	ca	can	AUX	_	D	23	aux	_	_
+21	n’t	not	PART	_	B	23	neg	_	_
+22	even	even	ADV	_	B	23	advmod	_	_
+23	call	call	VERB	_	B	0	root	_	_
+24	or	or	CCONJ	_	C	23	cc	_	_
+25	talk	talk	VERB	_	B	23	conj	_	_
+26	to	to	ADP	_	N	25	prep	_	_
+27	anyone	anyone	PRON	_	N	26	pobj	_	_
+28	until	until	ADP	_	N	25	prep	_	_
+29	Monday	monday	PROPN	_	NP	28	pobj	_	_
+30	.	.	PUNCT	_	_	23	punct	_	_
+
+
+# sent_id = 7
+# text = I hate this company; wouldnt me dying mean they make less money?
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	hate	hate	VERB	_	BP	9	ccomp	_	_
+3	this	this	DET	_	T	4	det	_	_
+4	company	company	NOUN	_	N	2	dobj	_	_
+5	;	;	PUNCT	_	_	9	punct	_	_
+6	would	would	AUX	_	D	9	aux	_	_
+7	nt	not	PART	_	B	9	neg	_	_
+8	me	i	PRON	_	RP	9	nsubj	_	_
+9	dying	die	VERB	_	BG	0	root	_	_
+10	mean	mean	VERB	_	B	9	advmod	_	_
+11	they	they	PRON	_	RP	12	nsubj	_	_
+12	make	make	VERB	_	BP	9	ccomp	_	_
+13	less	less	ADJ	_	JR	14	amod	_	_
+14	money	money	NOUN	_	N	12	dobj	_	_
+15	?	?	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 8
+# text = Is my death more profitable?
+1	Is	be	AUX	_	BZ	0	root	_	_
+2	my	my	PRON	_	RP$	3	poss	_	_
+3	death	death	NOUN	_	N	1	nsubj	_	_
+4	more	more	ADV	_	BR	5	advmod	_	_
+5	profitable	profitable	ADJ	_	J	1	acomp	_	_
+6	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 9
+# text = I’m so tired of suffering
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	’m	’m	VERB	_	BZ	0	root	_	_
+3	so	so	ADV	_	B	4	advmod	_	_
+4	tired	tired	ADJ	_	J	2	acomp	_	_
+5	of	of	ADP	_	N	4	prep	_	_
+6	suffering	suffer	VERB	_	BG	5	pcomp	_	_
+
+

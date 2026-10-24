@@ -1,0 +1,11 @@
+Thread_11
+1130
+1129
+u/Foreign_Afternoon_49
+Small clarification: the fact that it's a non-ACA policy is why it is allowed to exclude pre-existing conditions.
+The NSA is separate.
+That's to protect anyone from OON charges when going to an ER.
+But from what we gather, that doesn't matter here.
+The insurance generates an official Explanation of Benefits (EOB) statement showing how the claim was processed and the reason for the denial.
+If the reason is "pre-existing condition", then that's the appeal you need the hospital to file (I'm the person who explained that process in a separate comment).
+But if the claim gets approved, but for a lower amount, and the rest of the $58k balance is billed to you because the ER is OON, that's when you can invoke the No Surprises Act.

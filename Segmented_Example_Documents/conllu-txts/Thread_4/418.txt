@@ -1,0 +1,305 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 418
+1	418	418	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 400
+1	400	400	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/wistah978
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	wistah978	wistah978	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = One annoying thing about insurance companies is the way they use the term "No prior auth required."
+1	One	one	NUM	_	D	3	nummod	_	_
+2	annoying	annoying	ADJ	_	J	3	amod	_	_
+3	thing	thing	NOUN	_	N	7	nsubj	_	_
+4	about	about	ADP	_	N	3	prep	_	_
+5	insurance	insurance	NOUN	_	N	6	compound	_	_
+6	companies	company	NOUN	_	NS	4	pobj	_	_
+7	is	be	AUX	_	BZ	0	root	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	way	way	NOUN	_	N	7	attr	_	_
+10	they	they	PRON	_	RP	11	nsubj	_	_
+11	use	use	VERB	_	BP	9	relcl	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	term	term	NOUN	_	N	11	dobj	_	_
+14	"	"	PUNCT	_	`	18	punct	_	_
+15	No	no	DET	_	T	17	det	_	_
+16	prior	prior	ADJ	_	J	17	amod	_	_
+17	auth	auth	NOUN	_	N	18	nsubj	_	_
+18	required	require	VERB	_	BN	7	ccomp	_	_
+19	.	.	PUNCT	_	_	7	punct	_	_
+20	"	"	PUNCT	_	'	7	punct	_	_
+
+
+# sent_id = 6
+# text = To normal people, that means you can have it done without asking.
+1	To	to	ADP	_	N	6	prep	_	_
+2	normal	normal	ADJ	_	J	3	amod	_	_
+3	people	people	NOUN	_	NS	1	pobj	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	that	that	PRON	_	T	6	nsubj	_	_
+6	means	mean	VERB	_	BZ	0	root	_	_
+7	you	you	PRON	_	RP	9	nsubj	_	_
+8	can	can	AUX	_	D	9	aux	_	_
+9	have	have	VERB	_	B	6	ccomp	_	_
+10	it	it	PRON	_	RP	11	nsubj	_	_
+11	done	do	VERB	_	BN	9	ccomp	_	_
+12	without	without	ADP	_	N	11	prep	_	_
+13	asking	ask	VERB	_	BG	12	pcomp	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 7
+# text = To insurance, it means that, but it also means "We don't pay for that procedure at all so you don't need an auth for it.".
+1	To	to	ADP	_	N	5	prep	_	_
+2	insurance	insurance	NOUN	_	N	1	pobj	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	it	it	PRON	_	RP	5	nsubj	_	_
+5	means	mean	VERB	_	BZ	0	root	_	_
+6	that	that	SCONJ	_	N	5	dobj	_	_
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	but	but	CCONJ	_	C	5	cc	_	_
+9	it	it	PRON	_	RP	11	nsubj	_	_
+10	also	also	ADV	_	B	11	advmod	_	_
+11	means	mean	VERB	_	BZ	5	conj	_	_
+12	"	"	PUNCT	_	`	11	punct	_	_
+13	We	we	PRON	_	RP	16	nsubj	_	_
+14	do	do	AUX	_	BP	16	aux	_	_
+15	n't	not	PART	_	B	16	neg	_	_
+16	pay	pay	VERB	_	B	11	ccomp	_	_
+17	for	for	ADP	_	N	16	prep	_	_
+18	that	that	DET	_	T	19	det	_	_
+19	procedure	procedure	NOUN	_	N	17	pobj	_	_
+20	at	at	ADV	_	B	21	advmod	_	_
+21	all	all	ADV	_	B	16	advmod	_	_
+22	so	so	SCONJ	_	N	26	mark	_	_
+23	you	you	PRON	_	RP	26	nsubj	_	_
+24	do	do	AUX	_	BP	26	aux	_	_
+25	n't	not	PART	_	B	26	neg	_	_
+26	need	need	VERB	_	B	16	advcl	_	_
+27	an	an	DET	_	T	28	det	_	_
+28	auth	auth	NOUN	_	N	26	dobj	_	_
+29	for	for	ADP	_	N	26	prep	_	_
+30	it	it	PRON	_	RP	29	pobj	_	_
+31	.	.	PUNCT	_	_	11	punct	_	_
+32	"	"	PUNCT	_	'	5	punct	_	_
+33	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 8
+# text = They really need to reply "No auth required" or "Not a covered service.
+1	They	they	PRON	_	RP	3	nsubj	_	_
+2	really	really	ADV	_	B	3	advmod	_	_
+3	need	need	VERB	_	BP	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	reply	reply	VERB	_	B	3	xcomp	_	_
+6	"	"	PUNCT	_	`	5	punct	_	_
+7	No	no	DET	_	T	8	det	_	_
+8	auth	auth	NOUN	_	N	9	nsubj	_	_
+9	required	require	VERB	_	BD	5	ccomp	_	_
+10	"	"	PUNCT	_	'	9	punct	_	_
+11	or	or	CCONJ	_	C	9	cc	_	_
+12	"	"	PUNCT	_	`	16	punct	_	_
+13	Not	not	PART	_	B	16	neg	_	_
+14	a	a	DET	_	T	16	det	_	_
+15	covered	covered	ADJ	_	J	16	amod	_	_
+16	service	service	NOUN	_	N	9	conj	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = ".
+1	"	"	PUNCT	_	'	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 10
+# text = If you have the surgery done, they will deny it saying "Not a covered service."
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	have	have	VERB	_	BP	10	advcl	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	surgery	surgery	NOUN	_	N	6	nsubj	_	_
+6	done	do	VERB	_	BN	3	ccomp	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	they	they	PRON	_	RP	10	nsubj	_	_
+9	will	will	AUX	_	D	10	aux	_	_
+10	deny	deny	VERB	_	B	0	root	_	_
+11	it	it	PRON	_	RP	10	dobj	_	_
+12	saying	say	VERB	_	BG	10	advcl	_	_
+13	"	"	PUNCT	_	`	12	punct	_	_
+14	Not	not	PART	_	B	17	neg	_	_
+15	a	a	DET	_	T	17	det	_	_
+16	covered	covered	ADJ	_	J	17	amod	_	_
+17	service	service	NOUN	_	N	12	dobj	_	_
+18	.	.	PUNCT	_	_	10	punct	_	_
+19	"	"	PUNCT	_	'	10	punct	_	_
+
+
+# sent_id = 11
+# text = Ask the surgeon's office for the CPT code of the procedure and if there are any alternatives.
+1	Ask	ask	VERB	_	B	0	root	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	surgeon	surgeon	NOUN	_	N	5	poss	_	_
+4	's	's	PART	_	OS	3	case	_	_
+5	office	office	NOUN	_	N	1	dobj	_	_
+6	for	for	ADP	_	N	5	prep	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	CPT	cpt	PROPN	_	NP	9	compound	_	_
+9	code	code	NOUN	_	N	6	pobj	_	_
+10	of	of	ADP	_	N	9	prep	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	procedure	procedure	NOUN	_	N	10	pobj	_	_
+13	and	and	CCONJ	_	C	1	cc	_	_
+14	if	if	SCONJ	_	N	16	mark	_	_
+15	there	there	PRON	_	X	16	expl	_	_
+16	are	be	VERB	_	BP	1	conj	_	_
+17	any	any	DET	_	T	18	det	_	_
+18	alternatives	alternative	NOUN	_	NS	16	attr	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 12
+# text = Ask your insurance for the medical necessity criteria for those codes.
+1	Ask	ask	VERB	_	B	0	root	_	_
+2	your	your	PRON	_	RP$	3	poss	_	_
+3	insurance	insurance	NOUN	_	N	1	dobj	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	8	det	_	_
+6	medical	medical	ADJ	_	J	8	amod	_	_
+7	necessity	necessity	NOUN	_	N	8	compound	_	_
+8	criteria	criterion	NOUN	_	NS	4	pobj	_	_
+9	for	for	ADP	_	N	8	prep	_	_
+10	those	those	DET	_	T	11	det	_	_
+11	codes	code	NOUN	_	NS	9	pobj	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 13
+# text = Sometimes you can get them from the portal, sometimes customer service can send them, some companies just don't want you to have access to them.
+1	Sometimes	sometimes	ADV	_	B	4	advmod	_	_
+2	you	you	PRON	_	RP	4	nsubj	_	_
+3	can	can	AUX	_	D	4	aux	_	_
+4	get	get	VERB	_	B	14	advcl	_	_
+5	them	they	PRON	_	RP	4	dobj	_	_
+6	from	from	ADP	_	N	4	prep	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	portal	portal	ADJ	_	J	6	pobj	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	sometimes	sometimes	ADV	_	B	14	advmod	_	_
+11	customer	customer	NOUN	_	N	12	compound	_	_
+12	service	service	NOUN	_	N	14	nsubj	_	_
+13	can	can	AUX	_	D	14	aux	_	_
+14	send	send	VERB	_	B	22	ccomp	_	_
+15	them	they	PRON	_	RP	14	dobj	_	_
+16	,	,	PUNCT	_	_	22	punct	_	_
+17	some	some	DET	_	T	18	det	_	_
+18	companies	company	NOUN	_	NS	22	nsubj	_	_
+19	just	just	ADV	_	B	22	advmod	_	_
+20	do	do	AUX	_	BP	22	aux	_	_
+21	n't	not	PART	_	B	22	neg	_	_
+22	want	want	VERB	_	B	0	root	_	_
+23	you	you	PRON	_	RP	25	nsubj	_	_
+24	to	to	PART	_	O	25	aux	_	_
+25	have	have	VERB	_	B	22	ccomp	_	_
+26	access	access	NOUN	_	N	25	dobj	_	_
+27	to	to	ADP	_	N	26	prep	_	_
+28	them	they	PRON	_	RP	27	pobj	_	_
+29	.	.	PUNCT	_	_	22	punct	_	_
+
+
+# sent_id = 14
+# text = Insurance has to cover treatments for a list of conditions.
+1	Insurance	insurance	NOUN	_	N	2	nsubj	_	_
+2	has	have	VERB	_	BZ	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	cover	cover	VERB	_	B	2	xcomp	_	_
+5	treatments	treatment	NOUN	_	NS	4	dobj	_	_
+6	for	for	ADP	_	N	4	prep	_	_
+7	a	a	DET	_	T	8	det	_	_
+8	list	list	NOUN	_	N	6	pobj	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	conditions	condition	NOUN	_	NS	9	pobj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 15
+# text = They don't have to cover every treatment and they usually don't cover newer procedures until they can't deny that there is good data showing the procedure is safe/effective/better than alternatives.
+1	They	they	PRON	_	RP	4	nsubj	_	_
+2	do	do	AUX	_	BP	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	have	have	VERB	_	B	0	root	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	cover	cover	VERB	_	B	4	xcomp	_	_
+7	every	every	DET	_	T	8	det	_	_
+8	treatment	treatment	NOUN	_	N	6	dobj	_	_
+9	and	and	CCONJ	_	C	4	cc	_	_
+10	they	they	PRON	_	RP	14	nsubj	_	_
+11	usually	usually	ADV	_	B	14	advmod	_	_
+12	do	do	AUX	_	BP	14	aux	_	_
+13	n't	not	PART	_	B	14	neg	_	_
+14	cover	cover	VERB	_	B	4	conj	_	_
+15	newer	new	ADJ	_	JR	16	amod	_	_
+16	procedures	procedure	NOUN	_	NS	14	dobj	_	_
+17	until	until	SCONJ	_	N	21	mark	_	_
+18	they	they	PRON	_	RP	21	nsubj	_	_
+19	ca	can	AUX	_	D	21	aux	_	_
+20	n't	not	PART	_	B	21	neg	_	_
+21	deny	deny	VERB	_	B	14	advcl	_	_
+22	that	that	SCONJ	_	N	24	mark	_	_
+23	there	there	PRON	_	X	24	expl	_	_
+24	is	be	VERB	_	BZ	21	ccomp	_	_
+25	good	good	ADJ	_	J	26	amod	_	_
+26	data	datum	NOUN	_	NS	24	attr	_	_
+27	showing	show	VERB	_	BG	26	acl	_	_
+28	the	the	DET	_	T	29	det	_	_
+29	procedure	procedure	NOUN	_	N	27	dobj	_	_
+30	is	be	AUX	_	BZ	4	conj	_	_
+31	safe	safe	ADJ	_	J	33	amod	_	_
+32	/	/	SYM	_	YM	33	punct	_	_
+33	effective	effective	ADJ	_	J	35	amod	_	_
+34	/	/	SYM	_	YM	35	punct	_	_
+35	better	well	ADJ	_	JR	30	acomp	_	_
+36	than	than	ADP	_	N	35	prep	_	_
+37	alternatives	alternative	NOUN	_	NS	36	pobj	_	_
+38	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 16
+# text = Your options will depend on why it isn't covered and if your surgeon is willing to fight your insurance.
+1	Your	your	PRON	_	RP$	2	poss	_	_
+2	options	option	NOUN	_	NS	4	nsubj	_	_
+3	will	will	AUX	_	D	4	aux	_	_
+4	depend	depend	VERB	_	B	0	root	_	_
+5	on	on	ADP	_	N	4	prep	_	_
+6	why	why	SCONJ	_	RB	10	advmod	_	_
+7	it	it	PRON	_	RP	10	nsubjpass	_	_
+8	is	be	AUX	_	BZ	10	auxpass	_	_
+9	n't	not	PART	_	B	10	neg	_	_
+10	covered	cover	VERB	_	BN	5	pcomp	_	_
+11	and	and	CCONJ	_	C	10	cc	_	_
+12	if	if	SCONJ	_	N	15	mark	_	_
+13	your	your	PRON	_	RP$	14	poss	_	_
+14	surgeon	surgeon	NOUN	_	N	15	nsubj	_	_
+15	is	be	AUX	_	BZ	4	advcl	_	_
+16	willing	willing	ADJ	_	J	15	acomp	_	_
+17	to	to	PART	_	O	18	aux	_	_
+18	fight	fight	VERB	_	B	16	xcomp	_	_
+19	your	your	PRON	_	RP$	20	poss	_	_
+20	insurance	insurance	NOUN	_	N	18	dobj	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+

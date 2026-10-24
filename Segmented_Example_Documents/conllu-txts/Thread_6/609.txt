@@ -1,0 +1,66 @@
+# sent_id = 1
+# text = Thread_6
+1	Thread_6	thread_6	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 609
+1	609	609	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 608
+1	608	608	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Campnoodles
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Campnoodles	campnoodle	NOUN	_	NS	1	appos	_	_
+
+
+# sent_id = 5
+# text = The issue is that ive spoken to like 10 different people and they have all given me a seperate answer, im so frustrated I could cry, this is why the american healthcare system is a pos
+1	The	the	DET	_	T	2	det	_	_
+2	issue	issue	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	that	that	SCONJ	_	N	7	mark	_	_
+5	i	i	PRON	_	RP	7	nsubj	_	_
+6	ve	ve	AUX	_	BP	7	aux	_	_
+7	spoken	speak	VERB	_	BN	3	ccomp	_	_
+8	to	to	ADP	_	N	7	prep	_	_
+9	like	like	INTJ	_	H	8	intj	_	_
+10	10	10	NUM	_	D	12	nummod	_	_
+11	different	different	ADJ	_	J	12	amod	_	_
+12	people	people	NOUN	_	NS	9	pobj	_	_
+13	and	and	CCONJ	_	C	7	cc	_	_
+14	they	they	PRON	_	RP	17	nsubj	_	_
+15	have	have	AUX	_	BP	17	aux	_	_
+16	all	all	PRON	_	T	17	advmod	_	_
+17	given	give	VERB	_	BN	7	conj	_	_
+18	me	i	PRON	_	RP	17	dative	_	_
+19	a	a	DET	_	T	21	det	_	_
+20	seperate	seperate	ADJ	_	J	21	amod	_	_
+21	answer	answer	NOUN	_	N	17	dobj	_	_
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	i	i	PRON	_	RP	24	nsubj	_	_
+24	m	m	VERB	_	BP	32	ccomp	_	_
+25	so	so	ADV	_	B	26	advmod	_	_
+26	frustrated	frustrated	ADJ	_	J	24	acomp	_	_
+27	I	i	PRON	_	RP	29	nsubj	_	_
+28	could	could	AUX	_	D	29	aux	_	_
+29	cry	cry	VERB	_	B	26	ccomp	_	_
+30	,	,	PUNCT	_	_	32	punct	_	_
+31	this	this	PRON	_	T	32	nsubj	_	_
+32	is	be	AUX	_	BZ	3	ccomp	_	_
+33	why	why	SCONJ	_	RB	38	advmod	_	_
+34	the	the	DET	_	T	37	det	_	_
+35	american	american	ADJ	_	J	37	amod	_	_
+36	healthcare	healthcare	NOUN	_	N	37	compound	_	_
+37	system	system	NOUN	_	N	38	nsubj	_	_
+38	is	be	AUX	_	BZ	32	ccomp	_	_
+39	a	a	DET	_	T	40	det	_	_
+40	pos	pos	NOUN	_	N	38	attr	_	_
+
+

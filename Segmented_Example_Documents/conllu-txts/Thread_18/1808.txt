@@ -1,0 +1,50 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1808
+1	1808	1808	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1807
+1	1807	1807	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/MedPayIQ
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	MedPayIQ	medpayiq	NOUN	_	N	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Keep us posted.
+1	Keep	keep	VERB	_	B	0	root	_	_
+2	us	we	PRON	_	RP	3	nsubj	_	_
+3	posted	post	VERB	_	BN	1	ccomp	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = I'm genuinely curious how they justify approving it first and then denying it afterward.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	'm	be	AUX	_	BP	0	root	_	_
+3	genuinely	genuinely	ADV	_	B	4	advmod	_	_
+4	curious	curious	ADJ	_	J	2	acomp	_	_
+5	how	how	SCONJ	_	RB	7	advmod	_	_
+6	they	they	PRON	_	RP	7	nsubj	_	_
+7	justify	justify	VERB	_	BP	4	ccomp	_	_
+8	approving	approve	VERB	_	BG	7	xcomp	_	_
+9	it	it	PRON	_	RP	8	dobj	_	_
+10	first	first	ADV	_	B	8	advmod	_	_
+11	and	and	CCONJ	_	C	7	cc	_	_
+12	then	then	ADV	_	B	13	advmod	_	_
+13	denying	deny	VERB	_	BG	7	conj	_	_
+14	it	it	PRON	_	RP	13	dobj	_	_
+15	afterward	afterward	ADV	_	B	13	advmod	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+

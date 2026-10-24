@@ -1,0 +1,142 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1520
+1	1520	1520	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/lissaml1
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	lissaml1	lissaml1	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = Call the surgeons office first and ask if they are appealing.
+1	Call	call	VERB	_	B	0	root	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	surgeons	surgeon	NOUN	_	NS	4	compound	_	_
+4	office	office	NOUN	_	N	1	dobj	_	_
+5	first	first	ADV	_	B	1	advmod	_	_
+6	and	and	CCONJ	_	C	1	cc	_	_
+7	ask	ask	VERB	_	B	1	conj	_	_
+8	if	if	SCONJ	_	N	11	mark	_	_
+9	they	they	PRON	_	RP	11	nsubj	_	_
+10	are	be	AUX	_	BP	11	aux	_	_
+11	appealing	appeal	VERB	_	BG	7	ccomp	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = By the time you got the letter through snail mail they could have appealed and got an approval.
+1	By	by	ADP	_	N	14	prep	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	time	time	NOUN	_	N	1	pobj	_	_
+4	you	you	PRON	_	RP	5	nsubj	_	_
+5	got	get	VERB	_	BD	3	relcl	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	letter	letter	NOUN	_	N	5	dobj	_	_
+8	through	through	ADP	_	N	5	prep	_	_
+9	snail	snail	NOUN	_	N	10	compound	_	_
+10	mail	mail	NOUN	_	N	8	pobj	_	_
+11	they	they	PRON	_	RP	14	nsubj	_	_
+12	could	could	AUX	_	D	14	aux	_	_
+13	have	have	AUX	_	B	14	aux	_	_
+14	appealed	appeal	VERB	_	BN	0	root	_	_
+15	and	and	CCONJ	_	C	14	cc	_	_
+16	got	get	VERB	_	BD	14	conj	_	_
+17	an	an	DET	_	T	18	det	_	_
+18	approval	approval	NOUN	_	N	16	dobj	_	_
+19	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 7
+# text = Also most insurances use a third party for authorizations and with appeals they don’t always get back to the insurance company in a timely manner for it to be in their portal.
+1	Also	also	ADV	_	B	4	advmod	_	_
+2	most	most	ADJ	_	JS	3	amod	_	_
+3	insurances	insurance	NOUN	_	NS	4	nsubj	_	_
+4	use	use	VERB	_	BP	0	root	_	_
+5	a	a	DET	_	T	7	det	_	_
+6	third	third	ADJ	_	J	7	amod	_	_
+7	party	party	NOUN	_	N	4	dobj	_	_
+8	for	for	ADP	_	N	4	prep	_	_
+9	authorizations	authorization	NOUN	_	NS	8	pobj	_	_
+10	and	and	CCONJ	_	C	8	cc	_	_
+11	with	with	ADP	_	N	17	prep	_	_
+12	appeals	appeal	NOUN	_	NS	11	pobj	_	_
+13	they	they	PRON	_	RP	17	nsubj	_	_
+14	do	do	AUX	_	BP	17	aux	_	_
+15	n’t	not	PART	_	B	17	neg	_	_
+16	always	always	ADV	_	B	17	advmod	_	_
+17	get	get	VERB	_	B	4	conj	_	_
+18	back	back	ADV	_	B	17	advmod	_	_
+19	to	to	ADP	_	N	18	prep	_	_
+20	the	the	DET	_	T	22	det	_	_
+21	insurance	insurance	NOUN	_	N	22	compound	_	_
+22	company	company	NOUN	_	N	19	pobj	_	_
+23	in	in	ADP	_	N	17	prep	_	_
+24	a	a	DET	_	T	26	det	_	_
+25	timely	timely	ADJ	_	J	26	amod	_	_
+26	manner	manner	NOUN	_	N	23	pobj	_	_
+27	for	for	SCONJ	_	N	30	mark	_	_
+28	it	it	PRON	_	RP	30	nsubj	_	_
+29	to	to	PART	_	O	30	aux	_	_
+30	be	be	AUX	_	B	17	advcl	_	_
+31	in	in	ADP	_	N	30	prep	_	_
+32	their	their	PRON	_	RP$	33	poss	_	_
+33	portal	portal	ADJ	_	J	31	pobj	_	_
+34	.	.	PUNCT	_	_	17	punct	_	_
+
+
+# sent_id = 8
+# text = More than likely it’s from lack of documentation or not enough clinical info sent to them.
+1	More	more	ADJ	_	JR	3	amod	_	_
+2	than	than	ADP	_	N	3	advmod	_	_
+3	likely	likely	ADJ	_	J	5	advmod	_	_
+4	it	it	PRON	_	RP	5	nsubj	_	_
+5	’s	’	VERB	_	BG	0	root	_	_
+6	from	from	ADP	_	N	5	prep	_	_
+7	lack	lack	NOUN	_	N	6	pobj	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	documentation	documentation	NOUN	_	N	8	pobj	_	_
+10	or	or	CCONJ	_	C	7	cc	_	_
+11	not	not	PART	_	B	12	neg	_	_
+12	enough	enough	ADJ	_	J	14	amod	_	_
+13	clinical	clinical	ADJ	_	J	14	amod	_	_
+14	info	info	NOUN	_	N	7	conj	_	_
+15	sent	send	VERB	_	BN	14	acl	_	_
+16	to	to	ADP	_	N	15	dative	_	_
+17	them	they	PRON	_	RP	16	pobj	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 9
+# text = Make sure the surgeons office sent in all the failed injections and visits from other providers.
+1	Make	make	VERB	_	B	0	root	_	_
+2	sure	sure	ADJ	_	J	1	ccomp	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	surgeons	surgeon	NOUN	_	NS	5	compound	_	_
+5	office	office	NOUN	_	N	6	nsubj	_	_
+6	sent	send	VERB	_	BD	2	ccomp	_	_
+7	in	in	ADP	_	N	6	prep	_	_
+8	all	all	DET	_	DT	11	predet	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	failed	fail	VERB	_	BN	11	amod	_	_
+11	injections	injection	NOUN	_	NS	7	pobj	_	_
+12	and	and	CCONJ	_	C	11	cc	_	_
+13	visits	visit	NOUN	_	NS	11	conj	_	_
+14	from	from	ADP	_	N	13	prep	_	_
+15	other	other	ADJ	_	J	16	amod	_	_
+16	providers	provider	NOUN	_	NS	14	pobj	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+

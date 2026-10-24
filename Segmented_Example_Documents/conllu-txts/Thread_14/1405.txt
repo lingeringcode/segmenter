@@ -1,0 +1,143 @@
+# sent_id = 1
+# text = Thread_14
+1	Thread_14	thread_14	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 1405
+1	1405	1405	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1400
+1	1400	1400	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/abiglumpwithknobs1
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	abiglumpwithknobs1	abiglumpwithknobs1	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = Can you advise what the reasoning was for the denial?
+1	Can	can	AUX	_	D	3	aux	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	advise	advise	VERB	_	B	0	root	_	_
+4	what	what	PRON	_	P	7	attr	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	reasoning	reasoning	NOUN	_	N	7	nsubj	_	_
+7	was	be	AUX	_	BD	3	ccomp	_	_
+8	for	for	ADP	_	N	7	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	denial	denial	NOUN	_	N	8	pobj	_	_
+11	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = Did they specifically deny it stating it needed to be billed to another entity or did it deny as noncovered, or not medically necessary?
+1	Did	do	AUX	_	BD	4	aux	_	_
+2	they	they	PRON	_	RP	4	nsubj	_	_
+3	specifically	specifically	ADV	_	B	4	advmod	_	_
+4	deny	deny	VERB	_	B	0	root	_	_
+5	it	it	PRON	_	RP	4	dobj	_	_
+6	stating	state	VERB	_	BG	4	advcl	_	_
+7	it	it	PRON	_	RP	8	nsubj	_	_
+8	needed	need	VERB	_	BD	6	ccomp	_	_
+9	to	to	PART	_	O	11	aux	_	_
+10	be	be	AUX	_	B	11	auxpass	_	_
+11	billed	bill	VERB	_	BN	8	xcomp	_	_
+12	to	to	ADP	_	N	11	prep	_	_
+13	another	another	DET	_	T	14	det	_	_
+14	entity	entity	NOUN	_	N	12	pobj	_	_
+15	or	or	CCONJ	_	C	4	cc	_	_
+16	did	do	AUX	_	BD	18	aux	_	_
+17	it	it	PRON	_	RP	18	nsubj	_	_
+18	deny	deny	VERB	_	B	4	conj	_	_
+19	as	as	SCONJ	_	N	20	mark	_	_
+20	noncovered	noncovere	VERB	_	BN	18	advcl	_	_
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	or	or	CCONJ	_	C	20	cc	_	_
+23	not	not	PART	_	B	25	neg	_	_
+24	medically	medically	ADV	_	B	25	advmod	_	_
+25	necessary	necessary	ADJ	_	J	20	conj	_	_
+26	?	?	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = Its entirely possible they are denying the OR codes due to not knowing the reasoning behind why they had to do the procedure in that setting vs a standard outpatient facility where most extractions are done.
+1	Its	its	PRON	_	RP$	0	root	_	_
+2	entirely	entirely	ADV	_	B	3	advmod	_	_
+3	possible	possible	ADJ	_	J	1	acomp	_	_
+4	they	they	PRON	_	RP	6	nsubj	_	_
+5	are	be	AUX	_	BP	6	aux	_	_
+6	denying	deny	VERB	_	BG	1	ccomp	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	OR	or	ADJ	_	J	9	compound	_	_
+9	codes	code	NOUN	_	NS	6	dobj	_	_
+10	due	due	ADP	_	N	6	prep	_	_
+11	to	to	ADP	_	N	10	pcomp	_	_
+12	not	not	PART	_	B	13	neg	_	_
+13	knowing	know	VERB	_	BG	11	pcomp	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	reasoning	reasoning	NOUN	_	N	13	dobj	_	_
+16	behind	behind	ADP	_	N	13	prep	_	_
+17	why	why	SCONJ	_	RB	19	advmod	_	_
+18	they	they	PRON	_	RP	19	nsubj	_	_
+19	had	have	AUX	_	BD	16	pcomp	_	_
+20	to	to	PART	_	O	21	aux	_	_
+21	do	do	VERB	_	B	19	xcomp	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	procedure	procedure	NOUN	_	N	21	dobj	_	_
+24	in	in	ADP	_	N	21	prep	_	_
+25	that	that	DET	_	T	26	det	_	_
+26	setting	set	VERB	_	BG	24	pcomp	_	_
+27	vs	vs	ADP	_	N	26	prep	_	_
+28	a	a	DET	_	T	31	det	_	_
+29	standard	standard	ADJ	_	J	31	amod	_	_
+30	outpatient	outpatient	NOUN	_	N	31	compound	_	_
+31	facility	facility	NOUN	_	N	27	pobj	_	_
+32	where	where	SCONJ	_	RB	36	advmod	_	_
+33	most	most	ADJ	_	JS	34	amod	_	_
+34	extractions	extraction	NOUN	_	NS	36	nsubjpass	_	_
+35	are	be	AUX	_	BP	36	auxpass	_	_
+36	done	do	VERB	_	BN	31	relcl	_	_
+37	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 8
+# text = You should appeal with the medical insurance with documentation from the surgeon explaining why doing the procedure in the hospital was medically necessary due to your son's heart condition.
+1	You	you	PRON	_	RP	3	nsubj	_	_
+2	should	should	AUX	_	D	3	aux	_	_
+3	appeal	appeal	VERB	_	B	0	root	_	_
+4	with	with	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	medical	medical	ADJ	_	J	7	amod	_	_
+7	insurance	insurance	NOUN	_	N	4	pobj	_	_
+8	with	with	ADP	_	N	3	prep	_	_
+9	documentation	documentation	NOUN	_	N	8	pobj	_	_
+10	from	from	ADP	_	N	9	prep	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	surgeon	surgeon	NOUN	_	N	10	pobj	_	_
+13	explaining	explain	VERB	_	BG	9	acl	_	_
+14	why	why	SCONJ	_	RB	15	advmod	_	_
+15	doing	do	VERB	_	BG	21	csubj	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	procedure	procedure	NOUN	_	N	15	dobj	_	_
+18	in	in	ADP	_	N	17	prep	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	hospital	hospital	NOUN	_	N	18	pobj	_	_
+21	was	be	AUX	_	BD	13	ccomp	_	_
+22	medically	medically	ADV	_	B	23	advmod	_	_
+23	necessary	necessary	ADJ	_	J	21	acomp	_	_
+24	due	due	ADP	_	N	21	prep	_	_
+25	to	to	ADP	_	N	24	pcomp	_	_
+26	your	your	PRON	_	RP$	27	poss	_	_
+27	son	son	NOUN	_	N	30	poss	_	_
+28	's	's	PART	_	OS	27	case	_	_
+29	heart	heart	NOUN	_	N	30	compound	_	_
+30	condition	condition	NOUN	_	N	24	pobj	_	_
+31	.	.	PUNCT	_	_	3	punct	_	_
+
+

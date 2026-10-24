@@ -1,0 +1,81 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1120
+1	1120	1120	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1116
+1	1116	1116	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Botasoda102
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Botasoda102	botasoda102	NUM	_	D	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Very common.
+1	Very	very	ADV	_	B	2	advmod	_	_
+2	common	common	ADJ	_	J	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = In fact, it is quite common for ER claims to get denied based on a few codes on a claim form until actual medical records are reviewed.
+1	In	in	ADP	_	N	5	prep	_	_
+2	fact	fact	NOUN	_	N	1	pobj	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	it	it	PRON	_	RP	5	nsubj	_	_
+5	is	be	AUX	_	BZ	0	root	_	_
+6	quite	quite	ADV	_	B	7	advmod	_	_
+7	common	common	ADJ	_	J	5	acomp	_	_
+8	for	for	SCONJ	_	N	13	mark	_	_
+9	ER	er	PROPN	_	NP	10	compound	_	_
+10	claims	claim	NOUN	_	NS	13	nsubjpass	_	_
+11	to	to	PART	_	O	13	aux	_	_
+12	get	get	AUX	_	B	13	auxpass	_	_
+13	denied	deny	VERB	_	BN	5	advcl	_	_
+14	based	base	VERB	_	BN	13	prep	_	_
+15	on	on	ADP	_	N	14	prep	_	_
+16	a	a	DET	_	T	18	det	_	_
+17	few	few	ADJ	_	J	18	amod	_	_
+18	codes	code	NOUN	_	NS	15	pobj	_	_
+19	on	on	ADP	_	N	18	prep	_	_
+20	a	a	DET	_	T	22	det	_	_
+21	claim	claim	NOUN	_	N	22	compound	_	_
+22	form	form	NOUN	_	N	19	pobj	_	_
+23	until	until	SCONJ	_	N	28	mark	_	_
+24	actual	actual	ADJ	_	J	26	amod	_	_
+25	medical	medical	ADJ	_	J	26	amod	_	_
+26	records	record	NOUN	_	NS	28	nsubjpass	_	_
+27	are	be	AUX	_	BP	28	auxpass	_	_
+28	reviewed	review	VERB	_	BN	13	advcl	_	_
+29	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 7
+# text = I would not be surprised if providers have already started working on an appeal.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	would	would	AUX	_	D	4	aux	_	_
+3	not	not	PART	_	B	4	neg	_	_
+4	be	be	AUX	_	B	0	root	_	_
+5	surprised	surprised	ADJ	_	J	4	acomp	_	_
+6	if	if	SCONJ	_	N	10	mark	_	_
+7	providers	provider	NOUN	_	NS	10	nsubj	_	_
+8	have	have	AUX	_	BP	10	aux	_	_
+9	already	already	ADV	_	B	10	advmod	_	_
+10	started	start	VERB	_	BN	4	advcl	_	_
+11	working	work	VERB	_	BG	10	xcomp	_	_
+12	on	on	ADP	_	N	11	prep	_	_
+13	an	an	DET	_	T	14	det	_	_
+14	appeal	appeal	NOUN	_	N	12	pobj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+

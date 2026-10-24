@@ -1,0 +1,40 @@
+# sent_id = 1
+# text = Thread_7
+1	Thread_7	thread_7	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 706
+1	706	706	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 705
+1	705	705	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/DishAffectionate892
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	DishAffectionate892	dishaffectionate892	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = Not resubmit the claim.
+1	Not	not	PART	_	B	2	neg	_	_
+2	resubmit	resubmit	VERB	_	B	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	claim	claim	NOUN	_	N	2	dobj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = Additional documents are needed.
+1	Additional	additional	ADJ	_	J	2	amod	_	_
+2	documents	document	NOUN	_	NS	4	nsubjpass	_	_
+3	are	be	AUX	_	BP	4	auxpass	_	_
+4	needed	need	VERB	_	BN	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+

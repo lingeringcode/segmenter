@@ -1,0 +1,60 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1807
+1	1807	1807	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1806
+1	1806	1806	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Weekly-Ad-650
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Weekly	weekly	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Ad-650	ad-650	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Right?
+1	Right	right	ADJ	_	J	0	root	_	_
+2	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = Seems extremely fishy to me but I'm not surprised.
+1	Seems	seem	VERB	_	BZ	0	root	_	_
+2	extremely	extremely	ADV	_	B	3	advmod	_	_
+3	fishy	fishy	ADJ	_	J	1	acomp	_	_
+4	to	to	ADP	_	N	3	prep	_	_
+5	me	i	PRON	_	RP	4	pobj	_	_
+6	but	but	CCONJ	_	C	1	cc	_	_
+7	I	i	PRON	_	RP	8	nsubj	_	_
+8	'm	be	AUX	_	BP	1	conj	_	_
+9	not	not	PART	_	B	8	neg	_	_
+10	surprised	surprised	ADJ	_	J	8	acomp	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 7
+# text = I'm curious to see what they will respond with!
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	'm	be	AUX	_	BP	0	root	_	_
+3	curious	curious	ADJ	_	J	2	acomp	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	see	see	VERB	_	B	3	xcomp	_	_
+6	what	what	PRON	_	P	10	pobj	_	_
+7	they	they	PRON	_	RP	9	nsubj	_	_
+8	will	will	AUX	_	D	9	aux	_	_
+9	respond	respond	VERB	_	B	5	ccomp	_	_
+10	with	with	ADP	_	N	9	prep	_	_
+11	!	!	PUNCT	_	_	2	punct	_	_
+
+

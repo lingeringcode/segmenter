@@ -1,0 +1,35 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1114
+1	1114	1114	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1113
+1	1113	1113	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/StopTheMineshaftGap
+1	u	u	NOUN	_	N	3	meta	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	StopTheMineshaftGap	stopthemineshaftgap	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = This is why physicians can’t stand admins.
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	why	why	SCONJ	_	RB	7	advmod	_	_
+4	physicians	physician	NOUN	_	NS	7	nsubj	_	_
+5	ca	can	AUX	_	D	7	aux	_	_
+6	n’t	not	PART	_	B	7	neg	_	_
+7	stand	stand	VERB	_	B	2	ccomp	_	_
+8	admins	admin	NOUN	_	NS	7	dobj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+

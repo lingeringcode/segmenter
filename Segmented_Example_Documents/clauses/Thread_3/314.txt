@@ -1,0 +1,7 @@
+Thread_3
+314
+300
+u Dapper Palpitation90
+The 14 day window for getting auth is kind of a worst case scenario
+The vast majority of requests are either approved or
+denied much quicker than that

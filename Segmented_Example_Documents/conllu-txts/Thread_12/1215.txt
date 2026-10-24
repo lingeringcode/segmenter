@@ -1,0 +1,168 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1215
+1	1215	1215	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1200
+1	1200	1200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/ChiefKC20
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	ChiefKC20	chiefkc20	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = File a complaint with the regulator that has oversight for the plan.
+1	File	file	VERB	_	B	0	root	_	_
+2	a	a	DET	_	T	3	det	_	_
+3	complaint	complaint	NOUN	_	N	1	dobj	_	_
+4	with	with	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	regulator	regulator	NOUN	_	N	4	pobj	_	_
+7	that	that	PRON	_	DT	8	nsubj	_	_
+8	has	have	VERB	_	BZ	6	relcl	_	_
+9	oversight	oversight	NOUN	_	N	8	dobj	_	_
+10	for	for	ADP	_	N	9	prep	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	plan	plan	NOUN	_	N	10	pobj	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = For a fully insured plan, the state insurance commissioner has oversight.
+1	For	for	ADP	_	N	11	prep	_	_
+2	a	a	DET	_	T	5	det	_	_
+3	fully	fully	ADV	_	B	4	advmod	_	_
+4	insured	insure	VERB	_	BN	5	amod	_	_
+5	plan	plan	NOUN	_	N	1	pobj	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	the	the	DET	_	T	10	det	_	_
+8	state	state	NOUN	_	N	10	compound	_	_
+9	insurance	insurance	NOUN	_	N	10	compound	_	_
+10	commissioner	commissioner	NOUN	_	N	11	nsubj	_	_
+11	has	have	VERB	_	BZ	0	root	_	_
+12	oversight	oversight	NOUN	_	N	11	dobj	_	_
+13	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 7
+# text = If a self funded plan, the US Department of Labor has regulatory responsibility.
+1	If	if	SCONJ	_	N	12	prep	_	_
+2	a	a	DET	_	T	5	det	_	_
+3	self	self	NOUN	_	N	4	npadvmod	_	_
+4	funded	fund	VERB	_	BN	5	amod	_	_
+5	plan	plan	NOUN	_	N	1	nsubj	_	_
+6	,	,	PUNCT	_	_	12	punct	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	US	us	PROPN	_	NP	9	compound	_	_
+9	Department	department	PROPN	_	NP	12	nsubj	_	_
+10	of	of	ADP	_	N	9	prep	_	_
+11	Labor	labor	PROPN	_	NP	10	pobj	_	_
+12	has	have	VERB	_	BZ	0	root	_	_
+13	regulatory	regulatory	ADJ	_	J	14	amod	_	_
+14	responsibility	responsibility	NOUN	_	N	12	dobj	_	_
+15	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 8
+# text = Providers try to submit the correct paperwork and appeals, but some plans do not respond to provider appeals.
+1	Providers	provider	NOUN	_	NS	2	nsubj	_	_
+2	try	try	VERB	_	BP	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	submit	submit	VERB	_	B	2	xcomp	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	correct	correct	ADJ	_	J	7	amod	_	_
+7	paperwork	paperwork	NOUN	_	N	4	dobj	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	appeals	appeal	NOUN	_	NS	7	conj	_	_
+10	,	,	PUNCT	_	_	2	punct	_	_
+11	but	but	CCONJ	_	C	2	cc	_	_
+12	some	some	DET	_	T	13	det	_	_
+13	plans	plan	NOUN	_	NS	16	nsubj	_	_
+14	do	do	AUX	_	BP	16	aux	_	_
+15	not	not	PART	_	B	16	neg	_	_
+16	respond	respond	VERB	_	B	2	conj	_	_
+17	to	to	ADP	_	N	16	prep	_	_
+18	provider	provider	NOUN	_	N	19	compound	_	_
+19	appeals	appeal	NOUN	_	NS	17	pobj	_	_
+20	.	.	PUNCT	_	_	16	punct	_	_
+
+
+# sent_id = 9
+# text = They only actively respond to member appeals and regulatory involvement.
+1	They	they	PRON	_	RP	4	nsubj	_	_
+2	only	only	ADV	_	B	4	advmod	_	_
+3	actively	actively	ADV	_	B	4	advmod	_	_
+4	respond	respond	VERB	_	BP	0	root	_	_
+5	to	to	ADP	_	N	4	prep	_	_
+6	member	member	NOUN	_	N	7	compound	_	_
+7	appeals	appeal	NOUN	_	NS	5	pobj	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	regulatory	regulatory	ADJ	_	J	10	amod	_	_
+10	involvement	involvement	NOUN	_	N	7	conj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 10
+# text = Dealt with this too many times on the pediatric side where step therapy is required using unapproved medications.
+1	Dealt	deal	VERB	_	BD	0	root	_	_
+2	with	with	ADP	_	N	1	prep	_	_
+3	this	this	PRON	_	T	2	pobj	_	_
+4	too	too	ADV	_	B	5	advmod	_	_
+5	many	many	ADJ	_	J	6	amod	_	_
+6	times	time	NOUN	_	NS	1	npadvmod	_	_
+7	on	on	ADP	_	N	1	prep	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	pediatric	pediatric	ADJ	_	J	10	amod	_	_
+10	side	side	NOUN	_	N	7	pobj	_	_
+11	where	where	SCONJ	_	RB	15	advmod	_	_
+12	step	step	NOUN	_	N	13	compound	_	_
+13	therapy	therapy	NOUN	_	N	15	nsubjpass	_	_
+14	is	be	AUX	_	BZ	15	auxpass	_	_
+15	required	require	VERB	_	BN	10	relcl	_	_
+16	using	use	VERB	_	BG	15	xcomp	_	_
+17	unapproved	unapproved	ADJ	_	J	18	amod	_	_
+18	medications	medication	NOUN	_	NS	16	dobj	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 11
+# text = Hours wasted and patients pissed at providers rather than the plan and employer who decided on the particular step therapy approach and Byzantine procedures for approval.
+1	Hours	hour	NOUN	_	NS	2	nsubj	_	_
+2	wasted	waste	VERB	_	BD	0	root	_	_
+3	and	and	CCONJ	_	C	2	cc	_	_
+4	patients	patient	NOUN	_	NS	2	conj	_	_
+5	pissed	piss	VERB	_	BN	4	acl	_	_
+6	at	at	ADP	_	N	5	prep	_	_
+7	providers	provider	NOUN	_	NS	6	pobj	_	_
+8	rather	rather	ADV	_	B	9	advmod	_	_
+9	than	than	ADP	_	N	7	cc	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	plan	plan	NOUN	_	N	9	pobj	_	_
+12	and	and	CCONJ	_	C	11	cc	_	_
+13	employer	employer	NOUN	_	N	11	conj	_	_
+14	who	who	PRON	_	P	15	nsubj	_	_
+15	decided	decide	VERB	_	BD	11	relcl	_	_
+16	on	on	ADP	_	N	15	prep	_	_
+17	the	the	DET	_	T	21	det	_	_
+18	particular	particular	ADJ	_	J	21	amod	_	_
+19	step	step	NOUN	_	N	20	compound	_	_
+20	therapy	therapy	NOUN	_	N	21	compound	_	_
+21	approach	approach	NOUN	_	N	24	nmod	_	_
+22	and	and	CCONJ	_	C	21	cc	_	_
+23	Byzantine	byzantine	ADJ	_	J	21	conj	_	_
+24	procedures	procedure	NOUN	_	NS	16	pobj	_	_
+25	for	for	ADP	_	N	15	prep	_	_
+26	approval	approval	NOUN	_	N	25	pobj	_	_
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+

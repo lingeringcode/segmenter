@@ -1,0 +1,89 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1806
+1	1806	1806	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1800
+1	1800	1800	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/MedPayIQ
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	MedPayIQ	medpayiq	NOUN	_	N	1	nummod	_	_
+
+
+# sent_id = 5
+# text = If the prior auth letter specifically approved that CPT with that provider in an office setting, I'd push back hard.
+1	If	if	SCONJ	_	N	7	mark	_	_
+2	the	the	DET	_	T	5	det	_	_
+3	prior	prior	ADJ	_	J	5	amod	_	_
+4	auth	auth	ADJ	_	J	5	compound	_	_
+5	letter	letter	NOUN	_	N	7	nsubj	_	_
+6	specifically	specifically	ADV	_	B	7	advmod	_	_
+7	approved	approve	VERB	_	BD	0	root	_	_
+8	that	that	SCONJ	_	N	20	mark	_	_
+9	CPT	cpt	PROPN	_	NP	20	nsubj	_	_
+10	with	with	ADP	_	N	20	prep	_	_
+11	that	that	DET	_	T	12	det	_	_
+12	provider	provider	NOUN	_	N	10	pobj	_	_
+13	in	in	ADP	_	N	12	prep	_	_
+14	an	an	DET	_	T	16	det	_	_
+15	office	office	NOUN	_	N	16	compound	_	_
+16	setting	setting	NOUN	_	N	13	pobj	_	_
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	I	i	PRON	_	RP	20	nsubj	_	_
+19	'd	would	AUX	_	D	20	aux	_	_
+20	push	push	VERB	_	B	7	ccomp	_	_
+21	back	back	ADV	_	B	20	advmod	_	_
+22	hard	hard	ADV	_	B	20	advmod	_	_
+23	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 6
+# text = They can't reasonably approve something in a setting they already know they'll deny because of their own policy.
+1	They	they	PRON	_	RP	5	nsubj	_	_
+2	ca	can	AUX	_	D	5	aux	_	_
+3	n't	not	PART	_	B	5	neg	_	_
+4	reasonably	reasonably	ADV	_	B	5	advmod	_	_
+5	approve	approve	VERB	_	B	0	root	_	_
+6	something	something	PRON	_	N	5	dobj	_	_
+7	in	in	ADP	_	N	5	prep	_	_
+8	a	a	DET	_	T	9	det	_	_
+9	setting	setting	NOUN	_	N	7	pobj	_	_
+10	they	they	PRON	_	RP	12	nsubj	_	_
+11	already	already	ADV	_	B	12	advmod	_	_
+12	know	know	VERB	_	BP	9	relcl	_	_
+13	they	they	PRON	_	RP	15	nsubj	_	_
+14	'll	will	AUX	_	D	15	aux	_	_
+15	deny	deny	VERB	_	B	12	ccomp	_	_
+16	because	because	SCONJ	_	N	15	prep	_	_
+17	of	of	ADP	_	N	16	pcomp	_	_
+18	their	their	PRON	_	RP$	20	poss	_	_
+19	own	own	ADJ	_	J	20	amod	_	_
+20	policy	policy	NOUN	_	N	16	pobj	_	_
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 7
+# text = I'd ask them to explain that contradiction in writing.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	'd	would	AUX	_	D	3	aux	_	_
+3	ask	ask	VERB	_	B	0	root	_	_
+4	them	they	PRON	_	RP	3	dobj	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	explain	explain	VERB	_	B	3	xcomp	_	_
+7	that	that	SCONJ	_	N	8	det	_	_
+8	contradiction	contradiction	NOUN	_	N	6	dobj	_	_
+9	in	in	ADP	_	N	8	prep	_	_
+10	writing	writing	NOUN	_	N	9	pobj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+

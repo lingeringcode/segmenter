@@ -1,0 +1,115 @@
+# sent_id = 1
+# text = Thread_1
+1	Thread_1	thread_1	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 114
+1	114	114	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 100
+1	100	100	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/my-cat-cant-cat
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	my	my	PRON	_	RP$	5	poss	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	cat	cat	NOUN	_	N	7	npadvmod	_	_
+6	-	-	PUNCT	_	YPH	7	punct	_	_
+7	cant	cant	VERB	_	B	9	amod	_	_
+8	-	-	PUNCT	_	YPH	9	punct	_	_
+9	cat	cat	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = That is absolutely not the success rate for GLP1 denials for weight loss.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	absolutely	absolutely	ADV	_	B	2	advmod	_	_
+4	not	not	PART	_	B	2	neg	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	success	success	NOUN	_	N	7	compound	_	_
+7	rate	rate	NOUN	_	N	2	attr	_	_
+8	for	for	ADP	_	N	7	prep	_	_
+9	GLP1	glp1	PROPN	_	NP	10	compound	_	_
+10	denials	denial	NOUN	_	NS	8	pobj	_	_
+11	for	for	ADP	_	N	10	prep	_	_
+12	weight	weight	NOUN	_	N	13	compound	_	_
+13	loss	loss	NOUN	_	N	11	pobj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = It is much lower.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	much	much	ADV	_	B	4	advmod	_	_
+4	lower	low	ADJ	_	JR	2	acomp	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = They don’t have to be covered at all, and even when covered, there are almost always PA or formulary requirements.
+1	They	they	PRON	_	RP	4	nsubj	_	_
+2	do	do	AUX	_	BP	4	aux	_	_
+3	n’t	not	PART	_	B	4	neg	_	_
+4	have	have	VERB	_	B	0	root	_	_
+5	to	to	PART	_	O	7	aux	_	_
+6	be	be	AUX	_	B	7	auxpass	_	_
+7	covered	cover	VERB	_	BN	4	xcomp	_	_
+8	at	at	ADV	_	B	9	advmod	_	_
+9	all	all	ADV	_	B	7	advmod	_	_
+10	,	,	PUNCT	_	_	4	punct	_	_
+11	and	and	CCONJ	_	C	4	cc	_	_
+12	even	even	ADV	_	B	13	advmod	_	_
+13	when	when	SCONJ	_	RB	14	advmod	_	_
+14	covered	cover	VERB	_	BN	17	advcl	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	there	there	PRON	_	X	17	expl	_	_
+17	are	be	VERB	_	BP	4	conj	_	_
+18	almost	almost	ADV	_	B	17	advmod	_	_
+19	always	always	ADV	_	B	17	advmod	_	_
+20	PA	pa	PROPN	_	NP	23	nmod	_	_
+21	or	or	CCONJ	_	C	20	cc	_	_
+22	formulary	formulary	ADJ	_	J	20	conj	_	_
+23	requirements	requirement	NOUN	_	NS	17	attr	_	_
+24	.	.	PUNCT	_	_	17	punct	_	_
+
+
+# sent_id = 8
+# text = If you gave the specific reason for your denial, you would be able to get a better answer about your chances of succeeding at an appeal.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	gave	give	VERB	_	BD	13	advcl	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	specific	specific	ADJ	_	J	6	amod	_	_
+6	reason	reason	NOUN	_	N	3	dobj	_	_
+7	for	for	ADP	_	N	6	prep	_	_
+8	your	your	PRON	_	RP$	9	poss	_	_
+9	denial	denial	NOUN	_	N	7	pobj	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	you	you	PRON	_	RP	13	nsubj	_	_
+12	would	would	AUX	_	D	13	aux	_	_
+13	be	be	AUX	_	B	0	root	_	_
+14	able	able	ADJ	_	J	13	acomp	_	_
+15	to	to	PART	_	O	16	aux	_	_
+16	get	get	VERB	_	B	14	xcomp	_	_
+17	a	a	DET	_	T	19	det	_	_
+18	better	well	ADJ	_	JR	19	amod	_	_
+19	answer	answer	NOUN	_	N	16	dobj	_	_
+20	about	about	ADP	_	N	19	prep	_	_
+21	your	your	PRON	_	RP$	22	poss	_	_
+22	chances	chance	NOUN	_	NS	20	pobj	_	_
+23	of	of	ADP	_	N	22	prep	_	_
+24	succeeding	succeed	VERB	_	BG	23	pcomp	_	_
+25	at	at	ADP	_	N	24	prep	_	_
+26	an	an	DET	_	T	27	det	_	_
+27	appeal	appeal	NOUN	_	N	25	pobj	_	_
+28	.	.	PUNCT	_	_	13	punct	_	_
+
+

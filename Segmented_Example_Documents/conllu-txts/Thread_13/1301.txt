@@ -1,0 +1,71 @@
+# sent_id = 1
+# text = Thread_13
+1	Thread_13	thread_13	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 1301
+1	1301	1301	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1300
+1	1300	1300	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/throwfarfaraway1818
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	throwfarfaraway1818	throwfarfaraway1818	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Yes, the provider would also be sent a copy of a rejection.
+1	Yes	yes	INTJ	_	H	8	intj	_	_
+2	,	,	PUNCT	_	_	8	punct	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	provider	provider	NOUN	_	N	8	nsubjpass	_	_
+5	would	would	AUX	_	D	8	aux	_	_
+6	also	also	ADV	_	B	8	advmod	_	_
+7	be	be	AUX	_	B	8	auxpass	_	_
+8	sent	send	VERB	_	BN	0	root	_	_
+9	a	a	DET	_	T	10	det	_	_
+10	copy	copy	NOUN	_	N	8	dobj	_	_
+11	of	of	ADP	_	N	10	prep	_	_
+12	a	a	DET	_	T	13	det	_	_
+13	rejection	rejection	NOUN	_	N	11	pobj	_	_
+14	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 6
+# text = Is this provider in network?
+1	Is	be	AUX	_	BZ	0	root	_	_
+2	this	this	DET	_	T	3	det	_	_
+3	provider	provider	NOUN	_	N	1	nsubj	_	_
+4	in	in	ADP	_	N	3	prep	_	_
+5	network	network	NOUN	_	N	4	pobj	_	_
+6	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 7
+# text = Generally the provider is the one responsible for ensuring that the authorization is submitted and approved.
+1	Generally	generally	ADV	_	B	4	advmod	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	provider	provider	NOUN	_	N	4	nsubj	_	_
+4	is	be	AUX	_	BZ	0	root	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	one	one	NOUN	_	N	4	attr	_	_
+7	responsible	responsible	ADJ	_	J	6	amod	_	_
+8	for	for	ADP	_	N	7	prep	_	_
+9	ensuring	ensure	VERB	_	BG	8	pcomp	_	_
+10	that	that	SCONJ	_	N	14	mark	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	authorization	authorization	NOUN	_	N	14	nsubjpass	_	_
+13	is	be	AUX	_	BZ	14	auxpass	_	_
+14	submitted	submit	VERB	_	BN	9	ccomp	_	_
+15	and	and	CCONJ	_	C	14	cc	_	_
+16	approved	approve	VERB	_	BN	14	conj	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+

@@ -1,0 +1,104 @@
+# sent_id = 1
+# text = Thread_17
+1	Thread_17	thread_17	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1701
+1	1701	1701	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1700
+1	1700	1700	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/rahuliitk
+1	u	u	NOUN	_	N	3	meta	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	rahuliitk	rahuliitk	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 5
+# text = this sounds like a coverage-transition/billing-format mess more than a “you owe $509k” situation, so i’d call the hospital billing office first and ask them to review whether the stay needs to be split by date or rebilled to the correct payer, then file a late appeal with Highmark citing no timely mail access and medical incapacity.
+1	this	this	PRON	_	T	2	nsubj	_	_
+2	sounds	sound	VERB	_	BZ	27	ccomp	_	_
+3	like	like	ADP	_	N	2	prep	_	_
+4	a	a	DET	_	T	12	det	_	_
+5	coverage	coverage	NOUN	_	N	7	compound	_	_
+6	-	-	PUNCT	_	YPH	7	punct	_	_
+7	transition	transition	NOUN	_	N	9	nmod	_	_
+8	/	/	SYM	_	YM	9	punct	_	_
+9	billing	billing	NOUN	_	N	11	compound	_	_
+10	-	-	PUNCT	_	YPH	11	punct	_	_
+11	format	format	NOUN	_	N	12	compound	_	_
+12	mess	mess	NOUN	_	N	3	pobj	_	_
+13	more	more	ADJ	_	JR	18	advmod	_	_
+14	than	than	ADP	_	N	13	prep	_	_
+15	a	a	PRON	_	T	14	pobj	_	_
+16	“	"	PUNCT	_	`	18	punct	_	_
+17	you	you	PRON	_	RP	18	nsubj	_	_
+18	owe	owe	VERB	_	BP	2	advcl	_	_
+19	$	$	SYM	_	_	20	nmod	_	_
+20	509k	509k	PROPN	_	NPS	22	nmod	_	_
+21	”	"	PUNCT	_	'	22	punct	_	_
+22	situation	situation	NOUN	_	N	18	dobj	_	_
+23	,	,	PUNCT	_	_	27	punct	_	_
+24	so	so	SCONJ	_	N	27	mark	_	_
+25	i	i	PRON	_	RP	27	nsubj	_	_
+26	’d	’d	AUX	_	D	27	aux	_	_
+27	call	call	VERB	_	B	0	root	_	_
+28	the	the	DET	_	T	31	det	_	_
+29	hospital	hospital	NOUN	_	N	30	compound	_	_
+30	billing	billing	NOUN	_	N	31	compound	_	_
+31	office	office	NOUN	_	N	27	dobj	_	_
+32	first	first	ADV	_	B	27	advmod	_	_
+33	and	and	CCONJ	_	C	27	cc	_	_
+34	ask	ask	VERB	_	B	27	conj	_	_
+35	them	they	PRON	_	RP	34	dobj	_	_
+36	to	to	PART	_	O	37	aux	_	_
+37	review	review	VERB	_	B	34	xcomp	_	_
+38	whether	whether	SCONJ	_	N	41	mark	_	_
+39	the	the	DET	_	T	40	det	_	_
+40	stay	stay	NOUN	_	N	41	nsubj	_	_
+41	needs	need	VERB	_	BZ	37	ccomp	_	_
+42	to	to	PART	_	O	44	aux	_	_
+43	be	be	AUX	_	B	44	auxpass	_	_
+44	split	split	VERB	_	BN	41	xcomp	_	_
+45	by	by	ADP	_	N	44	agent	_	_
+46	date	date	NOUN	_	N	45	pobj	_	_
+47	or	or	CCONJ	_	C	44	cc	_	_
+48	rebilled	rebille	VERB	_	BD	44	conj	_	_
+49	to	to	ADP	_	N	48	prep	_	_
+50	the	the	DET	_	T	52	det	_	_
+51	correct	correct	ADJ	_	J	52	amod	_	_
+52	payer	payer	NOUN	_	N	49	pobj	_	_
+53	,	,	PUNCT	_	_	34	punct	_	_
+54	then	then	ADV	_	B	34	advmod	_	_
+55	file	file	VERB	_	B	34	dep	_	_
+56	a	a	DET	_	T	58	det	_	_
+57	late	late	ADJ	_	J	58	amod	_	_
+58	appeal	appeal	NOUN	_	N	55	dobj	_	_
+59	with	with	ADP	_	N	58	prep	_	_
+60	Highmark	highmark	PROPN	_	NP	61	nsubj	_	_
+61	citing	cite	VERB	_	BG	59	pcomp	_	_
+62	no	no	DET	_	T	65	det	_	_
+63	timely	timely	ADJ	_	J	65	amod	_	_
+64	mail	mail	NOUN	_	N	65	compound	_	_
+65	access	access	NOUN	_	N	61	dobj	_	_
+66	and	and	CCONJ	_	C	65	cc	_	_
+67	medical	medical	ADJ	_	J	68	amod	_	_
+68	incapacity	incapacity	NOUN	_	N	65	conj	_	_
+69	.	.	PUNCT	_	_	27	punct	_	_
+
+
+# sent_id = 6
+# text = do not ignore it.
+1	do	do	AUX	_	B	3	aux	_	_
+2	not	not	PART	_	B	3	neg	_	_
+3	ignore	ignore	VERB	_	B	0	root	_	_
+4	it	it	PRON	_	RP	3	dobj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+

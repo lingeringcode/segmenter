@@ -1,0 +1,107 @@
+# sent_id = 1
+# text = Thread_1
+1	Thread_1	thread_1	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 110
+1	110	110	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 100
+1	100	100	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Ch1Guy
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Ch1Guy	ch1guy	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = About 1 in 8 people are actively taking a GLP-1 drug.  
+1	About	about	ADV	_	B	2	advmod	_	_
+2	1	1	NUM	_	D	4	quantmod	_	_
+3	in	in	ADP	_	N	4	quantmod	_	_
+4	8	8	NUM	_	D	5	nummod	_	_
+5	people	people	NOUN	_	NS	8	nsubj	_	_
+6	are	be	AUX	_	BP	8	aux	_	_
+7	actively	actively	ADV	_	B	8	advmod	_	_
+8	taking	take	VERB	_	BG	0	root	_	_
+9	a	a	DET	_	T	11	det	_	_
+10	GLP-1	glp-1	PROPN	_	NP	11	compound	_	_
+11	drug	drug	NOUN	_	N	8	dobj	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+13	 	 	SPACE	_	SP	12	dep	_	_
+
+
+# sent_id = 6
+# text = It is massively expensive to employers and insurers.  
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	massively	massively	ADV	_	B	4	advmod	_	_
+4	expensive	expensive	ADJ	_	J	2	acomp	_	_
+5	to	to	ADP	_	N	4	prep	_	_
+6	employers	employer	NOUN	_	NS	5	pobj	_	_
+7	and	and	CCONJ	_	C	6	cc	_	_
+8	insurers	insurer	NOUN	_	NS	6	conj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+10	 	 	SPACE	_	SP	9	dep	_	_
+
+
+# sent_id = 7
+# text = As such many/most insurers are dropping cover or excluding it for weight loss.
+1	As	as	SCONJ	_	N	8	mark	_	_
+2	such	such	ADJ	_	J	6	amod	_	_
+3	many	many	ADJ	_	J	5	amod	_	_
+4	/	/	SYM	_	YM	5	punct	_	_
+5	most	most	ADJ	_	JS	6	amod	_	_
+6	insurers	insurer	NOUN	_	NS	8	nsubj	_	_
+7	are	be	AUX	_	BP	8	aux	_	_
+8	dropping	drop	VERB	_	BG	0	root	_	_
+9	cover	cover	NOUN	_	N	8	dobj	_	_
+10	or	or	CCONJ	_	C	8	cc	_	_
+11	excluding	exclude	VERB	_	BG	8	conj	_	_
+12	it	it	PRON	_	RP	11	dobj	_	_
+13	for	for	ADP	_	N	11	prep	_	_
+14	weight	weight	NOUN	_	N	15	compound	_	_
+15	loss	loss	NOUN	_	N	13	pobj	_	_
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 8
+# text = One in five (19%) firms over 200 workers covers GLP-1 agonists for weight loss  https://www.healthsystemtracker.org/brief/perspectives-from-employers-on-the-costs-and-issues-associated-with-covering-glp-1-agonists-for-weight-loss/ Appealing will not help if it explicitly excluded for coverage.
+1	One	one	NUM	_	D	11	nummod	_	_
+2	in	in	ADP	_	N	1	prep	_	_
+3	five	five	NUM	_	D	6	nummod	_	_
+4	(	(	PUNCT	_	LRB-	6	punct	_	_
+5	19	19	NUM	_	D	6	nummod	_	_
+6	%	%	NOUN	_	N	2	pobj	_	_
+7	)	)	PUNCT	_	RRB-	6	punct	_	_
+8	firms	firm	NOUN	_	NS	2	pobj	_	_
+9	over	over	ADP	_	N	10	quantmod	_	_
+10	200	200	NUM	_	D	11	nummod	_	_
+11	workers	worker	NOUN	_	NS	12	nsubj	_	_
+12	covers	cover	VERB	_	BZ	0	root	_	_
+13	GLP-1	glp-1	PROPN	_	NP	14	compound	_	_
+14	agonists	agonist	NOUN	_	NS	23	nsubj	_	_
+15	for	for	ADP	_	N	14	prep	_	_
+16	weight	weight	NOUN	_	N	17	compound	_	_
+17	loss	loss	NOUN	_	N	19	compound	_	_
+18	 	 	SPACE	_	SP	17	dep	_	_
+19	https://www.healthsystemtracker.org/brief/perspectives-from-employers-on-the-costs-and-issues-associated-with-covering-glp-1-agonists-for-weight-loss/	https://www.healthsystemtracker.org/brief/perspectives-from-employers-on-the-costs-and-issues-associated-with-covering-glp-1-agonists-for-weight-loss/	PROPN	_	NP	20	compound	_	_
+20	Appealing	appealing	PROPN	_	NP	15	pobj	_	_
+21	will	will	AUX	_	D	23	aux	_	_
+22	not	not	PART	_	B	23	neg	_	_
+23	help	help	VERB	_	B	12	ccomp	_	_
+24	if	if	SCONJ	_	N	27	mark	_	_
+25	it	it	PRON	_	RP	27	nsubj	_	_
+26	explicitly	explicitly	ADV	_	B	27	advmod	_	_
+27	excluded	exclude	VERB	_	BD	23	advcl	_	_
+28	for	for	ADP	_	N	27	prep	_	_
+29	coverage	coverage	NOUN	_	N	28	pobj	_	_
+30	.	.	PUNCT	_	_	12	punct	_	_
+
+

@@ -1,0 +1,52 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 302
+1	302	302	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 301
+1	301	301	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/versak
+1	u	u	NOUN	_	N	3	meta	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	versak	versak	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = She was initially authorized for like 6 and got approved for more, but beyond those we've been told it would be rejected period.
+1	She	she	PRON	_	RP	4	nsubjpass	_	_
+2	was	be	AUX	_	BD	4	auxpass	_	_
+3	initially	initially	ADV	_	B	4	advmod	_	_
+4	authorized	authorize	VERB	_	BN	0	root	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	like	like	INTJ	_	H	5	intj	_	_
+7	6	6	NUM	_	D	5	pobj	_	_
+8	and	and	CCONJ	_	C	4	cc	_	_
+9	got	get	AUX	_	BD	10	auxpass	_	_
+10	approved	approve	VERB	_	BN	4	conj	_	_
+11	for	for	ADP	_	N	10	prep	_	_
+12	more	more	ADJ	_	JR	11	pobj	_	_
+13	,	,	PUNCT	_	_	4	punct	_	_
+14	but	but	CCONJ	_	C	4	cc	_	_
+15	beyond	beyond	ADP	_	N	24	prep	_	_
+16	those	those	PRON	_	T	15	pobj	_	_
+17	we	we	PRON	_	RP	20	nsubjpass	_	_
+18	've	have	AUX	_	BP	20	aux	_	_
+19	been	be	AUX	_	BN	20	auxpass	_	_
+20	told	tell	VERB	_	BN	16	relcl	_	_
+21	it	it	PRON	_	RP	24	nsubjpass	_	_
+22	would	would	AUX	_	D	24	aux	_	_
+23	be	be	AUX	_	B	24	auxpass	_	_
+24	rejected	reject	VERB	_	BN	4	conj	_	_
+25	period	period	NOUN	_	N	24	dobj	_	_
+26	.	.	PUNCT	_	_	24	punct	_	_
+
+

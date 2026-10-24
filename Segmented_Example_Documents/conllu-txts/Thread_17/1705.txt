@@ -1,0 +1,60 @@
+# sent_id = 1
+# text = Thread_17
+1	Thread_17	thread_17	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1705
+1	1705	1705	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1700
+1	1700	1700	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/ria17110
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	ria17110	ria17110	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = Why wouldn’t Medicare be the primary insurance with Highmark secondary?
+1	Why	why	SCONJ	_	RB	5	advmod	_	_
+2	would	would	AUX	_	D	5	aux	_	_
+3	n’t	not	PART	_	B	5	neg	_	_
+4	Medicare	medicare	AUX	_	NP	5	aux	_	_
+5	be	be	AUX	_	B	0	root	_	_
+6	the	the	DET	_	T	8	det	_	_
+7	primary	primary	ADJ	_	J	8	amod	_	_
+8	insurance	insurance	NOUN	_	N	5	attr	_	_
+9	with	with	ADP	_	N	8	prep	_	_
+10	Highmark	highmark	PROPN	_	NP	9	pobj	_	_
+11	secondary	secondary	ADJ	_	J	5	acomp	_	_
+12	?	?	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = You are correct in thinking that whatever was effective coverage at start of hospitalization covers all of it
+1	You	you	PRON	_	RP	2	nsubj	_	_
+2	are	be	AUX	_	BP	0	root	_	_
+3	correct	correct	ADJ	_	J	2	acomp	_	_
+4	in	in	ADP	_	N	3	prep	_	_
+5	thinking	think	VERB	_	BG	4	pcomp	_	_
+6	that	that	SCONJ	_	N	15	mark	_	_
+7	whatever	whatever	PRON	_	DT	8	nsubj	_	_
+8	was	be	AUX	_	BD	15	csubj	_	_
+9	effective	effective	ADJ	_	J	10	amod	_	_
+10	coverage	coverage	NOUN	_	N	15	nsubj	_	_
+11	at	at	ADP	_	N	10	prep	_	_
+12	start	start	NOUN	_	N	11	pobj	_	_
+13	of	of	ADP	_	N	12	prep	_	_
+14	hospitalization	hospitalization	NOUN	_	N	13	pobj	_	_
+15	covers	cover	VERB	_	BZ	5	ccomp	_	_
+16	all	all	PRON	_	T	15	dobj	_	_
+17	of	of	ADP	_	N	16	prep	_	_
+18	it	it	PRON	_	RP	17	pobj	_	_
+
+

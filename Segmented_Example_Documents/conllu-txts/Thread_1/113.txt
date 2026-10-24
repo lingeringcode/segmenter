@@ -1,0 +1,199 @@
+# sent_id = 1
+# text = Thread_1
+1	Thread_1	thread_1	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 113
+1	113	113	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 100
+1	100	100	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/No-Produce-6720
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	No	no	NOUN	_	N	1	appos	_	_
+4	-	-	NOUN	_	N	1	punct	_	_
+5	Produce-6720	produce-6720	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = A majority of the denials that are issued for GLP1s are due to policy exclusions for weight loss, and in those cases, there is no appeal that will be successful.
+1	A	a	DET	_	T	2	det	_	_
+2	majority	majority	NOUN	_	N	11	nsubj	_	_
+3	of	of	ADP	_	N	2	prep	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	denials	denial	NOUN	_	NS	3	pobj	_	_
+6	that	that	PRON	_	DT	8	nsubjpass	_	_
+7	are	be	AUX	_	BP	8	auxpass	_	_
+8	issued	issue	VERB	_	BN	5	relcl	_	_
+9	for	for	ADP	_	N	8	prep	_	_
+10	GLP1s	glp1s	PROPN	_	NP	9	pobj	_	_
+11	are	be	AUX	_	BP	0	root	_	_
+12	due	due	ADJ	_	J	11	acomp	_	_
+13	to	to	ADP	_	N	12	prep	_	_
+14	policy	policy	NOUN	_	N	15	compound	_	_
+15	exclusions	exclusion	NOUN	_	NS	13	pobj	_	_
+16	for	for	ADP	_	N	15	prep	_	_
+17	weight	weight	NOUN	_	N	18	compound	_	_
+18	loss	loss	NOUN	_	N	16	pobj	_	_
+19	,	,	PUNCT	_	_	11	punct	_	_
+20	and	and	CCONJ	_	C	11	cc	_	_
+21	in	in	ADP	_	N	26	prep	_	_
+22	those	those	DET	_	T	23	det	_	_
+23	cases	case	NOUN	_	NS	21	pobj	_	_
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	there	there	PRON	_	X	26	expl	_	_
+26	is	be	VERB	_	BZ	11	conj	_	_
+27	no	no	DET	_	T	28	det	_	_
+28	appeal	appeal	NOUN	_	N	26	attr	_	_
+29	that	that	PRON	_	DT	31	nsubj	_	_
+30	will	will	AUX	_	D	31	aux	_	_
+31	be	be	AUX	_	B	28	relcl	_	_
+32	successful	successful	ADJ	_	J	31	acomp	_	_
+33	.	.	PUNCT	_	_	26	punct	_	_
+
+
+# sent_id = 6
+# text = Policy exclusions are brick walls that do not move.
+1	Policy	policy	NOUN	_	N	2	compound	_	_
+2	exclusions	exclusion	NOUN	_	NS	3	nsubj	_	_
+3	are	be	AUX	_	BP	0	root	_	_
+4	brick	brick	NOUN	_	N	5	compound	_	_
+5	walls	wall	NOUN	_	NS	3	attr	_	_
+6	that	that	PRON	_	DT	9	nsubj	_	_
+7	do	do	AUX	_	BP	9	aux	_	_
+8	not	not	PART	_	B	9	neg	_	_
+9	move	move	VERB	_	B	5	relcl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = Aside from that, your interpretation of the KFF data is off, because again, the majority of denials are due to policy exclusions.
+1	Aside	aside	ADV	_	B	11	advmod	_	_
+2	from	from	ADP	_	N	1	prep	_	_
+3	that	that	PRON	_	T	2	pobj	_	_
+4	,	,	PUNCT	_	_	11	punct	_	_
+5	your	your	PRON	_	RP$	6	poss	_	_
+6	interpretation	interpretation	NOUN	_	N	11	nsubj	_	_
+7	of	of	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	KFF	kff	PROPN	_	NP	10	compound	_	_
+10	data	datum	NOUN	_	NS	7	pobj	_	_
+11	is	be	AUX	_	BZ	0	root	_	_
+12	off	off	ADV	_	B	11	advmod	_	_
+13	,	,	PUNCT	_	_	11	punct	_	_
+14	because	because	SCONJ	_	N	21	mark	_	_
+15	again	again	ADV	_	B	21	advmod	_	_
+16	,	,	PUNCT	_	_	21	punct	_	_
+17	the	the	DET	_	T	18	det	_	_
+18	majority	majority	NOUN	_	N	21	nsubj	_	_
+19	of	of	ADP	_	N	18	prep	_	_
+20	denials	denial	NOUN	_	NS	19	pobj	_	_
+21	are	be	AUX	_	BP	11	advcl	_	_
+22	due	due	ADJ	_	J	21	acomp	_	_
+23	to	to	ADP	_	N	22	prep	_	_
+24	policy	policy	NOUN	_	N	25	compound	_	_
+25	exclusions	exclusion	NOUN	_	NS	23	pobj	_	_
+26	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 8
+# text = You're trying to go down a "rabbit hole" that you clearly don't understand.
+1	You	you	PRON	_	RP	3	nsubj	_	_
+2	're	be	AUX	_	BP	3	aux	_	_
+3	trying	try	VERB	_	BG	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	go	go	VERB	_	B	3	xcomp	_	_
+6	down	down	ADP	_	P	5	prt	_	_
+7	a	a	DET	_	T	10	det	_	_
+8	"	"	PUNCT	_	`	10	punct	_	_
+9	rabbit	rabbit	NOUN	_	N	10	compound	_	_
+10	hole	hole	NOUN	_	N	5	dobj	_	_
+11	"	"	PUNCT	_	'	10	punct	_	_
+12	that	that	PRON	_	DT	17	dobj	_	_
+13	you	you	PRON	_	RP	17	nsubj	_	_
+14	clearly	clearly	ADV	_	B	17	advmod	_	_
+15	do	do	AUX	_	BP	17	aux	_	_
+16	n't	not	PART	_	B	17	neg	_	_
+17	understand	understand	VERB	_	B	10	relcl	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = Any time a denial is appealed, be it for this or any other service or medication, the appeal must be tailored to the denial reason.
+1	Any	any	DET	_	T	2	det	_	_
+2	time	time	NOUN	_	N	8	nsubj	_	_
+3	a	a	DET	_	T	4	det	_	_
+4	denial	denial	NOUN	_	N	6	nsubjpass	_	_
+5	is	be	AUX	_	BZ	6	auxpass	_	_
+6	appealed	appeal	VERB	_	BN	2	relcl	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	be	be	AUX	_	B	23	advcl	_	_
+9	it	it	PRON	_	RP	8	nsubj	_	_
+10	for	for	ADP	_	N	8	prep	_	_
+11	this	this	PRON	_	T	10	pobj	_	_
+12	or	or	CCONJ	_	C	11	cc	_	_
+13	any	any	DET	_	T	15	det	_	_
+14	other	other	ADJ	_	J	15	amod	_	_
+15	service	service	NOUN	_	N	11	conj	_	_
+16	or	or	CCONJ	_	C	15	cc	_	_
+17	medication	medication	NOUN	_	N	15	conj	_	_
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	appeal	appeal	NOUN	_	N	23	nsubjpass	_	_
+21	must	must	AUX	_	D	23	aux	_	_
+22	be	be	AUX	_	B	23	auxpass	_	_
+23	tailored	tailor	VERB	_	BN	0	root	_	_
+24	to	to	ADP	_	N	23	prep	_	_
+25	the	the	DET	_	T	27	det	_	_
+26	denial	denial	NOUN	_	N	27	amod	_	_
+27	reason	reason	NOUN	_	N	24	pobj	_	_
+28	.	.	PUNCT	_	_	23	punct	_	_
+
+
+# sent_id = 10
+# text = I'm unsure why you would think that appealing a formulary denial would be handled in the same way that appealing a medical necessity denial would be, but they would absolutely require different responses.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	'm	be	AUX	_	BP	0	root	_	_
+3	unsure	unsure	ADJ	_	J	2	acomp	_	_
+4	why	why	SCONJ	_	RB	7	advmod	_	_
+5	you	you	PRON	_	RP	7	nsubj	_	_
+6	would	would	AUX	_	D	7	aux	_	_
+7	think	think	VERB	_	B	2	advcl	_	_
+8	that	that	SCONJ	_	N	15	mark	_	_
+9	appealing	appeal	VERB	_	BG	15	csubjpass	_	_
+10	a	a	DET	_	T	12	det	_	_
+11	formulary	formulary	ADJ	_	J	12	amod	_	_
+12	denial	denial	NOUN	_	N	9	dobj	_	_
+13	would	would	AUX	_	D	15	aux	_	_
+14	be	be	AUX	_	B	15	auxpass	_	_
+15	handled	handle	VERB	_	BN	7	ccomp	_	_
+16	in	in	ADP	_	N	15	prep	_	_
+17	the	the	DET	_	T	19	det	_	_
+18	same	same	ADJ	_	J	19	amod	_	_
+19	way	way	NOUN	_	N	16	pobj	_	_
+20	that	that	PRON	_	DT	27	mark	_	_
+21	appealing	appeal	VERB	_	BG	27	csubj	_	_
+22	a	a	DET	_	T	25	det	_	_
+23	medical	medical	ADJ	_	J	24	amod	_	_
+24	necessity	necessity	NOUN	_	N	25	compound	_	_
+25	denial	denial	NOUN	_	N	21	dobj	_	_
+26	would	would	AUX	_	D	27	aux	_	_
+27	be	be	AUX	_	B	19	relcl	_	_
+28	,	,	PUNCT	_	_	2	punct	_	_
+29	but	but	CCONJ	_	C	2	cc	_	_
+30	they	they	PRON	_	RP	33	nsubj	_	_
+31	would	would	AUX	_	D	33	aux	_	_
+32	absolutely	absolutely	ADV	_	B	33	advmod	_	_
+33	require	require	VERB	_	B	2	conj	_	_
+34	different	different	ADJ	_	J	35	amod	_	_
+35	responses	response	NOUN	_	NS	33	dobj	_	_
+36	.	.	PUNCT	_	_	33	punct	_	_
+
+

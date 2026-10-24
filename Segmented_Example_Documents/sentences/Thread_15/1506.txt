@@ -1,0 +1,17 @@
+Thread_15
+1506
+1500
+u/sarahjustme
+As someone who has been on the other side (doing prior authorization reviews for insurance companies) and seen bazillion of these type requests (something major that requires out of town/out of network, is complex and expensive) here's the main reasons things get denied
+1- most common by far, the requesting dr doesn't send in enough clinical information.
+Sometimes it's their staff not understanding what we need (and we reach out to them but lots of clinics have blanket policies about not respondingto insurance companies), sometimes its something little like a fax not going through (we reach out...), sometimes the requesting Dr doesn't even have a cess to the right information (we need the imaging report explaining the actual problem, or whatever to prove whatever the Dr wants, us reasonable
+2- theres a in network closer cheaper alternative.
+Say your patient has cancer and needs specialty chemo.
+If you just submit a request for specialty chemo at some far away cancer center, without evidence that the patient cant do the regular chemo available nearby, it'll get denied.
+Again, it comes down to lack of information,but especially if theres a better (from insurance perspective) option that needs to be considered first
+3- the Dr writing the request may assume the receiving Dr would understand the risks, eg chronic nerve pain --> permanent nerve damage.
+But the vast majority of the scut work is done by nurses, who are pretty strictly forbidden from interpretation.
+So if the clinical documents dont spell out the"why", it can cause problems.
+Advice: request a peer to peer (again, many clinics refuse to do these), or request an urgent appeal and make sure to emphasize the long term consequences of not getting this treatment
+Add: the reviewer is supposed to review, knowing your specific plan benefits, but in real life,the details of 100s of plans, especially custom plans like yours, do get overlooked.
+So things like your PPO benefits, might need to be spelled out

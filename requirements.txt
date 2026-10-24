@@ -1,0 +1,4 @@
+# 3.12.4
+syntaxcomp==0.0.1
+python-docx==1.2.0
+spacy-conll==4.0.1

@@ -1,0 +1,182 @@
+# sent_id = 1
+# text = Thread_9
+1	Thread_9	thread_9	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 902
+1	902	902	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 901
+1	901	901	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/p_kitty
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	p_kitty	p_kitty	NOUN	_	N	1	nummod	_	_
+
+
+# sent_id = 5
+# text = I am so painfully tired, my mental health is in pieces, and this is just one issue of many.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	am	be	AUX	_	BP	10	ccomp	_	_
+3	so	so	ADV	_	B	5	advmod	_	_
+4	painfully	painfully	ADV	_	B	5	advmod	_	_
+5	tired	tired	ADJ	_	J	2	acomp	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	my	my	PRON	_	RP$	9	poss	_	_
+8	mental	mental	ADJ	_	J	9	amod	_	_
+9	health	health	NOUN	_	N	10	nsubj	_	_
+10	is	be	AUX	_	BZ	0	root	_	_
+11	in	in	ADP	_	N	10	prep	_	_
+12	pieces	piece	NOUN	_	NS	11	pobj	_	_
+13	,	,	PUNCT	_	_	10	punct	_	_
+14	and	and	CCONJ	_	C	10	cc	_	_
+15	this	this	PRON	_	T	16	nsubj	_	_
+16	is	be	AUX	_	BZ	10	conj	_	_
+17	just	just	ADV	_	B	18	advmod	_	_
+18	one	one	NUM	_	D	19	nummod	_	_
+19	issue	issue	NOUN	_	N	16	attr	_	_
+20	of	of	ADP	_	N	19	prep	_	_
+21	many	many	ADJ	_	J	20	pobj	_	_
+22	.	.	PUNCT	_	_	16	punct	_	_
+
+
+# sent_id = 6
+# text = My life is a dumpster fire and I need to be done dealing with this.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	life	life	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	a	a	DET	_	T	6	det	_	_
+5	dumpster	dumpster	NOUN	_	N	6	compound	_	_
+6	fire	fire	NOUN	_	N	3	attr	_	_
+7	and	and	CCONJ	_	C	3	cc	_	_
+8	I	i	PRON	_	RP	9	nsubj	_	_
+9	need	need	VERB	_	BP	3	conj	_	_
+10	to	to	PART	_	O	12	aux	_	_
+11	be	be	AUX	_	B	12	auxpass	_	_
+12	done	do	VERB	_	BN	9	xcomp	_	_
+13	dealing	deal	VERB	_	BG	12	xcomp	_	_
+14	with	with	ADP	_	N	13	prep	_	_
+15	this	this	PRON	_	T	14	pobj	_	_
+16	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 7
+# text = Do companies that fight with insurance companies for you exist?
+1	Do	do	AUX	_	B	10	aux	_	_
+2	companies	company	NOUN	_	NS	10	nsubj	_	_
+3	that	that	PRON	_	DT	4	nsubj	_	_
+4	fight	fight	VERB	_	BP	2	relcl	_	_
+5	with	with	ADP	_	N	4	prep	_	_
+6	insurance	insurance	NOUN	_	N	7	compound	_	_
+7	companies	company	NOUN	_	NS	5	pobj	_	_
+8	for	for	ADP	_	N	7	prep	_	_
+9	you	you	PRON	_	RP	8	pobj	_	_
+10	exist	exist	VERB	_	BP	0	root	_	_
+11	?	?	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 8
+# text = If they do, are any of them even remotely trustworthy?
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	they	they	PRON	_	RP	3	nsubj	_	_
+3	do	do	VERB	_	BP	5	advcl	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	are	be	AUX	_	BP	0	root	_	_
+6	any	any	PRON	_	T	5	attr	_	_
+7	of	of	ADP	_	N	6	prep	_	_
+8	them	they	PRON	_	RP	7	pobj	_	_
+9	even	even	ADV	_	B	11	advmod	_	_
+10	remotely	remotely	ADV	_	B	11	advmod	_	_
+11	trustworthy	trustworthy	ADJ	_	J	5	acomp	_	_
+12	?	?	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 9
+# text = It feels like no one cares and it's not worth anyone's time to actually fix this because it's easier just to put me off.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	feels	feel	VERB	_	BZ	0	root	_	_
+3	like	like	SCONJ	_	N	6	mark	_	_
+4	no	no	DET	_	T	5	det	_	_
+5	one	one	NOUN	_	N	6	nsubj	_	_
+6	cares	care	VERB	_	BZ	2	advcl	_	_
+7	and	and	CCONJ	_	C	2	cc	_	_
+8	it	it	PRON	_	RP	9	nsubj	_	_
+9	's	be	AUX	_	BZ	2	conj	_	_
+10	not	not	PART	_	B	9	neg	_	_
+11	worth	worth	ADJ	_	J	9	acomp	_	_
+12	anyone	anyone	PRON	_	N	14	poss	_	_
+13	's	's	PART	_	OS	12	case	_	_
+14	time	time	NOUN	_	N	11	npadvmod	_	_
+15	to	to	PART	_	O	17	aux	_	_
+16	actually	actually	ADV	_	B	17	advmod	_	_
+17	fix	fix	VERB	_	B	14	relcl	_	_
+18	this	this	PRON	_	T	17	dobj	_	_
+19	because	because	SCONJ	_	N	21	mark	_	_
+20	it	it	PRON	_	RP	21	nsubj	_	_
+21	's	be	AUX	_	BZ	17	advcl	_	_
+22	easier	easy	ADJ	_	JR	21	acomp	_	_
+23	just	just	ADV	_	B	25	advmod	_	_
+24	to	to	PART	_	O	25	aux	_	_
+25	put	put	VERB	_	B	21	xcomp	_	_
+26	me	i	PRON	_	RP	25	dobj	_	_
+27	off	off	ADP	_	P	25	prt	_	_
+28	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 10
+# text = I'm feeling pretty hopeless right now.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	'm	be	AUX	_	BP	3	aux	_	_
+3	feeling	feel	VERB	_	BG	0	root	_	_
+4	pretty	pretty	ADV	_	B	5	advmod	_	_
+5	hopeless	hopeless	ADJ	_	J	3	acomp	_	_
+6	right	right	ADV	_	B	7	advmod	_	_
+7	now	now	ADV	_	B	3	advmod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 11
+# text = I don't expect I'm going to hear back from the Department of Labor, and I've already got bills that have gone to collections because this has been going on so long
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	do	do	AUX	_	BP	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	expect	expect	VERB	_	B	0	root	_	_
+5	I	i	PRON	_	RP	7	nsubj	_	_
+6	'm	be	AUX	_	BP	7	aux	_	_
+7	going	go	VERB	_	BG	4	ccomp	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	hear	hear	VERB	_	B	7	xcomp	_	_
+10	back	back	ADV	_	B	9	advmod	_	_
+11	from	from	ADP	_	N	10	prep	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	Department	department	PROPN	_	NP	11	pobj	_	_
+14	of	of	ADP	_	N	13	prep	_	_
+15	Labor	labor	PROPN	_	NP	14	pobj	_	_
+16	,	,	PUNCT	_	_	4	punct	_	_
+17	and	and	CCONJ	_	C	4	cc	_	_
+18	I	i	PRON	_	RP	21	nsubj	_	_
+19	've	have	AUX	_	BP	21	aux	_	_
+20	already	already	ADV	_	B	21	advmod	_	_
+21	got	get	VERB	_	BN	4	conj	_	_
+22	bills	bill	NOUN	_	NS	21	dobj	_	_
+23	that	that	PRON	_	DT	25	nsubj	_	_
+24	have	have	AUX	_	BP	25	aux	_	_
+25	gone	go	VERB	_	BN	22	relcl	_	_
+26	to	to	ADP	_	N	25	prep	_	_
+27	collections	collection	NOUN	_	NS	26	pobj	_	_
+28	because	because	SCONJ	_	N	32	mark	_	_
+29	this	this	PRON	_	T	32	nsubj	_	_
+30	has	have	AUX	_	BZ	32	aux	_	_
+31	been	be	AUX	_	BN	32	aux	_	_
+32	going	go	VERB	_	BG	25	advcl	_	_
+33	on	on	ADP	_	P	32	prt	_	_
+34	so	so	ADV	_	B	35	advmod	_	_
+35	long	long	ADV	_	B	32	advmod	_	_
+
+

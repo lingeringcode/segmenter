@@ -1,0 +1,180 @@
+# sent_id = 1
+# text = Thread_1
+1	Thread_1	thread_1	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 112
+1	112	112	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 100
+1	100	100	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Jujulabee
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Jujulabee	jujulabee	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = I don't think your statistics are credible especially since there is no context.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	do	do	AUX	_	BP	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	think	think	VERB	_	B	0	root	_	_
+5	your	your	PRON	_	RP$	6	poss	_	_
+6	statistics	statistic	NOUN	_	NS	7	nsubj	_	_
+7	are	be	AUX	_	BP	4	ccomp	_	_
+8	credible	credible	ADJ	_	J	7	acomp	_	_
+9	especially	especially	ADV	_	B	12	advmod	_	_
+10	since	since	SCONJ	_	N	12	mark	_	_
+11	there	there	PRON	_	X	12	expl	_	_
+12	is	be	VERB	_	BZ	7	advcl	_	_
+13	no	no	DET	_	T	14	det	_	_
+14	context	context	NOUN	_	N	12	attr	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 6
+# text = People are generally denied coverage of the weight loss medications because there is objective criteria - most commonly using the shots for weight loss is completely excluded.
+1	People	people	NOUN	_	NS	4	nsubjpass	_	_
+2	are	be	AUX	_	BP	4	auxpass	_	_
+3	generally	generally	ADV	_	B	4	advmod	_	_
+4	denied	deny	VERB	_	BN	0	root	_	_
+5	coverage	coverage	NOUN	_	N	4	dobj	_	_
+6	of	of	ADP	_	N	5	prep	_	_
+7	the	the	DET	_	T	10	det	_	_
+8	weight	weight	NOUN	_	N	9	compound	_	_
+9	loss	loss	NOUN	_	N	10	compound	_	_
+10	medications	medication	NOUN	_	NS	6	pobj	_	_
+11	because	because	SCONJ	_	N	13	mark	_	_
+12	there	there	PRON	_	X	13	expl	_	_
+13	is	be	VERB	_	BZ	4	advcl	_	_
+14	objective	objective	ADJ	_	J	15	amod	_	_
+15	criteria	criterion	NOUN	_	NS	13	attr	_	_
+16	-	-	PUNCT	_	_	15	punct	_	_
+17	most	most	ADV	_	BS	18	advmod	_	_
+18	commonly	commonly	ADV	_	B	19	advmod	_	_
+19	using	use	VERB	_	BG	15	acl	_	_
+20	the	the	DET	_	T	21	det	_	_
+21	shots	shot	NOUN	_	NS	19	dobj	_	_
+22	for	for	ADP	_	N	21	prep	_	_
+23	weight	weight	NOUN	_	N	24	compound	_	_
+24	loss	loss	NOUN	_	N	22	pobj	_	_
+25	is	be	AUX	_	BZ	27	auxpass	_	_
+26	completely	completely	ADV	_	B	27	advmod	_	_
+27	excluded	exclude	VERB	_	BN	4	conj	_	_
+28	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = You can't appeal an exclusion.
+1	You	you	PRON	_	RP	4	nsubj	_	_
+2	ca	can	AUX	_	D	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	appeal	appeal	VERB	_	B	0	root	_	_
+5	an	an	DET	_	T	6	det	_	_
+6	exclusion	exclusion	NOUN	_	N	4	dobj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 8
+# text = The weight loss shots for pre-diabetes or diabetes are generally covered and so an appeal if for whatever reason your stats are not interpreted correctly could be appealed.
+1	The	the	DET	_	T	3	det	_	_
+2	weight	weight	NOUN	_	N	3	compound	_	_
+3	loss	loss	NOUN	_	N	4	compound	_	_
+4	shots	shot	NOUN	_	NS	13	nsubjpass	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	pre	pre	ADJ	_	J	5	pobj	_	_
+7	-	-	ADJ	_	J	5	pobj	_	_
+8	diabetes	diabete	NOUN	_	NS	5	pobj	_	_
+9	or	or	CCONJ	_	C	8	cc	_	_
+10	diabetes	diabete	NOUN	_	NS	8	conj	_	_
+11	are	be	AUX	_	BP	13	auxpass	_	_
+12	generally	generally	ADV	_	B	13	advmod	_	_
+13	covered	cover	VERB	_	BN	30	ccomp	_	_
+14	and	and	CCONJ	_	C	13	cc	_	_
+15	so	so	ADV	_	B	17	advmod	_	_
+16	an	an	DET	_	T	17	det	_	_
+17	appeal	appeal	NOUN	_	N	13	conj	_	_
+18	if	if	SCONJ	_	N	26	mark	_	_
+19	for	for	ADP	_	N	26	prep	_	_
+20	whatever	whatever	DET	_	DT	21	det	_	_
+21	reason	reason	NOUN	_	N	19	pcomp	_	_
+22	your	your	PRON	_	RP$	23	poss	_	_
+23	stats	stat	NOUN	_	NS	26	nsubjpass	_	_
+24	are	be	AUX	_	BP	26	auxpass	_	_
+25	not	not	PART	_	B	26	neg	_	_
+26	interpreted	interpret	VERB	_	BN	17	acl	_	_
+27	correctly	correctly	ADV	_	B	26	advmod	_	_
+28	could	could	AUX	_	D	30	aux	_	_
+29	be	be	AUX	_	B	30	auxpass	_	_
+30	appealed	appeal	VERB	_	BN	0	root	_	_
+31	.	.	PUNCT	_	_	30	punct	_	_
+
+
+# sent_id = 9
+# text = Zepbound is often approved if someone has a diagnosis of obstructive sleep apnea even the meds are excluded for weight loss.
+1	Zepbound	zepbound	PROPN	_	NP	4	nsubjpass	_	_
+2	is	be	AUX	_	BZ	4	auxpass	_	_
+3	often	often	ADV	_	B	4	advmod	_	_
+4	approved	approve	VERB	_	BN	0	root	_	_
+5	if	if	SCONJ	_	N	7	mark	_	_
+6	someone	someone	PRON	_	N	7	nsubj	_	_
+7	has	have	VERB	_	BZ	4	advcl	_	_
+8	a	a	DET	_	T	9	det	_	_
+9	diagnosis	diagnosis	NOUN	_	N	7	dobj	_	_
+10	of	of	ADP	_	N	9	prep	_	_
+11	obstructive	obstructive	ADJ	_	J	13	amod	_	_
+12	sleep	sleep	NOUN	_	N	13	compound	_	_
+13	apnea	apnea	NOUN	_	N	10	pobj	_	_
+14	even	even	ADV	_	B	16	advmod	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	meds	med	NOUN	_	NS	18	nsubjpass	_	_
+17	are	be	AUX	_	BP	18	auxpass	_	_
+18	excluded	exclude	VERB	_	BN	7	conj	_	_
+19	for	for	ADP	_	N	18	prep	_	_
+20	weight	weight	NOUN	_	N	21	compound	_	_
+21	loss	loss	NOUN	_	N	19	pobj	_	_
+22	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 10
+# text = Generally requires pre-authorization but if properly done generally is approved and an appeal would be possible if the criteria were satisfied and for whatever reason not interpreted correctly.
+1	Generally	generally	ADV	_	B	2	advmod	_	_
+2	requires	require	VERB	_	BZ	0	root	_	_
+3	pre	pre	ADJ	_	J	2	dobj	_	_
+4	-	-	NOUN	_	N	2	dobj	_	_
+5	authorization	authorization	NOUN	_	N	2	dobj	_	_
+6	but	but	CCONJ	_	C	2	cc	_	_
+7	if	if	SCONJ	_	N	9	mark	_	_
+8	properly	properly	ADV	_	B	9	advmod	_	_
+9	done	do	VERB	_	BN	12	advcl	_	_
+10	generally	generally	ADV	_	B	12	advmod	_	_
+11	is	be	AUX	_	BZ	12	auxpass	_	_
+12	approved	approve	VERB	_	BN	2	conj	_	_
+13	and	and	CCONJ	_	C	12	cc	_	_
+14	an	an	DET	_	T	15	det	_	_
+15	appeal	appeal	NOUN	_	N	17	nsubj	_	_
+16	would	would	AUX	_	D	17	aux	_	_
+17	be	be	AUX	_	B	12	conj	_	_
+18	possible	possible	ADJ	_	J	17	acomp	_	_
+19	if	if	SCONJ	_	N	22	mark	_	_
+20	the	the	DET	_	T	21	det	_	_
+21	criteria	criterion	NOUN	_	NS	22	nsubj	_	_
+22	were	be	AUX	_	BD	17	advcl	_	_
+23	satisfied	satisfied	ADJ	_	J	22	acomp	_	_
+24	and	and	CCONJ	_	C	22	cc	_	_
+25	for	for	ADP	_	N	22	conj	_	_
+26	whatever	whatever	DET	_	DT	27	det	_	_
+27	reason	reason	NOUN	_	N	29	nsubj	_	_
+28	not	not	PART	_	B	29	neg	_	_
+29	interpreted	interpret	VERB	_	BN	25	pcomp	_	_
+30	correctly	correctly	ADV	_	B	29	advmod	_	_
+31	.	.	PUNCT	_	_	12	punct	_	_
+
+

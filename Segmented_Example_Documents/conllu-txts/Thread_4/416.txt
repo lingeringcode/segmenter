@@ -1,0 +1,129 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 416
+1	416	416	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 415
+1	415	415	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/PercentageKey6011
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	PercentageKey6011	percentagekey6011	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = Be prepared with letters from the dr.
+1	Be	be	AUX	_	B	2	auxpass	_	_
+2	prepared	prepare	VERB	_	BN	0	root	_	_
+3	with	with	ADP	_	N	2	prep	_	_
+4	letters	letter	NOUN	_	NS	3	pobj	_	_
+5	from	from	ADP	_	N	4	prep	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	dr	dr	PROPN	_	NP	5	pobj	_	_
+8	.	.	PROPN	_	NP	2	punct	_	_
+
+
+# sent_id = 6
+# text = First denial was experimental but when I appealed, the initial review came back as not medically necessary.
+1	First	first	ADJ	_	J	2	amod	_	_
+2	denial	denial	NOUN	_	N	3	nsubj	_	_
+3	was	be	AUX	_	BD	0	root	_	_
+4	experimental	experimental	ADJ	_	J	3	acomp	_	_
+5	but	but	CCONJ	_	C	3	cc	_	_
+6	when	when	SCONJ	_	RB	8	advmod	_	_
+7	I	i	PRON	_	RP	8	nsubj	_	_
+8	appealed	appeal	VERB	_	BD	13	advcl	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	initial	initial	ADJ	_	J	12	amod	_	_
+12	review	review	NOUN	_	N	13	nsubj	_	_
+13	came	come	VERB	_	BD	3	conj	_	_
+14	back	back	ADV	_	B	13	advmod	_	_
+15	as	as	ADP	_	N	13	prep	_	_
+16	not	not	PART	_	B	15	neg	_	_
+17	medically	medically	ADV	_	B	18	advmod	_	_
+18	necessary	necessary	ADJ	_	J	15	amod	_	_
+19	.	.	PUNCT	_	_	13	punct	_	_
+
+
+# sent_id = 7
+# text = Dr did another letter, highlighting cosmetic and local pressure concerns.
+1	Dr	dr	PROPN	_	NP	2	nsubj	_	_
+2	did	do	VERB	_	BD	0	root	_	_
+3	another	another	DET	_	T	4	det	_	_
+4	letter	letter	NOUN	_	N	2	dobj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	highlighting	highlight	VERB	_	BG	2	advcl	_	_
+7	cosmetic	cosmetic	ADJ	_	J	11	amod	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	local	local	ADJ	_	J	7	conj	_	_
+10	pressure	pressure	NOUN	_	N	11	compound	_	_
+11	concerns	concern	NOUN	_	NS	6	dobj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 8
+# text = Also that RAI is not the same thing as it creates another medical condition.
+1	Also	also	ADV	_	B	4	advmod	_	_
+2	that	that	SCONJ	_	N	4	mark	_	_
+3	RAI	rai	PROPN	_	NP	4	nsubj	_	_
+4	is	be	AUX	_	BZ	0	root	_	_
+5	not	not	PART	_	B	4	neg	_	_
+6	the	the	DET	_	T	8	det	_	_
+7	same	same	ADJ	_	J	8	amod	_	_
+8	thing	thing	NOUN	_	N	4	attr	_	_
+9	as	as	SCONJ	_	N	11	mark	_	_
+10	it	it	PRON	_	RP	11	nsubj	_	_
+11	creates	create	VERB	_	BZ	4	advcl	_	_
+12	another	another	DET	_	T	14	det	_	_
+13	medical	medical	ADJ	_	J	14	amod	_	_
+14	condition	condition	NOUN	_	N	11	dobj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = Good luck, it took a lot of energy and stress.
+1	Good	good	ADJ	_	J	2	amod	_	_
+2	luck	luck	NOUN	_	N	5	dep	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	it	it	PRON	_	RP	5	nsubj	_	_
+5	took	take	VERB	_	BD	0	root	_	_
+6	a	a	DET	_	T	7	det	_	_
+7	lot	lot	NOUN	_	N	5	dobj	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	energy	energy	NOUN	_	N	8	pobj	_	_
+10	and	and	CCONJ	_	C	9	cc	_	_
+11	stress	stress	NOUN	_	N	9	conj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 10
+# text = Now I’m going for the other side… who knows if they will cover it.
+1	Now	now	ADV	_	B	4	advmod	_	_
+2	I	i	PRON	_	RP	4	nsubj	_	_
+3	’m	’m	AUX	_	BZ	4	aux	_	_
+4	going	go	VERB	_	BG	0	root	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	the	the	DET	_	T	8	det	_	_
+7	other	other	ADJ	_	J	8	amod	_	_
+8	side	side	NOUN	_	N	5	pobj	_	_
+9	…	…	PUNCT	_	FP	8	punct	_	_
+10	who	who	PRON	_	P	11	nsubj	_	_
+11	knows	know	VERB	_	BZ	8	relcl	_	_
+12	if	if	SCONJ	_	N	15	mark	_	_
+13	they	they	PRON	_	RP	15	nsubj	_	_
+14	will	will	AUX	_	D	15	aux	_	_
+15	cover	cover	VERB	_	B	11	ccomp	_	_
+16	it	it	PRON	_	RP	15	dobj	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+

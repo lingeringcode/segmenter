@@ -1,0 +1,47 @@
+# sent_id = 1
+# text = Thread_8
+1	Thread_8	thread_8	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 801
+1	801	801	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 800
+1	800	800	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/LacyLove
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	LacyLove	lacylove	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = Why are they denying it?
+1	Why	why	SCONJ	_	RB	4	advmod	_	_
+2	are	be	AUX	_	BP	4	aux	_	_
+3	they	they	PRON	_	RP	4	nsubj	_	_
+4	denying	deny	VERB	_	BG	0	root	_	_
+5	it	it	PRON	_	RP	4	dobj	_	_
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 6
+# text = Why are you getting one so soon after the first?
+1	Why	why	SCONJ	_	RB	4	advmod	_	_
+2	are	be	AUX	_	BP	4	aux	_	_
+3	you	you	PRON	_	RP	4	nsubj	_	_
+4	getting	get	VERB	_	BG	0	root	_	_
+5	one	one	NUM	_	D	4	dobj	_	_
+6	so	so	ADV	_	B	7	advmod	_	_
+7	soon	soon	ADV	_	B	4	advmod	_	_
+8	after	after	ADP	_	N	4	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	first	first	ADJ	_	J	8	pobj	_	_
+11	?	?	PUNCT	_	_	4	punct	_	_
+
+

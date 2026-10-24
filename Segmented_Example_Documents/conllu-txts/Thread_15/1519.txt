@@ -1,0 +1,123 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1519
+1	1519	1519	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1518
+1	1518	1518	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Maleficent-Caramel37
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Maleficent	maleficent	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Caramel37	caramel37	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Thank you, This gives us hope.
+1	Thank	thank	VERB	_	BP	0	root	_	_
+2	you	you	PRON	_	RP	1	dobj	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	This	this	PRON	_	T	5	nsubj	_	_
+5	gives	give	VERB	_	BZ	1	ccomp	_	_
+6	us	we	PRON	_	RP	5	dative	_	_
+7	hope	hope	NOUN	_	N	5	dobj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = Yes, we had to send all images and clinical notes prior for his review for appointment request was approved.
+1	Yes	yes	INTJ	_	H	4	intj	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	we	we	PRON	_	RP	4	nsubj	_	_
+4	had	have	VERB	_	BD	0	root	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	send	send	VERB	_	B	4	xcomp	_	_
+7	all	all	DET	_	T	8	det	_	_
+8	images	image	NOUN	_	NS	6	dobj	_	_
+9	and	and	CCONJ	_	C	8	cc	_	_
+10	clinical	clinical	ADJ	_	J	11	amod	_	_
+11	notes	note	NOUN	_	NS	8	conj	_	_
+12	prior	prior	ADV	_	B	6	advmod	_	_
+13	for	for	ADP	_	N	12	prep	_	_
+14	his	his	PRON	_	RP$	15	poss	_	_
+15	review	review	NOUN	_	N	13	pobj	_	_
+16	for	for	ADP	_	N	15	prep	_	_
+17	appointment	appointment	NOUN	_	N	18	compound	_	_
+18	request	request	NOUN	_	N	16	pobj	_	_
+19	was	be	AUX	_	BD	20	auxpass	_	_
+20	approved	approve	VERB	_	BN	4	ccomp	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = Husband has already reach out the the union ba.
+1	Husband	husband	PROPN	_	NP	4	nsubj	_	_
+2	has	have	AUX	_	BZ	4	aux	_	_
+3	already	already	ADV	_	B	4	advmod	_	_
+4	reach	reach	VERB	_	B	0	root	_	_
+5	out	out	ADP	_	P	4	prt	_	_
+6	the	the	DET	_	T	9	det	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	union	union	NOUN	_	N	9	compound	_	_
+9	ba	ba	PROPN	_	NP	4	dobj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 8
+# text = We are prepared to cancel
+1	We	we	PRON	_	RP	2	nsubj	_	_
+2	are	be	AUX	_	BP	0	root	_	_
+3	prepared	prepared	ADJ	_	J	2	acomp	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	cancel	cancel	VERB	_	B	3	xcomp	_	_
+
+
+# sent_id = 9
+# text = but i just hope I dont have to disappoint her again.
+1	but	but	CCONJ	_	C	4	cc	_	_
+2	i	i	PRON	_	RP	4	nsubj	_	_
+3	just	just	ADV	_	B	4	advmod	_	_
+4	hope	hope	VERB	_	BP	0	root	_	_
+5	I	i	PRON	_	RP	8	nsubj	_	_
+6	do	do	AUX	_	BP	8	aux	_	_
+7	nt	not	PART	_	B	8	neg	_	_
+8	have	have	VERB	_	B	4	ccomp	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	disappoint	disappoint	VERB	_	B	8	xcomp	_	_
+11	her	she	PRON	_	RP	10	dobj	_	_
+12	again	again	ADV	_	B	10	advmod	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 10
+# text = We have had to jump through hoops just to get here because her injury is so rare.
+1	We	we	PRON	_	RP	3	nsubj	_	_
+2	have	have	AUX	_	BP	3	aux	_	_
+3	had	have	VERB	_	BN	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	jump	jump	VERB	_	B	3	xcomp	_	_
+6	through	through	ADP	_	N	5	prep	_	_
+7	hoops	hoop	NOUN	_	NS	6	pobj	_	_
+8	just	just	ADV	_	B	10	advmod	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	get	get	VERB	_	B	5	advcl	_	_
+11	here	here	ADV	_	B	10	advmod	_	_
+12	because	because	SCONJ	_	N	15	mark	_	_
+13	her	her	PRON	_	RP$	14	poss	_	_
+14	injury	injury	NOUN	_	N	15	nsubj	_	_
+15	is	be	AUX	_	BZ	3	advcl	_	_
+16	so	so	ADV	_	B	17	advmod	_	_
+17	rare	rare	ADJ	_	J	15	acomp	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+

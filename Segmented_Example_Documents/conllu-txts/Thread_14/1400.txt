@@ -1,0 +1,337 @@
+# sent_id = 1
+# text = Thread_14
+1	Thread_14	thread_14	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 1400
+1	1400	1400	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/AdDesigner9976
+1	u	u	NOUN	_	N	3	punct	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	AdDesigner9976	addesigner9976	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Appeal help!
+1	Appeal	appeal	NOUN	_	N	2	compound	_	_
+2	help	help	NOUN	_	N	0	root	_	_
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = Medical denying dental procedure performed in hospital
+1	Medical	medical	PROPN	_	NP	2	nsubj	_	_
+2	denying	deny	VERB	_	BG	0	root	_	_
+3	dental	dental	ADJ	_	J	4	amod	_	_
+4	procedure	procedure	NOUN	_	N	2	dobj	_	_
+5	performed	perform	VERB	_	BN	4	acl	_	_
+6	in	in	ADP	_	N	5	prep	_	_
+7	hospital	hospital	NOUN	_	N	6	pobj	_	_
+
+
+# sent_id = 7
+# text = Hi all, hoping for tips on a medical insurance denial.
+1	Hi	hi	INTJ	_	H	0	root	_	_
+2	all	all	PRON	_	T	1	npadvmod	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	hoping	hop	VERB	_	BG	1	advcl	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	tips	tip	NOUN	_	NS	5	pobj	_	_
+7	on	on	ADP	_	N	6	prep	_	_
+8	a	a	DET	_	T	11	det	_	_
+9	medical	medical	ADJ	_	J	10	amod	_	_
+10	insurance	insurance	NOUN	_	N	11	compound	_	_
+11	denial	denial	NOUN	_	N	7	pobj	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 8
+# text = Backstory: My son has a heart condition.
+1	Backstory	backstory	NOUN	_	N	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	My	my	PRON	_	RP$	4	poss	_	_
+4	son	son	NOUN	_	N	5	nsubj	_	_
+5	has	have	AUX	_	BZ	1	acl	_	_
+6	a	a	DET	_	T	8	det	_	_
+7	heart	heart	NOUN	_	N	8	compound	_	_
+8	condition	condition	NOUN	_	N	5	dobj	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 9
+# text = He needed to have his wisdom teeth pulled, and the oral surgeon performs the surgery at our local children's hospital for cases like his in case cardiology staff is needed.
+1	He	he	PRON	_	RP	2	nsubj	_	_
+2	needed	need	VERB	_	BD	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	have	have	VERB	_	B	2	xcomp	_	_
+5	his	his	PRON	_	RP$	7	poss	_	_
+6	wisdom	wisdom	NOUN	_	N	7	compound	_	_
+7	teeth	tooth	NOUN	_	NS	8	nsubj	_	_
+8	pulled	pull	VERB	_	BD	4	ccomp	_	_
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	and	and	CCONJ	_	C	2	cc	_	_
+11	the	the	DET	_	T	13	det	_	_
+12	oral	oral	ADJ	_	J	13	amod	_	_
+13	surgeon	surgeon	NOUN	_	N	14	nsubj	_	_
+14	performs	perform	VERB	_	BZ	2	conj	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	surgery	surgery	NOUN	_	N	14	dobj	_	_
+17	at	at	ADP	_	N	14	prep	_	_
+18	our	our	PRON	_	RP$	20	poss	_	_
+19	local	local	ADJ	_	J	20	amod	_	_
+20	children	child	NOUN	_	NS	22	poss	_	_
+21	's	's	PART	_	OS	20	case	_	_
+22	hospital	hospital	NOUN	_	N	17	pobj	_	_
+23	for	for	ADP	_	N	14	prep	_	_
+24	cases	case	NOUN	_	NS	23	pobj	_	_
+25	like	like	ADP	_	N	24	prep	_	_
+26	his	his	PRON	_	RP$	30	poss	_	_
+27	in	in	ADP	_	N	30	nmod	_	_
+28	case	case	NOUN	_	N	27	pobj	_	_
+29	cardiology	cardiology	NOUN	_	N	30	compound	_	_
+30	staff	staff	NOUN	_	N	32	nsubjpass	_	_
+31	is	be	AUX	_	BZ	32	auxpass	_	_
+32	needed	need	VERB	_	BN	14	conj	_	_
+33	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 10
+# text = We got the initial estimate from the children's hospital that said everything would be covered by Kaiser and we'd owe nothing.
+1	We	we	PRON	_	RP	2	nsubj	_	_
+2	got	get	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	initial	initial	ADJ	_	J	5	amod	_	_
+5	estimate	estimate	NOUN	_	N	2	dobj	_	_
+6	from	from	ADP	_	N	5	prep	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	children	child	NOUN	_	NS	10	poss	_	_
+9	's	's	PART	_	OS	8	case	_	_
+10	hospital	hospital	NOUN	_	N	6	pobj	_	_
+11	that	that	PRON	_	DT	12	nsubj	_	_
+12	said	say	VERB	_	BD	5	relcl	_	_
+13	everything	everything	PRON	_	N	16	nsubjpass	_	_
+14	would	would	AUX	_	D	16	aux	_	_
+15	be	be	AUX	_	B	16	auxpass	_	_
+16	covered	cover	VERB	_	BN	12	ccomp	_	_
+17	by	by	ADP	_	N	16	agent	_	_
+18	Kaiser	kaiser	PROPN	_	NP	17	pobj	_	_
+19	and	and	CCONJ	_	C	2	cc	_	_
+20	we	we	PRON	_	RP	22	nsubj	_	_
+21	'd	would	AUX	_	D	22	aux	_	_
+22	owe	owe	VERB	_	B	2	conj	_	_
+23	nothing	nothing	PRON	_	N	22	dobj	_	_
+24	.	.	PUNCT	_	_	22	punct	_	_
+
+
+# sent_id = 11
+# text = Yes, fine print says it's still our responsibility to ensure coverage, and I own that I didn't and assumed this would be covered.
+1	Yes	yes	INTJ	_	H	5	intj	_	_
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	fine	fine	ADJ	_	J	4	amod	_	_
+4	print	print	NOUN	_	N	5	nsubj	_	_
+5	says	say	VERB	_	BZ	0	root	_	_
+6	it	it	PRON	_	RP	7	nsubj	_	_
+7	's	be	AUX	_	BZ	5	ccomp	_	_
+8	still	still	ADV	_	B	7	advmod	_	_
+9	our	our	PRON	_	RP$	10	poss	_	_
+10	responsibility	responsibility	NOUN	_	N	7	attr	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	ensure	ensure	VERB	_	B	10	acl	_	_
+13	coverage	coverage	NOUN	_	N	12	dobj	_	_
+14	,	,	PUNCT	_	_	5	punct	_	_
+15	and	and	CCONJ	_	C	5	cc	_	_
+16	I	i	PRON	_	RP	17	nsubj	_	_
+17	own	own	VERB	_	BP	5	conj	_	_
+18	that	that	SCONJ	_	N	20	mark	_	_
+19	I	i	PRON	_	RP	20	nsubj	_	_
+20	did	do	VERB	_	BD	17	ccomp	_	_
+21	n't	not	PART	_	B	20	neg	_	_
+22	and	and	CCONJ	_	C	20	cc	_	_
+23	assumed	assume	VERB	_	BD	20	conj	_	_
+24	this	this	PRON	_	T	27	nsubjpass	_	_
+25	would	would	AUX	_	D	27	aux	_	_
+26	be	be	AUX	_	B	27	auxpass	_	_
+27	covered	cover	VERB	_	BN	23	ccomp	_	_
+28	.	.	PUNCT	_	_	17	punct	_	_
+
+
+# sent_id = 12
+# text = This is new to us as he was just diagnosed late 2025 so we've never encountered anything like this (thankfully very healthy family otherwise!).
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	new	new	ADJ	_	J	2	acomp	_	_
+4	to	to	ADP	_	N	3	prep	_	_
+5	us	we	PRON	_	RP	4	pobj	_	_
+6	as	as	SCONJ	_	N	10	mark	_	_
+7	he	he	PRON	_	RP	10	nsubjpass	_	_
+8	was	be	AUX	_	BD	10	auxpass	_	_
+9	just	just	ADV	_	B	10	advmod	_	_
+10	diagnosed	diagnose	VERB	_	BN	2	advcl	_	_
+11	late	late	ADJ	_	J	12	amod	_	_
+12	2025	2025	NUM	_	D	10	npadvmod	_	_
+13	so	so	SCONJ	_	N	17	mark	_	_
+14	we	we	PRON	_	RP	17	nsubj	_	_
+15	've	have	AUX	_	BP	17	aux	_	_
+16	never	never	ADV	_	B	17	neg	_	_
+17	encountered	encounter	VERB	_	BN	2	advcl	_	_
+18	anything	anything	PRON	_	N	17	dobj	_	_
+19	like	like	ADP	_	N	18	prep	_	_
+20	this	this	PRON	_	T	19	pobj	_	_
+21	(	(	PUNCT	_	LRB-	25	punct	_	_
+22	thankfully	thankfully	ADV	_	B	24	advmod	_	_
+23	very	very	ADV	_	B	24	advmod	_	_
+24	healthy	healthy	ADJ	_	J	25	amod	_	_
+25	family	family	NOUN	_	N	20	appos	_	_
+26	otherwise	otherwise	ADV	_	B	17	advmod	_	_
+27	!	!	PUNCT	_	_	17	punct	_	_
+28	)	)	PUNCT	_	RRB-	17	punct	_	_
+29	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 13
+# text = Well, he had the procedure and now Kaiser is denying $10k operating room usage code after the fact.
+1	Well	well	INTJ	_	H	4	intj	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	he	he	PRON	_	RP	4	nsubj	_	_
+4	had	have	VERB	_	BD	0	root	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	procedure	procedure	NOUN	_	N	4	dobj	_	_
+7	and	and	CCONJ	_	C	4	cc	_	_
+8	now	now	ADV	_	B	11	advmod	_	_
+9	Kaiser	kaiser	PROPN	_	NP	11	nsubj	_	_
+10	is	be	AUX	_	BZ	11	aux	_	_
+11	denying	deny	VERB	_	BG	4	conj	_	_
+12	$	$	SYM	_	_	13	nmod	_	_
+13	10k	10k	NOUN	_	NS	17	compound	_	_
+14	operating	operating	NOUN	_	N	15	compound	_	_
+15	room	room	NOUN	_	N	16	compound	_	_
+16	usage	usage	NOUN	_	N	17	compound	_	_
+17	code	code	NOUN	_	N	11	dobj	_	_
+18	after	after	ADP	_	N	11	prep	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	fact	fact	NOUN	_	N	18	pobj	_	_
+21	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 14
+# text = They've said we need to have the children's hospital bill our dental insurance for that.
+1	They	they	PRON	_	RP	3	nsubj	_	_
+2	've	have	AUX	_	BP	3	aux	_	_
+3	said	say	VERB	_	BN	0	root	_	_
+4	we	we	PRON	_	RP	5	nsubj	_	_
+5	need	need	VERB	_	BP	3	ccomp	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	have	have	VERB	_	B	5	xcomp	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	children	child	NOUN	_	NS	12	poss	_	_
+10	's	's	PART	_	OS	9	case	_	_
+11	hospital	hospital	NOUN	_	N	12	compound	_	_
+12	bill	bill	NOUN	_	N	7	dobj	_	_
+13	our	our	PRON	_	RP$	15	poss	_	_
+14	dental	dental	ADJ	_	J	15	amod	_	_
+15	insurance	insurance	NOUN	_	N	12	appos	_	_
+16	for	for	ADP	_	N	15	prep	_	_
+17	that	that	PRON	_	T	16	pobj	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 15
+# text = The children's hospital says it's a medical coded procedure so they can't bill dental for it.
+1	The	the	DET	_	T	2	det	_	_
+2	children	child	NOUN	_	NS	4	poss	_	_
+3	's	's	PART	_	OS	2	case	_	_
+4	hospital	hospital	NOUN	_	N	5	nsubj	_	_
+5	says	say	VERB	_	BZ	0	root	_	_
+6	it	it	PRON	_	RP	7	nsubj	_	_
+7	's	be	AUX	_	BZ	5	ccomp	_	_
+8	a	a	DET	_	T	11	det	_	_
+9	medical	medical	ADJ	_	J	11	amod	_	_
+10	coded	cod	VERB	_	BN	11	amod	_	_
+11	procedure	procedure	NOUN	_	N	7	attr	_	_
+12	so	so	SCONJ	_	N	16	mark	_	_
+13	they	they	PRON	_	RP	16	nsubj	_	_
+14	ca	can	AUX	_	D	16	aux	_	_
+15	n't	not	PART	_	B	16	neg	_	_
+16	bill	bill	VERB	_	B	7	advcl	_	_
+17	dental	dental	ADJ	_	J	16	acomp	_	_
+18	for	for	ADP	_	N	16	prep	_	_
+19	it	it	PRON	_	RP	18	pobj	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 16
+# text = So now I think we're at the point where we need to appeal to Kaiser.
+1	So	so	ADV	_	B	4	advmod	_	_
+2	now	now	ADV	_	B	4	advmod	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	think	think	VERB	_	BP	0	root	_	_
+5	we	we	PRON	_	RP	6	nsubj	_	_
+6	're	be	AUX	_	BP	4	ccomp	_	_
+7	at	at	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	point	point	NOUN	_	N	7	pobj	_	_
+10	where	where	SCONJ	_	RB	12	advmod	_	_
+11	we	we	PRON	_	RP	12	nsubj	_	_
+12	need	need	VERB	_	BP	9	relcl	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	appeal	appeal	VERB	_	B	12	xcomp	_	_
+15	to	to	ADP	_	N	14	prep	_	_
+16	Kaiser	kaiser	PROPN	_	NP	15	pobj	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 17
+# text = Their instructions to appeal are lack-luster at best.
+1	Their	their	PRON	_	RP$	2	poss	_	_
+2	instructions	instruction	NOUN	_	NS	5	nsubj	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	appeal	appeal	VERB	_	B	2	acl	_	_
+5	are	be	AUX	_	BP	0	root	_	_
+6	lack	lack	NOUN	_	N	8	compound	_	_
+7	-	-	PUNCT	_	YPH	8	punct	_	_
+8	luster	luster	NOUN	_	N	5	attr	_	_
+9	at	at	ADV	_	B	10	advmod	_	_
+10	best	well	ADV	_	BS	5	advmod	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 18
+# text = Does anyone have tips on what we need to provide with the appeal to get this thing covered?
+1	Does	do	AUX	_	BZ	3	aux	_	_
+2	anyone	anyone	PRON	_	N	3	nsubj	_	_
+3	have	have	VERB	_	B	0	root	_	_
+4	tips	tip	NOUN	_	NS	3	dobj	_	_
+5	on	on	ADP	_	N	4	prep	_	_
+6	what	what	PRON	_	P	10	dobj	_	_
+7	we	we	PRON	_	RP	8	nsubj	_	_
+8	need	need	VERB	_	BP	5	pcomp	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	provide	provide	VERB	_	B	8	xcomp	_	_
+11	with	with	ADP	_	N	10	prep	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	appeal	appeal	NOUN	_	N	11	pobj	_	_
+14	to	to	PART	_	O	15	aux	_	_
+15	get	get	VERB	_	B	10	advcl	_	_
+16	this	this	DET	_	T	17	det	_	_
+17	thing	thing	NOUN	_	N	18	nsubj	_	_
+18	covered	cover	VERB	_	BN	15	ccomp	_	_
+19	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 19
+# text = Appreciate any info!
+1	Appreciate	appreciate	VERB	_	B	0	root	_	_
+2	any	any	DET	_	T	3	det	_	_
+3	info	info	NOUN	_	N	1	dobj	_	_
+4	!	!	PUNCT	_	_	1	punct	_	_
+
+

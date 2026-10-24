@@ -1,0 +1,60 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1504
+1	1504	1504	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1503
+1	1503	1503	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Maleficent-Caramel37
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Maleficent	maleficent	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Caramel37	caramel37	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = No pdf in portal.
+1	No	no	DET	_	T	2	det	_	_
+2	pdf	pdf	NOUN	_	N	0	root	_	_
+3	in	in	ADP	_	N	2	prep	_	_
+4	portal	portal	NOUN	_	N	3	pobj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = Just a generic denial with medically not necessary with if you disagree please call the number on the back of your card.
+1	Just	just	ADV	_	B	4	advmod	_	_
+2	a	a	DET	_	T	4	det	_	_
+3	generic	generic	ADJ	_	J	4	amod	_	_
+4	denial	denial	NOUN	_	N	0	root	_	_
+5	with	with	ADP	_	N	4	prep	_	_
+6	medically	medically	ADV	_	B	5	pcomp	_	_
+7	not	not	PART	_	B	8	neg	_	_
+8	necessary	necessary	ADJ	_	J	4	amod	_	_
+9	with	with	SCONJ	_	N	14	mark	_	_
+10	if	if	SCONJ	_	N	12	mark	_	_
+11	you	you	PRON	_	RP	12	nsubj	_	_
+12	disagree	disagree	VERB	_	BP	14	advcl	_	_
+13	please	please	INTJ	_	H	14	intj	_	_
+14	call	call	VERB	_	B	4	advcl	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	number	number	NOUN	_	N	14	dobj	_	_
+17	on	on	ADP	_	N	14	prep	_	_
+18	the	the	DET	_	T	19	det	_	_
+19	back	back	NOUN	_	N	17	pobj	_	_
+20	of	of	ADP	_	N	19	prep	_	_
+21	your	your	PRON	_	RP$	22	poss	_	_
+22	card	card	NOUN	_	N	20	pobj	_	_
+23	.	.	PUNCT	_	_	4	punct	_	_
+
+

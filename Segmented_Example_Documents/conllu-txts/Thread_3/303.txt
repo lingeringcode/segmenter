@@ -1,0 +1,151 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 303
+1	303	303	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 300
+1	300	300	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/caninearchery6
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	caninearchery6	caninearchery6	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = Jesus, that's a nightmare.
+1	Jesus	jesus	PROPN	_	NP	4	npadvmod	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	that	that	PRON	_	T	4	nsubj	_	_
+4	's	be	AUX	_	BZ	0	root	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	nightmare	nightmare	NOUN	_	N	4	attr	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 6
+# text = The 14-day pre-auth window for an injury where she can't move her arm is just cruel.
+1	The	the	DET	_	T	8	det	_	_
+2	14	14	NUM	_	D	4	nummod	_	_
+3	-	-	PUNCT	_	YPH	4	punct	_	_
+4	day	day	NOUN	_	N	8	nmod	_	_
+5	pre	pre	ADJ	_	J	8	amod	_	_
+6	-	-	ADJ	_	J	8	amod	_	_
+7	auth	auth	ADJ	_	J	8	amod	_	_
+8	window	window	NOUN	_	N	19	nsubj	_	_
+9	for	for	ADP	_	N	8	prep	_	_
+10	an	an	DET	_	T	11	det	_	_
+11	injury	injury	NOUN	_	N	9	pobj	_	_
+12	where	where	SCONJ	_	RB	16	advmod	_	_
+13	she	she	PRON	_	RP	16	nsubj	_	_
+14	ca	can	AUX	_	D	16	aux	_	_
+15	n't	not	PART	_	B	16	neg	_	_
+16	move	move	VERB	_	B	11	relcl	_	_
+17	her	her	PRON	_	RP$	18	poss	_	_
+18	arm	arm	NOUN	_	N	16	dobj	_	_
+19	is	be	AUX	_	BZ	0	root	_	_
+20	just	just	ADV	_	B	21	advmod	_	_
+21	cruel	cruel	ADJ	_	J	19	acomp	_	_
+22	.	.	PUNCT	_	_	19	punct	_	_
+
+
+# sent_id = 7
+# text = They basically force you into a holding pattern while someone's in agony.
+1	They	they	PRON	_	RP	3	nsubj	_	_
+2	basically	basically	ADV	_	B	3	advmod	_	_
+3	force	force	VERB	_	BP	0	root	_	_
+4	you	you	PRON	_	RP	3	dobj	_	_
+5	into	into	ADP	_	N	3	prep	_	_
+6	a	a	DET	_	T	8	det	_	_
+7	holding	hold	VERB	_	BG	8	amod	_	_
+8	pattern	pattern	NOUN	_	N	5	pobj	_	_
+9	while	while	SCONJ	_	N	11	mark	_	_
+10	someone	someone	PRON	_	N	11	nsubj	_	_
+11	's	be	AUX	_	BZ	3	advcl	_	_
+12	in	in	ADP	_	N	11	prep	_	_
+13	agony	agony	NOUN	_	N	12	pobj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = The PT cap is the part that really gets me.
+1	The	the	DET	_	T	3	det	_	_
+2	PT	pt	PROPN	_	NP	3	compound	_	_
+3	cap	cap	NOUN	_	N	4	nsubj	_	_
+4	is	be	AUX	_	BZ	0	root	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	part	part	NOUN	_	N	4	attr	_	_
+7	that	that	PRON	_	DT	9	nsubj	_	_
+8	really	really	ADV	_	B	9	advmod	_	_
+9	gets	get	VERB	_	BZ	6	relcl	_	_
+10	me	i	PRON	_	RP	9	dobj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = Twelve sessions after rotator cuff and bone reconstruction is a joke, they know full well the standard protocol is triple that.
+1	Twelve	twelve	NUM	_	D	2	nummod	_	_
+2	sessions	session	NOUN	_	NS	9	nsubj	_	_
+3	after	after	ADP	_	N	2	prep	_	_
+4	rotator	rotator	NOUN	_	N	5	compound	_	_
+5	cuff	cuff	NOUN	_	N	3	pobj	_	_
+6	and	and	CCONJ	_	C	5	cc	_	_
+7	bone	bone	NOUN	_	N	8	compound	_	_
+8	reconstruction	reconstruction	NOUN	_	N	5	conj	_	_
+9	is	be	AUX	_	BZ	14	ccomp	_	_
+10	a	a	DET	_	T	11	det	_	_
+11	joke	joke	NOUN	_	N	9	attr	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	they	they	PRON	_	RP	14	nsubj	_	_
+14	know	know	VERB	_	BP	0	root	_	_
+15	full	full	ADJ	_	J	14	acomp	_	_
+16	well	well	ADV	_	B	14	advmod	_	_
+17	the	the	DET	_	T	19	det	_	_
+18	standard	standard	ADJ	_	J	19	amod	_	_
+19	protocol	protocol	NOUN	_	N	20	nsubj	_	_
+20	is	be	AUX	_	BZ	14	ccomp	_	_
+21	triple	triple	ADJ	_	J	22	amod	_	_
+22	that	that	PRON	_	T	20	attr	_	_
+23	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 10
+# text = It's like they're banking on people giving up instead of fighting the appeal.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	's	be	AUX	_	BZ	0	root	_	_
+3	like	like	SCONJ	_	N	6	mark	_	_
+4	they	they	PRON	_	RP	6	nsubj	_	_
+5	're	be	AUX	_	BP	6	aux	_	_
+6	banking	bank	VERB	_	BG	2	advcl	_	_
+7	on	on	ADP	_	N	6	prep	_	_
+8	people	people	NOUN	_	NS	7	pobj	_	_
+9	giving	give	VERB	_	BG	8	acl	_	_
+10	up	up	ADP	_	P	9	prt	_	_
+11	instead	instead	ADV	_	B	12	advmod	_	_
+12	of	of	ADP	_	N	9	prep	_	_
+13	fighting	fight	VERB	_	BG	12	pcomp	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	appeal	appeal	NOUN	_	N	13	dobj	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 11
+# text = Glad your company switched when they did.
+1	Glad	glad	PROPN	_	NP	0	root	_	_
+2	your	your	PRON	_	RP$	3	poss	_	_
+3	company	company	NOUN	_	N	4	nsubj	_	_
+4	switched	switch	VERB	_	BD	1	ccomp	_	_
+5	when	when	SCONJ	_	RB	7	advmod	_	_
+6	they	they	PRON	_	RP	7	nsubj	_	_
+7	did	do	VERB	_	BD	4	advcl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+

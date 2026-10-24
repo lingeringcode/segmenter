@@ -1,0 +1,126 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 403
+1	403	403	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 400
+1	400	400	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/throwfarfaraway1818
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	throwfarfaraway1818	throwfarfaraway1818	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Get the codes from the provider, then call carefirst and give them the codes.
+1	Get	get	VERB	_	B	9	advcl	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	codes	code	NOUN	_	NS	1	dobj	_	_
+4	from	from	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	provider	provider	NOUN	_	N	4	pobj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	then	then	ADV	_	B	9	advmod	_	_
+9	call	call	VERB	_	B	0	root	_	_
+10	carefirst	carefirst	NOUN	_	N	9	dobj	_	_
+11	and	and	CCONJ	_	C	9	cc	_	_
+12	give	give	VERB	_	B	9	conj	_	_
+13	them	they	PRON	_	RP	12	dative	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	codes	code	NOUN	_	NS	12	dobj	_	_
+16	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 6
+# text = They should be able to tell you if the investigational/experimental label is correct.
+1	They	they	PRON	_	RP	3	nsubj	_	_
+2	should	should	AUX	_	D	3	aux	_	_
+3	be	be	AUX	_	B	0	root	_	_
+4	able	able	ADJ	_	J	3	acomp	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	tell	tell	VERB	_	B	4	xcomp	_	_
+7	you	you	PRON	_	RP	6	dobj	_	_
+8	if	if	SCONJ	_	N	14	mark	_	_
+9	the	the	DET	_	T	13	det	_	_
+10	investigational	investigational	ADJ	_	J	12	amod	_	_
+11	/	/	SYM	_	YM	12	punct	_	_
+12	experimental	experimental	ADJ	_	J	13	amod	_	_
+13	label	label	NOUN	_	N	14	nsubj	_	_
+14	is	be	AUX	_	BZ	6	ccomp	_	_
+15	correct	correct	ADJ	_	J	14	acomp	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = If it is, they probably wont cover it at all unless there's some significant medical need that your provider could convince them of.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	is	be	AUX	_	BZ	9	advcl	_	_
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	they	they	PRON	_	RP	9	nsubj	_	_
+6	probably	probably	ADV	_	B	9	advmod	_	_
+7	wo	will	AUX	_	D	9	aux	_	_
+8	nt	not	PART	_	B	9	neg	_	_
+9	cover	cover	VERB	_	B	0	root	_	_
+10	it	it	PRON	_	RP	9	dobj	_	_
+11	at	at	ADV	_	B	12	advmod	_	_
+12	all	all	ADV	_	B	9	advmod	_	_
+13	unless	unless	SCONJ	_	N	15	mark	_	_
+14	there	there	PRON	_	X	15	expl	_	_
+15	's	be	VERB	_	BZ	9	advcl	_	_
+16	some	some	DET	_	T	19	det	_	_
+17	significant	significant	ADJ	_	J	19	amod	_	_
+18	medical	medical	ADJ	_	J	19	amod	_	_
+19	need	need	NOUN	_	N	15	attr	_	_
+20	that	that	PRON	_	DT	24	mark	_	_
+21	your	your	PRON	_	RP$	22	poss	_	_
+22	provider	provider	NOUN	_	N	24	nsubj	_	_
+23	could	could	AUX	_	D	24	aux	_	_
+24	convince	convince	VERB	_	B	19	relcl	_	_
+25	them	they	PRON	_	RP	24	dobj	_	_
+26	of	of	ADP	_	N	24	prep	_	_
+27	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 8
+# text = It doesnt sound like your provider is very interested in fighting that fight, so I would prepare to pay it myself, if I were you.
+1	It	it	PRON	_	RP	4	nsubj	_	_
+2	does	do	AUX	_	BZ	4	aux	_	_
+3	nt	not	PART	_	B	4	neg	_	_
+4	sound	sound	VERB	_	B	19	ccomp	_	_
+5	like	like	SCONJ	_	N	8	mark	_	_
+6	your	your	PRON	_	RP$	7	poss	_	_
+7	provider	provider	NOUN	_	N	8	nsubj	_	_
+8	is	be	AUX	_	BZ	4	advcl	_	_
+9	very	very	ADV	_	B	10	advmod	_	_
+10	interested	interested	ADJ	_	J	8	acomp	_	_
+11	in	in	ADP	_	N	10	prep	_	_
+12	fighting	fight	VERB	_	BG	11	pcomp	_	_
+13	that	that	SCONJ	_	N	14	det	_	_
+14	fight	fight	NOUN	_	N	12	dobj	_	_
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	so	so	SCONJ	_	N	19	mark	_	_
+17	I	i	PRON	_	RP	19	nsubj	_	_
+18	would	would	AUX	_	D	19	aux	_	_
+19	prepare	prepare	VERB	_	B	0	root	_	_
+20	to	to	PART	_	O	21	aux	_	_
+21	pay	pay	VERB	_	B	19	xcomp	_	_
+22	it	it	PRON	_	RP	21	dobj	_	_
+23	myself	myself	PRON	_	RP	21	npadvmod	_	_
+24	,	,	PUNCT	_	_	19	punct	_	_
+25	if	if	SCONJ	_	N	27	mark	_	_
+26	I	i	PRON	_	RP	27	nsubj	_	_
+27	were	be	AUX	_	BD	19	advcl	_	_
+28	you	you	PRON	_	RP	27	attr	_	_
+29	.	.	PUNCT	_	_	19	punct	_	_
+
+

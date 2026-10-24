@@ -1,0 +1,83 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 319
+1	319	319	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 300
+1	300	300	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/itsme32
+1	u	u	NOUN	_	N	3	meta	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	itsme32	itsme32	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Here I am frustrated with them for continously denying a dental cleaning that is supposed to have been convered from back in January and having to continue to deal with their extremely poor customer service over the phone but this is awful.
+1	Here	here	ADV	_	B	4	advmod	_	_
+2	I	i	PRON	_	RP	4	nsubjpass	_	_
+3	am	be	AUX	_	BP	4	auxpass	_	_
+4	frustrated	frustrate	VERB	_	BN	0	root	_	_
+5	with	with	ADP	_	N	4	prep	_	_
+6	them	they	PRON	_	RP	5	pobj	_	_
+7	for	for	ADP	_	N	4	prep	_	_
+8	continously	continously	ADV	_	B	9	advmod	_	_
+9	denying	deny	VERB	_	BG	7	pcomp	_	_
+10	a	a	DET	_	T	12	det	_	_
+11	dental	dental	ADJ	_	J	12	amod	_	_
+12	cleaning	cleaning	NOUN	_	N	9	dobj	_	_
+13	that	that	PRON	_	DT	15	nsubjpass	_	_
+14	is	be	AUX	_	BZ	15	auxpass	_	_
+15	supposed	suppose	VERB	_	BN	12	relcl	_	_
+16	to	to	PART	_	O	19	aux	_	_
+17	have	have	AUX	_	B	19	aux	_	_
+18	been	be	AUX	_	BN	19	auxpass	_	_
+19	convered	convere	VERB	_	BN	15	xcomp	_	_
+20	from	from	ADP	_	N	19	prep	_	_
+21	back	back	ADV	_	B	20	pcomp	_	_
+22	in	in	ADP	_	N	19	prep	_	_
+23	January	january	PROPN	_	NP	22	pobj	_	_
+24	and	and	CCONJ	_	C	19	cc	_	_
+25	having	have	VERB	_	BG	19	conj	_	_
+26	to	to	PART	_	O	27	aux	_	_
+27	continue	continue	VERB	_	B	25	xcomp	_	_
+28	to	to	PART	_	O	29	aux	_	_
+29	deal	deal	VERB	_	B	27	xcomp	_	_
+30	with	with	ADP	_	N	29	prep	_	_
+31	their	their	PRON	_	RP$	35	poss	_	_
+32	extremely	extremely	ADV	_	B	33	advmod	_	_
+33	poor	poor	ADJ	_	J	35	amod	_	_
+34	customer	customer	NOUN	_	N	35	compound	_	_
+35	service	service	NOUN	_	N	30	pobj	_	_
+36	over	over	ADP	_	N	35	prep	_	_
+37	the	the	DET	_	T	38	det	_	_
+38	phone	phone	NOUN	_	N	36	pobj	_	_
+39	but	but	CCONJ	_	C	4	cc	_	_
+40	this	this	PRON	_	T	41	nsubj	_	_
+41	is	be	AUX	_	BZ	4	conj	_	_
+42	awful	awful	ADJ	_	J	41	acomp	_	_
+43	.	.	PUNCT	_	_	41	punct	_	_
+
+
+# sent_id = 6
+# text = Im so sorry you're dealing with this.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	m	m	VERB	_	BP	0	root	_	_
+3	so	so	ADV	_	B	4	advmod	_	_
+4	sorry	sorry	ADJ	_	J	2	acomp	_	_
+5	you	you	PRON	_	RP	7	nsubj	_	_
+6	're	be	AUX	_	BP	7	aux	_	_
+7	dealing	deal	VERB	_	BG	4	ccomp	_	_
+8	with	with	ADP	_	N	7	prep	_	_
+9	this	this	PRON	_	T	8	pobj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+

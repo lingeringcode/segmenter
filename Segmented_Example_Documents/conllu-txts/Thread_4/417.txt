@@ -1,0 +1,360 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 417
+1	417	417	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 400
+1	400	400	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/TherapyCompanion
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	TherapyCompanion	therapycompanion	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = I work on the provider side of this, on the billing and pre-auth workflow, so here is how I read what your doctor told you.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	work	work	VERB	_	BP	21	ccomp	_	_
+3	on	on	ADP	_	N	2	prep	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	provider	provider	NOUN	_	N	6	compound	_	_
+6	side	side	NOUN	_	N	3	pobj	_	_
+7	of	of	ADP	_	N	6	prep	_	_
+8	this	this	PRON	_	T	7	pobj	_	_
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	on	on	ADP	_	N	2	prep	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	billing	billing	NOUN	_	N	17	nmod	_	_
+13	and	and	CCONJ	_	C	12	cc	_	_
+14	pre	pre	ADJ	_	J	12	conj	_	_
+15	-	-	ADJ	_	J	12	conj	_	_
+16	auth	auth	ADJ	_	J	17	amod	_	_
+17	workflow	workflow	NOUN	_	N	10	pobj	_	_
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	so	so	CCONJ	_	C	21	advmod	_	_
+20	here	here	ADV	_	B	21	nsubj	_	_
+21	is	be	AUX	_	BZ	0	root	_	_
+22	how	how	SCONJ	_	RB	24	advmod	_	_
+23	I	i	PRON	_	RP	24	nsubj	_	_
+24	read	read	VERB	_	BP	21	ccomp	_	_
+25	what	what	PRON	_	P	28	dative	_	_
+26	your	your	PRON	_	RP$	27	poss	_	_
+27	doctor	doctor	NOUN	_	N	28	nsubj	_	_
+28	told	tell	VERB	_	BD	24	ccomp	_	_
+29	you	you	PRON	_	RP	28	dobj	_	_
+30	.	.	PUNCT	_	_	21	punct	_	_
+
+
+# sent_id = 6
+# text = "No prior authorization required" and "experimental, not covered" are two different lists at the insurer.
+1	"	"	PUNCT	_	`	14	punct	_	_
+2	No	no	DET	_	T	4	det	_	_
+3	prior	prior	ADJ	_	J	4	amod	_	_
+4	authorization	authorization	NOUN	_	N	14	nsubj	_	_
+5	required	require	VERB	_	BN	4	acl	_	_
+6	"	"	PUNCT	_	'	5	punct	_	_
+7	and	and	CCONJ	_	C	5	cc	_	_
+8	"	"	PUNCT	_	`	12	punct	_	_
+9	experimental	experimental	ADJ	_	J	12	amod	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	not	not	PART	_	B	12	neg	_	_
+12	covered	cover	VERB	_	BN	5	conj	_	_
+13	"	"	PUNCT	_	'	14	punct	_	_
+14	are	be	AUX	_	BP	0	root	_	_
+15	two	two	NUM	_	D	17	nummod	_	_
+16	different	different	ADJ	_	J	17	amod	_	_
+17	lists	list	NOUN	_	NS	14	attr	_	_
+18	at	at	ADP	_	N	17	prep	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	insurer	insurer	NOUN	_	N	18	pobj	_	_
+21	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 7
+# text = Auth is only asked for on services they cover.
+1	Auth	auth	PROPN	_	NP	4	nsubjpass	_	_
+2	is	be	AUX	_	BZ	4	auxpass	_	_
+3	only	only	ADV	_	B	4	advmod	_	_
+4	asked	ask	VERB	_	BN	0	root	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	on	on	ADP	_	N	4	prep	_	_
+7	services	service	NOUN	_	NS	6	pobj	_	_
+8	they	they	PRON	_	RP	9	nsubj	_	_
+9	cover	cover	VERB	_	BP	7	relcl	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 8
+# text = If the procedure sits on their investigational list, they do not need an auth to deny it, and the denial will say experimental no matter what you do beforehand.
+1	If	if	SCONJ	_	N	4	mark	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	procedure	procedure	NOUN	_	N	4	nsubj	_	_
+4	sits	sit	VERB	_	BZ	13	advcl	_	_
+5	on	on	ADP	_	N	4	prep	_	_
+6	their	their	PRON	_	RP$	8	poss	_	_
+7	investigational	investigational	ADJ	_	J	8	amod	_	_
+8	list	list	NOUN	_	N	5	pobj	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	they	they	PRON	_	RP	13	nsubj	_	_
+11	do	do	AUX	_	BP	13	aux	_	_
+12	not	not	PART	_	B	13	neg	_	_
+13	need	need	VERB	_	B	0	root	_	_
+14	an	an	DET	_	T	15	det	_	_
+15	auth	auth	NOUN	_	N	13	dobj	_	_
+16	to	to	PART	_	O	17	aux	_	_
+17	deny	deny	VERB	_	B	13	advcl	_	_
+18	it	it	PRON	_	RP	17	dobj	_	_
+19	,	,	PUNCT	_	_	13	punct	_	_
+20	and	and	CCONJ	_	C	13	cc	_	_
+21	the	the	DET	_	T	22	det	_	_
+22	denial	denial	NOUN	_	N	24	nsubj	_	_
+23	will	will	AUX	_	D	24	aux	_	_
+24	say	say	VERB	_	B	13	conj	_	_
+25	experimental	experimental	ADJ	_	J	24	acomp	_	_
+26	no	no	ADV	_	B	27	neg	_	_
+27	matter	matter	ADV	_	B	24	advmod	_	_
+28	what	what	PRON	_	P	30	dobj	_	_
+29	you	you	PRON	_	RP	30	nsubj	_	_
+30	do	do	VERB	_	BP	27	ccomp	_	_
+31	beforehand	beforehand	ADV	_	B	30	advmod	_	_
+32	.	.	PUNCT	_	_	24	punct	_	_
+
+
+# sent_id = 9
+# text = Two things you can do before surgery.
+1	Two	two	NUM	_	D	2	nummod	_	_
+2	things	thing	NOUN	_	NS	0	root	_	_
+3	you	you	PRON	_	RP	5	nsubj	_	_
+4	can	can	AUX	_	D	5	aux	_	_
+5	do	do	VERB	_	B	2	relcl	_	_
+6	before	before	ADP	_	N	5	prep	_	_
+7	surgery	surgery	NOUN	_	N	6	pobj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 10
+# text = First, get the exact CPT code from the surgeon's office and ask CareFirst for the medical policy for that code.
+1	First	first	ADV	_	B	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	get	get	VERB	_	B	0	root	_	_
+4	the	the	DET	_	T	7	det	_	_
+5	exact	exact	ADJ	_	J	7	amod	_	_
+6	CPT	cpt	PROPN	_	NP	7	compound	_	_
+7	code	code	NOUN	_	N	3	dobj	_	_
+8	from	from	ADP	_	N	7	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	surgeon	surgeon	NOUN	_	N	12	poss	_	_
+11	's	's	PART	_	OS	10	case	_	_
+12	office	office	NOUN	_	N	8	pobj	_	_
+13	and	and	CCONJ	_	C	3	cc	_	_
+14	ask	ask	VERB	_	B	3	conj	_	_
+15	CareFirst	carefirst	PROPN	_	NP	14	dobj	_	_
+16	for	for	ADP	_	N	14	prep	_	_
+17	the	the	DET	_	T	19	det	_	_
+18	medical	medical	ADJ	_	J	19	amod	_	_
+19	policy	policy	NOUN	_	N	16	pobj	_	_
+20	for	for	ADP	_	N	19	prep	_	_
+21	that	that	DET	_	T	22	det	_	_
+22	code	code	NOUN	_	N	20	pobj	_	_
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 11
+# text = Most payers publish these, and the policy will say outright whether the procedure is considered investigational and what evidence would change that.
+1	Most	most	ADJ	_	JS	2	amod	_	_
+2	payers	payer	NOUN	_	NS	3	nsubj	_	_
+3	publish	publish	VERB	_	BP	0	root	_	_
+4	these	these	PRON	_	T	3	dobj	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	and	and	CCONJ	_	C	3	cc	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	policy	policy	NOUN	_	N	10	nsubj	_	_
+9	will	will	AUX	_	D	10	aux	_	_
+10	say	say	VERB	_	B	3	conj	_	_
+11	outright	outright	ADV	_	B	10	advmod	_	_
+12	whether	whether	SCONJ	_	N	16	mark	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	procedure	procedure	NOUN	_	N	16	nsubjpass	_	_
+15	is	be	AUX	_	BZ	16	auxpass	_	_
+16	considered	consider	VERB	_	BN	10	ccomp	_	_
+17	investigational	investigational	ADJ	_	J	16	oprd	_	_
+18	and	and	CCONJ	_	C	16	cc	_	_
+19	what	what	DET	_	DT	20	det	_	_
+20	evidence	evidence	NOUN	_	N	22	nsubj	_	_
+21	would	would	AUX	_	D	22	aux	_	_
+22	change	change	VERB	_	B	16	conj	_	_
+23	that	that	PRON	_	T	22	dobj	_	_
+24	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 12
+# text = Second, ask the office to file a predetermination of benefits with that code and a letter of medical necessity.
+1	Second	second	ADV	_	B	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	ask	ask	VERB	_	B	0	root	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	office	office	NOUN	_	N	3	dobj	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	file	file	VERB	_	B	3	xcomp	_	_
+8	a	a	DET	_	T	9	det	_	_
+9	predetermination	predetermination	NOUN	_	N	7	dobj	_	_
+10	of	of	ADP	_	N	9	prep	_	_
+11	benefits	benefit	NOUN	_	NS	10	pobj	_	_
+12	with	with	ADP	_	N	11	prep	_	_
+13	that	that	DET	_	T	14	det	_	_
+14	code	code	NOUN	_	N	12	pobj	_	_
+15	and	and	CCONJ	_	C	9	cc	_	_
+16	a	a	DET	_	T	17	det	_	_
+17	letter	letter	NOUN	_	N	9	conj	_	_
+18	of	of	ADP	_	N	17	prep	_	_
+19	medical	medical	ADJ	_	J	20	amod	_	_
+20	necessity	necessity	NOUN	_	N	18	pobj	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 13
+# text = It is voluntary and it is not an auth, but it gets you a written answer before you are on the table instead of after.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	voluntary	voluntary	ADJ	_	J	2	acomp	_	_
+4	and	and	CCONJ	_	C	2	cc	_	_
+5	it	it	PRON	_	RP	6	nsubj	_	_
+6	is	be	AUX	_	BZ	2	conj	_	_
+7	not	not	PART	_	B	6	neg	_	_
+8	an	an	DET	_	T	9	det	_	_
+9	auth	auth	NOUN	_	N	6	attr	_	_
+10	,	,	PUNCT	_	_	6	punct	_	_
+11	but	but	CCONJ	_	C	6	cc	_	_
+12	it	it	PRON	_	RP	13	nsubj	_	_
+13	gets	get	VERB	_	BZ	6	conj	_	_
+14	you	you	PRON	_	RP	13	dative	_	_
+15	a	a	DET	_	T	17	det	_	_
+16	written	write	VERB	_	BN	17	amod	_	_
+17	answer	answer	NOUN	_	N	13	dobj	_	_
+18	before	before	SCONJ	_	N	20	mark	_	_
+19	you	you	PRON	_	RP	20	nsubj	_	_
+20	are	be	AUX	_	BP	13	advcl	_	_
+21	on	on	ADP	_	N	20	prep	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	table	table	NOUN	_	N	21	pobj	_	_
+24	instead	instead	ADV	_	B	25	advmod	_	_
+25	of	of	ADP	_	N	20	cc	_	_
+26	after	after	ADV	_	B	20	advmod	_	_
+27	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 14
+# text = If the predetermination comes back as experimental, you can decide with real numbers.
+1	If	if	SCONJ	_	N	4	mark	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	predetermination	predetermination	NOUN	_	N	4	nsubj	_	_
+4	comes	come	VERB	_	BZ	11	advcl	_	_
+5	back	back	ADV	_	B	4	advmod	_	_
+6	as	as	ADP	_	N	4	prep	_	_
+7	experimental	experimental	ADJ	_	J	6	amod	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	you	you	PRON	_	RP	11	nsubj	_	_
+10	can	can	AUX	_	D	11	aux	_	_
+11	decide	decide	VERB	_	B	0	root	_	_
+12	with	with	ADP	_	N	11	prep	_	_
+13	real	real	ADJ	_	J	14	amod	_	_
+14	numbers	number	NOUN	_	NS	12	pobj	_	_
+15	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 15
+# text = If you go ahead and it is denied, the path is internal appeal, then external review through your state.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	go	go	VERB	_	BP	12	advcl	_	_
+4	ahead	ahead	ADV	_	B	3	advmod	_	_
+5	and	and	CCONJ	_	C	3	cc	_	_
+6	it	it	PRON	_	RP	8	nsubjpass	_	_
+7	is	be	AUX	_	BZ	8	auxpass	_	_
+8	denied	deny	VERB	_	BN	3	conj	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	path	path	NOUN	_	N	12	nsubj	_	_
+12	is	be	AUX	_	BZ	0	root	_	_
+13	internal	internal	ADJ	_	J	14	amod	_	_
+14	appeal	appeal	NOUN	_	N	12	attr	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	then	then	ADV	_	B	14	advmod	_	_
+17	external	external	ADJ	_	J	18	amod	_	_
+18	review	review	NOUN	_	N	14	appos	_	_
+19	through	through	ADP	_	N	18	prep	_	_
+20	your	your	PRON	_	RP$	21	poss	_	_
+21	state	state	NOUN	_	N	19	pobj	_	_
+22	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 16
+# text = The appeals that win on experimental denials attach peer-reviewed evidence and a specialist letter explaining why the standard alternative is not appropriate for you.
+1	The	the	DET	_	T	2	det	_	_
+2	appeals	appeal	NOUN	_	NS	8	nsubj	_	_
+3	that	that	PRON	_	DT	4	nsubj	_	_
+4	win	win	VERB	_	BP	2	relcl	_	_
+5	on	on	ADP	_	N	4	prep	_	_
+6	experimental	experimental	ADJ	_	J	7	amod	_	_
+7	denials	denial	NOUN	_	NS	5	pobj	_	_
+8	attach	attach	VERB	_	BP	0	root	_	_
+9	peer	peer	NOUN	_	N	11	npadvmod	_	_
+10	-	-	PUNCT	_	YPH	11	punct	_	_
+11	reviewed	review	VERB	_	BN	12	amod	_	_
+12	evidence	evidence	NOUN	_	N	8	dobj	_	_
+13	and	and	CCONJ	_	C	12	cc	_	_
+14	a	a	DET	_	T	16	det	_	_
+15	specialist	specialist	ADJ	_	J	16	amod	_	_
+16	letter	letter	NOUN	_	N	12	conj	_	_
+17	explaining	explain	VERB	_	BG	16	acl	_	_
+18	why	why	SCONJ	_	RB	22	advmod	_	_
+19	the	the	DET	_	T	21	det	_	_
+20	standard	standard	ADJ	_	J	21	amod	_	_
+21	alternative	alternative	NOUN	_	N	22	nsubj	_	_
+22	is	be	AUX	_	BZ	17	ccomp	_	_
+23	not	not	PART	_	B	22	neg	_	_
+24	appropriate	appropriate	ADJ	_	J	22	acomp	_	_
+25	for	for	ADP	_	N	24	prep	_	_
+26	you	you	PRON	_	RP	25	pobj	_	_
+27	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 17
+# text = Ask the surgeon now whether they will write that letter.
+1	Ask	ask	VERB	_	B	0	root	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	surgeon	surgeon	NOUN	_	N	1	dobj	_	_
+4	now	now	ADV	_	B	1	advmod	_	_
+5	whether	whether	SCONJ	_	N	8	mark	_	_
+6	they	they	PRON	_	RP	8	nsubj	_	_
+7	will	will	AUX	_	D	8	aux	_	_
+8	write	write	VERB	_	B	1	ccomp	_	_
+9	that	that	DET	_	T	10	det	_	_
+10	letter	letter	NOUN	_	N	8	dobj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 18
+# text = Their answer tells you how hard the fight will be.
+1	Their	their	PRON	_	RP$	2	poss	_	_
+2	answer	answer	NOUN	_	N	3	nsubj	_	_
+3	tells	tell	VERB	_	BZ	0	root	_	_
+4	you	you	PRON	_	RP	3	dobj	_	_
+5	how	how	SCONJ	_	RB	6	advmod	_	_
+6	hard	hard	ADJ	_	J	10	acomp	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	fight	fight	NOUN	_	N	10	nsubj	_	_
+9	will	will	AUX	_	D	10	aux	_	_
+10	be	be	AUX	_	B	3	ccomp	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+

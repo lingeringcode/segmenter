@@ -1,0 +1,209 @@
+# sent_id = 1
+# text = Thread_2
+1	Thread_2	thread_2	ADV	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 200
+1	200	200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/MrTheRiddle
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	MrTheRiddle	mrtheriddle	NUM	_	D	1	punct	_	_
+
+
+# sent_id = 5
+# text = Dental Claim Denial x3.
+1	Dental	dental	PROPN	_	NP	4	compound	_	_
+2	Claim	claim	PROPN	_	NP	4	compound	_	_
+3	Denial	denial	PROPN	_	NP	4	compound	_	_
+4	x3	x3	PROPN	_	NP	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 6
+# text = What can I do?
+1	What	what	PRON	_	P	4	dobj	_	_
+2	can	can	AUX	_	D	4	aux	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	do	do	VERB	_	B	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = I got dental work done.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	got	get	VERB	_	BD	0	root	_	_
+3	dental	dental	ADJ	_	J	4	amod	_	_
+4	work	work	NOUN	_	N	2	dobj	_	_
+5	done	do	VERB	_	BN	4	acl	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 8
+# text = It was a deep cleaning or something like that, for gingivitis/to prevent bone loss (or something lol)
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	was	be	AUX	_	BD	0	root	_	_
+3	a	a	DET	_	T	5	det	_	_
+4	deep	deep	ADJ	_	J	5	amod	_	_
+5	cleaning	cleaning	NOUN	_	N	2	attr	_	_
+6	or	or	CCONJ	_	C	5	cc	_	_
+7	something	something	PRON	_	N	5	conj	_	_
+8	like	like	ADP	_	N	7	prep	_	_
+9	that	that	PRON	_	T	8	pobj	_	_
+10	,	,	PUNCT	_	_	2	punct	_	_
+11	for	for	SCONJ	_	N	15	mark	_	_
+12	gingivitis	gingivitis	NOUN	_	N	11	pobj	_	_
+13	/	/	SYM	_	YM	11	punct	_	_
+14	to	to	PART	_	O	15	aux	_	_
+15	prevent	prevent	VERB	_	B	2	advcl	_	_
+16	bone	bone	NOUN	_	N	17	compound	_	_
+17	loss	loss	NOUN	_	N	15	dobj	_	_
+18	(	(	PUNCT	_	LRB-	17	punct	_	_
+19	or	or	CCONJ	_	C	17	cc	_	_
+20	something	something	PRON	_	N	17	conj	_	_
+21	lol	lol	ADJ	_	J	20	amod	_	_
+22	)	)	PUNCT	_	RRB-	2	punct	_	_
+
+
+# sent_id = 9
+# text = My insurance (Guardian) denied it, based on that there wasn't enough evidence that it was needed for the health of my gums.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	insurance	insurance	NOUN	_	N	6	nsubj	_	_
+3	(	(	PUNCT	_	LRB-	4	punct	_	_
+4	Guardian	guardian	PROPN	_	NP	2	appos	_	_
+5	)	)	PUNCT	_	RRB-	2	punct	_	_
+6	denied	deny	VERB	_	BD	0	root	_	_
+7	it	it	PRON	_	RP	6	dobj	_	_
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	based	base	VERB	_	BN	6	prep	_	_
+10	on	on	ADP	_	N	9	prep	_	_
+11	that	that	PRON	_	T	13	mark	_	_
+12	there	there	PRON	_	X	13	expl	_	_
+13	was	be	VERB	_	BD	10	pcomp	_	_
+14	n't	not	PART	_	B	13	neg	_	_
+15	enough	enough	ADJ	_	J	16	amod	_	_
+16	evidence	evidence	NOUN	_	N	13	attr	_	_
+17	that	that	SCONJ	_	N	20	mark	_	_
+18	it	it	PRON	_	RP	20	nsubjpass	_	_
+19	was	be	AUX	_	BD	20	auxpass	_	_
+20	needed	need	VERB	_	BN	16	acl	_	_
+21	for	for	ADP	_	N	20	prep	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	health	health	NOUN	_	N	21	pobj	_	_
+24	of	of	ADP	_	N	23	prep	_	_
+25	my	my	PRON	_	RP$	26	poss	_	_
+26	gums	gum	NOUN	_	NS	24	pobj	_	_
+27	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 10
+# text = I called the provider and they appealed it (twice apparently) and it was denied both times for the same reason.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	called	call	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	provider	provider	NOUN	_	N	2	dobj	_	_
+5	and	and	CCONJ	_	C	2	cc	_	_
+6	they	they	PRON	_	RP	7	nsubj	_	_
+7	appealed	appeal	VERB	_	BD	2	conj	_	_
+8	it	it	PRON	_	RP	7	dobj	_	_
+9	(	(	PUNCT	_	LRB-	7	punct	_	_
+10	twice	twice	ADV	_	B	11	advmod	_	_
+11	apparently	apparently	ADV	_	B	7	advmod	_	_
+12	)	)	PUNCT	_	RRB-	7	punct	_	_
+13	and	and	CCONJ	_	C	2	cc	_	_
+14	it	it	PRON	_	RP	16	nsubjpass	_	_
+15	was	be	AUX	_	BD	16	auxpass	_	_
+16	denied	deny	VERB	_	BN	2	conj	_	_
+17	both	both	DET	_	T	18	det	_	_
+18	times	time	NOUN	_	NS	16	npadvmod	_	_
+19	for	for	ADP	_	N	16	prep	_	_
+20	the	the	DET	_	T	22	det	_	_
+21	same	same	ADJ	_	J	22	amod	_	_
+22	reason	reason	NOUN	_	N	19	pobj	_	_
+23	.	.	PUNCT	_	_	16	punct	_	_
+
+
+# sent_id = 11
+# text = The provider billing rep (a new one since they got bought out) basically said "welp, I guess you gotta pay it," as if $400+ more is just a drop in the bucket.
+1	The	the	DET	_	T	4	det	_	_
+2	provider	provider	NOUN	_	N	4	compound	_	_
+3	billing	billing	PROPN	_	NP	4	compound	_	_
+4	rep	rep	PROPN	_	NP	16	nsubj	_	_
+5	(	(	PUNCT	_	LRB-	8	punct	_	_
+6	a	a	DET	_	T	8	det	_	_
+7	new	new	ADJ	_	J	8	amod	_	_
+8	one	one	NOUN	_	N	16	nsubj	_	_
+9	since	since	SCONJ	_	N	12	mark	_	_
+10	they	they	PRON	_	RP	12	nsubjpass	_	_
+11	got	get	AUX	_	BD	12	auxpass	_	_
+12	bought	buy	VERB	_	BN	8	advcl	_	_
+13	out	out	ADP	_	P	12	prt	_	_
+14	)	)	PUNCT	_	RRB-	8	punct	_	_
+15	basically	basically	ADV	_	B	16	advmod	_	_
+16	said	say	VERB	_	BD	0	root	_	_
+17	"	"	PUNCT	_	`	16	punct	_	_
+18	welp	welp	PROPN	_	NP	16	dobj	_	_
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	I	i	PRON	_	RP	21	nsubj	_	_
+21	guess	guess	VERB	_	BP	35	parataxis	_	_
+22	you	you	PRON	_	RP	23	nsubj	_	_
+23	got	get	VERB	_	BD	21	ccomp	_	_
+24	ta	to	PART	_	O	25	aux	_	_
+25	pay	pay	VERB	_	B	23	xcomp	_	_
+26	it	it	PRON	_	RP	25	dobj	_	_
+27	,	,	PUNCT	_	_	21	punct	_	_
+28	"	"	PUNCT	_	'	21	punct	_	_
+29	as	as	SCONJ	_	N	35	mark	_	_
+30	if	if	SCONJ	_	N	35	mark	_	_
+31	$	$	SYM	_	_	32	nmod	_	_
+32	400	400	NUM	_	D	35	nsubj	_	_
+33	+	+	CCONJ	_	C	32	punct	_	_
+34	more	more	ADV	_	BR	32	nummod	_	_
+35	is	be	AUX	_	BZ	16	ccomp	_	_
+36	just	just	ADV	_	B	38	advmod	_	_
+37	a	a	DET	_	T	38	det	_	_
+38	drop	drop	NOUN	_	N	35	attr	_	_
+39	in	in	ADP	_	N	38	prep	_	_
+40	the	the	DET	_	T	41	det	_	_
+41	bucket	bucket	NOUN	_	N	39	pobj	_	_
+42	.	.	PUNCT	_	_	16	punct	_	_
+
+
+# sent_id = 12
+# text = Is there anything I can do here?
+1	Is	be	AUX	_	BZ	0	root	_	_
+2	there	there	PRON	_	X	1	expl	_	_
+3	anything	anything	PRON	_	N	1	attr	_	_
+4	I	i	PRON	_	RP	6	nsubj	_	_
+5	can	can	AUX	_	D	6	aux	_	_
+6	do	do	VERB	_	B	3	relcl	_	_
+7	here	here	ADV	_	B	6	advmod	_	_
+8	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 13
+# text = Is this why people ignore medical debt?
+1	Is	be	AUX	_	BZ	0	root	_	_
+2	this	this	PRON	_	T	1	nsubj	_	_
+3	why	why	SCONJ	_	RB	5	advmod	_	_
+4	people	people	NOUN	_	NS	5	nsubj	_	_
+5	ignore	ignore	VERB	_	BP	1	ccomp	_	_
+6	medical	medical	ADJ	_	J	7	amod	_	_
+7	debt	debt	NOUN	_	N	5	dobj	_	_
+8	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 14
+# text = lol
+1	lol	lol	ADV	_	B	0	root	_	_
+
+

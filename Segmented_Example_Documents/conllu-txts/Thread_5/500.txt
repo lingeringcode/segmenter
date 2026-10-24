@@ -1,0 +1,747 @@
+# sent_id = 1
+# text = Thread_5
+1	Thread_5	thread_5	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 500
+1	500	500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/NoSprinkles9539
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	NoSprinkles9539	nosprinkles9539	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 5
+# text = Appeals denied for surgery, external review approved, insurance still refusing service
+1	Appeals	appeal	NOUN	_	NS	2	nsubj	_	_
+2	denied	deny	VERB	_	BD	0	root	_	_
+3	for	for	ADP	_	N	2	prep	_	_
+4	surgery	surgery	NOUN	_	N	3	pobj	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	external	external	ADJ	_	J	7	amod	_	_
+7	review	review	NOUN	_	N	8	nsubj	_	_
+8	approved	approve	VERB	_	BD	12	parataxis	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	insurance	insurance	NOUN	_	N	12	nsubj	_	_
+11	still	still	ADV	_	B	12	advmod	_	_
+12	refusing	refuse	VERB	_	BG	2	advcl	_	_
+13	service	service	NOUN	_	N	12	dobj	_	_
+
+
+# sent_id = 6
+# text = This past July, I had spinal cord surgery for congenital tethered cord in hopes of alleviating my chiari.
+1	This	this	DET	_	T	3	det	_	_
+2	past	past	ADJ	_	J	3	amod	_	_
+3	July	july	PROPN	_	NP	6	npadvmod	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	I	i	PRON	_	RP	6	nsubj	_	_
+6	had	have	VERB	_	BD	0	root	_	_
+7	spinal	spinal	ADJ	_	J	9	amod	_	_
+8	cord	cord	NOUN	_	N	9	compound	_	_
+9	surgery	surgery	NOUN	_	N	6	dobj	_	_
+10	for	for	ADP	_	N	6	prep	_	_
+11	congenital	congenital	ADJ	_	J	13	amod	_	_
+12	tethered	tethered	ADJ	_	J	13	amod	_	_
+13	cord	cord	NOUN	_	N	10	pobj	_	_
+14	in	in	ADP	_	N	6	prep	_	_
+15	hopes	hope	NOUN	_	NS	14	pobj	_	_
+16	of	of	ADP	_	N	15	prep	_	_
+17	alleviating	alleviate	VERB	_	BG	16	pcomp	_	_
+18	my	my	PRON	_	RP$	19	poss	_	_
+19	chiari	chiari	NOUN	_	N	17	dobj	_	_
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 7
+# text = Both of these are debilitating and neurologically damaging structural issues I have dealt with since birth but were not caught and named until 2025.
+1	Both	both	PRON	_	T	5	nsubj	_	_
+2	of	of	ADP	_	N	1	prep	_	_
+3	these	these	PRON	_	T	2	pobj	_	_
+4	are	be	AUX	_	BP	5	aux	_	_
+5	debilitating	debilitate	VERB	_	BG	0	root	_	_
+6	and	and	CCONJ	_	C	5	cc	_	_
+7	neurologically	neurologically	ADV	_	B	8	advmod	_	_
+8	damaging	damage	VERB	_	BG	5	conj	_	_
+9	structural	structural	ADJ	_	J	10	amod	_	_
+10	issues	issue	NOUN	_	NS	8	dobj	_	_
+11	I	i	PRON	_	RP	13	nsubj	_	_
+12	have	have	AUX	_	BP	13	aux	_	_
+13	dealt	deal	VERB	_	BN	10	relcl	_	_
+14	with	with	ADP	_	N	13	prep	_	_
+15	since	since	SCONJ	_	N	13	prep	_	_
+16	birth	birth	NOUN	_	N	15	pobj	_	_
+17	but	but	CCONJ	_	C	13	cc	_	_
+18	were	be	AUX	_	BD	20	auxpass	_	_
+19	not	not	PART	_	B	20	neg	_	_
+20	caught	catch	VERB	_	BN	5	conj	_	_
+21	and	and	CCONJ	_	C	20	cc	_	_
+22	named	name	VERB	_	BN	20	conj	_	_
+23	until	until	ADP	_	N	22	prep	_	_
+24	2025	2025	NUM	_	D	23	pobj	_	_
+25	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 8
+# text = The surgery was an outstanding and life-changing success and I am recovering very well.
+1	The	the	DET	_	T	2	det	_	_
+2	surgery	surgery	NOUN	_	N	3	nsubj	_	_
+3	was	be	AUX	_	BD	0	root	_	_
+4	an	an	DET	_	T	10	det	_	_
+5	outstanding	outstanding	ADJ	_	J	10	amod	_	_
+6	and	and	CCONJ	_	C	5	cc	_	_
+7	life	life	NOUN	_	N	9	npadvmod	_	_
+8	-	-	PUNCT	_	YPH	9	punct	_	_
+9	changing	change	VERB	_	BG	5	conj	_	_
+10	success	success	NOUN	_	N	3	attr	_	_
+11	and	and	CCONJ	_	C	3	cc	_	_
+12	I	i	PRON	_	RP	14	nsubj	_	_
+13	am	be	AUX	_	BP	14	aux	_	_
+14	recovering	recover	VERB	_	BG	3	conj	_	_
+15	very	very	ADV	_	B	16	advmod	_	_
+16	well	well	ADV	_	B	14	advmod	_	_
+17	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 9
+# text = My imaging shows Chiari and tethered cord, and instead of doing a decompression surgery on my brain to still have the tethered cord pulling on my brain, my care team
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	imaging	imaging	NOUN	_	N	3	nsubj	_	_
+3	shows	show	VERB	_	BZ	0	root	_	_
+4	Chiari	chiari	PROPN	_	NP	3	dobj	_	_
+5	and	and	CCONJ	_	C	4	cc	_	_
+6	tethered	tethered	ADJ	_	J	7	amod	_	_
+7	cord	cord	NOUN	_	N	4	conj	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	and	and	CCONJ	_	C	3	cc	_	_
+10	instead	instead	ADV	_	B	11	advmod	_	_
+11	of	of	ADP	_	N	21	prep	_	_
+12	doing	do	VERB	_	BG	11	pcomp	_	_
+13	a	a	DET	_	T	15	det	_	_
+14	decompression	decompression	NOUN	_	N	15	compound	_	_
+15	surgery	surgery	NOUN	_	N	12	dobj	_	_
+16	on	on	ADP	_	N	12	prep	_	_
+17	my	my	PRON	_	RP$	18	poss	_	_
+18	brain	brain	NOUN	_	N	16	pobj	_	_
+19	to	to	PART	_	O	21	aux	_	_
+20	still	still	ADV	_	B	21	advmod	_	_
+21	have	have	VERB	_	B	3	conj	_	_
+22	the	the	DET	_	T	24	det	_	_
+23	tethered	tethered	ADJ	_	J	24	amod	_	_
+24	cord	cord	NOUN	_	N	21	dobj	_	_
+25	pulling	pull	VERB	_	BG	24	acl	_	_
+26	on	on	ADP	_	N	25	prep	_	_
+27	my	my	PRON	_	RP$	28	poss	_	_
+28	brain	brain	NOUN	_	N	26	pobj	_	_
+29	,	,	PUNCT	_	_	24	punct	_	_
+30	my	my	PRON	_	RP$	32	poss	_	_
+31	care	care	NOUN	_	N	32	compound	_	_
+32	team	team	NOUN	_	N	3	punct	_	_
+
+
+# sent_id = 10
+# text = and i decided it would be best to tackle the tethered cord first.
+1	and	and	CCONJ	_	C	3	cc	_	_
+2	i	i	PRON	_	RP	3	nsubj	_	_
+3	decided	decide	VERB	_	BD	0	root	_	_
+4	it	it	PRON	_	RP	6	nsubj	_	_
+5	would	would	AUX	_	D	6	aux	_	_
+6	be	be	AUX	_	B	3	ccomp	_	_
+7	best	good	ADJ	_	JS	6	acomp	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	tackle	tackle	VERB	_	B	6	xcomp	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	tethered	tethered	ADJ	_	J	12	amod	_	_
+12	cord	cord	NOUN	_	N	9	dobj	_	_
+13	first	first	ADV	_	B	9	advmod	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 11
+# text = It is less invasive than taking out pieces of my skull.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	less	less	ADV	_	BR	4	advmod	_	_
+4	invasive	invasive	ADJ	_	J	2	acomp	_	_
+5	than	than	ADP	_	N	4	prep	_	_
+6	taking	take	VERB	_	BG	5	pcomp	_	_
+7	out	out	ADP	_	P	6	prt	_	_
+8	pieces	piece	NOUN	_	NS	6	dobj	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	my	my	PRON	_	RP$	11	poss	_	_
+11	skull	skull	NOUN	_	N	9	pobj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 12
+# text = This is a logical path of treatment since all medications and PT failed.
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	a	a	DET	_	T	5	det	_	_
+4	logical	logical	ADJ	_	J	5	amod	_	_
+5	path	path	NOUN	_	N	2	attr	_	_
+6	of	of	ADP	_	N	5	prep	_	_
+7	treatment	treatment	NOUN	_	N	6	pobj	_	_
+8	since	since	SCONJ	_	N	13	mark	_	_
+9	all	all	DET	_	T	10	det	_	_
+10	medications	medication	NOUN	_	NS	13	nsubj	_	_
+11	and	and	CCONJ	_	C	10	cc	_	_
+12	PT	pt	PROPN	_	NP	10	conj	_	_
+13	failed	fail	VERB	_	BD	2	advcl	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 13
+# text = My surgery had been rescheduled 5 times over the last 8 months because of denials.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	surgery	surgery	NOUN	_	N	5	nsubjpass	_	_
+3	had	have	AUX	_	BD	5	aux	_	_
+4	been	be	AUX	_	BN	5	auxpass	_	_
+5	rescheduled	reschedule	VERB	_	BN	0	root	_	_
+6	5	5	NUM	_	D	7	nummod	_	_
+7	times	time	NOUN	_	NS	5	npadvmod	_	_
+8	over	over	ADP	_	N	5	prep	_	_
+9	the	the	DET	_	T	12	det	_	_
+10	last	last	ADJ	_	J	12	amod	_	_
+11	8	8	NUM	_	D	12	nummod	_	_
+12	months	month	NOUN	_	NS	8	pobj	_	_
+13	because	because	SCONJ	_	N	5	prep	_	_
+14	of	of	ADP	_	N	13	pcomp	_	_
+15	denials	denial	NOUN	_	NS	13	pobj	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 14
+# text = The first submission was denied and got to the external review but we did not submit for that because we decided to get new imaging with an updated report.
+1	The	the	DET	_	T	3	det	_	_
+2	first	first	ADJ	_	J	3	amod	_	_
+3	submission	submission	NOUN	_	N	5	nsubjpass	_	_
+4	was	be	AUX	_	BD	5	auxpass	_	_
+5	denied	deny	VERB	_	BN	0	root	_	_
+6	and	and	CCONJ	_	C	5	cc	_	_
+7	got	get	VERB	_	BD	5	conj	_	_
+8	to	to	ADP	_	N	7	prep	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	external	external	ADJ	_	J	11	amod	_	_
+11	review	review	NOUN	_	N	8	pobj	_	_
+12	but	but	CCONJ	_	C	5	cc	_	_
+13	we	we	PRON	_	RP	16	nsubj	_	_
+14	did	do	AUX	_	BD	16	aux	_	_
+15	not	not	PART	_	B	16	neg	_	_
+16	submit	submit	VERB	_	B	5	conj	_	_
+17	for	for	ADP	_	N	16	prep	_	_
+18	that	that	PRON	_	T	17	pobj	_	_
+19	because	because	SCONJ	_	N	21	mark	_	_
+20	we	we	PRON	_	RP	21	nsubj	_	_
+21	decided	decide	VERB	_	BD	16	advcl	_	_
+22	to	to	PART	_	O	23	aux	_	_
+23	get	get	VERB	_	B	21	xcomp	_	_
+24	new	new	ADJ	_	J	25	amod	_	_
+25	imaging	imaging	NOUN	_	N	23	dobj	_	_
+26	with	with	ADP	_	N	23	prep	_	_
+27	an	an	DET	_	T	29	det	_	_
+28	updated	update	VERB	_	BN	29	amod	_	_
+29	report	report	NOUN	_	N	26	pobj	_	_
+30	.	.	PUNCT	_	_	16	punct	_	_
+
+
+# sent_id = 15
+# text = EOB/denial Insurance claimed my issue was not medically necessary and that there was a contradicting note in the MRI report.
+1	EOB	eob	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	denial	denial	NOUN	_	N	4	compound	_	_
+4	Insurance	insurance	PROPN	_	NP	5	nsubj	_	_
+5	claimed	claim	VERB	_	BD	0	root	_	_
+6	my	my	PRON	_	RP$	7	poss	_	_
+7	issue	issue	NOUN	_	N	8	nsubj	_	_
+8	was	be	AUX	_	BD	5	ccomp	_	_
+9	not	not	PART	_	B	8	neg	_	_
+10	medically	medically	ADV	_	B	11	advmod	_	_
+11	necessary	necessary	ADJ	_	J	8	acomp	_	_
+12	and	and	CCONJ	_	C	8	cc	_	_
+13	that	that	SCONJ	_	N	15	mark	_	_
+14	there	there	PRON	_	X	15	expl	_	_
+15	was	be	VERB	_	BD	8	conj	_	_
+16	a	a	DET	_	T	18	det	_	_
+17	contradicting	contradict	VERB	_	BG	18	amod	_	_
+18	note	note	NOUN	_	N	15	attr	_	_
+19	in	in	ADP	_	N	18	prep	_	_
+20	the	the	DET	_	T	22	det	_	_
+21	MRI	mri	PROPN	_	NP	22	compound	_	_
+22	report	report	NOUN	_	N	19	pobj	_	_
+23	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 16
+# text = It was not medically necessary because I did not have scoliosis (not a pre-requisite for tethered cord).
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	was	be	AUX	_	BD	0	root	_	_
+3	not	not	PART	_	B	2	neg	_	_
+4	medically	medically	ADV	_	B	2	advmod	_	_
+5	necessary	necessary	ADJ	_	J	2	acomp	_	_
+6	because	because	SCONJ	_	N	10	mark	_	_
+7	I	i	PRON	_	RP	10	nsubj	_	_
+8	did	do	AUX	_	BD	10	aux	_	_
+9	not	not	PART	_	B	10	neg	_	_
+10	have	have	VERB	_	B	2	advcl	_	_
+11	scoliosis	scoliosis	NOUN	_	N	10	dobj	_	_
+12	(	(	PUNCT	_	LRB-	11	punct	_	_
+13	not	not	PART	_	B	11	neg	_	_
+14	a	a	DET	_	T	15	det	_	_
+15	pre	pre	NOUN	_	N	11	appos	_	_
+16	-	-	NOUN	_	N	11	conj	_	_
+17	requisite	requisite	NOUN	_	N	11	appos	_	_
+18	for	for	ADP	_	N	11	prep	_	_
+19	tethered	tethered	ADJ	_	J	20	amod	_	_
+20	cord	cord	NOUN	_	N	18	pobj	_	_
+21	)	)	PUNCT	_	RRB-	2	punct	_	_
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 17
+# text = The contradicting note was: the original report stated the spinal cord terminates at the L1/L2 level (normal), but my doctor did a peer-to-peer explaining it actually ended at the L2/L3 level (Abnormal).
+1	The	the	DET	_	T	3	det	_	_
+2	contradicting	contradict	VERB	_	BG	3	amod	_	_
+3	note	note	NOUN	_	N	4	nsubj	_	_
+4	was	be	AUX	_	BD	0	root	_	_
+5	:	:	PUNCT	_	_	4	punct	_	_
+6	the	the	DET	_	T	8	det	_	_
+7	original	original	ADJ	_	J	8	amod	_	_
+8	report	report	NOUN	_	N	9	nsubj	_	_
+9	stated	state	VERB	_	BD	4	ccomp	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	spinal	spinal	ADJ	_	J	12	amod	_	_
+12	cord	cord	NOUN	_	N	13	nsubj	_	_
+13	terminates	terminate	VERB	_	BZ	9	ccomp	_	_
+14	at	at	ADP	_	N	13	prep	_	_
+15	the	the	DET	_	T	19	det	_	_
+16	L1	l1	PROPN	_	NP	18	nmod	_	_
+17	/	/	SYM	_	YM	18	punct	_	_
+18	L2	l2	PROPN	_	NP	19	compound	_	_
+19	level	level	NOUN	_	N	14	pobj	_	_
+20	(	(	PUNCT	_	LRB-	21	punct	_	_
+21	normal	normal	ADJ	_	J	19	amod	_	_
+22	)	)	PUNCT	_	RRB-	19	punct	_	_
+23	,	,	PUNCT	_	_	9	punct	_	_
+24	but	but	CCONJ	_	C	4	cc	_	_
+25	my	my	PRON	_	RP$	26	poss	_	_
+26	doctor	doctor	NOUN	_	N	27	nsubj	_	_
+27	did	do	VERB	_	BD	4	conj	_	_
+28	a	a	DET	_	T	34	det	_	_
+29	peer	peer	NOUN	_	N	34	nmod	_	_
+30	-	-	PUNCT	_	YPH	29	punct	_	_
+31	to	to	ADP	_	N	29	prep	_	_
+32	-	-	PUNCT	_	YPH	31	punct	_	_
+33	peer	peer	NOUN	_	N	31	pobj	_	_
+34	explaining	explain	VERB	_	BG	27	dobj	_	_
+35	it	it	PRON	_	RP	37	nsubj	_	_
+36	actually	actually	ADV	_	B	37	advmod	_	_
+37	ended	end	VERB	_	BD	34	ccomp	_	_
+38	at	at	ADP	_	N	37	prep	_	_
+39	the	the	DET	_	T	43	det	_	_
+40	L2	l2	PROPN	_	NP	42	nmod	_	_
+41	/	/	SYM	_	YM	42	punct	_	_
+42	L3	l3	PROPN	_	NP	43	compound	_	_
+43	level	level	NOUN	_	N	38	pobj	_	_
+44	(	(	PUNCT	_	LRB-	43	punct	_	_
+45	Abnormal	abnormal	PROPN	_	NP	43	appos	_	_
+46	)	)	PUNCT	_	RRB-	43	punct	_	_
+47	.	.	PUNCT	_	_	27	punct	_	_
+
+
+# sent_id = 18
+# text = The new imaging and report stated the L2/L3 level, and all additional supporting documentation was filed as a new claim.
+1	The	the	DET	_	T	3	det	_	_
+2	new	new	ADJ	_	J	3	amod	_	_
+3	imaging	imaging	NOUN	_	N	6	nsubj	_	_
+4	and	and	CCONJ	_	C	3	cc	_	_
+5	report	report	NOUN	_	N	3	conj	_	_
+6	stated	state	VERB	_	BD	0	root	_	_
+7	the	the	DET	_	T	11	det	_	_
+8	L2	l2	PROPN	_	NP	10	nmod	_	_
+9	/	/	SYM	_	YM	10	punct	_	_
+10	L3	l3	PROPN	_	NP	11	compound	_	_
+11	level	level	NOUN	_	N	6	dobj	_	_
+12	,	,	PUNCT	_	_	6	punct	_	_
+13	and	and	CCONJ	_	C	6	cc	_	_
+14	all	all	DET	_	T	17	det	_	_
+15	additional	additional	ADJ	_	J	17	amod	_	_
+16	supporting	support	VERB	_	BG	17	amod	_	_
+17	documentation	documentation	NOUN	_	N	19	nsubjpass	_	_
+18	was	be	AUX	_	BD	19	auxpass	_	_
+19	filed	file	VERB	_	BN	6	conj	_	_
+20	as	as	ADP	_	N	19	prep	_	_
+21	a	a	DET	_	T	23	det	_	_
+22	new	new	ADJ	_	J	23	amod	_	_
+23	claim	claim	NOUN	_	N	20	pobj	_	_
+24	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 19
+# text = This was all denied again as not medically necessary and we submitted for an external review.
+1	This	this	PRON	_	T	4	nsubjpass	_	_
+2	was	be	AUX	_	BD	4	auxpass	_	_
+3	all	all	ADV	_	B	4	dep	_	_
+4	denied	deny	VERB	_	BN	0	root	_	_
+5	again	again	ADV	_	B	4	advmod	_	_
+6	as	as	ADP	_	N	4	prep	_	_
+7	not	not	PART	_	B	9	neg	_	_
+8	medically	medically	ADV	_	B	9	advmod	_	_
+9	necessary	necessary	ADJ	_	J	6	amod	_	_
+10	and	and	CCONJ	_	C	4	cc	_	_
+11	we	we	PRON	_	RP	12	nsubj	_	_
+12	submitted	submit	VERB	_	BD	4	conj	_	_
+13	for	for	ADP	_	N	12	prep	_	_
+14	an	an	DET	_	T	16	det	_	_
+15	external	external	ADJ	_	J	16	amod	_	_
+16	review	review	NOUN	_	N	13	pobj	_	_
+17	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 20
+# text = The reviewing company found that the surgery is medically necessary.
+1	The	the	DET	_	T	3	det	_	_
+2	reviewing	review	VERB	_	BG	3	amod	_	_
+3	company	company	NOUN	_	N	4	nsubj	_	_
+4	found	find	VERB	_	BD	0	root	_	_
+5	that	that	SCONJ	_	N	8	mark	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	surgery	surgery	NOUN	_	N	8	nsubj	_	_
+8	is	be	AUX	_	BZ	4	ccomp	_	_
+9	medically	medically	ADV	_	B	10	advmod	_	_
+10	necessary	necessary	ADJ	_	J	8	acomp	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 21
+# text = Here's the new problem.
+1	Here	here	ADV	_	B	2	advmod	_	_
+2	's	be	AUX	_	BZ	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	new	new	ADJ	_	J	5	amod	_	_
+5	problem	problem	NOUN	_	N	2	nsubj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 22
+# text = I could no longer wait for insurance to decide they wanted to cover a medically necessary surgery.
+1	I	i	PRON	_	RP	5	nsubj	_	_
+2	could	could	AUX	_	D	5	aux	_	_
+3	no	no	ADV	_	B	4	neg	_	_
+4	longer	long	ADV	_	B	5	advmod	_	_
+5	wait	wait	VERB	_	B	0	root	_	_
+6	for	for	SCONJ	_	N	9	mark	_	_
+7	insurance	insurance	NOUN	_	N	9	nsubj	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	decide	decide	VERB	_	B	5	advcl	_	_
+10	they	they	PRON	_	RP	11	nsubj	_	_
+11	wanted	want	VERB	_	BD	9	ccomp	_	_
+12	to	to	PART	_	O	13	aux	_	_
+13	cover	cover	VERB	_	B	11	xcomp	_	_
+14	a	a	DET	_	T	17	det	_	_
+15	medically	medically	ADV	_	B	16	advmod	_	_
+16	necessary	necessary	ADJ	_	J	17	amod	_	_
+17	surgery	surgery	NOUN	_	N	13	dobj	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 23
+# text = My symptoms were worsening and there was concern for my heart.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	symptoms	symptom	NOUN	_	NS	4	nsubj	_	_
+3	were	be	AUX	_	BD	4	aux	_	_
+4	worsening	worsen	VERB	_	BG	0	root	_	_
+5	and	and	CCONJ	_	C	4	cc	_	_
+6	there	there	PRON	_	X	7	expl	_	_
+7	was	be	VERB	_	BD	4	conj	_	_
+8	concern	concern	NOUN	_	N	7	attr	_	_
+9	for	for	ADP	_	N	8	prep	_	_
+10	my	my	PRON	_	RP$	11	poss	_	_
+11	heart	heart	NOUN	_	N	9	pobj	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 24
+# text = I took out loans to have surgery while I was awaiting the external appeal to be done.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	took	take	VERB	_	BD	0	root	_	_
+3	out	out	ADP	_	P	2	prt	_	_
+4	loans	loan	NOUN	_	NS	2	dobj	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	have	have	VERB	_	B	2	advcl	_	_
+7	surgery	surgery	NOUN	_	N	6	dobj	_	_
+8	while	while	SCONJ	_	N	11	mark	_	_
+9	I	i	PRON	_	RP	11	nsubj	_	_
+10	was	be	AUX	_	BD	11	aux	_	_
+11	awaiting	await	VERB	_	BG	2	advcl	_	_
+12	the	the	DET	_	T	14	det	_	_
+13	external	external	ADJ	_	J	14	amod	_	_
+14	appeal	appeal	NOUN	_	N	11	dobj	_	_
+15	to	to	PART	_	O	17	aux	_	_
+16	be	be	AUX	_	B	17	auxpass	_	_
+17	done	do	VERB	_	BN	14	relcl	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 25
+# text = We submitted the surgery findings to the external review company.
+1	We	we	PRON	_	RP	2	nsubj	_	_
+2	submitted	submit	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	surgery	surgery	NOUN	_	N	5	compound	_	_
+5	findings	finding	NOUN	_	NS	2	dobj	_	_
+6	to	to	ADP	_	N	2	prep	_	_
+7	the	the	DET	_	T	10	det	_	_
+8	external	external	ADJ	_	J	9	amod	_	_
+9	review	review	NOUN	_	N	10	compound	_	_
+10	company	company	NOUN	_	N	6	pobj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 26
+# text = My insurance is claiming that the date of decision from the external review is past the surgery date which no longer makes it a pre-approval.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	insurance	insurance	NOUN	_	N	4	nsubj	_	_
+3	is	be	AUX	_	BZ	4	aux	_	_
+4	claiming	claim	VERB	_	BG	0	root	_	_
+5	that	that	SCONJ	_	N	14	mark	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	date	date	NOUN	_	N	14	nsubj	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	decision	decision	NOUN	_	N	8	pobj	_	_
+10	from	from	ADP	_	N	9	prep	_	_
+11	the	the	DET	_	T	13	det	_	_
+12	external	external	ADJ	_	J	13	amod	_	_
+13	review	review	NOUN	_	N	10	pobj	_	_
+14	is	be	AUX	_	BZ	4	ccomp	_	_
+15	past	past	ADP	_	N	14	prep	_	_
+16	the	the	DET	_	T	18	det	_	_
+17	surgery	surgery	NOUN	_	N	18	compound	_	_
+18	date	date	NOUN	_	N	15	pobj	_	_
+19	which	which	PRON	_	DT	22	nsubj	_	_
+20	no	no	ADV	_	B	21	neg	_	_
+21	longer	long	ADV	_	B	22	advmod	_	_
+22	makes	make	VERB	_	BZ	18	relcl	_	_
+23	it	it	PRON	_	RP	25	nsubj	_	_
+24	a	a	DET	_	T	25	det	_	_
+25	pre	pre	NOUN	_	N	22	ccomp	_	_
+26	-	-	NOUN	_	N	22	ccomp	_	_
+27	approval	approval	NOUN	_	N	22	ccomp	_	_
+28	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 27
+# text = The external review was sent to the outside company on June 29, my surgery was July 1, the case was accepted on July 8.
+1	The	the	DET	_	T	3	det	_	_
+2	external	external	ADJ	_	J	3	amod	_	_
+3	review	review	NOUN	_	N	5	nsubjpass	_	_
+4	was	be	AUX	_	BD	5	auxpass	_	_
+5	sent	send	VERB	_	BN	16	ccomp	_	_
+6	to	to	ADP	_	N	5	prep	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	outside	outside	ADJ	_	J	9	amod	_	_
+9	company	company	NOUN	_	N	6	pobj	_	_
+10	on	on	ADP	_	N	5	prep	_	_
+11	June	june	PROPN	_	NP	10	pobj	_	_
+12	29	29	NUM	_	D	11	nummod	_	_
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	my	my	PRON	_	RP$	15	poss	_	_
+15	surgery	surgery	NOUN	_	N	16	nsubj	_	_
+16	was	be	AUX	_	BD	23	auxpass	_	_
+17	July	july	PROPN	_	NP	23	npadvmod	_	_
+18	1	1	NUM	_	D	17	nummod	_	_
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	the	the	DET	_	T	21	det	_	_
+21	case	case	NOUN	_	N	23	nsubjpass	_	_
+22	was	be	AUX	_	BD	23	auxpass	_	_
+23	accepted	accept	VERB	_	BN	0	root	_	_
+24	on	on	ADP	_	N	23	prep	_	_
+25	July	july	PROPN	_	NP	24	pobj	_	_
+26	8	8	NUM	_	D	25	nummod	_	_
+27	.	.	PUNCT	_	_	23	punct	_	_
+
+
+# sent_id = 28
+# text = The decision was made Aug 6.
+1	The	the	DET	_	T	2	det	_	_
+2	decision	decision	NOUN	_	N	4	nsubjpass	_	_
+3	was	be	AUX	_	BD	4	auxpass	_	_
+4	made	make	VERB	_	BN	0	root	_	_
+5	Aug	aug	PROPN	_	NP	4	dobj	_	_
+6	6	6	NUM	_	D	5	nummod	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 29
+# text = My insurance is using the Aug 6 date as the start of approval, and the service date of July 1st is "outside the approval date."
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	insurance	insurance	NOUN	_	N	4	nsubj	_	_
+3	is	be	AUX	_	BZ	4	aux	_	_
+4	using	use	VERB	_	BG	0	root	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	Aug	aug	PROPN	_	NP	4	dobj	_	_
+7	6	6	NUM	_	D	8	nummod	_	_
+8	date	date	NOUN	_	N	4	dobj	_	_
+9	as	as	ADP	_	N	4	prep	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	start	start	NOUN	_	N	9	pobj	_	_
+12	of	of	ADP	_	N	11	prep	_	_
+13	approval	approval	NOUN	_	N	12	pobj	_	_
+14	,	,	PUNCT	_	_	4	punct	_	_
+15	and	and	CCONJ	_	C	4	cc	_	_
+16	the	the	DET	_	T	18	det	_	_
+17	service	service	NOUN	_	N	18	compound	_	_
+18	date	date	NOUN	_	N	22	nsubj	_	_
+19	of	of	ADP	_	N	18	prep	_	_
+20	July	july	PROPN	_	NP	21	compound	_	_
+21	1st	1st	NOUN	_	N	19	pobj	_	_
+22	is	be	AUX	_	BZ	4	conj	_	_
+23	"	"	PUNCT	_	`	22	punct	_	_
+24	outside	outside	ADP	_	N	22	prep	_	_
+25	the	the	DET	_	T	27	det	_	_
+26	approval	approval	NOUN	_	N	27	compound	_	_
+27	date	date	NOUN	_	N	24	pobj	_	_
+28	.	.	PUNCT	_	_	22	punct	_	_
+29	"	"	PUNCT	_	'	22	punct	_	_
+
+
+# sent_id = 30
+# text = We first submitted for pre-approval December 17, 2025.
+1	We	we	PRON	_	RP	3	nsubj	_	_
+2	first	first	ADV	_	B	3	advmod	_	_
+3	submitted	submit	VERB	_	BD	0	root	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	pre	pre	ADJ	_	J	4	pobj	_	_
+6	-	-	NOUN	_	N	4	pobj	_	_
+7	approval	approval	ADJ	_	J	4	pobj	_	_
+8	December	december	PROPN	_	NP	4	pobj	_	_
+9	17	17	NUM	_	D	8	nummod	_	_
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	2025	2025	NUM	_	D	8	nummod	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 31
+# text = The Second submission attached to the external Appeal was submitted in May.
+1	The	the	DET	_	T	3	det	_	_
+2	Second	second	ADJ	_	J	3	amod	_	_
+3	submission	submission	NOUN	_	N	10	nsubjpass	_	_
+4	attached	attach	VERB	_	BN	3	acl	_	_
+5	to	to	ADP	_	N	4	prep	_	_
+6	the	the	DET	_	T	8	det	_	_
+7	external	external	ADJ	_	J	8	amod	_	_
+8	Appeal	appeal	PROPN	_	NP	5	pobj	_	_
+9	was	be	AUX	_	BD	10	auxpass	_	_
+10	submitted	submit	VERB	_	BN	0	root	_	_
+11	in	in	ADP	_	N	10	prep	_	_
+12	May	may	PROPN	_	NP	11	pobj	_	_
+13	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 32
+# text = They have immediately escalated the matter and I am, again, waiting for them to get their shit together.
+1	They	they	PRON	_	RP	4	nsubj	_	_
+2	have	have	AUX	_	BP	4	aux	_	_
+3	immediately	immediately	ADV	_	B	4	advmod	_	_
+4	escalated	escalate	VERB	_	BN	0	root	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	matter	matter	NOUN	_	N	4	dobj	_	_
+7	and	and	CCONJ	_	C	4	cc	_	_
+8	I	i	PRON	_	RP	9	nsubj	_	_
+9	am	be	AUX	_	BP	4	conj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	again	again	ADV	_	B	9	advmod	_	_
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	waiting	wait	VERB	_	BG	9	advcl	_	_
+14	for	for	SCONJ	_	N	17	mark	_	_
+15	them	they	PRON	_	RP	17	nsubj	_	_
+16	to	to	PART	_	O	17	aux	_	_
+17	get	get	VERB	_	B	13	advcl	_	_
+18	their	their	PRON	_	RP$	19	poss	_	_
+19	shit	shit	NOUN	_	N	17	dobj	_	_
+20	together	together	ADV	_	B	17	advmod	_	_
+21	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 33
+# text = I'm not a fan of waiting and if anyone has ideas to help this process along, I would be grateful.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	'm	be	AUX	_	BP	0	root	_	_
+3	not	not	PART	_	B	2	neg	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	fan	fan	NOUN	_	N	2	attr	_	_
+6	of	of	ADP	_	N	5	prep	_	_
+7	waiting	waiting	NOUN	_	N	6	pcomp	_	_
+8	and	and	CCONJ	_	C	2	cc	_	_
+9	if	if	SCONJ	_	N	11	mark	_	_
+10	anyone	anyone	PRON	_	N	11	nsubj	_	_
+11	has	have	VERB	_	BZ	21	advcl	_	_
+12	ideas	idea	NOUN	_	NS	11	dobj	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	help	help	VERB	_	B	12	relcl	_	_
+15	this	this	DET	_	T	16	det	_	_
+16	process	process	NOUN	_	N	14	dobj	_	_
+17	along	along	ADV	_	B	14	advmod	_	_
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	I	i	PRON	_	RP	21	nsubj	_	_
+20	would	would	AUX	_	D	21	aux	_	_
+21	be	be	AUX	_	B	2	conj	_	_
+22	grateful	grateful	ADJ	_	J	21	acomp	_	_
+23	.	.	PUNCT	_	_	21	punct	_	_
+
+
+# sent_id = 34
+# text = I am working with a patient advocate through Aetna, but unfortunately, she has never had a case like mine and has no advice or steps forward.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	am	be	AUX	_	BP	3	aux	_	_
+3	working	work	VERB	_	BG	0	root	_	_
+4	with	with	ADP	_	N	3	prep	_	_
+5	a	a	DET	_	T	7	det	_	_
+6	patient	patient	ADJ	_	J	7	amod	_	_
+7	advocate	advocate	NOUN	_	N	4	pobj	_	_
+8	through	through	ADP	_	N	3	prep	_	_
+9	Aetna	aetna	PROPN	_	NP	8	pobj	_	_
+10	,	,	PUNCT	_	_	3	punct	_	_
+11	but	but	CCONJ	_	C	3	cc	_	_
+12	unfortunately	unfortunately	ADV	_	B	17	advmod	_	_
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	she	she	PRON	_	RP	17	nsubj	_	_
+15	has	have	AUX	_	BZ	17	aux	_	_
+16	never	never	ADV	_	B	17	neg	_	_
+17	had	have	VERB	_	BN	3	conj	_	_
+18	a	a	DET	_	T	19	det	_	_
+19	case	case	NOUN	_	N	17	dobj	_	_
+20	like	like	ADP	_	N	19	prep	_	_
+21	mine	mine	PRON	_	RP	20	pobj	_	_
+22	and	and	CCONJ	_	C	17	cc	_	_
+23	has	have	VERB	_	BZ	17	conj	_	_
+24	no	no	DET	_	T	25	det	_	_
+25	advice	advice	NOUN	_	N	23	dobj	_	_
+26	or	or	CCONJ	_	C	25	cc	_	_
+27	steps	step	NOUN	_	NS	25	conj	_	_
+28	forward	forward	ADV	_	B	27	advmod	_	_
+29	.	.	PUNCT	_	_	17	punct	_	_
+
+
+# sent_id = 35
+# text = I am happy to provide more details if needed.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	am	be	AUX	_	BP	0	root	_	_
+3	happy	happy	ADJ	_	J	2	acomp	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	provide	provide	VERB	_	B	3	xcomp	_	_
+6	more	more	ADJ	_	JR	7	amod	_	_
+7	details	detail	NOUN	_	NS	5	dobj	_	_
+8	if	if	SCONJ	_	N	9	mark	_	_
+9	needed	need	VERB	_	BN	5	advcl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+

@@ -1,0 +1,141 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1102
+1	1102	1102	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1101
+1	1101	1101	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/YouCooper
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	YouCooper	youcooper	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Fair point, and the insurer is likely to keep arguing that.
+1	Fair	fair	NOUN	_	N	2	compound	_	_
+2	point	point	NOUN	_	N	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	and	and	CCONJ	_	C	2	cc	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	insurer	insurer	NOUN	_	N	7	nsubj	_	_
+7	is	be	AUX	_	BZ	2	conj	_	_
+8	likely	likely	ADJ	_	J	7	acomp	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	keep	keep	VERB	_	B	8	xcomp	_	_
+11	arguing	argue	VERB	_	BG	10	xcomp	_	_
+12	that	that	PRON	_	T	11	dobj	_	_
+13	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 6
+# text = But even setting H pylori aside, the ER visit itself was for an adverse reaction to the antibiotic she started taking to treat the infection.
+1	But	but	CCONJ	_	C	12	cc	_	_
+2	even	even	ADV	_	B	3	advmod	_	_
+3	setting	set	VERB	_	BG	12	advcl	_	_
+4	H	h	NOUN	_	N	5	compound	_	_
+5	pylori	pylori	NOUN	_	N	3	dobj	_	_
+6	aside	aside	ADV	_	B	3	advmod	_	_
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	ER	er	PROPN	_	NP	10	compound	_	_
+10	visit	visit	NOUN	_	N	12	nsubj	_	_
+11	itself	itself	PRON	_	RP	10	appos	_	_
+12	was	be	AUX	_	BD	0	root	_	_
+13	for	for	ADP	_	N	12	prep	_	_
+14	an	an	DET	_	T	16	det	_	_
+15	adverse	adverse	ADJ	_	J	16	amod	_	_
+16	reaction	reaction	NOUN	_	N	13	pobj	_	_
+17	to	to	ADP	_	N	16	prep	_	_
+18	the	the	DET	_	T	19	det	_	_
+19	antibiotic	antibiotic	ADJ	_	J	17	pobj	_	_
+20	she	she	PRON	_	RP	21	nsubj	_	_
+21	started	start	VERB	_	BD	19	relcl	_	_
+22	taking	take	VERB	_	BG	21	xcomp	_	_
+23	to	to	PART	_	O	24	aux	_	_
+24	treat	treat	VERB	_	B	22	xcomp	_	_
+25	the	the	DET	_	T	26	det	_	_
+26	infection	infection	NOUN	_	N	24	dobj	_	_
+27	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 7
+# text = Discharge diagnosis was literally “adverse effect of systemic antibiotic”.
+1	Discharge	discharge	ADJ	_	J	2	amod	_	_
+2	diagnosis	diagnosis	NOUN	_	N	3	nsubj	_	_
+3	was	be	AUX	_	BD	0	root	_	_
+4	literally	literally	ADV	_	B	7	advmod	_	_
+5	“	"	PUNCT	_	`	7	punct	_	_
+6	adverse	adverse	ADJ	_	J	7	amod	_	_
+7	effect	effect	NOUN	_	N	3	attr	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	systemic	systemic	ADJ	_	J	10	amod	_	_
+10	antibiotic	antibiotic	NOUN	_	N	8	pobj	_	_
+11	”	"	PUNCT	_	'	3	punct	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = That drug was not in her body before coverage began, so the reaction to it cannot be pre-existing.
+1	That	that	DET	_	T	2	det	_	_
+2	drug	drug	NOUN	_	N	3	nsubj	_	_
+3	was	be	AUX	_	BD	0	root	_	_
+4	not	not	PART	_	B	3	neg	_	_
+5	in	in	ADP	_	N	3	prep	_	_
+6	her	her	PRON	_	RP$	7	poss	_	_
+7	body	body	NOUN	_	N	5	pobj	_	_
+8	before	before	SCONJ	_	N	10	mark	_	_
+9	coverage	coverage	NOUN	_	N	10	nsubj	_	_
+10	began	begin	VERB	_	BD	3	advcl	_	_
+11	,	,	PUNCT	_	_	3	punct	_	_
+12	so	so	SCONJ	_	N	3	cc	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	reaction	reaction	NOUN	_	N	19	nsubj	_	_
+15	to	to	ADP	_	N	14	prep	_	_
+16	it	it	PRON	_	RP	15	pobj	_	_
+17	can	can	AUX	_	D	19	aux	_	_
+18	not	not	PART	_	B	19	neg	_	_
+19	be	be	AUX	_	B	20	auxpass	_	_
+20	pre	pre	VERB	_	BN	3	acomp	_	_
+21	-	-	ADJ	_	J	3	acomp	_	_
+22	existing	exist	VERB	_	BG	3	acomp	_	_
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = Would that be a stronger angle to focus the appeal on rather than trying to prove the H pylori itself was not there?
+1	Would	would	AUX	_	D	3	aux	_	_
+2	that	that	PRON	_	T	3	nsubj	_	_
+3	be	be	AUX	_	B	0	root	_	_
+4	a	a	DET	_	T	6	det	_	_
+5	stronger	strong	ADJ	_	JR	6	amod	_	_
+6	angle	angle	NOUN	_	N	3	attr	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	focus	focus	VERB	_	B	6	acl	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	appeal	appeal	NOUN	_	N	8	dobj	_	_
+11	on	on	ADP	_	P	8	prep	_	_
+12	rather	rather	ADV	_	B	13	advmod	_	_
+13	than	than	ADP	_	N	8	cc	_	_
+14	trying	try	VERB	_	BG	3	advcl	_	_
+15	to	to	PART	_	O	16	aux	_	_
+16	prove	prove	VERB	_	B	14	xcomp	_	_
+17	the	the	DET	_	T	19	det	_	_
+18	H	h	PROPN	_	NP	19	compound	_	_
+19	pylori	pylori	NOUN	_	N	16	dobj	_	_
+20	itself	itself	PRON	_	RP	19	appos	_	_
+21	was	be	AUX	_	BD	3	conj	_	_
+22	not	not	PART	_	B	21	neg	_	_
+23	there	there	ADV	_	B	21	advmod	_	_
+24	?	?	PUNCT	_	_	3	punct	_	_
+
+

@@ -1,0 +1,123 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1203
+1	1203	1203	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1202
+1	1202	1202	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Tiredmagnolia
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Tiredmagnolia	tiredmagnolia	PROPN	_	NP	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Your COC documentation should give details about a stop date.
+1	Your	your	PRON	_	RP$	3	poss	_	_
+2	COC	coc	PROPN	_	NP	3	compound	_	_
+3	documentation	documentation	NOUN	_	N	5	nsubj	_	_
+4	should	should	AUX	_	D	5	aux	_	_
+5	give	give	VERB	_	B	0	root	_	_
+6	details	detail	NOUN	_	NS	5	dobj	_	_
+7	about	about	ADP	_	N	6	prep	_	_
+8	a	a	DET	_	T	10	det	_	_
+9	stop	stop	NOUN	_	N	10	compound	_	_
+10	date	date	NOUN	_	N	7	pobj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = This doesn't mean they will approve another "like biologic" without the step therapy.
+1	This	this	PRON	_	T	4	nsubj	_	_
+2	does	do	AUX	_	BZ	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	mean	mean	VERB	_	B	0	root	_	_
+5	they	they	PRON	_	RP	7	nsubj	_	_
+6	will	will	AUX	_	D	7	aux	_	_
+7	approve	approve	VERB	_	B	4	ccomp	_	_
+8	another	another	PRON	_	T	7	dobj	_	_
+9	"	"	PUNCT	_	`	8	punct	_	_
+10	like	like	ADP	_	N	8	prep	_	_
+11	biologic	biologic	NOUN	_	N	10	pobj	_	_
+12	"	"	PUNCT	_	'	10	punct	_	_
+13	without	without	ADP	_	N	7	prep	_	_
+14	the	the	DET	_	T	16	det	_	_
+15	step	step	NOUN	_	N	16	compound	_	_
+16	therapy	therapy	NOUN	_	N	13	pobj	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = Ah, then your doctor will have to very carefully detail why you can't try those others and ultimately step-therapy is a real pain to try and beat.
+1	Ah	ah	INTJ	_	H	7	intj	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	then	then	ADV	_	B	7	advmod	_	_
+4	your	your	PRON	_	RP$	5	poss	_	_
+5	doctor	doctor	NOUN	_	N	7	nsubj	_	_
+6	will	will	AUX	_	D	7	aux	_	_
+7	have	have	VERB	_	B	0	root	_	_
+8	to	to	PART	_	O	7	prep	_	_
+9	very	very	ADV	_	B	10	advmod	_	_
+10	carefully	carefully	ADV	_	B	11	advmod	_	_
+11	detail	detail	NOUN	_	N	8	pobj	_	_
+12	why	why	SCONJ	_	RB	16	advmod	_	_
+13	you	you	PRON	_	RP	16	nsubj	_	_
+14	ca	can	AUX	_	D	16	aux	_	_
+15	n't	not	PART	_	B	16	neg	_	_
+16	try	try	VERB	_	B	7	ccomp	_	_
+17	those	those	DET	_	T	18	det	_	_
+18	others	other	NOUN	_	NS	16	dobj	_	_
+19	and	and	CCONJ	_	C	16	cc	_	_
+20	ultimately	ultimately	ADV	_	B	23	advmod	_	_
+21	step	step	NOUN	_	N	23	compound	_	_
+22	-	-	PUNCT	_	YPH	23	punct	_	_
+23	therapy	therapy	NOUN	_	N	24	nsubj	_	_
+24	is	be	AUX	_	BZ	16	conj	_	_
+25	a	a	DET	_	T	27	det	_	_
+26	real	real	ADJ	_	J	27	amod	_	_
+27	pain	pain	NOUN	_	N	24	attr	_	_
+28	to	to	PART	_	O	29	aux	_	_
+29	try	try	VERB	_	B	27	relcl	_	_
+30	and	and	CCONJ	_	C	29	cc	_	_
+31	beat	beat	VERB	_	B	29	conj	_	_
+32	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 8
+# text = Many will "fake" try and then apply again.
+1	Many	many	ADJ	_	J	4	nsubj	_	_
+2	will	will	AUX	_	D	4	aux	_	_
+3	"	"	PUNCT	_	`	4	punct	_	_
+4	fake	fake	ADJ	_	J	0	root	_	_
+5	"	"	PUNCT	_	'	4	punct	_	_
+6	try	try	NOUN	_	N	4	dobj	_	_
+7	and	and	CCONJ	_	C	4	cc	_	_
+8	then	then	ADV	_	B	9	advmod	_	_
+9	apply	apply	VERB	_	B	4	conj	_	_
+10	again	again	ADV	_	B	9	advmod	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = Ultimately a lawyer isn't going to help here.
+1	Ultimately	ultimately	ADV	_	B	6	advmod	_	_
+2	a	a	DET	_	T	3	det	_	_
+3	lawyer	lawyer	NOUN	_	N	6	nsubj	_	_
+4	is	be	AUX	_	BZ	6	aux	_	_
+5	n't	not	PART	_	B	6	neg	_	_
+6	going	go	VERB	_	BG	0	root	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	help	help	VERB	_	B	6	xcomp	_	_
+9	here	here	ADV	_	B	8	advmod	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+

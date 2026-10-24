@@ -1,0 +1,162 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1818
+1	1818	1818	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1817
+1	1817	1817	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Weekly-Ad-650
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Weekly	weekly	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Ad-650	ad-650	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Thank you for taking the time to write out such a helpful response!
+1	Thank	thank	VERB	_	BP	0	root	_	_
+2	you	you	PRON	_	RP	1	dobj	_	_
+3	for	for	ADP	_	N	1	prep	_	_
+4	taking	take	VERB	_	BG	3	pcomp	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	time	time	NOUN	_	N	4	dobj	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	write	write	VERB	_	B	4	advcl	_	_
+9	out	out	ADP	_	P	8	prt	_	_
+10	such	such	DET	_	DT	13	predet	_	_
+11	a	a	DET	_	T	13	det	_	_
+12	helpful	helpful	ADJ	_	J	13	amod	_	_
+13	response	response	NOUN	_	N	8	dobj	_	_
+14	!	!	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = My plan is fully insured.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	plan	plan	NOUN	_	N	5	nsubjpass	_	_
+3	is	be	AUX	_	BZ	5	auxpass	_	_
+4	fully	fully	ADV	_	B	5	advmod	_	_
+5	insured	insure	VERB	_	BN	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 7
+# text = I did request copies of the policy and applicable documents but I’m still waiting on them.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	did	do	AUX	_	BD	3	aux	_	_
+3	request	request	VERB	_	B	0	root	_	_
+4	copies	copy	NOUN	_	NS	3	dobj	_	_
+5	of	of	ADP	_	N	4	prep	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	policy	policy	NOUN	_	N	5	pobj	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	applicable	applicable	ADJ	_	J	10	amod	_	_
+10	documents	document	NOUN	_	NS	7	conj	_	_
+11	but	but	CCONJ	_	C	3	cc	_	_
+12	I	i	PRON	_	RP	15	nsubj	_	_
+13	’m	’m	AUX	_	BD	15	aux	_	_
+14	still	still	ADV	_	B	15	advmod	_	_
+15	waiting	wait	VERB	_	BG	3	conj	_	_
+16	on	on	ADP	_	N	15	prep	_	_
+17	them	they	PRON	_	RP	16	pobj	_	_
+18	.	.	PUNCT	_	_	15	punct	_	_
+
+
+# sent_id = 8
+# text = As far as a second appeal, that’s another interesting component.
+1	As	as	ADV	_	B	2	advmod	_	_
+2	far	far	ADV	_	B	9	advmod	_	_
+3	as	as	ADP	_	N	2	prep	_	_
+4	a	a	DET	_	T	6	det	_	_
+5	second	second	ADJ	_	J	6	amod	_	_
+6	appeal	appeal	NOUN	_	N	3	pobj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	that	that	PRON	_	T	9	nsubj	_	_
+9	’s	’	VERB	_	BD	0	root	_	_
+10	another	another	DET	_	T	12	det	_	_
+11	interesting	interesting	ADJ	_	J	12	amod	_	_
+12	component	component	NOUN	_	N	9	dobj	_	_
+13	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 9
+# text = My plan states that I get two levels of internal appeal, which I’ve done in the past, but they said in the denial that this was my final appeal and I’d have to contact the state for further review.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	plan	plan	NOUN	_	N	3	nsubj	_	_
+3	states	state	VERB	_	BZ	0	root	_	_
+4	that	that	SCONJ	_	N	6	mark	_	_
+5	I	i	PRON	_	RP	6	nsubj	_	_
+6	get	get	VERB	_	BP	3	ccomp	_	_
+7	two	two	NUM	_	D	8	nummod	_	_
+8	levels	level	NOUN	_	NS	6	dobj	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	internal	internal	ADJ	_	J	11	amod	_	_
+11	appeal	appeal	NOUN	_	N	9	pobj	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	which	which	PRON	_	DT	16	dobj	_	_
+14	I	i	PRON	_	RP	16	nsubj	_	_
+15	’ve	’ve	AUX	_	BP	16	aux	_	_
+16	done	do	VERB	_	BN	11	relcl	_	_
+17	in	in	ADP	_	N	16	prep	_	_
+18	the	the	DET	_	T	19	det	_	_
+19	past	past	NOUN	_	N	17	pobj	_	_
+20	,	,	PUNCT	_	_	3	punct	_	_
+21	but	but	CCONJ	_	C	3	cc	_	_
+22	they	they	PRON	_	RP	23	nsubj	_	_
+23	said	say	VERB	_	BD	3	conj	_	_
+24	in	in	ADP	_	N	23	prep	_	_
+25	the	the	DET	_	T	26	det	_	_
+26	denial	denial	NOUN	_	N	24	pobj	_	_
+27	that	that	SCONJ	_	N	29	mark	_	_
+28	this	this	PRON	_	T	29	nsubj	_	_
+29	was	be	AUX	_	BD	23	ccomp	_	_
+30	my	my	PRON	_	RP$	32	poss	_	_
+31	final	final	ADJ	_	J	32	amod	_	_
+32	appeal	appeal	NOUN	_	N	29	attr	_	_
+33	and	and	CCONJ	_	C	29	cc	_	_
+34	I	i	PRON	_	RP	36	nsubj	_	_
+35	’d	’d	AUX	_	D	36	aux	_	_
+36	have	have	VERB	_	B	29	conj	_	_
+37	to	to	PART	_	O	38	aux	_	_
+38	contact	contact	VERB	_	B	36	xcomp	_	_
+39	the	the	DET	_	T	40	det	_	_
+40	state	state	NOUN	_	N	38	dobj	_	_
+41	for	for	ADP	_	N	38	prep	_	_
+42	further	further	ADJ	_	J	43	amod	_	_
+43	review	review	NOUN	_	N	41	pobj	_	_
+44	.	.	PUNCT	_	_	23	punct	_	_
+
+
+# sent_id = 10
+# text = Definitely my first appeal for this claim so not sure why they cut me off from a second!
+1	Definitely	definitely	ADV	_	B	10	advmod	_	_
+2	my	my	PRON	_	RP$	4	poss	_	_
+3	first	first	ADJ	_	J	4	amod	_	_
+4	appeal	appeal	NOUN	_	N	10	nsubj	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	this	this	DET	_	T	7	det	_	_
+7	claim	claim	NOUN	_	N	5	pobj	_	_
+8	so	so	ADV	_	B	9	advmod	_	_
+9	not	not	PART	_	B	10	neg	_	_
+10	sure	sure	ADJ	_	J	0	root	_	_
+11	why	why	SCONJ	_	RB	13	advmod	_	_
+12	they	they	PRON	_	RP	13	nsubj	_	_
+13	cut	cut	VERB	_	BD	10	ccomp	_	_
+14	me	i	PRON	_	RP	13	dobj	_	_
+15	off	off	ADP	_	P	13	prt	_	_
+16	from	from	ADP	_	N	13	prep	_	_
+17	a	a	DET	_	T	18	det	_	_
+18	second	second	NOUN	_	N	16	pobj	_	_
+19	!	!	PUNCT	_	_	10	punct	_	_
+
+

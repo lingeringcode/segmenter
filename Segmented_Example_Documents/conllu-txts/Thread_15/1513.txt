@@ -1,0 +1,108 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1513
+1	1513	1513	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/OkMiddle4948
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	OkMiddle4948	okmiddle4948	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Not medically necessary typically means your provider’s office didn’t submit the correct documentation more often than not.
+1	Not	not	PART	_	B	3	neg	_	_
+2	medically	medically	ADV	_	B	3	advmod	_	_
+3	necessary	necessary	ADJ	_	J	5	nsubj	_	_
+4	typically	typically	ADV	_	B	5	advmod	_	_
+5	means	mean	VERB	_	BZ	0	root	_	_
+6	your	your	PRON	_	RP$	7	poss	_	_
+7	provider	provider	NOUN	_	N	9	poss	_	_
+8	’s	’s	PART	_	OS	7	case	_	_
+9	office	office	NOUN	_	N	12	nsubj	_	_
+10	did	do	AUX	_	BD	12	aux	_	_
+11	n’t	not	PART	_	B	12	neg	_	_
+12	submit	submit	VERB	_	B	5	ccomp	_	_
+13	the	the	DET	_	T	15	det	_	_
+14	correct	correct	ADJ	_	J	15	amod	_	_
+15	documentation	documentation	NOUN	_	N	12	dobj	_	_
+16	more	more	ADV	_	BR	17	advmod	_	_
+17	often	often	ADV	_	B	12	advmod	_	_
+18	than	than	ADP	_	N	17	prep	_	_
+19	not	not	PART	_	B	18	pcomp	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = I agree with the others that the denial letter should have specific details.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	agree	agree	VERB	_	BP	0	root	_	_
+3	with	with	ADP	_	N	2	prep	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	others	other	NOUN	_	NS	3	pobj	_	_
+6	that	that	SCONJ	_	N	11	mark	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	denial	denial	NOUN	_	N	9	amod	_	_
+9	letter	letter	NOUN	_	N	11	nsubj	_	_
+10	should	should	AUX	_	D	11	aux	_	_
+11	have	have	VERB	_	B	2	ccomp	_	_
+12	specific	specific	ADJ	_	J	13	amod	_	_
+13	details	detail	NOUN	_	NS	11	dobj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = Your doctor should be able to call the insurance and determine what is needed.
+1	Your	your	PRON	_	RP$	2	poss	_	_
+2	doctor	doctor	NOUN	_	N	4	nsubj	_	_
+3	should	should	AUX	_	D	4	aux	_	_
+4	be	be	AUX	_	B	0	root	_	_
+5	able	able	ADJ	_	J	4	acomp	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	call	call	VERB	_	B	5	xcomp	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	insurance	insurance	NOUN	_	N	7	dobj	_	_
+10	and	and	CCONJ	_	C	7	cc	_	_
+11	determine	determine	VERB	_	B	7	conj	_	_
+12	what	what	PRON	_	P	14	nsubjpass	_	_
+13	is	be	AUX	_	BZ	14	auxpass	_	_
+14	needed	need	VERB	_	BN	11	ccomp	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 8
+# text = If I had to guess it would be that the records didn’t show that conservative treatments tried and failed.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	I	i	PRON	_	RP	3	nsubj	_	_
+3	had	have	VERB	_	BD	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	guess	guess	VERB	_	B	3	xcomp	_	_
+6	it	it	PRON	_	RP	8	nsubj	_	_
+7	would	would	AUX	_	D	8	aux	_	_
+8	be	be	AUX	_	B	5	ccomp	_	_
+9	that	that	SCONJ	_	N	14	mark	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	records	record	NOUN	_	NS	14	nsubj	_	_
+12	did	do	AUX	_	BD	14	aux	_	_
+13	n’t	not	PART	_	B	14	neg	_	_
+14	show	show	VERB	_	B	8	ccomp	_	_
+15	that	that	SCONJ	_	N	18	mark	_	_
+16	conservative	conservative	ADJ	_	J	17	amod	_	_
+17	treatments	treatment	NOUN	_	NS	18	nsubj	_	_
+18	tried	try	VERB	_	BD	14	ccomp	_	_
+19	and	and	CCONJ	_	C	18	cc	_	_
+20	failed	fail	VERB	_	BD	18	conj	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+

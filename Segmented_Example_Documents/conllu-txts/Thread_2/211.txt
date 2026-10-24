@@ -1,0 +1,87 @@
+# sent_id = 1
+# text = Thread_2
+1	Thread_2	thread_2	ADV	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 211
+1	211	211	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 200
+1	200	200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/rahuliitk
+1	u	u	NOUN	_	N	3	meta	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	rahuliitk	rahuliitk	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 5
+# text = Ask for the actual denial letters and what evidence was sent, because deep cleaning denials often come down to missing perio charting, x-rays, pocket depths, bleeding notes, or a weak narrative from the dentist rather than the service being totally invalid.
+1	Ask	ask	VERB	_	B	0	root	_	_
+2	for	for	ADP	_	N	1	prep	_	_
+3	the	the	DET	_	T	6	det	_	_
+4	actual	actual	ADJ	_	J	6	amod	_	_
+5	denial	denial	NOUN	_	N	6	compound	_	_
+6	letters	letter	NOUN	_	NS	2	pobj	_	_
+7	and	and	CCONJ	_	C	1	cc	_	_
+8	what	what	DET	_	DT	9	det	_	_
+9	evidence	evidence	NOUN	_	N	11	nsubjpass	_	_
+10	was	be	AUX	_	BD	11	auxpass	_	_
+11	sent	send	VERB	_	BN	1	conj	_	_
+12	,	,	PUNCT	_	_	1	punct	_	_
+13	because	because	SCONJ	_	N	18	mark	_	_
+14	deep	deep	ADJ	_	J	16	amod	_	_
+15	cleaning	cleaning	NOUN	_	N	16	compound	_	_
+16	denials	denial	NOUN	_	NS	18	nsubj	_	_
+17	often	often	ADV	_	B	18	advmod	_	_
+18	come	come	VERB	_	BP	1	advcl	_	_
+19	down	down	ADP	_	P	18	prt	_	_
+20	to	to	ADP	_	N	18	prep	_	_
+21	missing	miss	VERB	_	BG	20	pcomp	_	_
+22	perio	perio	PROPN	_	NP	23	compound	_	_
+23	charting	chart	VERB	_	BG	21	dobj	_	_
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	x	x	NOUN	_	NS	18	advcl	_	_
+26	-	-	NOUN	_	NS	18	dobj	_	_
+27	rays	ray	NOUN	_	NS	18	dep	_	_
+28	,	,	PUNCT	_	_	27	punct	_	_
+29	pocket	pocket	NOUN	_	N	30	compound	_	_
+30	depths	depth	NOUN	_	NS	27	conj	_	_
+31	,	,	PUNCT	_	_	30	punct	_	_
+32	bleeding	bleed	VERB	_	BG	33	amod	_	_
+33	notes	note	NOUN	_	NS	30	conj	_	_
+34	,	,	PUNCT	_	_	33	punct	_	_
+35	or	or	CCONJ	_	C	33	cc	_	_
+36	a	a	DET	_	T	38	det	_	_
+37	weak	weak	ADJ	_	J	38	amod	_	_
+38	narrative	narrative	NOUN	_	N	33	conj	_	_
+39	from	from	ADP	_	N	38	prep	_	_
+40	the	the	DET	_	T	41	det	_	_
+41	dentist	dentist	NOUN	_	N	39	pobj	_	_
+42	rather	rather	ADV	_	B	43	advmod	_	_
+43	than	than	ADP	_	N	38	cc	_	_
+44	the	the	DET	_	T	45	det	_	_
+45	service	service	NOUN	_	N	46	nsubj	_	_
+46	being	be	AUX	_	BG	18	advcl	_	_
+47	totally	totally	ADV	_	B	48	advmod	_	_
+48	invalid	invalid	ADJ	_	J	46	acomp	_	_
+49	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = “welp pay it” is lazy.
+1	“	"	PUNCT	_	`	6	punct	_	_
+2	welp	welp	PROPN	_	NP	3	nsubj	_	_
+3	pay	pay	VERB	_	B	6	csubj	_	_
+4	it	it	PRON	_	RP	3	dobj	_	_
+5	”	"	PUNCT	_	'	6	punct	_	_
+6	is	be	AUX	_	BZ	0	root	_	_
+7	lazy	lazy	ADJ	_	J	6	acomp	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+

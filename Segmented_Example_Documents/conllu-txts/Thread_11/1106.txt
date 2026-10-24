@@ -1,0 +1,113 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1106
+1	1106	1106	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1100
+1	1100	1100	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/obvsnotrealname
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	obvsnotrealname	obvsnotrealname	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = It’s that the specific condition she has (H pylori) doesn’t pop up overnight, nor is it symptomatic day 1.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	’s	’	VERB	_	BD	0	root	_	_
+3	that	that	SCONJ	_	N	15	mark	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	specific	specific	ADJ	_	J	6	amod	_	_
+6	condition	condition	NOUN	_	N	15	nsubj	_	_
+7	she	she	PRON	_	RP	8	nsubj	_	_
+8	has	have	VERB	_	BZ	6	relcl	_	_
+9	(	(	PUNCT	_	LRB-	11	punct	_	_
+10	H	h	PROPN	_	NP	11	compound	_	_
+11	pylori	pylori	NOUN	_	N	6	appos	_	_
+12	)	)	PUNCT	_	RRB-	11	punct	_	_
+13	does	do	AUX	_	BZ	15	aux	_	_
+14	n’t	not	PART	_	B	15	neg	_	_
+15	pop	pop	VERB	_	B	2	ccomp	_	_
+16	up	up	ADP	_	P	15	prt	_	_
+17	overnight	overnight	ADV	_	B	15	advmod	_	_
+18	,	,	PUNCT	_	_	15	punct	_	_
+19	nor	nor	CCONJ	_	C	15	cc	_	_
+20	is	be	AUX	_	BZ	15	conj	_	_
+21	it	it	PRON	_	RP	20	nsubj	_	_
+22	symptomatic	symptomatic	ADJ	_	J	23	amod	_	_
+23	day	day	NOUN	_	N	20	attr	_	_
+24	1	1	NUM	_	D	23	nummod	_	_
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = She would have had it brewing away prior to even coming to the states.
+1	She	she	PRON	_	RP	4	nsubj	_	_
+2	would	would	AUX	_	D	4	aux	_	_
+3	have	have	AUX	_	B	4	aux	_	_
+4	had	have	VERB	_	BN	0	root	_	_
+5	it	it	PRON	_	RP	6	nsubj	_	_
+6	brewing	brew	VERB	_	BG	4	ccomp	_	_
+7	away	away	ADV	_	B	6	advmod	_	_
+8	prior	prior	ADV	_	B	6	advmod	_	_
+9	to	to	ADP	_	N	8	prep	_	_
+10	even	even	ADV	_	B	11	advmod	_	_
+11	coming	come	VERB	_	BG	9	pcomp	_	_
+12	to	to	ADP	_	N	11	prep	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	states	state	NOUN	_	NS	12	pobj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = If she say fell on and broke her arm here and went to the ER they would pay that because it actually happened here and it’s doubtful she had a broken arm prior to all that travel.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	she	she	PRON	_	RP	3	nsubj	_	_
+3	say	say	VERB	_	BP	4	advcl	_	_
+4	fell	fall	VERB	_	BD	0	root	_	_
+5	on	on	ADP	_	P	4	prt	_	_
+6	and	and	CCONJ	_	C	4	cc	_	_
+7	broke	break	VERB	_	BD	4	conj	_	_
+8	her	her	PRON	_	RP$	9	poss	_	_
+9	arm	arm	NOUN	_	N	7	dobj	_	_
+10	here	here	ADV	_	B	7	advmod	_	_
+11	and	and	CCONJ	_	C	7	cc	_	_
+12	went	go	VERB	_	BD	7	conj	_	_
+13	to	to	ADP	_	N	12	prep	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	ER	er	PROPN	_	NP	13	pobj	_	_
+16	they	they	PRON	_	RP	18	nsubj	_	_
+17	would	would	AUX	_	D	18	aux	_	_
+18	pay	pay	VERB	_	B	4	conj	_	_
+19	that	that	PRON	_	T	18	dobj	_	_
+20	because	because	SCONJ	_	N	23	mark	_	_
+21	it	it	PRON	_	RP	23	nsubj	_	_
+22	actually	actually	ADV	_	B	23	advmod	_	_
+23	happened	happen	VERB	_	BD	18	advcl	_	_
+24	here	here	ADV	_	B	23	advmod	_	_
+25	and	and	CCONJ	_	C	23	cc	_	_
+26	it	it	PRON	_	RP	27	nsubj	_	_
+27	’s	’	VERB	_	BZ	23	conj	_	_
+28	doubtful	doubtful	ADJ	_	J	27	acomp	_	_
+29	she	she	PRON	_	RP	30	nsubj	_	_
+30	had	have	VERB	_	BD	28	ccomp	_	_
+31	a	a	DET	_	T	33	det	_	_
+32	broken	broken	ADJ	_	J	33	amod	_	_
+33	arm	arm	NOUN	_	N	30	dobj	_	_
+34	prior	prior	ADV	_	B	30	advmod	_	_
+35	to	to	ADP	_	N	34	prep	_	_
+36	all	all	DET	_	DT	38	predet	_	_
+37	that	that	DET	_	T	38	det	_	_
+38	travel	travel	NOUN	_	N	35	pobj	_	_
+39	.	.	PUNCT	_	_	18	punct	_	_
+
+

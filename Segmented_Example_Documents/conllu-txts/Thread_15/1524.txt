@@ -1,0 +1,126 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1524
+1	1524	1524	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1523
+1	1523	1523	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/BumCadillac
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	BumCadillac	bumcadillac	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = I mean, you don’t have a choice but to hold off unless you are financially able to pay the entire cost up front.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	mean	mean	VERB	_	BP	7	parataxis	_	_
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	you	you	PRON	_	RP	7	nsubj	_	_
+5	do	do	AUX	_	BP	7	aux	_	_
+6	n’t	not	PART	_	B	7	neg	_	_
+7	have	have	VERB	_	B	0	root	_	_
+8	a	a	DET	_	T	9	det	_	_
+9	choice	choice	NOUN	_	N	7	dobj	_	_
+10	but	but	SCONJ	_	N	7	cc	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	hold	hold	VERB	_	B	10	pcomp	_	_
+13	off	off	ADP	_	P	12	prt	_	_
+14	unless	unless	SCONJ	_	N	16	mark	_	_
+15	you	you	PRON	_	RP	16	nsubj	_	_
+16	are	be	AUX	_	BP	12	advcl	_	_
+17	financially	financially	ADV	_	B	18	advmod	_	_
+18	able	able	ADJ	_	J	16	acomp	_	_
+19	to	to	PART	_	O	20	aux	_	_
+20	pay	pay	VERB	_	B	18	xcomp	_	_
+21	the	the	DET	_	T	23	det	_	_
+22	entire	entire	ADJ	_	J	23	amod	_	_
+23	cost	cost	NOUN	_	N	20	dobj	_	_
+24	up	up	ADP	_	N	20	prep	_	_
+25	front	front	NOUN	_	N	24	pobj	_	_
+26	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 6
+# text = The hospital and surgeon will expect to be paid by you up front since your insurance denied it.
+1	The	the	DET	_	T	2	det	_	_
+2	hospital	hospital	NOUN	_	N	6	nsubj	_	_
+3	and	and	CCONJ	_	C	2	cc	_	_
+4	surgeon	surgeon	NOUN	_	N	2	conj	_	_
+5	will	will	AUX	_	D	6	aux	_	_
+6	expect	expect	VERB	_	B	0	root	_	_
+7	to	to	PART	_	O	9	aux	_	_
+8	be	be	AUX	_	B	9	auxpass	_	_
+9	paid	pay	VERB	_	BN	6	xcomp	_	_
+10	by	by	ADP	_	N	9	agent	_	_
+11	you	you	PRON	_	RP	10	pobj	_	_
+12	up	up	ADP	_	N	9	prep	_	_
+13	front	front	NOUN	_	N	12	pobj	_	_
+14	since	since	SCONJ	_	N	17	mark	_	_
+15	your	your	PRON	_	RP$	16	poss	_	_
+16	insurance	insurance	NOUN	_	N	17	nsubj	_	_
+17	denied	deny	VERB	_	BD	9	advcl	_	_
+18	it	it	PRON	_	RP	17	dobj	_	_
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 7
+# text = With your insurance co denying it and so little time until the surgery, your odds of having it approved in time are slim to none.
+1	With	with	ADP	_	N	23	prep	_	_
+2	your	your	PRON	_	RP$	4	poss	_	_
+3	insurance	insurance	NOUN	_	N	4	compound	_	_
+4	co	co	NOUN	_	N	5	nsubj	_	_
+5	denying	deny	VERB	_	BG	1	pcomp	_	_
+6	it	it	PRON	_	RP	5	dobj	_	_
+7	and	and	CCONJ	_	C	1	cc	_	_
+8	so	so	ADV	_	B	9	advmod	_	_
+9	little	little	ADJ	_	J	10	amod	_	_
+10	time	time	NOUN	_	N	1	pobj	_	_
+11	until	until	ADP	_	N	10	prep	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	surgery	surgery	NOUN	_	N	11	pobj	_	_
+14	,	,	PUNCT	_	_	23	punct	_	_
+15	your	your	PRON	_	RP$	16	poss	_	_
+16	odds	odd	NOUN	_	NS	23	nsubj	_	_
+17	of	of	ADP	_	N	16	prep	_	_
+18	having	have	VERB	_	BG	17	pcomp	_	_
+19	it	it	PRON	_	RP	20	nsubj	_	_
+20	approved	approve	VERB	_	BN	18	ccomp	_	_
+21	in	in	ADP	_	N	20	prep	_	_
+22	time	time	NOUN	_	N	21	pobj	_	_
+23	are	be	AUX	_	BP	0	root	_	_
+24	slim	slim	ADJ	_	J	23	acomp	_	_
+25	to	to	ADP	_	N	24	prep	_	_
+26	none	none	NOUN	_	N	25	pobj	_	_
+27	.	.	PUNCT	_	_	23	punct	_	_
+
+
+# sent_id = 8
+# text = So you’re going to lose out on all the cost for planes and accommodations.
+1	So	so	ADV	_	B	4	advmod	_	_
+2	you	you	PRON	_	RP	4	nsubj	_	_
+3	’re	’re	AUX	_	BP	4	aux	_	_
+4	going	go	VERB	_	BG	0	root	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	lose	lose	VERB	_	B	4	xcomp	_	_
+7	out	out	ADP	_	P	6	prt	_	_
+8	on	on	ADP	_	N	6	prep	_	_
+9	all	all	DET	_	DT	11	predet	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	cost	cost	NOUN	_	N	8	pobj	_	_
+12	for	for	ADP	_	N	11	prep	_	_
+13	planes	plane	NOUN	_	NS	12	pobj	_	_
+14	and	and	CCONJ	_	C	13	cc	_	_
+15	accommodations	accommodation	NOUN	_	NS	13	conj	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+

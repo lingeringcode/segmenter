@@ -1,0 +1,44 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1522
+1	1522	1522	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/BumCadillac
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	BumCadillac	bumcadillac	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = If today is the cancellation deadline, you should cancel and then reschedule once you have approval.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	today	today	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	10	advcl	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	cancellation	cancellation	NOUN	_	N	6	compound	_	_
+6	deadline	deadline	NOUN	_	N	3	attr	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	you	you	PRON	_	RP	10	nsubj	_	_
+9	should	should	AUX	_	D	10	aux	_	_
+10	cancel	cancel	VERB	_	B	0	root	_	_
+11	and	and	CCONJ	_	C	10	cc	_	_
+12	then	then	ADV	_	B	13	advmod	_	_
+13	reschedule	reschedule	VERB	_	B	10	conj	_	_
+14	once	once	SCONJ	_	N	16	mark	_	_
+15	you	you	PRON	_	RP	16	nsubj	_	_
+16	have	have	VERB	_	BP	13	advcl	_	_
+17	approval	approval	NOUN	_	N	16	dobj	_	_
+18	.	.	PUNCT	_	_	10	punct	_	_
+
+

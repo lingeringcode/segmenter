@@ -1,0 +1,53 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1813
+1	1813	1813	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1812
+1	1812	1812	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Weekly-Ad-650
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Weekly	weekly	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Ad-650	ad-650	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = That would be convenient!
+1	That	that	PRON	_	T	3	nsubj	_	_
+2	would	would	AUX	_	D	3	aux	_	_
+3	be	be	AUX	_	B	0	root	_	_
+4	convenient	convenient	ADJ	_	J	3	acomp	_	_
+5	!	!	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = I’m in Florida and have UnitedHealthcare Choice Plus POS through my husband’s job.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	’m	’m	VERB	_	BZ	0	root	_	_
+3	in	in	ADP	_	N	2	prep	_	_
+4	Florida	florida	PROPN	_	NP	3	pobj	_	_
+5	and	and	CCONJ	_	C	2	cc	_	_
+6	have	have	VERB	_	B	2	conj	_	_
+7	UnitedHealthcare	unitedhealthcare	PROPN	_	NP	8	compound	_	_
+8	Choice	choice	PROPN	_	NP	6	dobj	_	_
+9	Plus	plus	PROPN	_	NP	8	cc	_	_
+10	POS	pos	PROPN	_	NP	8	conj	_	_
+11	through	through	ADP	_	N	6	prep	_	_
+12	my	my	PRON	_	RP$	13	poss	_	_
+13	husband	husband	NOUN	_	N	15	poss	_	_
+14	’s	’s	PART	_	OS	13	case	_	_
+15	job	job	NOUN	_	N	11	pobj	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+

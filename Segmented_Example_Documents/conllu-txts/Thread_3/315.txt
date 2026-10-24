@@ -1,0 +1,63 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 315
+1	315	315	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 314
+1	314	314	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Time-Understanding39
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Time	time	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Understanding39	understanding39	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = Yes, the approvals are much quicker.
+1	Yes	yes	INTJ	_	H	5	intj	_	_
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	approvals	approval	NOUN	_	NS	5	nsubj	_	_
+5	are	be	AUX	_	BP	0	root	_	_
+6	much	much	ADV	_	B	7	advmod	_	_
+7	quicker	quick	ADJ	_	JR	5	acomp	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = The problem is so many are denied and require an appeal.
+1	The	the	DET	_	T	2	det	_	_
+2	problem	problem	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	so	so	ADV	_	B	5	advmod	_	_
+5	many	many	ADJ	_	J	7	nsubjpass	_	_
+6	are	be	AUX	_	BP	7	auxpass	_	_
+7	denied	deny	VERB	_	BN	3	ccomp	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	require	require	VERB	_	B	7	conj	_	_
+10	an	an	DET	_	T	11	det	_	_
+11	appeal	appeal	NOUN	_	N	9	dobj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = That what eats up the time.
+1	That	that	SCONJ	_	N	3	mark	_	_
+2	what	what	PRON	_	P	3	nsubj	_	_
+3	eats	eat	VERB	_	BZ	0	root	_	_
+4	up	up	ADP	_	P	3	prt	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	time	time	NOUN	_	N	3	dobj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+

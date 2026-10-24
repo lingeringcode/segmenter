@@ -1,0 +1,68 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1101
+1	1101	1101	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1100
+1	1100	1100	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/LacyLove
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	LacyLove	lacylove	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = Sometimes H pylori takes a long time to present symptoms.
+1	Sometimes	sometimes	ADV	_	B	4	advmod	_	_
+2	H	h	PROPN	_	NP	3	compound	_	_
+3	pylori	pylori	NOUN	_	N	4	nsubj	_	_
+4	takes	take	VERB	_	BZ	0	root	_	_
+5	a	a	DET	_	T	7	det	_	_
+6	long	long	ADJ	_	J	7	amod	_	_
+7	time	time	NOUN	_	N	4	dobj	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	present	present	VERB	_	B	4	advcl	_	_
+10	symptoms	symptom	NOUN	_	NS	9	dobj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 6
+# text = Unless you can prove without a doubt that it was not there prior to the date the policy began, they will continue to deny it.
+1	Unless	unless	SCONJ	_	N	4	mark	_	_
+2	you	you	PRON	_	RP	4	nsubj	_	_
+3	can	can	AUX	_	D	4	aux	_	_
+4	prove	prove	VERB	_	B	23	advcl	_	_
+5	without	without	ADP	_	N	4	prep	_	_
+6	a	a	DET	_	T	7	det	_	_
+7	doubt	doubt	NOUN	_	N	5	pobj	_	_
+8	that	that	SCONJ	_	N	10	mark	_	_
+9	it	it	PRON	_	RP	10	nsubj	_	_
+10	was	be	AUX	_	BD	7	acl	_	_
+11	not	not	PART	_	B	10	neg	_	_
+12	there	there	ADV	_	B	10	advmod	_	_
+13	prior	prior	ADV	_	B	10	advmod	_	_
+14	to	to	ADP	_	N	13	prep	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	date	date	NOUN	_	N	14	pobj	_	_
+17	the	the	DET	_	T	18	det	_	_
+18	policy	policy	NOUN	_	N	19	nsubj	_	_
+19	began	begin	VERB	_	BD	16	relcl	_	_
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	they	they	PRON	_	RP	23	nsubj	_	_
+22	will	will	AUX	_	D	23	aux	_	_
+23	continue	continue	VERB	_	B	0	root	_	_
+24	to	to	PART	_	O	25	aux	_	_
+25	deny	deny	VERB	_	B	23	xcomp	_	_
+26	it	it	PRON	_	RP	25	dobj	_	_
+27	.	.	PUNCT	_	_	23	punct	_	_
+
+

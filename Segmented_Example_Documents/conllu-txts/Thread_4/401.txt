@@ -1,0 +1,37 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 401
+1	401	401	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 400
+1	400	400	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/OleLadyThinker
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	OleLadyThinker	oleladythinker	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = Is the procedure - RFA [radio frequency ablation] ?
+1	Is	be	AUX	_	BZ	0	root	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	procedure	procedure	NOUN	_	N	1	nsubj	_	_
+4	-	-	PUNCT	_	YPH	3	punct	_	_
+5	RFA	rfa	NOUN	_	N	3	appos	_	_
+6	[	[	PUNCT	_	LRB-	9	nmod	_	_
+7	radio	radio	NOUN	_	N	8	compound	_	_
+8	frequency	frequency	NOUN	_	N	9	compound	_	_
+9	ablation	ablation	NOUN	_	N	1	attr	_	_
+10	]	]	PUNCT	_	RRB-	1	punct	_	_
+11	?	?	PUNCT	_	_	1	punct	_	_
+
+

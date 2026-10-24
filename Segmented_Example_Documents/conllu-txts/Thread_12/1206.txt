@@ -1,0 +1,35 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1206
+1	1206	1206	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1205
+1	1205	1205	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/DeepFriarMediaReal
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	DeepFriarMediaReal	deepfriarmediareal	NOUN	_	N	1	conj	_	_
+
+
+# sent_id = 5
+# text = I can see if I can find them.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	can	can	AUX	_	D	3	aux	_	_
+3	see	see	VERB	_	B	0	root	_	_
+4	if	if	SCONJ	_	N	7	mark	_	_
+5	I	i	PRON	_	RP	7	nsubj	_	_
+6	can	can	AUX	_	D	7	aux	_	_
+7	find	find	VERB	_	B	3	ccomp	_	_
+8	them	they	PRON	_	RP	7	dobj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+

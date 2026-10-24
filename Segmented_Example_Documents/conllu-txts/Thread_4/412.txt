@@ -1,0 +1,29 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 412
+1	412	412	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 411
+1	411	411	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/its_me9233
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	its_me9233	its_me9233	NOUN	_	N	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Appreciate this!
+1	Appreciate	appreciate	VERB	_	BP	0	root	_	_
+2	this	this	PRON	_	T	1	dobj	_	_
+3	!	!	PUNCT	_	_	1	punct	_	_
+
+

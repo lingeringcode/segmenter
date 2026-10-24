@@ -1,0 +1,97 @@
+# sent_id = 1
+# text = Thread_13
+1	Thread_13	thread_13	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 1306
+1	1306	1306	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1300
+1	1300	1300	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/No-Produce-6720
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	No	no	NOUN	_	N	1	appos	_	_
+4	-	-	NOUN	_	N	1	punct	_	_
+5	Produce-6720	produce-6720	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = Did you have a written authorization approval?
+1	Did	do	AUX	_	BD	3	aux	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	have	have	VERB	_	B	0	root	_	_
+4	a	a	DET	_	T	7	det	_	_
+5	written	write	VERB	_	BN	7	amod	_	_
+6	authorization	authorization	NOUN	_	N	7	compound	_	_
+7	approval	approval	NOUN	_	N	3	dobj	_	_
+8	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = Also, what was the reason the auth was rescinded?
+1	Also	also	ADV	_	B	4	advmod	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	what	what	PRON	_	P	4	attr	_	_
+4	was	be	AUX	_	BD	0	root	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	reason	reason	NOUN	_	N	4	nsubj	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	auth	auth	NOUN	_	N	10	nsubjpass	_	_
+9	was	be	AUX	_	BD	10	auxpass	_	_
+10	rescinded	rescind	VERB	_	BN	6	relcl	_	_
+11	?	?	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = Is the authorization number in the approval the same authorization number that was rescinded or denied?
+1	Is	be	AUX	_	BZ	0	root	_	_
+2	the	the	DET	_	T	4	det	_	_
+3	authorization	authorization	NOUN	_	N	4	compound	_	_
+4	number	number	NOUN	_	N	1	nsubj	_	_
+5	in	in	ADP	_	N	4	prep	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	approval	approval	NOUN	_	N	5	pobj	_	_
+8	the	the	DET	_	T	11	det	_	_
+9	same	same	ADJ	_	J	11	amod	_	_
+10	authorization	authorization	NOUN	_	N	11	compound	_	_
+11	number	number	NOUN	_	N	4	appos	_	_
+12	that	that	PRON	_	DT	14	nsubjpass	_	_
+13	was	be	AUX	_	BD	14	auxpass	_	_
+14	rescinded	rescind	VERB	_	BN	11	relcl	_	_
+15	or	or	CCONJ	_	C	14	cc	_	_
+16	denied	deny	VERB	_	BN	14	conj	_	_
+17	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 8
+# text = Yes, your doctor and hospital would receive the same written communication that you do, both approval and denial.
+1	Yes	yes	INTJ	_	H	8	intj	_	_
+2	,	,	PUNCT	_	_	8	punct	_	_
+3	your	your	PRON	_	RP$	4	poss	_	_
+4	doctor	doctor	NOUN	_	N	8	nsubj	_	_
+5	and	and	CCONJ	_	C	4	cc	_	_
+6	hospital	hospital	NOUN	_	N	4	conj	_	_
+7	would	would	AUX	_	D	8	aux	_	_
+8	receive	receive	VERB	_	B	0	root	_	_
+9	the	the	DET	_	T	12	det	_	_
+10	same	same	ADJ	_	J	12	amod	_	_
+11	written	write	VERB	_	BN	12	amod	_	_
+12	communication	communication	NOUN	_	N	8	dobj	_	_
+13	that	that	PRON	_	DT	15	dobj	_	_
+14	you	you	PRON	_	RP	15	nsubj	_	_
+15	do	do	VERB	_	BP	12	relcl	_	_
+16	,	,	PUNCT	_	_	12	punct	_	_
+17	both	both	CCONJ	_	C	18	preconj	_	_
+18	approval	approval	NOUN	_	N	12	conj	_	_
+19	and	and	CCONJ	_	C	18	cc	_	_
+20	denial	denial	NOUN	_	N	18	conj	_	_
+21	.	.	PUNCT	_	_	8	punct	_	_
+
+

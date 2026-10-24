@@ -1,0 +1,118 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1810
+1	1810	1810	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1800
+1	1800	1800	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/KaidenDevs
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	KaidenDevs	kaidendevs	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = Getting something approved and getting it paid are two different steps on their end.
+1	Getting	get	VERB	_	BG	8	csubj	_	_
+2	something	something	PRON	_	N	1	dobj	_	_
+3	approved	approve	VERB	_	BN	2	acl	_	_
+4	and	and	CCONJ	_	C	3	cc	_	_
+5	getting	get	VERB	_	BG	3	conj	_	_
+6	it	it	PRON	_	RP	7	nsubj	_	_
+7	paid	pay	VERB	_	BN	5	ccomp	_	_
+8	are	be	AUX	_	BP	0	root	_	_
+9	two	two	NUM	_	D	11	nummod	_	_
+10	different	different	ADJ	_	J	11	amod	_	_
+11	steps	step	NOUN	_	NS	8	attr	_	_
+12	on	on	ADP	_	N	11	prep	_	_
+13	their	their	PRON	_	RP$	14	poss	_	_
+14	end	end	NOUN	_	N	12	pobj	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 6
+# text = Whoever approved your PA never checked if that code actually pays in an office setting.
+1	Whoever	whoever	PRON	_	P	2	nsubj	_	_
+2	approved	approve	VERB	_	BD	6	csubj	_	_
+3	your	your	PRON	_	RP$	4	poss	_	_
+4	PA	pa	PROPN	_	NP	2	dobj	_	_
+5	never	never	ADV	_	B	6	neg	_	_
+6	checked	check	VERB	_	BD	0	root	_	_
+7	if	if	SCONJ	_	N	11	mark	_	_
+8	that	that	DET	_	T	9	det	_	_
+9	code	code	NOUN	_	N	11	nsubj	_	_
+10	actually	actually	ADV	_	B	11	advmod	_	_
+11	pays	pay	VERB	_	BZ	6	advcl	_	_
+12	in	in	ADP	_	N	11	prep	_	_
+13	an	an	DET	_	T	15	det	_	_
+14	office	office	NOUN	_	N	15	compound	_	_
+15	setting	setting	NOUN	_	N	12	pobj	_	_
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 7
+# text = That's on them, not you.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	's	be	AUX	_	BZ	0	root	_	_
+3	on	on	ADP	_	N	2	prep	_	_
+4	them	they	PRON	_	RP	3	pobj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	not	not	PART	_	B	2	neg	_	_
+7	you	you	PRON	_	RP	2	attr	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 8
+# text = I'd take this straight back through the same complaint that already won the medical necessity fight and attach the approval letter.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	'd	would	AUX	_	D	3	aux	_	_
+3	take	take	VERB	_	B	0	root	_	_
+4	this	this	PRON	_	T	3	dobj	_	_
+5	straight	straight	ADV	_	B	6	advmod	_	_
+6	back	back	ADV	_	B	3	advmod	_	_
+7	through	through	ADP	_	N	3	prep	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	same	same	ADJ	_	J	10	amod	_	_
+10	complaint	complaint	NOUN	_	N	7	pobj	_	_
+11	that	that	PRON	_	DT	13	nsubj	_	_
+12	already	already	ADV	_	B	13	advmod	_	_
+13	won	win	VERB	_	BD	10	relcl	_	_
+14	the	the	DET	_	T	17	det	_	_
+15	medical	medical	ADJ	_	J	16	amod	_	_
+16	necessity	necessity	NOUN	_	N	17	compound	_	_
+17	fight	fight	NOUN	_	N	13	dobj	_	_
+18	and	and	CCONJ	_	C	13	cc	_	_
+19	attach	attach	VERB	_	B	13	conj	_	_
+20	the	the	DET	_	T	22	det	_	_
+21	approval	approval	NOUN	_	N	22	compound	_	_
+22	letter	letter	NOUN	_	N	19	dobj	_	_
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = Some states make insurers pay when a claim matches something they already approved.
+1	Some	some	DET	_	T	2	det	_	_
+2	states	state	NOUN	_	NS	3	nsubj	_	_
+3	make	make	VERB	_	BP	0	root	_	_
+4	insurers	insurer	NOUN	_	NS	5	nsubj	_	_
+5	pay	pay	VERB	_	B	3	ccomp	_	_
+6	when	when	SCONJ	_	RB	9	advmod	_	_
+7	a	a	DET	_	T	8	det	_	_
+8	claim	claim	NOUN	_	N	9	nsubj	_	_
+9	matches	match	VERB	_	BZ	5	advcl	_	_
+10	something	something	PRON	_	N	9	dobj	_	_
+11	they	they	PRON	_	RP	13	nsubj	_	_
+12	already	already	ADV	_	B	13	advmod	_	_
+13	approved	approve	VERB	_	BD	10	relcl	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+

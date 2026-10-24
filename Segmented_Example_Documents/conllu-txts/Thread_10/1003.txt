@@ -1,0 +1,276 @@
+# sent_id = 1
+# text = Thread_10
+1	Thread_10	thread_10	VERB	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 1003
+1	1003	1003	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1002
+1	1002	1002	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/lujo317
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	lujo317	lujo317	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = Well, the terms of one's plan are usually that services are covered at in network locations.
+1	Well	well	INTJ	_	H	9	intj	_	_
+2	,	,	PUNCT	_	_	9	punct	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	terms	term	NOUN	_	NS	9	nsubj	_	_
+5	of	of	ADP	_	N	4	prep	_	_
+6	one	one	NUM	_	D	8	poss	_	_
+7	's	's	PART	_	OS	6	case	_	_
+8	plan	plan	NOUN	_	N	5	pobj	_	_
+9	are	be	AUX	_	BP	0	root	_	_
+10	usually	usually	ADV	_	B	9	advmod	_	_
+11	that	that	SCONJ	_	N	14	mark	_	_
+12	services	service	NOUN	_	NS	14	nsubjpass	_	_
+13	are	be	AUX	_	BP	14	auxpass	_	_
+14	covered	cover	VERB	_	BN	9	ccomp	_	_
+15	at	at	ADP	_	N	14	prep	_	_
+16	in	in	ADP	_	N	14	prep	_	_
+17	network	network	NOUN	_	N	18	compound	_	_
+18	locations	location	NOUN	_	NS	16	pobj	_	_
+19	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 6
+# text = An authorization is not an insurance company saying "hey we will pay for this".
+1	An	an	DET	_	T	2	det	_	_
+2	authorization	authorization	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	not	not	PART	_	B	3	neg	_	_
+5	an	an	DET	_	T	7	det	_	_
+6	insurance	insurance	NOUN	_	N	7	compound	_	_
+7	company	company	NOUN	_	N	3	attr	_	_
+8	saying	say	VERB	_	BG	7	acl	_	_
+9	"	"	PUNCT	_	`	8	punct	_	_
+10	hey	hey	INTJ	_	H	13	intj	_	_
+11	we	we	PRON	_	RP	13	nsubj	_	_
+12	will	will	AUX	_	D	13	aux	_	_
+13	pay	pay	VERB	_	B	8	ccomp	_	_
+14	for	for	ADP	_	N	13	prep	_	_
+15	this	this	PRON	_	T	14	pobj	_	_
+16	"	"	PUNCT	_	'	13	punct	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = An authorization is more like an insurance company saying "hey we agree this is medically necessary."
+1	An	an	DET	_	T	2	det	_	_
+2	authorization	authorization	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	more	more	ADV	_	BR	5	advmod	_	_
+5	like	like	ADP	_	N	3	prep	_	_
+6	an	an	DET	_	T	8	det	_	_
+7	insurance	insurance	NOUN	_	N	8	compound	_	_
+8	company	company	NOUN	_	N	5	pobj	_	_
+9	saying	say	VERB	_	BG	8	acl	_	_
+10	"	"	PUNCT	_	`	9	punct	_	_
+11	hey	hey	INTJ	_	H	13	intj	_	_
+12	we	we	PRON	_	RP	13	nsubj	_	_
+13	agree	agree	VERB	_	BP	9	ccomp	_	_
+14	this	this	PRON	_	T	15	nsubj	_	_
+15	is	be	AUX	_	BZ	13	ccomp	_	_
+16	medically	medically	ADV	_	B	17	advmod	_	_
+17	necessary	necessary	ADJ	_	J	15	acomp	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+19	"	"	PUNCT	_	'	3	punct	_	_
+
+
+# sent_id = 8
+# text = it's still the plan holders responsibility to abide by the terms of the plan, including going to an in network location.
+1	it	it	PRON	_	RP	2	nsubj	_	_
+2	's	be	AUX	_	BZ	0	root	_	_
+3	still	still	ADV	_	B	2	advmod	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	plan	plan	NOUN	_	N	6	compound	_	_
+6	holders	holder	NOUN	_	NS	7	compound	_	_
+7	responsibility	responsibility	NOUN	_	N	2	attr	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	abide	abide	VERB	_	B	7	acl	_	_
+10	by	by	ADP	_	N	9	prep	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	terms	term	NOUN	_	NS	10	pobj	_	_
+13	of	of	ADP	_	N	12	prep	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	plan	plan	NOUN	_	N	13	pobj	_	_
+16	,	,	PUNCT	_	_	9	punct	_	_
+17	including	include	VERB	_	BG	9	prep	_	_
+18	going	go	VERB	_	BG	17	pcomp	_	_
+19	to	to	ADP	_	N	18	prep	_	_
+20	an	an	PRON	_	T	19	pobj	_	_
+21	in	in	ADP	_	N	20	prep	_	_
+22	network	network	NOUN	_	N	23	compound	_	_
+23	location	location	NOUN	_	N	21	pobj	_	_
+24	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = providers unfortunately do not typically verify benefits prior to referring, and the way in which referrals are processed can vary by facility, meaning, out of network referrals don't always get caught by the rendering facility.
+1	providers	provider	NOUN	_	NS	6	nsubj	_	_
+2	unfortunately	unfortunately	ADV	_	B	6	advmod	_	_
+3	do	do	AUX	_	BP	6	aux	_	_
+4	not	not	PART	_	B	6	neg	_	_
+5	typically	typically	ADV	_	B	6	advmod	_	_
+6	verify	verify	VERB	_	B	0	root	_	_
+7	benefits	benefit	NOUN	_	NS	6	dobj	_	_
+8	prior	prior	ADV	_	B	6	advmod	_	_
+9	to	to	ADP	_	N	8	prep	_	_
+10	referring	refer	VERB	_	BG	9	pcomp	_	_
+11	,	,	PUNCT	_	_	6	punct	_	_
+12	and	and	CCONJ	_	C	6	cc	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	way	way	NOUN	_	N	21	nsubj	_	_
+15	in	in	ADP	_	N	19	prep	_	_
+16	which	which	PRON	_	DT	15	pobj	_	_
+17	referrals	referral	NOUN	_	NS	19	nsubjpass	_	_
+18	are	be	AUX	_	BP	19	auxpass	_	_
+19	processed	process	VERB	_	BN	14	relcl	_	_
+20	can	can	AUX	_	D	21	aux	_	_
+21	vary	vary	VERB	_	B	6	conj	_	_
+22	by	by	ADP	_	N	21	prep	_	_
+23	facility	facility	NOUN	_	N	22	pobj	_	_
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	meaning	meaning	NOUN	_	N	35	nsubjpass	_	_
+26	,	,	PUNCT	_	_	25	punct	_	_
+27	out	out	ADP	_	N	25	prep	_	_
+28	of	of	ADP	_	N	27	prep	_	_
+29	network	network	NOUN	_	N	30	compound	_	_
+30	referrals	referral	NOUN	_	NS	28	pobj	_	_
+31	do	do	AUX	_	BP	35	aux	_	_
+32	n't	not	PART	_	B	35	neg	_	_
+33	always	always	ADV	_	B	35	advmod	_	_
+34	get	get	AUX	_	B	35	auxpass	_	_
+35	caught	catch	VERB	_	BN	21	advcl	_	_
+36	by	by	ADP	_	N	35	agent	_	_
+37	the	the	DET	_	T	39	det	_	_
+38	rendering	rendering	NOUN	_	N	39	compound	_	_
+39	facility	facility	NOUN	_	N	36	pobj	_	_
+40	.	.	PUNCT	_	_	21	punct	_	_
+
+
+# sent_id = 10
+# text = theoretically an insurance policy holder has access to materials that can tell them where there plan covers imaging at, and ultimately it falls on the plan holder to verify this before consenting to services.
+1	theoretically	theoretically	ADV	_	B	6	advmod	_	_
+2	an	an	DET	_	T	5	det	_	_
+3	insurance	insurance	NOUN	_	N	4	compound	_	_
+4	policy	policy	NOUN	_	N	5	compound	_	_
+5	holder	holder	NOUN	_	N	6	nsubj	_	_
+6	has	have	VERB	_	BZ	0	root	_	_
+7	access	access	NOUN	_	N	6	dobj	_	_
+8	to	to	ADP	_	N	7	prep	_	_
+9	materials	material	NOUN	_	NS	8	pobj	_	_
+10	that	that	PRON	_	DT	12	nsubj	_	_
+11	can	can	AUX	_	D	12	aux	_	_
+12	tell	tell	VERB	_	B	9	relcl	_	_
+13	them	they	PRON	_	RP	12	dobj	_	_
+14	where	where	SCONJ	_	RB	17	advmod	_	_
+15	there	there	PRON	_	X	16	poss	_	_
+16	plan	plan	VERB	_	BP	17	nsubj	_	_
+17	covers	cover	VERB	_	BZ	12	ccomp	_	_
+18	imaging	imaging	NOUN	_	N	17	dobj	_	_
+19	at	at	ADP	_	N	17	prep	_	_
+20	,	,	PUNCT	_	_	6	punct	_	_
+21	and	and	CCONJ	_	C	6	cc	_	_
+22	ultimately	ultimately	ADV	_	B	24	advmod	_	_
+23	it	it	PRON	_	RP	24	nsubj	_	_
+24	falls	fall	VERB	_	BZ	6	conj	_	_
+25	on	on	ADP	_	N	24	prep	_	_
+26	the	the	DET	_	T	28	det	_	_
+27	plan	plan	NOUN	_	N	28	compound	_	_
+28	holder	holder	NOUN	_	N	25	pobj	_	_
+29	to	to	PART	_	O	30	aux	_	_
+30	verify	verify	VERB	_	B	24	advcl	_	_
+31	this	this	PRON	_	T	30	dobj	_	_
+32	before	before	ADP	_	N	30	prep	_	_
+33	consenting	consent	VERB	_	BG	32	pcomp	_	_
+34	to	to	ADP	_	N	33	prep	_	_
+35	services	service	NOUN	_	NS	34	pobj	_	_
+36	.	.	PUNCT	_	_	24	punct	_	_
+
+
+# sent_id = 11
+# text = worth noting that every plan handles out of network claims differently as well, so OP should really be reviewing terms of their plan to determine best course of action.
+1	worth	worth	ADJ	_	J	20	advcl	_	_
+2	noting	note	VERB	_	BG	1	xcomp	_	_
+3	that	that	SCONJ	_	N	6	mark	_	_
+4	every	every	DET	_	T	5	det	_	_
+5	plan	plan	NOUN	_	N	6	nsubj	_	_
+6	handles	handle	VERB	_	BZ	2	ccomp	_	_
+7	out	out	ADP	_	N	6	prep	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	network	network	NOUN	_	N	10	compound	_	_
+10	claims	claim	NOUN	_	NS	6	dobj	_	_
+11	differently	differently	ADV	_	B	10	advmod	_	_
+12	as	as	ADV	_	B	13	advmod	_	_
+13	well	well	ADV	_	B	10	advmod	_	_
+14	,	,	PUNCT	_	_	20	punct	_	_
+15	so	so	ADV	_	B	20	advmod	_	_
+16	OP	op	NOUN	_	N	20	nsubj	_	_
+17	should	should	AUX	_	D	20	aux	_	_
+18	really	really	ADV	_	B	20	advmod	_	_
+19	be	be	AUX	_	B	20	aux	_	_
+20	reviewing	review	VERB	_	BG	0	root	_	_
+21	terms	term	NOUN	_	NS	20	dobj	_	_
+22	of	of	ADP	_	N	21	prep	_	_
+23	their	their	PRON	_	RP$	24	poss	_	_
+24	plan	plan	NOUN	_	N	22	pobj	_	_
+25	to	to	PART	_	O	26	aux	_	_
+26	determine	determine	VERB	_	B	24	acl	_	_
+27	best	good	ADJ	_	JS	28	amod	_	_
+28	course	course	NOUN	_	N	26	dobj	_	_
+29	of	of	ADP	_	N	28	prep	_	_
+30	action	action	NOUN	_	N	29	pobj	_	_
+31	.	.	PUNCT	_	_	20	punct	_	_
+
+
+# sent_id = 12
+# text = in most cases, they're gonna uphold the denial and say again, we aren't gonna pay for this because it was not done in network and it could have been.
+1	in	in	ADP	_	N	7	prep	_	_
+2	most	most	ADJ	_	JS	3	amod	_	_
+3	cases	case	NOUN	_	NS	1	pobj	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	they	they	PRON	_	RP	7	nsubj	_	_
+6	're	be	AUX	_	BP	7	aux	_	_
+7	gon	go	VERB	_	BG	19	ccomp	_	_
+8	na	to	PART	_	O	9	aux	_	_
+9	uphold	uphold	VERB	_	B	7	xcomp	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	denial	denial	NOUN	_	N	9	dobj	_	_
+12	and	and	CCONJ	_	C	9	cc	_	_
+13	say	say	VERB	_	B	9	conj	_	_
+14	again	again	ADV	_	B	13	advmod	_	_
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	we	we	PRON	_	RP	19	nsubj	_	_
+17	are	be	AUX	_	BP	19	aux	_	_
+18	n't	not	PART	_	B	19	neg	_	_
+19	gon	go	VERB	_	BG	0	root	_	_
+20	na	to	PART	_	O	21	aux	_	_
+21	pay	pay	VERB	_	B	19	xcomp	_	_
+22	for	for	ADP	_	N	21	prep	_	_
+23	this	this	PRON	_	T	22	pobj	_	_
+24	because	because	SCONJ	_	N	28	mark	_	_
+25	it	it	PRON	_	RP	28	nsubjpass	_	_
+26	was	be	AUX	_	BD	28	auxpass	_	_
+27	not	not	PART	_	B	28	neg	_	_
+28	done	do	VERB	_	BN	19	advcl	_	_
+29	in	in	ADP	_	N	28	prep	_	_
+30	network	network	NOUN	_	N	29	pobj	_	_
+31	and	and	CCONJ	_	C	28	cc	_	_
+32	it	it	PRON	_	RP	35	nsubj	_	_
+33	could	could	AUX	_	D	35	aux	_	_
+34	have	have	AUX	_	B	35	aux	_	_
+35	been	be	AUX	_	BN	28	conj	_	_
+36	.	.	PUNCT	_	_	19	punct	_	_
+
+

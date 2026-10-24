@@ -1,0 +1,332 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1111
+1	1111	1111	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1100
+1	1100	1100	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/No-Produce-6720
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	No	no	NOUN	_	N	1	appos	_	_
+4	-	-	NOUN	_	N	1	punct	_	_
+5	Produce-6720	produce-6720	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = The problem is that H pylori is a slow burn.
+1	The	the	DET	_	T	2	det	_	_
+2	problem	problem	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	that	that	SCONJ	_	N	7	mark	_	_
+5	H	h	NOUN	_	N	6	compound	_	_
+6	pylori	pylori	NOUN	_	N	7	nsubj	_	_
+7	is	be	AUX	_	BZ	3	ccomp	_	_
+8	a	a	DET	_	T	10	det	_	_
+9	slow	slow	ADJ	_	J	10	amod	_	_
+10	burn	burn	NOUN	_	N	7	attr	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = You don't just wake up one morning with it.
+1	You	you	PRON	_	RP	5	nsubj	_	_
+2	do	do	AUX	_	BP	5	aux	_	_
+3	n't	not	PART	_	B	5	neg	_	_
+4	just	just	ADV	_	B	5	advmod	_	_
+5	wake	wake	VERB	_	B	0	root	_	_
+6	up	up	ADP	_	P	5	prt	_	_
+7	one	one	NUM	_	D	8	nummod	_	_
+8	morning	morning	NOUN	_	N	5	npadvmod	_	_
+9	with	with	ADP	_	N	5	prep	_	_
+10	it	it	PRON	_	RP	9	pobj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 7
+# text = It takes time to build up and for symptoms to actually appear.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	takes	take	VERB	_	BZ	0	root	_	_
+3	time	time	NOUN	_	N	2	dobj	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	build	build	VERB	_	B	2	advcl	_	_
+6	up	up	ADP	_	P	5	prt	_	_
+7	and	and	CCONJ	_	C	5	cc	_	_
+8	for	for	SCONJ	_	N	12	mark	_	_
+9	symptoms	symptom	NOUN	_	NS	12	nsubj	_	_
+10	to	to	PART	_	O	12	aux	_	_
+11	actually	actually	ADV	_	B	12	advmod	_	_
+12	appear	appear	VERB	_	B	5	conj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 8
+# text = Your friend had the H pylori long before she signed up for this policy.
+1	Your	your	PRON	_	RP$	2	poss	_	_
+2	friend	friend	NOUN	_	N	3	nsubj	_	_
+3	had	have	VERB	_	BD	0	root	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	H	h	PROPN	_	NP	6	compound	_	_
+6	pylori	pylori	NOUN	_	N	3	dobj	_	_
+7	long	long	ADV	_	B	10	advmod	_	_
+8	before	before	SCONJ	_	N	10	mark	_	_
+9	she	she	PRON	_	RP	10	nsubj	_	_
+10	signed	sign	VERB	_	BD	3	advcl	_	_
+11	up	up	ADP	_	P	10	prt	_	_
+12	for	for	ADP	_	N	10	prep	_	_
+13	this	this	DET	_	T	14	det	_	_
+14	policy	policy	NOUN	_	N	12	pobj	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = As far as the Acute Onset clause of the policy, you will have to research exactly what coverage this benefit would offer, because most of these require treatment to be obtained within 24 hours of onset.
+1	As	as	ADV	_	B	2	advmod	_	_
+2	far	far	ADV	_	B	14	advmod	_	_
+3	as	as	ADP	_	N	2	prep	_	_
+4	the	the	DET	_	T	7	det	_	_
+5	Acute	acute	PROPN	_	NP	7	compound	_	_
+6	Onset	onset	PROPN	_	NP	7	compound	_	_
+7	clause	clause	NOUN	_	N	3	pobj	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	policy	policy	NOUN	_	N	8	pobj	_	_
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	you	you	PRON	_	RP	14	nsubj	_	_
+13	will	will	AUX	_	D	14	aux	_	_
+14	have	have	VERB	_	B	0	root	_	_
+15	to	to	PART	_	O	16	aux	_	_
+16	research	research	VERB	_	B	14	xcomp	_	_
+17	exactly	exactly	ADV	_	B	18	advmod	_	_
+18	what	what	PRON	_	P	19	det	_	_
+19	coverage	coverage	NOUN	_	N	23	dobj	_	_
+20	this	this	DET	_	T	21	det	_	_
+21	benefit	benefit	NOUN	_	N	23	nsubj	_	_
+22	would	would	AUX	_	D	23	aux	_	_
+23	offer	offer	VERB	_	B	16	ccomp	_	_
+24	,	,	PUNCT	_	_	14	punct	_	_
+25	because	because	SCONJ	_	N	29	mark	_	_
+26	most	most	ADJ	_	JS	29	nsubj	_	_
+27	of	of	ADP	_	N	26	prep	_	_
+28	these	these	PRON	_	T	27	pobj	_	_
+29	require	require	VERB	_	BP	14	advcl	_	_
+30	treatment	treatment	NOUN	_	N	29	dobj	_	_
+31	to	to	PART	_	O	33	aux	_	_
+32	be	be	AUX	_	B	33	auxpass	_	_
+33	obtained	obtain	VERB	_	BN	30	relcl	_	_
+34	within	within	ADP	_	N	33	prep	_	_
+35	24	24	NUM	_	D	36	nummod	_	_
+36	hours	hour	NOUN	_	NS	34	pobj	_	_
+37	of	of	ADP	_	N	36	prep	_	_
+38	onset	onset	NOUN	_	N	37	pobj	_	_
+39	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 10
+# text = An ER trip nine days after the start of antibiotics wouldn't fit that scenario, and is likely the reason that it wasn't mentioned to your friend to begin with.
+1	An	an	DET	_	T	3	det	_	_
+2	ER	er	PROPN	_	NP	3	compound	_	_
+3	trip	trip	NOUN	_	N	13	nsubj	_	_
+4	nine	nine	NUM	_	D	5	nummod	_	_
+5	days	day	NOUN	_	NS	6	npadvmod	_	_
+6	after	after	ADP	_	N	3	prep	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	start	start	NOUN	_	N	6	pobj	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	antibiotics	antibiotic	NOUN	_	NS	9	pobj	_	_
+11	would	would	AUX	_	D	13	aux	_	_
+12	n't	not	PART	_	B	13	neg	_	_
+13	fit	fit	VERB	_	B	0	root	_	_
+14	that	that	DET	_	T	15	det	_	_
+15	scenario	scenario	NOUN	_	N	13	dobj	_	_
+16	,	,	PUNCT	_	_	13	punct	_	_
+17	and	and	CCONJ	_	C	13	cc	_	_
+18	is	be	AUX	_	BZ	13	conj	_	_
+19	likely	likely	ADJ	_	J	18	acomp	_	_
+20	the	the	DET	_	T	21	det	_	_
+21	reason	reason	NOUN	_	N	18	attr	_	_
+22	that	that	SCONJ	_	N	26	mark	_	_
+23	it	it	PRON	_	RP	26	nsubjpass	_	_
+24	was	be	AUX	_	BD	26	auxpass	_	_
+25	n't	not	PART	_	B	26	neg	_	_
+26	mentioned	mention	VERB	_	BN	21	relcl	_	_
+27	to	to	ADP	_	N	26	prep	_	_
+28	your	your	PRON	_	RP$	29	poss	_	_
+29	friend	friend	NOUN	_	N	27	pobj	_	_
+30	to	to	PART	_	O	31	aux	_	_
+31	begin	begin	VERB	_	B	26	advcl	_	_
+32	with	with	ADP	_	N	31	prep	_	_
+33	.	.	PUNCT	_	_	13	punct	_	_
+
+
+# sent_id = 11
+# text = The ER treatment likely doesn't fit the requirements to receive that benefit.
+1	The	the	DET	_	T	3	det	_	_
+2	ER	er	PROPN	_	NP	3	compound	_	_
+3	treatment	treatment	NOUN	_	N	7	nsubj	_	_
+4	likely	likely	ADV	_	B	7	advmod	_	_
+5	does	do	AUX	_	BZ	7	aux	_	_
+6	n't	not	PART	_	B	7	neg	_	_
+7	fit	fit	VERB	_	B	0	root	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	requirements	requirement	NOUN	_	NS	7	dobj	_	_
+10	to	to	PART	_	O	11	aux	_	_
+11	receive	receive	VERB	_	B	7	xcomp	_	_
+12	that	that	DET	_	T	13	det	_	_
+13	benefit	benefit	NOUN	_	N	11	dobj	_	_
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 12
+# text = As far as attorneys are concerned, unless you are filing a lawsuit against the insurance company, this isn't something an attorney would be involved in.
+1	As	as	ADV	_	B	2	advmod	_	_
+2	far	far	ADV	_	B	20	advmod	_	_
+3	as	as	SCONJ	_	N	6	mark	_	_
+4	attorneys	attorney	NOUN	_	NS	6	nsubjpass	_	_
+5	are	be	AUX	_	BP	6	auxpass	_	_
+6	concerned	concern	VERB	_	BN	2	advcl	_	_
+7	,	,	PUNCT	_	_	20	punct	_	_
+8	unless	unless	SCONJ	_	N	11	mark	_	_
+9	you	you	PRON	_	RP	11	nsubj	_	_
+10	are	be	AUX	_	BP	11	aux	_	_
+11	filing	file	VERB	_	BG	20	advcl	_	_
+12	a	a	DET	_	T	13	det	_	_
+13	lawsuit	lawsuit	NOUN	_	N	11	dobj	_	_
+14	against	against	ADP	_	N	13	prep	_	_
+15	the	the	DET	_	T	17	det	_	_
+16	insurance	insurance	NOUN	_	N	17	compound	_	_
+17	company	company	NOUN	_	N	14	pobj	_	_
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	this	this	PRON	_	T	20	nsubj	_	_
+20	is	be	AUX	_	BZ	0	root	_	_
+21	n't	not	PART	_	B	20	neg	_	_
+22	something	something	PRON	_	N	20	attr	_	_
+23	an	an	DET	_	T	24	det	_	_
+24	attorney	attorney	NOUN	_	N	27	nsubjpass	_	_
+25	would	would	AUX	_	D	27	aux	_	_
+26	be	be	AUX	_	B	27	auxpass	_	_
+27	involved	involve	VERB	_	BN	22	relcl	_	_
+28	in	in	ADP	_	N	27	prep	_	_
+29	.	.	PUNCT	_	_	20	punct	_	_
+
+
+# sent_id = 13
+# text = These are regulatory policy issues, not criminal or civil litigation issues (again, unless you file suit).
+1	These	these	PRON	_	T	2	nsubj	_	_
+2	are	be	AUX	_	BP	0	root	_	_
+3	regulatory	regulatory	ADJ	_	J	5	amod	_	_
+4	policy	policy	NOUN	_	N	5	compound	_	_
+5	issues	issue	NOUN	_	NS	2	attr	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	not	not	PART	_	B	8	neg	_	_
+8	criminal	criminal	ADJ	_	J	12	amod	_	_
+9	or	or	CCONJ	_	C	8	cc	_	_
+10	civil	civil	ADJ	_	J	11	amod	_	_
+11	litigation	litigation	NOUN	_	N	12	compound	_	_
+12	issues	issue	NOUN	_	NS	5	appos	_	_
+13	(	(	PUNCT	_	LRB-	5	punct	_	_
+14	again	again	ADV	_	B	2	advmod	_	_
+15	,	,	PUNCT	_	_	2	punct	_	_
+16	unless	unless	SCONJ	_	N	18	mark	_	_
+17	you	you	PRON	_	RP	18	nsubj	_	_
+18	file	file	VERB	_	BP	2	advcl	_	_
+19	suit	suit	NOUN	_	N	18	dobj	_	_
+20	)	)	PUNCT	_	RRB-	2	punct	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 14
+# text = Even if you take this to arbitration, you're not likely to find an attorney that would take this case on, especially pro bono.
+1	Even	even	ADV	_	B	4	advmod	_	_
+2	if	if	SCONJ	_	N	4	mark	_	_
+3	you	you	PRON	_	RP	4	nsubj	_	_
+4	take	take	VERB	_	BP	10	advcl	_	_
+5	this	this	PRON	_	T	4	dobj	_	_
+6	to	to	ADP	_	N	4	prep	_	_
+7	arbitration	arbitration	NOUN	_	N	6	pobj	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	you	you	PRON	_	RP	10	nsubj	_	_
+10	're	be	AUX	_	BP	0	root	_	_
+11	not	not	PART	_	B	10	neg	_	_
+12	likely	likely	ADJ	_	J	10	acomp	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	find	find	VERB	_	B	12	xcomp	_	_
+15	an	an	DET	_	T	16	det	_	_
+16	attorney	attorney	NOUN	_	N	14	dobj	_	_
+17	that	that	PRON	_	DT	19	nsubj	_	_
+18	would	would	AUX	_	D	19	aux	_	_
+19	take	take	VERB	_	B	16	relcl	_	_
+20	this	this	DET	_	T	21	det	_	_
+21	case	case	NOUN	_	N	19	dobj	_	_
+22	on	on	ADP	_	N	19	prep	_	_
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	especially	especially	ADV	_	B	26	advmod	_	_
+25	pro	pro	X	_	W	26	amod	_	_
+26	bono	bono	X	_	W	16	appos	_	_
+27	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 15
+# text = Travel insurance policies, and those set up like them, are tricky, and unless there is concrete proof that your friend was not infected with H pylori until four days after policy commencement, these claims have unfortunately probably denied correctly, per the terms of the policy.
+1	Travel	travel	NOUN	_	N	2	compound	_	_
+2	insurance	insurance	NOUN	_	N	3	compound	_	_
+3	policies	policy	NOUN	_	NS	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	and	and	CCONJ	_	C	3	cc	_	_
+6	those	those	PRON	_	T	12	nsubj	_	_
+7	set	set	VERB	_	BN	6	acl	_	_
+8	up	up	ADP	_	P	7	prt	_	_
+9	like	like	ADP	_	N	7	prep	_	_
+10	them	they	PRON	_	RP	9	pobj	_	_
+11	,	,	PUNCT	_	_	6	punct	_	_
+12	are	be	AUX	_	BP	3	conj	_	_
+13	tricky	tricky	ADJ	_	J	12	acomp	_	_
+14	,	,	PUNCT	_	_	12	punct	_	_
+15	and	and	CCONJ	_	C	12	cc	_	_
+16	unless	unless	SCONJ	_	N	18	mark	_	_
+17	there	there	PRON	_	X	18	expl	_	_
+18	is	be	VERB	_	BZ	42	advcl	_	_
+19	concrete	concrete	ADJ	_	J	20	amod	_	_
+20	proof	proof	NOUN	_	N	18	attr	_	_
+21	that	that	SCONJ	_	N	26	mark	_	_
+22	your	your	PRON	_	RP$	23	poss	_	_
+23	friend	friend	NOUN	_	N	26	nsubjpass	_	_
+24	was	be	AUX	_	BD	26	auxpass	_	_
+25	not	not	PART	_	B	26	neg	_	_
+26	infected	infect	VERB	_	BN	20	acl	_	_
+27	with	with	ADP	_	N	26	prep	_	_
+28	H	h	PROPN	_	NP	29	compound	_	_
+29	pylori	pylori	NOUN	_	N	27	pobj	_	_
+30	until	until	ADP	_	N	26	prep	_	_
+31	four	four	NUM	_	D	32	nummod	_	_
+32	days	day	NOUN	_	NS	33	npadvmod	_	_
+33	after	after	ADP	_	N	30	prep	_	_
+34	policy	policy	NOUN	_	N	35	compound	_	_
+35	commencement	commencement	NOUN	_	N	33	pobj	_	_
+36	,	,	PUNCT	_	_	42	punct	_	_
+37	these	these	DET	_	T	38	det	_	_
+38	claims	claim	NOUN	_	NS	42	nsubj	_	_
+39	have	have	AUX	_	BP	42	aux	_	_
+40	unfortunately	unfortunately	ADV	_	B	42	advmod	_	_
+41	probably	probably	ADV	_	B	42	advmod	_	_
+42	denied	deny	VERB	_	BN	12	conj	_	_
+43	correctly	correctly	ADV	_	B	42	advmod	_	_
+44	,	,	PUNCT	_	_	42	punct	_	_
+45	per	per	ADP	_	N	42	prep	_	_
+46	the	the	DET	_	T	47	det	_	_
+47	terms	term	NOUN	_	NS	45	pobj	_	_
+48	of	of	ADP	_	N	47	prep	_	_
+49	the	the	DET	_	T	50	det	_	_
+50	policy	policy	NOUN	_	N	48	pobj	_	_
+51	.	.	PUNCT	_	_	12	punct	_	_
+
+

@@ -1,0 +1,58 @@
+# sent_id = 1
+# text = Thread_6
+1	Thread_6	thread_6	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 613
+1	613	613	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 612
+1	612	612	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Campnoodles
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Campnoodles	campnoodle	NOUN	_	NS	1	appos	_	_
+
+
+# sent_id = 5
+# text = that was handwritten after a phone call.
+1	that	that	PRON	_	T	2	nsubj	_	_
+2	was	be	AUX	_	BD	0	root	_	_
+3	handwritten	handwritten	ADJ	_	J	2	acomp	_	_
+4	after	after	ADP	_	N	3	prep	_	_
+5	a	a	DET	_	T	7	det	_	_
+6	phone	phone	NOUN	_	N	7	compound	_	_
+7	call	call	NOUN	_	N	4	pobj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = I called quantum and that confirmed that it was NOT a pre approval, it was an approved of service
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	called	call	VERB	_	BD	16	ccomp	_	_
+3	quantum	quantum	NOUN	_	N	2	oprd	_	_
+4	and	and	CCONJ	_	C	2	cc	_	_
+5	that	that	PRON	_	DT	6	nsubj	_	_
+6	confirmed	confirm	VERB	_	BD	2	conj	_	_
+7	that	that	SCONJ	_	N	9	mark	_	_
+8	it	it	PRON	_	RP	9	nsubj	_	_
+9	was	be	AUX	_	BD	6	ccomp	_	_
+10	NOT	not	PART	_	B	9	neg	_	_
+11	a	a	DET	_	T	13	det	_	_
+12	pre	pre	ADJ	_	J	13	amod	_	_
+13	approval	approval	NOUN	_	N	9	attr	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	it	it	PRON	_	RP	16	nsubj	_	_
+16	was	be	AUX	_	BD	0	root	_	_
+17	an	an	DET	_	T	18	det	_	_
+18	approved	approve	VERB	_	BN	16	attr	_	_
+19	of	of	ADP	_	N	18	prep	_	_
+20	service	service	NOUN	_	N	19	pobj	_	_
+
+

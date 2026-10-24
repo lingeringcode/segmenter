@@ -1,0 +1,129 @@
+# sent_id = 1
+# text = Thread_10
+1	Thread_10	thread_10	VERB	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 1006
+1	1006	1006	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1000
+1	1000	1000	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Actual-Government96
+1	u	u	NOUN	_	N	5	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Actual	actual	ADJ	_	J	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Government96	government96	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = I would try the second level appeal.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	would	would	AUX	_	D	3	aux	_	_
+3	try	try	VERB	_	B	0	root	_	_
+4	the	the	DET	_	T	7	det	_	_
+5	second	second	ADJ	_	J	6	amod	_	_
+6	level	level	NOUN	_	N	7	compound	_	_
+7	appeal	appeal	NOUN	_	N	3	dobj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = Although prior auth is essentially only a med necessity review, the OIC in my state (for example) does not look kindly on approved prior auths when the service is not a covered benefit (due to the service itself or provider's network status).
+1	Although	although	SCONJ	_	N	4	mark	_	_
+2	prior	prior	ADJ	_	J	3	amod	_	_
+3	auth	auth	NOUN	_	N	4	nsubj	_	_
+4	is	be	AUX	_	BZ	23	advcl	_	_
+5	essentially	essentially	ADV	_	B	4	advmod	_	_
+6	only	only	ADV	_	B	10	advmod	_	_
+7	a	a	DET	_	T	10	det	_	_
+8	med	med	ADJ	_	J	9	amod	_	_
+9	necessity	necessity	NOUN	_	N	10	compound	_	_
+10	review	review	NOUN	_	N	4	attr	_	_
+11	,	,	PUNCT	_	_	23	punct	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	OIC	oic	PROPN	_	NP	23	nsubj	_	_
+14	in	in	ADP	_	N	13	prep	_	_
+15	my	my	PRON	_	RP$	16	poss	_	_
+16	state	state	NOUN	_	N	14	pobj	_	_
+17	(	(	PUNCT	_	LRB-	23	punct	_	_
+18	for	for	ADP	_	N	23	prep	_	_
+19	example	example	NOUN	_	N	18	pobj	_	_
+20	)	)	PUNCT	_	RRB-	23	punct	_	_
+21	does	do	AUX	_	BZ	23	aux	_	_
+22	not	not	PART	_	B	23	neg	_	_
+23	look	look	VERB	_	B	0	root	_	_
+24	kindly	kindly	ADV	_	B	23	advmod	_	_
+25	on	on	ADP	_	N	23	prep	_	_
+26	approved	approve	VERB	_	BN	28	amod	_	_
+27	prior	prior	ADJ	_	J	28	amod	_	_
+28	auths	auth	NOUN	_	NS	25	pobj	_	_
+29	when	when	SCONJ	_	RB	32	advmod	_	_
+30	the	the	DET	_	T	31	det	_	_
+31	service	service	NOUN	_	N	32	nsubj	_	_
+32	is	be	AUX	_	BZ	23	advcl	_	_
+33	not	not	PART	_	B	32	neg	_	_
+34	a	a	DET	_	T	36	det	_	_
+35	covered	covered	ADJ	_	J	36	amod	_	_
+36	benefit	benefit	NOUN	_	N	32	attr	_	_
+37	(	(	PUNCT	_	LRB-	36	punct	_	_
+38	due	due	ADP	_	N	36	prep	_	_
+39	to	to	ADP	_	N	38	pcomp	_	_
+40	the	the	DET	_	T	41	det	_	_
+41	service	service	NOUN	_	N	38	pobj	_	_
+42	itself	itself	PRON	_	RP	41	appos	_	_
+43	or	or	CCONJ	_	C	41	cc	_	_
+44	provider	provider	NOUN	_	N	47	poss	_	_
+45	's	's	PART	_	OS	44	case	_	_
+46	network	network	NOUN	_	N	47	compound	_	_
+47	status	status	NOUN	_	N	41	conj	_	_
+48	)	)	PUNCT	_	RRB-	36	punct	_	_
+49	.	.	PUNCT	_	_	23	punct	_	_
+
+
+# sent_id = 7
+# text = Basically they expect the insurer to factor in the terms of the plan before approving a prior auth, and expect the insurer to honor their approvals except in cases of fraud or material misrepresentation.
+1	Basically	basically	ADV	_	B	3	advmod	_	_
+2	they	they	PRON	_	RP	3	nsubj	_	_
+3	expect	expect	VERB	_	BP	0	root	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	insurer	insurer	NOUN	_	N	7	nsubj	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	factor	factor	VERB	_	B	3	ccomp	_	_
+8	in	in	ADP	_	P	7	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	terms	term	NOUN	_	NS	7	dobj	_	_
+11	of	of	ADP	_	N	10	prep	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	plan	plan	NOUN	_	N	11	pobj	_	_
+14	before	before	ADP	_	N	7	prep	_	_
+15	approving	approve	VERB	_	BG	14	pcomp	_	_
+16	a	a	DET	_	T	18	det	_	_
+17	prior	prior	ADJ	_	J	18	amod	_	_
+18	auth	auth	NOUN	_	N	15	dobj	_	_
+19	,	,	PUNCT	_	_	3	punct	_	_
+20	and	and	CCONJ	_	C	3	cc	_	_
+21	expect	expect	VERB	_	B	3	conj	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	insurer	insurer	NOUN	_	N	25	nsubj	_	_
+24	to	to	PART	_	O	25	aux	_	_
+25	honor	honor	VERB	_	B	21	ccomp	_	_
+26	their	their	PRON	_	RP$	27	poss	_	_
+27	approvals	approval	NOUN	_	NS	25	dobj	_	_
+28	except	except	SCONJ	_	N	25	prep	_	_
+29	in	in	ADP	_	N	28	prep	_	_
+30	cases	case	NOUN	_	NS	29	pobj	_	_
+31	of	of	ADP	_	N	30	prep	_	_
+32	fraud	fraud	NOUN	_	N	35	nmod	_	_
+33	or	or	CCONJ	_	C	32	cc	_	_
+34	material	material	NOUN	_	N	32	conj	_	_
+35	misrepresentation	misrepresentation	NOUN	_	N	31	pobj	_	_
+36	.	.	PUNCT	_	_	3	punct	_	_
+
+

@@ -1,0 +1,200 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1802
+1	1802	1802	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1801
+1	1801	1801	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Weekly-Ad-650
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Weekly	weekly	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Ad-650	ad-650	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Thank you for the input!
+1	Thank	thank	VERB	_	BP	0	root	_	_
+2	you	you	PRON	_	RP	1	dobj	_	_
+3	for	for	ADP	_	N	1	prep	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	input	input	NOUN	_	N	3	pobj	_	_
+6	!	!	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = I have been having a lot of the same thoughts hence the reason I wanted some outsider opinions.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	have	have	AUX	_	BP	4	aux	_	_
+3	been	be	AUX	_	BN	4	aux	_	_
+4	having	have	VERB	_	BG	0	root	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	lot	lot	NOUN	_	N	4	dobj	_	_
+7	of	of	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	same	same	ADJ	_	J	10	amod	_	_
+10	thoughts	thought	NOUN	_	NS	7	pobj	_	_
+11	hence	hence	ADV	_	B	13	advmod	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	reason	reason	NOUN	_	N	4	npadvmod	_	_
+14	I	i	PRON	_	RP	15	nsubj	_	_
+15	wanted	want	VERB	_	BD	13	relcl	_	_
+16	some	some	DET	_	T	18	det	_	_
+17	outsider	outsider	NOUN	_	N	18	compound	_	_
+18	opinions	opinion	NOUN	_	NS	15	dobj	_	_
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = It really is unusual to have this surgery done "in-office" - it definitely felt like a surgical setting but they do qualify as a POS 11.
+1	It	it	PRON	_	RP	3	nsubj	_	_
+2	really	really	ADV	_	B	3	advmod	_	_
+3	is	be	AUX	_	BZ	18	ccomp	_	_
+4	unusual	unusual	ADJ	_	J	3	acomp	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	have	have	VERB	_	B	3	xcomp	_	_
+7	this	this	DET	_	T	8	det	_	_
+8	surgery	surgery	NOUN	_	N	9	nsubj	_	_
+9	done	do	VERB	_	BN	6	ccomp	_	_
+10	"	"	PUNCT	_	`	9	punct	_	_
+11	in	in	ADP	_	N	9	prep	_	_
+12	-	-	PUNCT	_	YPH	11	punct	_	_
+13	office	office	NOUN	_	N	11	pobj	_	_
+14	"	"	PUNCT	_	'	9	punct	_	_
+15	-	-	PUNCT	_	_	18	punct	_	_
+16	it	it	PRON	_	RP	18	nsubj	_	_
+17	definitely	definitely	ADV	_	B	18	advmod	_	_
+18	felt	feel	VERB	_	BD	0	root	_	_
+19	like	like	ADP	_	N	18	prep	_	_
+20	a	a	DET	_	T	22	det	_	_
+21	surgical	surgical	ADJ	_	J	22	amod	_	_
+22	setting	setting	NOUN	_	N	19	pobj	_	_
+23	but	but	CCONJ	_	C	18	cc	_	_
+24	they	they	PRON	_	RP	26	nsubj	_	_
+25	do	do	AUX	_	BP	26	aux	_	_
+26	qualify	qualify	VERB	_	B	18	conj	_	_
+27	as	as	ADP	_	N	26	prep	_	_
+28	a	a	DET	_	T	29	det	_	_
+29	POS	pos	PROPN	_	NP	27	pobj	_	_
+30	11	11	NUM	_	D	29	nummod	_	_
+31	.	.	PUNCT	_	_	26	punct	_	_
+
+
+# sent_id = 8
+# text = So the first two procedures I had done with her were reimbursed in full, they were liposuction 15879 procedures.
+1	So	so	ADV	_	B	12	advmod	_	_
+2	the	the	DET	_	T	5	det	_	_
+3	first	first	ADJ	_	J	5	amod	_	_
+4	two	two	NUM	_	D	5	nummod	_	_
+5	procedures	procedure	NOUN	_	NS	12	nsubjpass	_	_
+6	I	i	PRON	_	RP	8	nsubj	_	_
+7	had	have	AUX	_	BD	8	aux	_	_
+8	done	do	VERB	_	BN	5	relcl	_	_
+9	with	with	ADP	_	N	8	prep	_	_
+10	her	she	PRON	_	RP	9	pobj	_	_
+11	were	be	AUX	_	BD	12	auxpass	_	_
+12	reimbursed	reimburse	VERB	_	BN	18	ccomp	_	_
+13	in	in	ADP	_	N	12	prep	_	_
+14	full	full	ADJ	_	J	13	amod	_	_
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	they	they	PRON	_	RP	18	nsubj	_	_
+17	were	be	AUX	_	BD	18	aux	_	_
+18	liposuction	liposuction	NOUN	_	N	0	root	_	_
+19	15879	15879	NUM	_	D	20	nummod	_	_
+20	procedures	procedure	NOUN	_	NS	18	npadvmod	_	_
+21	.	.	PUNCT	_	_	18	punct	_	_
+
+
+# sent_id = 9
+# text = This last procedure, CPT 15832, includes liposuction as well as skin removal.
+1	This	this	DET	_	T	3	det	_	_
+2	last	last	ADJ	_	J	3	amod	_	_
+3	procedure	procedure	NOUN	_	N	8	nsubj	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	CPT	cpt	PROPN	_	NP	3	appos	_	_
+6	15832	15832	NUM	_	D	5	nummod	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	includes	include	VERB	_	BZ	0	root	_	_
+9	liposuction	liposuction	NOUN	_	N	8	dobj	_	_
+10	as	as	ADV	_	B	12	advmod	_	_
+11	well	well	ADV	_	B	12	advmod	_	_
+12	as	as	ADP	_	N	9	cc	_	_
+13	skin	skin	NOUN	_	N	14	compound	_	_
+14	removal	removal	NOUN	_	N	9	conj	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 10
+# text = So clearly it is the skin part they are having an issue with.
+1	So	so	ADV	_	B	4	advmod	_	_
+2	clearly	clearly	ADV	_	B	4	advmod	_	_
+3	it	it	PRON	_	RP	4	nsubj	_	_
+4	is	be	AUX	_	BZ	0	root	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	skin	skin	NOUN	_	N	7	compound	_	_
+7	part	part	NOUN	_	N	4	attr	_	_
+8	they	they	PRON	_	RP	10	nsubj	_	_
+9	are	be	AUX	_	BP	10	aux	_	_
+10	having	have	VERB	_	BG	7	relcl	_	_
+11	an	an	DET	_	T	12	det	_	_
+12	issue	issue	NOUN	_	N	10	dobj	_	_
+13	with	with	ADP	_	N	10	prep	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 11
+# text = Like you said, hindsight is 20/20
+1	Like	like	INTJ	_	H	6	intj	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	said	say	VERB	_	BD	5	parataxis	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	hindsight	hindsight	VERB	_	BD	6	nsubj	_	_
+6	is	be	AUX	_	BZ	0	root	_	_
+7	20/20	20/20	NUM	_	D	6	attr	_	_
+
+
+# sent_id = 12
+# text = but I just didn't think to ask since they had reimbursed me for the two prior procedures in the same setting.
+1	but	but	CCONJ	_	C	6	cc	_	_
+2	I	i	PRON	_	RP	6	nsubj	_	_
+3	just	just	ADV	_	B	6	advmod	_	_
+4	did	do	AUX	_	BD	6	aux	_	_
+5	n't	not	PART	_	B	6	neg	_	_
+6	think	think	VERB	_	B	0	root	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	ask	ask	VERB	_	B	6	xcomp	_	_
+9	since	since	SCONJ	_	N	12	mark	_	_
+10	they	they	PRON	_	RP	12	nsubj	_	_
+11	had	have	AUX	_	BD	12	aux	_	_
+12	reimbursed	reimburse	VERB	_	BN	8	advcl	_	_
+13	me	i	PRON	_	RP	12	dobj	_	_
+14	for	for	ADP	_	N	12	prep	_	_
+15	the	the	DET	_	T	18	det	_	_
+16	two	two	NUM	_	D	18	nummod	_	_
+17	prior	prior	ADJ	_	J	18	amod	_	_
+18	procedures	procedure	NOUN	_	NS	14	pobj	_	_
+19	in	in	ADP	_	N	12	prep	_	_
+20	the	the	DET	_	T	22	det	_	_
+21	same	same	ADJ	_	J	22	amod	_	_
+22	setting	setting	NOUN	_	N	19	pobj	_	_
+23	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 13
+# text = What a mess!
+1	What	what	DET	_	DT	3	det	_	_
+2	a	a	DET	_	T	3	det	_	_
+3	mess	mess	NOUN	_	N	0	root	_	_
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+

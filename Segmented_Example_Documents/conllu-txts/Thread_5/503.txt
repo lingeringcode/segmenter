@@ -1,0 +1,95 @@
+# sent_id = 1
+# text = Thread_5
+1	Thread_5	thread_5	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 503
+1	503	503	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 502
+1	502	502	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/EffectiveEgg5712
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	EffectiveEgg5712	effectiveegg5712	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = hmm plans differ but with what I have seen with my plan and a few others, they will grant a prior auth approval from the request date.
+1	hmm	hmm	INTJ	_	H	2	compound	_	_
+2	plans	plan	NOUN	_	NS	3	nsubj	_	_
+3	differ	differ	VERB	_	BP	0	root	_	_
+4	but	but	CCONJ	_	C	3	cc	_	_
+5	with	with	ADP	_	N	20	prep	_	_
+6	what	what	PRON	_	P	9	dobj	_	_
+7	I	i	PRON	_	RP	9	nsubj	_	_
+8	have	have	AUX	_	BP	9	aux	_	_
+9	seen	see	VERB	_	BN	5	pcomp	_	_
+10	with	with	ADP	_	N	9	prep	_	_
+11	my	my	PRON	_	RP$	12	poss	_	_
+12	plan	plan	NOUN	_	N	10	pobj	_	_
+13	and	and	CCONJ	_	C	12	cc	_	_
+14	a	a	DET	_	T	15	quantmod	_	_
+15	few	few	ADJ	_	J	16	nummod	_	_
+16	others	other	NOUN	_	NS	12	conj	_	_
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	they	they	PRON	_	RP	20	nsubj	_	_
+19	will	will	AUX	_	D	20	aux	_	_
+20	grant	grant	VERB	_	B	3	conj	_	_
+21	a	a	DET	_	T	24	det	_	_
+22	prior	prior	ADJ	_	J	24	amod	_	_
+23	auth	auth	ADJ	_	J	24	compound	_	_
+24	approval	approval	NOUN	_	N	20	dobj	_	_
+25	from	from	ADP	_	N	24	prep	_	_
+26	the	the	DET	_	T	28	det	_	_
+27	request	request	NOUN	_	N	28	compound	_	_
+28	date	date	NOUN	_	N	25	pobj	_	_
+29	.	.	PUNCT	_	_	20	punct	_	_
+
+
+# sent_id = 6
+# text = Even with appeals but unfortunately Idk if all plan do something similar like that.
+1	Even	even	ADV	_	B	2	advmod	_	_
+2	with	with	ADP	_	N	10	prep	_	_
+3	appeals	appeal	NOUN	_	NS	2	pobj	_	_
+4	but	but	CCONJ	_	C	3	cc	_	_
+5	unfortunately	unfortunately	ADV	_	B	6	advmod	_	_
+6	Idk	idk	PROPN	_	NP	3	conj	_	_
+7	if	if	SCONJ	_	N	9	mark	_	_
+8	all	all	DET	_	T	9	det	_	_
+9	plan	plan	VERB	_	BP	10	advcl	_	_
+10	do	do	VERB	_	BP	0	root	_	_
+11	something	something	PRON	_	N	10	dobj	_	_
+12	similar	similar	ADJ	_	J	11	amod	_	_
+13	like	like	ADP	_	N	12	prep	_	_
+14	that	that	PRON	_	T	13	pobj	_	_
+15	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 7
+# text = If all else fails then commissioner will be the next step if they don't budge.
+1	If	if	SCONJ	_	N	4	mark	_	_
+2	all	all	DET	_	T	3	det	_	_
+3	else	else	ADV	_	B	4	nsubj	_	_
+4	fails	fail	VERB	_	BZ	8	advcl	_	_
+5	then	then	ADV	_	B	8	advmod	_	_
+6	commissioner	commissioner	NOUN	_	N	8	nsubj	_	_
+7	will	will	AUX	_	D	8	aux	_	_
+8	be	be	AUX	_	B	0	root	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	next	next	ADJ	_	J	11	amod	_	_
+11	step	step	NOUN	_	N	8	attr	_	_
+12	if	if	SCONJ	_	N	16	mark	_	_
+13	they	they	PRON	_	RP	16	nsubj	_	_
+14	do	do	AUX	_	BP	16	aux	_	_
+15	n't	not	PART	_	B	16	neg	_	_
+16	budge	budge	VERB	_	B	8	advcl	_	_
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+

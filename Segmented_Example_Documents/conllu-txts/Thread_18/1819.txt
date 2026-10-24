@@ -1,0 +1,293 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1819
+1	1819	1819	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1818
+1	1818	1818	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/vivekpadia70
+1	u	u	NOUN	_	N	3	nmod	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	vivekpadia70	vivekpadia70	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Fully insured answers the big question: your pressure point is the state, not the federal DOL.
+1	Fully	fully	ADV	_	B	2	advmod	_	_
+2	insured	insure	VERB	_	BN	3	amod	_	_
+3	answers	answer	NOUN	_	NS	11	ccomp	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	big	big	ADJ	_	J	6	amod	_	_
+6	question	question	NOUN	_	N	3	dobj	_	_
+7	:	:	PUNCT	_	_	11	punct	_	_
+8	your	your	PRON	_	RP$	10	poss	_	_
+9	pressure	pressure	NOUN	_	N	10	compound	_	_
+10	point	point	NOUN	_	N	11	nsubj	_	_
+11	is	be	AUX	_	BZ	0	root	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	state	state	NOUN	_	N	11	attr	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	not	not	PART	_	B	13	neg	_	_
+16	the	the	DET	_	T	18	det	_	_
+17	federal	federal	ADJ	_	J	18	amod	_	_
+18	DOL	dol	PROPN	_	NP	13	appos	_	_
+19	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 6
+# text = And honestly, being told this was your final internal appeal may work in your favor, because it accelerates you to external review, which is the level you already won once.
+1	And	and	CCONJ	_	C	7	cc	_	_
+2	honestly	honestly	ADV	_	B	5	advmod	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	being	be	AUX	_	BG	5	auxpass	_	_
+5	told	tell	VERB	_	BN	7	csubj	_	_
+6	this	this	PRON	_	T	7	nsubj	_	_
+7	was	be	AUX	_	BD	0	root	_	_
+8	your	your	PRON	_	RP$	11	poss	_	_
+9	final	final	ADJ	_	J	11	amod	_	_
+10	internal	internal	ADJ	_	J	11	amod	_	_
+11	appeal	appeal	NOUN	_	N	13	nsubj	_	_
+12	may	may	AUX	_	D	13	aux	_	_
+13	work	work	VERB	_	B	7	ccomp	_	_
+14	in	in	ADP	_	N	13	prep	_	_
+15	your	your	PRON	_	RP$	16	poss	_	_
+16	favor	favor	NOUN	_	N	14	pobj	_	_
+17	,	,	PUNCT	_	_	13	punct	_	_
+18	because	because	SCONJ	_	N	20	mark	_	_
+19	it	it	PRON	_	RP	20	nsubj	_	_
+20	accelerates	accelerate	VERB	_	BZ	13	advcl	_	_
+21	you	you	PRON	_	RP	20	dobj	_	_
+22	to	to	ADP	_	N	20	prep	_	_
+23	external	external	ADJ	_	J	24	amod	_	_
+24	review	review	NOUN	_	N	22	pobj	_	_
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	which	which	PRON	_	DT	27	nsubj	_	_
+27	is	be	AUX	_	BZ	24	relcl	_	_
+28	the	the	DET	_	T	29	det	_	_
+29	level	level	NOUN	_	N	27	attr	_	_
+30	you	you	PRON	_	RP	32	nsubj	_	_
+31	already	already	ADV	_	B	32	advmod	_	_
+32	won	win	VERB	_	BD	29	relcl	_	_
+33	once	once	ADV	_	B	32	advmod	_	_
+34	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 7
+# text = On the two-levels puzzle: appeal structures often differ by claim type, so a post-service reimbursement claim can carry fewer internal levels than a pre-service denial.
+1	On	on	ADP	_	N	11	prep	_	_
+2	the	the	DET	_	T	6	det	_	_
+3	two	two	NUM	_	D	5	nummod	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	levels	level	NOUN	_	NS	6	compound	_	_
+6	puzzle	puzzle	NOUN	_	N	1	pobj	_	_
+7	:	:	PUNCT	_	_	11	punct	_	_
+8	appeal	appeal	NOUN	_	N	9	compound	_	_
+9	structures	structure	NOUN	_	NS	11	nsubj	_	_
+10	often	often	ADV	_	B	11	advmod	_	_
+11	differ	differ	VERB	_	BP	0	root	_	_
+12	by	by	ADP	_	N	11	prep	_	_
+13	claim	claim	NOUN	_	N	14	compound	_	_
+14	type	type	NOUN	_	N	12	pobj	_	_
+15	,	,	PUNCT	_	_	11	punct	_	_
+16	so	so	CCONJ	_	C	11	cc	_	_
+17	a	a	DET	_	T	22	det	_	_
+18	post	post	ADJ	_	J	21	amod	_	_
+19	-	-	ADJ	_	J	21	amod	_	_
+20	service	service	ADJ	_	J	21	amod	_	_
+21	reimbursement	reimbursement	NOUN	_	N	22	compound	_	_
+22	claim	claim	NOUN	_	N	24	nsubj	_	_
+23	can	can	AUX	_	D	24	aux	_	_
+24	carry	carry	VERB	_	B	11	conj	_	_
+25	fewer	few	ADJ	_	JR	27	amod	_	_
+26	internal	internal	ADJ	_	J	27	amod	_	_
+27	levels	level	NOUN	_	NS	24	dobj	_	_
+28	than	than	ADP	_	N	24	prep	_	_
+29	a	a	DET	_	T	33	det	_	_
+30	pre	pre	ADJ	_	J	33	amod	_	_
+31	-	-	ADJ	_	J	33	amod	_	_
+32	service	service	ADJ	_	J	33	amod	_	_
+33	denial	denial	NOUN	_	N	28	pobj	_	_
+34	.	.	PUNCT	_	_	24	punct	_	_
+
+
+# sent_id = 8
+# text = But the mismatch between your plan documents and the denial letter is worth pinning down.
+1	But	but	CCONJ	_	C	12	cc	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	mismatch	mismatch	NOUN	_	N	12	nsubj	_	_
+4	between	between	ADP	_	N	3	prep	_	_
+5	your	your	PRON	_	RP$	7	poss	_	_
+6	plan	plan	NOUN	_	N	7	compound	_	_
+7	documents	document	NOUN	_	NS	4	pobj	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	denial	denial	NOUN	_	N	11	compound	_	_
+11	letter	letter	NOUN	_	N	7	conj	_	_
+12	is	be	AUX	_	BZ	0	root	_	_
+13	worth	worth	ADJ	_	J	12	acomp	_	_
+14	pinning	pin	VERB	_	BG	13	xcomp	_	_
+15	down	down	ADP	_	P	14	prt	_	_
+16	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 9
+# text = Ask them in writing to cite exactly where your plan provides only one internal appeal for this claim type.
+1	Ask	ask	VERB	_	B	0	root	_	_
+2	them	they	PRON	_	RP	1	dobj	_	_
+3	in	in	ADP	_	N	1	prep	_	_
+4	writing	writing	NOUN	_	N	3	pobj	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	cite	cite	VERB	_	B	1	xcomp	_	_
+7	exactly	exactly	ADV	_	B	8	advmod	_	_
+8	where	where	SCONJ	_	RB	11	advmod	_	_
+9	your	your	PRON	_	RP$	10	poss	_	_
+10	plan	plan	NOUN	_	N	11	nsubj	_	_
+11	provides	provide	VERB	_	BZ	6	ccomp	_	_
+12	only	only	ADV	_	B	13	advmod	_	_
+13	one	one	NUM	_	D	15	nummod	_	_
+14	internal	internal	ADJ	_	J	15	amod	_	_
+15	appeal	appeal	NOUN	_	N	11	dobj	_	_
+16	for	for	ADP	_	N	15	prep	_	_
+17	this	this	DET	_	T	19	det	_	_
+18	claim	claim	NOUN	_	N	19	compound	_	_
+19	type	type	NOUN	_	N	16	pobj	_	_
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 10
+# text = If they can't, that discrepancy itself belongs in your complaint.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	they	they	PRON	_	RP	3	nsubj	_	_
+3	ca	can	AUX	_	D	9	advcl	_	_
+4	n't	not	PART	_	B	3	neg	_	_
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	that	that	DET	_	T	7	det	_	_
+7	discrepancy	discrepancy	NOUN	_	N	9	nsubj	_	_
+8	itself	itself	PRON	_	RP	7	appos	_	_
+9	belongs	belong	VERB	_	BZ	0	root	_	_
+10	in	in	ADP	_	N	9	prep	_	_
+11	your	your	PRON	_	RP$	12	poss	_	_
+12	complaint	complaint	NOUN	_	N	10	pobj	_	_
+13	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 11
+# text = Then file the external review following the instructions and deadline printed on the denial letter, and open a complaint with Florida's insurance consumer services as well.
+1	Then	then	ADV	_	B	2	advmod	_	_
+2	file	file	VERB	_	B	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	external	external	ADJ	_	J	5	amod	_	_
+5	review	review	NOUN	_	N	2	dobj	_	_
+6	following	follow	VERB	_	BG	5	acl	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	instructions	instruction	NOUN	_	NS	6	pobj	_	_
+9	and	and	CCONJ	_	C	8	cc	_	_
+10	deadline	deadline	NOUN	_	N	8	conj	_	_
+11	printed	print	VERB	_	BN	8	acl	_	_
+12	on	on	ADP	_	N	11	prep	_	_
+13	the	the	DET	_	T	15	det	_	_
+14	denial	denial	NOUN	_	N	15	compound	_	_
+15	letter	letter	NOUN	_	N	12	pobj	_	_
+16	,	,	PUNCT	_	_	2	punct	_	_
+17	and	and	CCONJ	_	C	2	cc	_	_
+18	open	open	VERB	_	B	2	conj	_	_
+19	a	a	DET	_	T	20	det	_	_
+20	complaint	complaint	NOUN	_	N	18	dobj	_	_
+21	with	with	ADP	_	N	20	prep	_	_
+22	Florida	florida	PROPN	_	NP	26	poss	_	_
+23	's	's	PART	_	OS	22	case	_	_
+24	insurance	insurance	NOUN	_	N	26	compound	_	_
+25	consumer	consumer	NOUN	_	N	26	compound	_	_
+26	services	service	NOUN	_	NS	21	pobj	_	_
+27	as	as	ADV	_	B	28	advmod	_	_
+28	well	well	ADV	_	B	18	advmod	_	_
+29	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 12
+# text = Your core exhibit stays the same: the authorization letter listing this code, this surgeon, this setting, against a policy that only lived on the provider site.
+1	Your	your	PRON	_	RP$	3	poss	_	_
+2	core	core	NOUN	_	N	3	compound	_	_
+3	exhibit	exhibit	NOUN	_	N	4	nsubj	_	_
+4	stays	stay	VERB	_	BZ	0	root	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	same	same	ADJ	_	J	4	attr	_	_
+7	:	:	PUNCT	_	_	4	punct	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	authorization	authorization	NOUN	_	N	10	compound	_	_
+10	letter	letter	NOUN	_	N	3	appos	_	_
+11	listing	list	VERB	_	BG	10	acl	_	_
+12	this	this	DET	_	T	13	det	_	_
+13	code	code	NOUN	_	N	11	dobj	_	_
+14	,	,	PUNCT	_	_	10	punct	_	_
+15	this	this	DET	_	T	16	det	_	_
+16	surgeon	surgeon	NOUN	_	N	10	conj	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	this	this	DET	_	T	19	det	_	_
+19	setting	setting	NOUN	_	N	10	appos	_	_
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	against	against	ADP	_	N	19	prep	_	_
+22	a	a	DET	_	T	23	det	_	_
+23	policy	policy	NOUN	_	N	21	pobj	_	_
+24	that	that	PRON	_	DT	26	nsubj	_	_
+25	only	only	ADV	_	B	26	advmod	_	_
+26	lived	live	VERB	_	BD	23	relcl	_	_
+27	on	on	ADP	_	N	26	prep	_	_
+28	the	the	DET	_	T	30	det	_	_
+29	provider	provider	NOUN	_	N	30	compound	_	_
+30	site	site	NOUN	_	N	27	pobj	_	_
+31	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 13
+# text = One more thing for when the claim file arrives: check the effective date on the office-setting policy.
+1	One	one	NUM	_	D	3	nummod	_	_
+2	more	more	ADJ	_	JR	3	amod	_	_
+3	thing	thing	NOUN	_	N	11	nsubj	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	when	when	SCONJ	_	RB	9	advmod	_	_
+6	the	the	DET	_	T	8	det	_	_
+7	claim	claim	NOUN	_	N	8	compound	_	_
+8	file	file	NOUN	_	N	9	nsubj	_	_
+9	arrives	arrive	VERB	_	BZ	4	pcomp	_	_
+10	:	:	PUNCT	_	_	11	punct	_	_
+11	check	check	VERB	_	B	0	root	_	_
+12	the	the	DET	_	T	14	det	_	_
+13	effective	effective	ADJ	_	J	14	amod	_	_
+14	date	date	NOUN	_	N	11	dobj	_	_
+15	on	on	ADP	_	N	14	prep	_	_
+16	the	the	DET	_	T	20	det	_	_
+17	office	office	NOUN	_	N	19	npadvmod	_	_
+18	-	-	PUNCT	_	YPH	19	punct	_	_
+19	setting	set	VERB	_	BG	20	amod	_	_
+20	policy	policy	NOUN	_	N	15	pobj	_	_
+21	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 14
+# text = If it postdates your authorization, say so loudly in the external review.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	postdates	postdate	VERB	_	BZ	7	advcl	_	_
+4	your	your	PRON	_	RP$	5	poss	_	_
+5	authorization	authorization	NOUN	_	N	3	dobj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	say	say	VERB	_	BP	0	root	_	_
+8	so	so	ADV	_	B	9	advmod	_	_
+9	loudly	loudly	ADV	_	B	7	advmod	_	_
+10	in	in	ADP	_	N	7	prep	_	_
+11	the	the	DET	_	T	13	det	_	_
+12	external	external	ADJ	_	J	13	amod	_	_
+13	review	review	NOUN	_	N	10	pobj	_	_
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+

@@ -1,0 +1,32 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1803
+1	1803	1803	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1802
+1	1802	1802	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/BumCadillac
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	BumCadillac	bumcadillac	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = How much skin was removed?
+1	How	how	SCONJ	_	RB	2	advmod	_	_
+2	much	much	ADJ	_	J	3	amod	_	_
+3	skin	skin	NOUN	_	N	5	nsubjpass	_	_
+4	was	be	AUX	_	BD	5	auxpass	_	_
+5	removed	remove	VERB	_	BN	0	root	_	_
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+

@@ -1,0 +1,1057 @@
+# sent_id = 1
+# text = Thread_9
+1	Thread_9	thread_9	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 900
+1	900	900	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/p_kitty
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	p_kitty	p_kitty	NOUN	_	N	1	nummod	_	_
+
+
+# sent_id = 5
+# text = IBX made a typo retroactively cancelling our coverage.
+1	IBX	ibx	PROPN	_	NP	2	nsubj	_	_
+2	made	make	VERB	_	BD	0	root	_	_
+3	a	a	DET	_	T	4	det	_	_
+4	typo	typo	NOUN	_	N	6	nsubj	_	_
+5	retroactively	retroactively	ADV	_	B	6	advmod	_	_
+6	cancelling	cancel	VERB	_	BG	2	ccomp	_	_
+7	our	our	PRON	_	RP$	8	poss	_	_
+8	coverage	coverage	NOUN	_	N	6	dobj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = 9 months later it's still broken.
+1	9	9	NUM	_	D	2	nummod	_	_
+2	months	month	NOUN	_	NS	3	npadvmod	_	_
+3	later	later	ADV	_	B	7	advmod	_	_
+4	it	it	PRON	_	RP	7	nsubjpass	_	_
+5	's	be	AUX	_	BZ	7	auxpass	_	_
+6	still	still	ADV	_	B	7	advmod	_	_
+7	broken	break	VERB	_	BN	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 7
+# text = Who can help me fix this?
+1	Who	who	PRON	_	P	3	nsubj	_	_
+2	can	can	AUX	_	D	3	aux	_	_
+3	help	help	VERB	_	B	0	root	_	_
+4	me	i	PRON	_	RP	5	nsubj	_	_
+5	fix	fix	VERB	_	B	3	ccomp	_	_
+6	this	this	PRON	_	T	5	dobj	_	_
+7	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = I'm drowning
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	'm	be	AUX	_	BP	3	aux	_	_
+3	drowning	drown	VERB	_	BG	0	root	_	_
+
+
+# sent_id = 9
+# text = This nightmare has been going on for over nine months.
+1	This	this	DET	_	T	2	det	_	_
+2	nightmare	nightmare	NOUN	_	N	5	nsubj	_	_
+3	has	have	AUX	_	BZ	5	aux	_	_
+4	been	be	AUX	_	BN	5	aux	_	_
+5	going	go	VERB	_	BG	0	root	_	_
+6	on	on	ADP	_	P	5	prt	_	_
+7	for	for	ADP	_	N	5	prep	_	_
+8	over	over	ADP	_	N	9	quantmod	_	_
+9	nine	nine	NUM	_	D	10	nummod	_	_
+10	months	month	NOUN	_	NS	7	pobj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 10
+# text = I'm drowning
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	'm	be	AUX	_	BP	3	aux	_	_
+3	drowning	drown	VERB	_	BG	0	root	_	_
+
+
+# sent_id = 11
+# text = My husband enrolled our family in his employer's group plan 12/1/25.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	husband	husband	NOUN	_	N	3	nsubj	_	_
+3	enrolled	enrol	VERB	_	BD	0	root	_	_
+4	our	our	PRON	_	RP$	5	poss	_	_
+5	family	family	NOUN	_	N	3	dobj	_	_
+6	in	in	ADP	_	N	3	prep	_	_
+7	his	his	PRON	_	RP$	8	poss	_	_
+8	employer	employer	NOUN	_	N	11	poss	_	_
+9	's	's	PART	_	OS	8	case	_	_
+10	group	group	NOUN	_	N	11	compound	_	_
+11	plan	plan	NOUN	_	N	6	pobj	_	_
+12	12/1/25	12/1/25	NUM	_	D	3	npadvmod	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 12
+# text = They terminated him 12/23/25 and provided coverage until 12/28/25 when we switched to COBRA.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	terminated	terminate	VERB	_	BD	0	root	_	_
+3	him	he	PRON	_	RP	2	dobj	_	_
+4	12/23/25	12/23/25	ADV	_	B	2	npadvmod	_	_
+5	and	and	CCONJ	_	C	2	cc	_	_
+6	provided	provide	VERB	_	BD	2	conj	_	_
+7	coverage	coverage	NOUN	_	N	6	dobj	_	_
+8	until	until	ADP	_	N	6	prep	_	_
+9	12/28/25	12/28/25	PROPN	_	NP	8	pobj	_	_
+10	when	when	SCONJ	_	RB	12	advmod	_	_
+11	we	we	PRON	_	RP	12	nsubj	_	_
+12	switched	switch	VERB	_	BD	6	advcl	_	_
+13	to	to	ADP	_	N	12	prep	_	_
+14	COBRA	cobra	PROPN	_	NP	13	pobj	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 13
+# text = It's taken me 8 months, but an account manager at IBX (Independence Blue Cross) finally confirmed that one of their agents made a typo switching us over to COBRA that accidentally terminated our group coverage retroactively on 12/3/25.
+1	It	it	PRON	_	RP	3	nsubjpass	_	_
+2	's	be	AUX	_	BZ	3	auxpass	_	_
+3	taken	take	VERB	_	BN	0	root	_	_
+4	me	i	PRON	_	RP	3	dobj	_	_
+5	8	8	NUM	_	D	6	nummod	_	_
+6	months	month	NOUN	_	NS	3	npadvmod	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	but	but	CCONJ	_	C	3	cc	_	_
+9	an	an	DET	_	T	11	det	_	_
+10	account	account	NOUN	_	N	11	compound	_	_
+11	manager	manager	NOUN	_	N	20	nsubj	_	_
+12	at	at	ADP	_	N	11	prep	_	_
+13	IBX	ibx	PROPN	_	NP	12	pobj	_	_
+14	(	(	PUNCT	_	LRB-	13	punct	_	_
+15	Independence	independence	PROPN	_	NP	17	compound	_	_
+16	Blue	blue	PROPN	_	NP	17	compound	_	_
+17	Cross	cross	PROPN	_	NP	13	appos	_	_
+18	)	)	PUNCT	_	RRB-	11	punct	_	_
+19	finally	finally	ADV	_	B	20	advmod	_	_
+20	confirmed	confirm	VERB	_	BD	3	conj	_	_
+21	that	that	SCONJ	_	N	26	mark	_	_
+22	one	one	NUM	_	D	26	nsubj	_	_
+23	of	of	ADP	_	N	22	prep	_	_
+24	their	their	PRON	_	RP$	25	poss	_	_
+25	agents	agent	NOUN	_	NS	23	pobj	_	_
+26	made	make	VERB	_	BD	20	ccomp	_	_
+27	a	a	DET	_	T	28	det	_	_
+28	typo	typo	NOUN	_	N	29	nsubj	_	_
+29	switching	switch	VERB	_	BG	26	ccomp	_	_
+30	us	we	PRON	_	RP	29	dobj	_	_
+31	over	over	ADP	_	P	29	prt	_	_
+32	to	to	ADP	_	N	29	prep	_	_
+33	COBRA	cobra	PROPN	_	NP	32	pobj	_	_
+34	that	that	PRON	_	DT	36	nsubj	_	_
+35	accidentally	accidentally	ADV	_	B	36	advmod	_	_
+36	terminated	terminate	VERB	_	BD	30	relcl	_	_
+37	our	our	PRON	_	RP$	39	poss	_	_
+38	group	group	NOUN	_	N	39	compound	_	_
+39	coverage	coverage	NOUN	_	N	36	dobj	_	_
+40	retroactively	retroactively	ADV	_	B	36	advmod	_	_
+41	on	on	ADP	_	N	36	prep	_	_
+42	12/3/25	12/3/25	NUM	_	D	41	pobj	_	_
+43	.	.	PUNCT	_	_	20	punct	_	_
+
+
+# sent_id = 14
+# text = So for any claim submitted after 12/28, for date of service between 12/3 and 12/28 was denied due to lack of coverage.
+1	So	so	ADV	_	B	18	advmod	_	_
+2	for	for	ADP	_	N	18	prep	_	_
+3	any	any	DET	_	T	4	det	_	_
+4	claim	claim	NOUN	_	N	18	nsubjpass	_	_
+5	submitted	submit	VERB	_	BN	4	acl	_	_
+6	after	after	ADP	_	N	5	prep	_	_
+7	12/28	12/28	NUM	_	D	6	pobj	_	_
+8	,	,	PUNCT	_	_	18	punct	_	_
+9	for	for	ADP	_	N	18	prep	_	_
+10	date	date	NOUN	_	N	9	pobj	_	_
+11	of	of	ADP	_	N	10	prep	_	_
+12	service	service	NOUN	_	N	11	pobj	_	_
+13	between	between	ADP	_	N	12	prep	_	_
+14	12/3	12/3	NUM	_	D	13	pobj	_	_
+15	and	and	CCONJ	_	C	14	cc	_	_
+16	12/28	12/28	NUM	_	D	14	conj	_	_
+17	was	be	AUX	_	BD	18	auxpass	_	_
+18	denied	deny	VERB	_	BN	0	root	_	_
+19	due	due	ADP	_	N	18	prep	_	_
+20	to	to	ADP	_	N	19	pcomp	_	_
+21	lack	lack	NOUN	_	N	20	pobj	_	_
+22	of	of	ADP	_	N	21	prep	_	_
+23	coverage	coverage	NOUN	_	N	22	pobj	_	_
+24	.	.	PUNCT	_	_	18	punct	_	_
+
+
+# sent_id = 15
+# text = The problem I'm having is that I have spent almost all year trying to get this resolved.
+1	The	the	DET	_	T	2	det	_	_
+2	problem	problem	NOUN	_	N	6	nsubj	_	_
+3	I	i	PRON	_	RP	5	nsubj	_	_
+4	'm	be	AUX	_	BP	5	aux	_	_
+5	having	have	VERB	_	BG	2	relcl	_	_
+6	is	be	AUX	_	BZ	0	root	_	_
+7	that	that	SCONJ	_	N	10	mark	_	_
+8	I	i	PRON	_	RP	10	nsubj	_	_
+9	have	have	AUX	_	BP	10	aux	_	_
+10	spent	spend	VERB	_	BN	6	ccomp	_	_
+11	almost	almost	ADV	_	B	12	advmod	_	_
+12	all	all	PRON	_	T	13	nummod	_	_
+13	year	year	NOUN	_	N	10	npadvmod	_	_
+14	trying	try	VERB	_	BG	10	xcomp	_	_
+15	to	to	PART	_	O	16	aux	_	_
+16	get	get	VERB	_	B	14	xcomp	_	_
+17	this	this	DET	_	T	18	det	_	_
+18	resolved	resolve	VERB	_	BN	16	ccomp	_	_
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 16
+# text = Member services at IBX have been useless.
+1	Member	member	NOUN	_	N	2	compound	_	_
+2	services	service	NOUN	_	NS	6	nsubj	_	_
+3	at	at	ADP	_	N	2	prep	_	_
+4	IBX	ibx	PROPN	_	NP	3	pobj	_	_
+5	have	have	AUX	_	BP	6	aux	_	_
+6	been	be	AUX	_	BN	0	root	_	_
+7	useless	useless	ADJ	_	J	6	acomp	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 17
+# text = Finally got it escalated with HR at the employer and after an enormous back and forth they theoretically got coverage reinstated and reprocessed, but that's where the story ends.
+1	Finally	finally	ADV	_	B	19	advmod	_	_
+2	got	get	VERB	_	BD	19	advcl	_	_
+3	it	it	PRON	_	RP	4	nsubj	_	_
+4	escalated	escalate	VERB	_	BN	2	ccomp	_	_
+5	with	with	ADP	_	N	4	prep	_	_
+6	HR	hr	NOUN	_	N	5	pobj	_	_
+7	at	at	ADP	_	N	4	prep	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	employer	employer	NOUN	_	N	7	pobj	_	_
+10	and	and	CCONJ	_	C	7	cc	_	_
+11	after	after	ADP	_	N	7	conj	_	_
+12	an	an	DET	_	T	14	det	_	_
+13	enormous	enormous	ADJ	_	J	14	amod	_	_
+14	back	back	NOUN	_	N	11	pobj	_	_
+15	and	and	CCONJ	_	C	14	cc	_	_
+16	forth	forth	ADV	_	B	14	conj	_	_
+17	they	they	PRON	_	RP	19	nsubj	_	_
+18	theoretically	theoretically	ADV	_	B	19	advmod	_	_
+19	got	get	VERB	_	BD	0	root	_	_
+20	coverage	coverage	NOUN	_	N	21	nsubj	_	_
+21	reinstated	reinstate	VERB	_	BN	19	ccomp	_	_
+22	and	and	CCONJ	_	C	21	cc	_	_
+23	reprocessed	reprocess	VERB	_	BD	21	conj	_	_
+24	,	,	PUNCT	_	_	19	punct	_	_
+25	but	but	CCONJ	_	C	19	cc	_	_
+26	that	that	PRON	_	T	27	nsubj	_	_
+27	's	be	AUX	_	BZ	19	conj	_	_
+28	where	where	SCONJ	_	RB	31	advmod	_	_
+29	the	the	DET	_	T	30	det	_	_
+30	story	story	NOUN	_	N	31	nsubj	_	_
+31	ends	end	VERB	_	BZ	27	ccomp	_	_
+32	.	.	PUNCT	_	_	27	punct	_	_
+
+
+# sent_id = 18
+# text = It's been six weeks after the portal showed processing finished, none of the providers have been paid.
+1	It	it	PRON	_	RP	3	nsubjpass	_	_
+2	's	be	AUX	_	BZ	3	auxpass	_	_
+3	been	be	AUX	_	BN	19	ccomp	_	_
+4	six	six	NUM	_	D	5	nummod	_	_
+5	weeks	week	NOUN	_	NS	11	npadvmod	_	_
+6	after	after	SCONJ	_	N	11	mark	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	portal	portal	NOUN	_	N	9	nsubj	_	_
+9	showed	show	VERB	_	BD	10	compound	_	_
+10	processing	processing	NOUN	_	N	11	nsubj	_	_
+11	finished	finish	VERB	_	BD	3	advcl	_	_
+12	,	,	PUNCT	_	_	19	punct	_	_
+13	none	none	NOUN	_	N	19	nsubjpass	_	_
+14	of	of	ADP	_	N	13	prep	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	providers	provider	NOUN	_	NS	14	pobj	_	_
+17	have	have	AUX	_	BP	19	aux	_	_
+18	been	be	AUX	_	BN	19	auxpass	_	_
+19	paid	pay	VERB	_	BN	0	root	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
+
+
+# sent_id = 19
+# text = IBX agents promise to call me back with answers, and they never do.
+1	IBX	ibx	PROPN	_	NP	2	compound	_	_
+2	agents	agent	NOUN	_	NS	3	nsubj	_	_
+3	promise	promise	VERB	_	BP	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	call	call	VERB	_	B	3	xcomp	_	_
+6	me	i	PRON	_	RP	5	dobj	_	_
+7	back	back	ADV	_	B	5	advmod	_	_
+8	with	with	ADP	_	N	5	prep	_	_
+9	answers	answer	NOUN	_	NS	8	pobj	_	_
+10	,	,	PUNCT	_	_	3	punct	_	_
+11	and	and	CCONJ	_	C	3	cc	_	_
+12	they	they	PRON	_	RP	14	nsubj	_	_
+13	never	never	ADV	_	B	14	neg	_	_
+14	do	do	VERB	_	BP	3	conj	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 20
+# text = When I called them out on social media, they told me to send my details to them through their website comment form.
+1	When	when	SCONJ	_	RB	3	advmod	_	_
+2	I	i	PRON	_	RP	3	nsubj	_	_
+3	called	call	VERB	_	BD	11	advcl	_	_
+4	them	they	PRON	_	RP	3	dobj	_	_
+5	out	out	ADP	_	P	3	prt	_	_
+6	on	on	ADP	_	N	3	prep	_	_
+7	social	social	ADJ	_	J	8	amod	_	_
+8	media	medium	NOUN	_	NS	6	pobj	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	they	they	PRON	_	RP	11	nsubj	_	_
+11	told	tell	VERB	_	BD	0	root	_	_
+12	me	i	PRON	_	RP	11	dobj	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	send	send	VERB	_	B	11	xcomp	_	_
+15	my	my	PRON	_	RP$	16	poss	_	_
+16	details	detail	NOUN	_	NS	14	dobj	_	_
+17	to	to	ADP	_	N	14	prep	_	_
+18	them	they	PRON	_	RP	17	pobj	_	_
+19	through	through	ADP	_	N	14	prep	_	_
+20	their	their	PRON	_	RP$	23	poss	_	_
+21	website	website	NOUN	_	N	22	compound	_	_
+22	comment	comment	NOUN	_	N	23	compound	_	_
+23	form	form	NOUN	_	N	19	pobj	_	_
+24	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 21
+# text = The employer's benefit manager connected me to the insurance broker they use.
+1	The	the	DET	_	T	2	det	_	_
+2	employer	employer	NOUN	_	N	5	poss	_	_
+3	's	's	PART	_	OS	2	case	_	_
+4	benefit	benefit	NOUN	_	N	5	compound	_	_
+5	manager	manager	NOUN	_	N	6	nsubj	_	_
+6	connected	connect	VERB	_	BD	0	root	_	_
+7	me	i	PRON	_	RP	6	dobj	_	_
+8	to	to	ADP	_	N	6	prep	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	insurance	insurance	NOUN	_	N	11	compound	_	_
+11	broker	broker	NOUN	_	N	8	pobj	_	_
+12	they	they	PRON	_	RP	13	nsubj	_	_
+13	use	use	VERB	_	BP	11	relcl	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 22
+# text = The benefits manager wanted me to file appeals with IBX through her, because things were such a mess, and the broker claimed to be willing to help until I told them I wasn't comfortable with sharing my private medical records with them.
+1	The	the	DET	_	T	3	det	_	_
+2	benefits	benefit	NOUN	_	NS	3	compound	_	_
+3	manager	manager	NOUN	_	N	4	nsubj	_	_
+4	wanted	want	VERB	_	BD	0	root	_	_
+5	me	i	PRON	_	RP	7	nsubj	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	file	file	VERB	_	B	4	ccomp	_	_
+8	appeals	appeal	NOUN	_	NS	7	dobj	_	_
+9	with	with	ADP	_	N	8	prep	_	_
+10	IBX	ibx	PROPN	_	NP	9	pobj	_	_
+11	through	through	ADP	_	N	7	prep	_	_
+12	her	she	PRON	_	RP	11	pobj	_	_
+13	,	,	PUNCT	_	_	4	punct	_	_
+14	because	because	SCONJ	_	N	16	mark	_	_
+15	things	thing	NOUN	_	NS	16	nsubj	_	_
+16	were	be	AUX	_	BD	4	advcl	_	_
+17	such	such	DET	_	DT	19	predet	_	_
+18	a	a	DET	_	T	19	det	_	_
+19	mess	mess	NOUN	_	N	16	attr	_	_
+20	,	,	PUNCT	_	_	16	punct	_	_
+21	and	and	CCONJ	_	C	16	cc	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	broker	broker	NOUN	_	N	24	nsubj	_	_
+24	claimed	claim	VERB	_	BD	16	conj	_	_
+25	to	to	PART	_	O	26	aux	_	_
+26	be	be	AUX	_	B	24	xcomp	_	_
+27	willing	willing	ADJ	_	J	26	acomp	_	_
+28	to	to	PART	_	O	29	aux	_	_
+29	help	help	VERB	_	B	27	xcomp	_	_
+30	until	until	SCONJ	_	N	32	mark	_	_
+31	I	i	PRON	_	RP	32	nsubj	_	_
+32	told	tell	VERB	_	BD	24	advcl	_	_
+33	them	they	PRON	_	RP	32	dobj	_	_
+34	I	i	PRON	_	RP	35	nsubj	_	_
+35	was	be	AUX	_	BD	32	ccomp	_	_
+36	n't	not	PART	_	B	35	neg	_	_
+37	comfortable	comfortable	ADJ	_	J	35	acomp	_	_
+38	with	with	ADP	_	N	37	prep	_	_
+39	sharing	share	VERB	_	BG	38	pcomp	_	_
+40	my	my	PRON	_	RP$	43	poss	_	_
+41	private	private	ADJ	_	J	43	amod	_	_
+42	medical	medical	ADJ	_	J	43	amod	_	_
+43	records	record	NOUN	_	NS	39	dobj	_	_
+44	with	with	ADP	_	N	39	prep	_	_
+45	them	they	PRON	_	RP	44	pobj	_	_
+46	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 23
+# text = They connected me to an account manager at IBX and have ignored every email I've sent since then.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	connected	connect	VERB	_	BD	0	root	_	_
+3	me	i	PRON	_	RP	2	dobj	_	_
+4	to	to	ADP	_	N	2	prep	_	_
+5	an	an	DET	_	T	7	det	_	_
+6	account	account	NOUN	_	N	7	compound	_	_
+7	manager	manager	NOUN	_	N	4	pobj	_	_
+8	at	at	ADP	_	N	7	prep	_	_
+9	IBX	ibx	PROPN	_	NP	8	pobj	_	_
+10	and	and	CCONJ	_	C	2	cc	_	_
+11	have	have	AUX	_	BP	12	aux	_	_
+12	ignored	ignore	VERB	_	BN	2	conj	_	_
+13	every	every	DET	_	T	14	det	_	_
+14	email	email	NOUN	_	N	12	dobj	_	_
+15	I	i	PRON	_	RP	17	nsubj	_	_
+16	've	have	AUX	_	BP	17	aux	_	_
+17	sent	send	VERB	_	BN	14	relcl	_	_
+18	since	since	SCONJ	_	N	12	prep	_	_
+19	then	then	ADV	_	B	18	pcomp	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 24
+# text = The account manager at IBX who's spoken to me twice, and had agreed that there are a significant number of problems with processing and denials that need to be fixed, said she'd help and call me back, but she never did.
+1	The	the	DET	_	T	3	det	_	_
+2	account	account	NOUN	_	N	3	compound	_	_
+3	manager	manager	NOUN	_	N	34	nsubj	_	_
+4	at	at	ADP	_	N	3	prep	_	_
+5	IBX	ibx	PROPN	_	NP	4	pobj	_	_
+6	who	who	PRON	_	P	8	nsubjpass	_	_
+7	's	be	AUX	_	BZ	8	auxpass	_	_
+8	spoken	speak	VERB	_	BN	3	relcl	_	_
+9	to	to	ADP	_	N	8	prep	_	_
+10	me	i	PRON	_	RP	9	pobj	_	_
+11	twice	twice	ADV	_	B	8	advmod	_	_
+12	,	,	PUNCT	_	_	8	punct	_	_
+13	and	and	CCONJ	_	C	8	cc	_	_
+14	had	have	AUX	_	BD	15	aux	_	_
+15	agreed	agree	VERB	_	BN	8	conj	_	_
+16	that	that	SCONJ	_	N	18	mark	_	_
+17	there	there	PRON	_	X	18	expl	_	_
+18	are	be	VERB	_	BP	15	ccomp	_	_
+19	a	a	DET	_	T	21	det	_	_
+20	significant	significant	ADJ	_	J	21	amod	_	_
+21	number	number	NOUN	_	N	18	attr	_	_
+22	of	of	ADP	_	N	21	prep	_	_
+23	problems	problem	NOUN	_	NS	22	pobj	_	_
+24	with	with	ADP	_	N	23	prep	_	_
+25	processing	processing	NOUN	_	N	24	pobj	_	_
+26	and	and	CCONJ	_	C	25	cc	_	_
+27	denials	denial	NOUN	_	NS	25	conj	_	_
+28	that	that	PRON	_	DT	29	nsubj	_	_
+29	need	need	VERB	_	BP	25	relcl	_	_
+30	to	to	PART	_	O	32	aux	_	_
+31	be	be	AUX	_	B	32	auxpass	_	_
+32	fixed	fix	VERB	_	BN	29	xcomp	_	_
+33	,	,	PUNCT	_	_	3	punct	_	_
+34	said	say	VERB	_	BD	0	root	_	_
+35	she	she	PRON	_	RP	37	nsubj	_	_
+36	'd	would	AUX	_	D	37	aux	_	_
+37	help	help	VERB	_	B	34	ccomp	_	_
+38	and	and	CCONJ	_	C	37	cc	_	_
+39	call	call	VERB	_	B	37	conj	_	_
+40	me	i	PRON	_	RP	39	dobj	_	_
+41	back	back	ADV	_	B	39	advmod	_	_
+42	,	,	PUNCT	_	_	34	punct	_	_
+43	but	but	CCONJ	_	C	34	cc	_	_
+44	she	she	PRON	_	RP	46	nsubj	_	_
+45	never	never	ADV	_	B	46	neg	_	_
+46	did	do	VERB	_	BD	34	conj	_	_
+47	.	.	PUNCT	_	_	46	punct	_	_
+
+
+# sent_id = 25
+# text = I have her direct line phone number, but she hasn't responded to a single voicemail.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	have	have	VERB	_	BP	0	root	_	_
+3	her	her	PRON	_	RP$	7	poss	_	_
+4	direct	direct	ADJ	_	J	7	amod	_	_
+5	line	line	NOUN	_	N	7	compound	_	_
+6	phone	phone	NOUN	_	N	7	compound	_	_
+7	number	number	NOUN	_	N	2	dobj	_	_
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	but	but	CCONJ	_	C	2	cc	_	_
+10	she	she	PRON	_	RP	13	nsubj	_	_
+11	has	have	AUX	_	BZ	13	aux	_	_
+12	n't	not	PART	_	B	13	neg	_	_
+13	responded	respond	VERB	_	BN	2	conj	_	_
+14	to	to	ADP	_	N	13	prep	_	_
+15	a	a	DET	_	T	17	det	_	_
+16	single	single	ADJ	_	J	17	amod	_	_
+17	voicemail	voicemail	NOUN	_	N	14	pobj	_	_
+18	.	.	PUNCT	_	_	13	punct	_	_
+
+
+# sent_id = 26
+# text = No one at IBX will give me any of the records they hold in writing because they all tell me they don't have the ability to do that, but they'll escalate and ask.
+1	No	no	DET	_	T	2	det	_	_
+2	one	one	NOUN	_	N	6	nsubj	_	_
+3	at	at	ADP	_	N	2	prep	_	_
+4	IBX	ibx	PROPN	_	NP	3	pobj	_	_
+5	will	will	AUX	_	D	6	aux	_	_
+6	give	give	VERB	_	B	0	root	_	_
+7	me	i	PRON	_	RP	6	dative	_	_
+8	any	any	PRON	_	T	6	dobj	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	records	record	NOUN	_	NS	9	pobj	_	_
+12	they	they	PRON	_	RP	13	nsubj	_	_
+13	hold	hold	VERB	_	BP	11	relcl	_	_
+14	in	in	ADP	_	N	13	prep	_	_
+15	writing	writing	NOUN	_	N	14	pobj	_	_
+16	because	because	SCONJ	_	N	19	mark	_	_
+17	they	they	PRON	_	RP	19	nsubj	_	_
+18	all	all	PRON	_	T	17	appos	_	_
+19	tell	tell	VERB	_	BP	6	advcl	_	_
+20	me	i	PRON	_	RP	19	dobj	_	_
+21	they	they	PRON	_	RP	24	nsubj	_	_
+22	do	do	AUX	_	BP	24	aux	_	_
+23	n't	not	PART	_	B	24	neg	_	_
+24	have	have	VERB	_	B	19	ccomp	_	_
+25	the	the	DET	_	T	26	det	_	_
+26	ability	ability	NOUN	_	N	24	dobj	_	_
+27	to	to	PART	_	O	28	aux	_	_
+28	do	do	AUX	_	B	26	acl	_	_
+29	that	that	PRON	_	T	28	dobj	_	_
+30	,	,	PUNCT	_	_	6	punct	_	_
+31	but	but	CCONJ	_	C	6	cc	_	_
+32	they	they	PRON	_	RP	34	nsubj	_	_
+33	'll	will	AUX	_	D	34	aux	_	_
+34	escalate	escalate	VERB	_	B	6	conj	_	_
+35	and	and	CCONJ	_	C	34	cc	_	_
+36	ask	ask	VERB	_	B	34	conj	_	_
+37	.	.	PUNCT	_	_	34	punct	_	_
+
+
+# sent_id = 27
+# text = What I'm asking for are things that their own plan document says I have the right to have.
+1	What	what	PRON	_	P	5	pobj	_	_
+2	I	i	PRON	_	RP	4	nsubj	_	_
+3	'm	be	AUX	_	BP	4	aux	_	_
+4	asking	ask	VERB	_	BG	6	csubj	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	are	be	AUX	_	BP	0	root	_	_
+7	things	thing	NOUN	_	NS	6	attr	_	_
+8	that	that	PRON	_	DT	15	dobj	_	_
+9	their	their	PRON	_	RP$	12	poss	_	_
+10	own	own	ADJ	_	J	12	amod	_	_
+11	plan	plan	NOUN	_	N	12	compound	_	_
+12	document	document	NOUN	_	N	13	nsubj	_	_
+13	says	say	VERB	_	BZ	7	relcl	_	_
+14	I	i	PRON	_	RP	15	nsubj	_	_
+15	have	have	VERB	_	BP	13	ccomp	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	right	right	NOUN	_	N	15	dobj	_	_
+18	to	to	PART	_	O	19	aux	_	_
+19	have	have	AUX	_	B	17	acl	_	_
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 28
+# text = My records, anything they used to determine a denial, responses to complaints that have been made, etc.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	records	record	NOUN	_	NS	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	anything	anything	PRON	_	N	2	appos	_	_
+5	they	they	PRON	_	RP	6	nsubj	_	_
+6	used	use	VERB	_	BD	4	relcl	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	determine	determine	VERB	_	B	6	xcomp	_	_
+9	a	a	DET	_	T	10	det	_	_
+10	denial	denial	NOUN	_	N	8	dobj	_	_
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	responses	response	NOUN	_	NS	2	appos	_	_
+13	to	to	ADP	_	N	12	prep	_	_
+14	complaints	complaint	NOUN	_	NS	13	pobj	_	_
+15	that	that	PRON	_	DT	18	nsubjpass	_	_
+16	have	have	AUX	_	BP	18	aux	_	_
+17	been	be	AUX	_	BN	18	auxpass	_	_
+18	made	make	VERB	_	BN	14	relcl	_	_
+19	,	,	PUNCT	_	_	12	punct	_	_
+20	etc	etc	X	_	W	12	conj	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 29
+# text = They won't even give me a copy of the appeals they filed on my behalf, because they told me not to file them myself because the account was such a mess.
+1	They	they	PRON	_	RP	5	nsubj	_	_
+2	wo	will	AUX	_	D	5	aux	_	_
+3	n't	not	PART	_	B	5	neg	_	_
+4	even	even	ADV	_	B	5	advmod	_	_
+5	give	give	VERB	_	B	0	root	_	_
+6	me	i	PRON	_	RP	5	dative	_	_
+7	a	a	DET	_	T	8	det	_	_
+8	copy	copy	NOUN	_	N	5	dobj	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	appeals	appeal	NOUN	_	NS	9	pobj	_	_
+12	they	they	PRON	_	RP	13	nsubj	_	_
+13	filed	file	VERB	_	BD	11	relcl	_	_
+14	on	on	ADP	_	N	13	prep	_	_
+15	my	my	PRON	_	RP$	16	poss	_	_
+16	behalf	behalf	NOUN	_	N	14	pobj	_	_
+17	,	,	PUNCT	_	_	5	punct	_	_
+18	because	because	SCONJ	_	N	20	mark	_	_
+19	they	they	PRON	_	RP	20	nsubj	_	_
+20	told	tell	VERB	_	BD	5	advcl	_	_
+21	me	i	PRON	_	RP	20	dobj	_	_
+22	not	not	PART	_	B	24	neg	_	_
+23	to	to	PART	_	O	24	aux	_	_
+24	file	file	VERB	_	B	20	xcomp	_	_
+25	them	they	PRON	_	RP	24	dobj	_	_
+26	myself	myself	PRON	_	RP	24	npadvmod	_	_
+27	because	because	SCONJ	_	N	30	mark	_	_
+28	the	the	DET	_	T	29	det	_	_
+29	account	account	NOUN	_	N	30	nsubj	_	_
+30	was	be	AUX	_	BD	24	advcl	_	_
+31	such	such	DET	_	DT	33	predet	_	_
+32	a	a	DET	_	T	33	det	_	_
+33	mess	mess	NOUN	_	N	30	attr	_	_
+34	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 30
+# text = They were denied, but I don't even know what they appealed!
+1	They	they	PRON	_	RP	3	nsubjpass	_	_
+2	were	be	AUX	_	BD	3	auxpass	_	_
+3	denied	deny	VERB	_	BN	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	but	but	CCONJ	_	C	3	cc	_	_
+6	I	i	PRON	_	RP	10	nsubj	_	_
+7	do	do	AUX	_	BP	10	aux	_	_
+8	n't	not	PART	_	B	10	neg	_	_
+9	even	even	ADV	_	B	10	advmod	_	_
+10	know	know	VERB	_	B	3	conj	_	_
+11	what	what	PRON	_	P	13	dobj	_	_
+12	they	they	PRON	_	RP	13	nsubj	_	_
+13	appealed	appeal	VERB	_	BD	10	ccomp	_	_
+14	!	!	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 31
+# text = There are processing errors in every month we had a claim, which they've admitted, but they never get fixed, and we kept getting told they were going to reprocess them and they'd be fixed.
+1	There	there	PRON	_	X	2	expl	_	_
+2	are	be	VERB	_	BP	3	aux	_	_
+3	processing	process	VERB	_	BG	0	root	_	_
+4	errors	error	NOUN	_	NS	3	dobj	_	_
+5	in	in	ADP	_	N	3	prep	_	_
+6	every	every	DET	_	T	7	det	_	_
+7	month	month	NOUN	_	N	5	pobj	_	_
+8	we	we	PRON	_	RP	9	nsubj	_	_
+9	had	have	VERB	_	BD	3	ccomp	_	_
+10	a	a	DET	_	T	11	det	_	_
+11	claim	claim	NOUN	_	N	9	dobj	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	which	which	PRON	_	DT	16	dobj	_	_
+14	they	they	PRON	_	RP	16	nsubj	_	_
+15	've	have	AUX	_	BP	16	aux	_	_
+16	admitted	admit	VERB	_	BN	11	relcl	_	_
+17	,	,	PUNCT	_	_	9	punct	_	_
+18	but	but	CCONJ	_	C	9	cc	_	_
+19	they	they	PRON	_	RP	22	nsubjpass	_	_
+20	never	never	ADV	_	B	22	neg	_	_
+21	get	get	AUX	_	BP	22	auxpass	_	_
+22	fixed	fix	VERB	_	BN	9	conj	_	_
+23	,	,	PUNCT	_	_	9	punct	_	_
+24	and	and	CCONJ	_	C	9	cc	_	_
+25	we	we	PRON	_	RP	26	nsubj	_	_
+26	kept	keep	VERB	_	BD	9	conj	_	_
+27	getting	getting	AUX	_	BG	28	auxpass	_	_
+28	told	tell	VERB	_	BN	26	xcomp	_	_
+29	they	they	PRON	_	RP	31	nsubj	_	_
+30	were	be	AUX	_	BD	31	aux	_	_
+31	going	go	VERB	_	BG	28	ccomp	_	_
+32	to	to	PART	_	O	33	aux	_	_
+33	reprocess	reprocess	VERB	_	B	31	xcomp	_	_
+34	them	they	PRON	_	RP	33	dobj	_	_
+35	and	and	CCONJ	_	C	26	cc	_	_
+36	they	they	PRON	_	RP	39	nsubjpass	_	_
+37	'd	would	AUX	_	D	39	aux	_	_
+38	be	be	AUX	_	B	39	auxpass	_	_
+39	fixed	fix	VERB	_	BN	26	conj	_	_
+40	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 32
+# text = This is a self funded plan, so PA DoI can't/won't help.
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	14	ccomp	_	_
+3	a	a	DET	_	T	6	det	_	_
+4	self	self	NOUN	_	N	5	npadvmod	_	_
+5	funded	fund	VERB	_	BN	6	amod	_	_
+6	plan	plan	NOUN	_	N	2	attr	_	_
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	so	so	ADV	_	B	14	advmod	_	_
+9	PA	pa	PROPN	_	NP	11	compound	_	_
+10	DoI	doi	PROPN	_	NP	11	compound	_	_
+11	can't	can't	NOUN	_	N	14	nsubj	_	_
+12	/	/	SYM	_	YM	11	punct	_	_
+13	won't	won't	NOUN	_	N	11	appos	_	_
+14	help	help	VERB	_	BP	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 33
+# text = I called the Department of Labor and a very bored sounding guy said he'd call HR at the employer and see what was going on.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	called	call	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	Department	department	PROPN	_	NP	2	dobj	_	_
+5	of	of	ADP	_	N	4	prep	_	_
+6	Labor	labor	PROPN	_	NP	5	pobj	_	_
+7	and	and	CCONJ	_	C	4	cc	_	_
+8	a	a	DET	_	T	12	det	_	_
+9	very	very	ADV	_	B	10	advmod	_	_
+10	bored	bored	ADJ	_	J	12	amod	_	_
+11	sounding	sound	VERB	_	BG	12	amod	_	_
+12	guy	guy	NOUN	_	N	4	conj	_	_
+13	said	say	VERB	_	BD	2	conj	_	_
+14	he	he	PRON	_	RP	16	nsubj	_	_
+15	'd	would	AUX	_	D	16	aux	_	_
+16	call	call	VERB	_	B	13	ccomp	_	_
+17	HR	hr	NOUN	_	N	16	dobj	_	_
+18	at	at	ADP	_	N	16	prep	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	employer	employer	NOUN	_	N	18	pobj	_	_
+21	and	and	CCONJ	_	C	16	cc	_	_
+22	see	see	VERB	_	B	16	conj	_	_
+23	what	what	PRON	_	P	25	nsubj	_	_
+24	was	be	AUX	_	BD	25	aux	_	_
+25	going	go	VERB	_	BG	22	ccomp	_	_
+26	on	on	ADP	_	P	25	prt	_	_
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 34
+# text = He's call me back when he got information.
+1	He	he	PRON	_	RP	3	nsubj	_	_
+2	's	be	AUX	_	BZ	3	aux	_	_
+3	call	call	VERB	_	B	0	root	_	_
+4	me	i	PRON	_	RP	3	dobj	_	_
+5	back	back	ADV	_	B	3	advmod	_	_
+6	when	when	SCONJ	_	RB	8	advmod	_	_
+7	he	he	PRON	_	RP	8	nsubj	_	_
+8	got	get	VERB	_	BD	3	advcl	_	_
+9	information	information	NOUN	_	N	8	dobj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 35
+# text = That was last week.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	was	be	AUX	_	BD	0	root	_	_
+3	last	last	ADJ	_	J	4	amod	_	_
+4	week	week	NOUN	_	N	2	npadvmod	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 36
+# text = Not heard anything from anyone (and the phone number the PA DoI gave me for the DoL leads to a Medicare fraud phone scam, and the gentleman at the DoL told me it sounded legit, so I don't have any faith in either of them)
+1	Not	not	PART	_	B	2	neg	_	_
+2	heard	hear	VERB	_	BD	0	root	_	_
+3	anything	anything	PRON	_	N	2	dobj	_	_
+4	from	from	ADP	_	N	2	prep	_	_
+5	anyone	anyone	PRON	_	N	4	pobj	_	_
+6	(	(	PUNCT	_	LRB-	5	punct	_	_
+7	and	and	CCONJ	_	C	5	cc	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	phone	phone	NOUN	_	N	10	compound	_	_
+10	number	number	NOUN	_	N	5	conj	_	_
+11	the	the	DET	_	T	13	det	_	_
+12	PA	pa	PROPN	_	NP	13	compound	_	_
+13	DoI	doi	PROPN	_	NP	10	appos	_	_
+14	gave	give	VERB	_	BD	2	conj	_	_
+15	me	i	PRON	_	RP	14	dobj	_	_
+16	for	for	ADP	_	N	14	dative	_	_
+17	the	the	DET	_	T	18	det	_	_
+18	DoL	dol	NOUN	_	N	16	pobj	_	_
+19	leads	lead	VERB	_	BZ	2	conj	_	_
+20	to	to	ADP	_	N	19	prep	_	_
+21	a	a	DET	_	T	25	det	_	_
+22	Medicare	medicare	PROPN	_	NP	23	compound	_	_
+23	fraud	fraud	NOUN	_	N	25	compound	_	_
+24	phone	phone	NOUN	_	N	25	compound	_	_
+25	scam	scam	NOUN	_	N	20	pobj	_	_
+26	,	,	PUNCT	_	_	19	punct	_	_
+27	and	and	CCONJ	_	C	19	cc	_	_
+28	the	the	DET	_	T	29	det	_	_
+29	gentleman	gentleman	NOUN	_	N	33	nsubj	_	_
+30	at	at	ADP	_	N	29	prep	_	_
+31	the	the	DET	_	T	32	det	_	_
+32	DoL	dol	NOUN	_	N	30	pobj	_	_
+33	told	tell	VERB	_	BD	2	conj	_	_
+34	me	i	PRON	_	RP	33	dobj	_	_
+35	it	it	PRON	_	RP	36	nsubj	_	_
+36	sounded	sound	VERB	_	BD	33	ccomp	_	_
+37	legit	legit	NOUN	_	N	36	dobj	_	_
+38	,	,	PUNCT	_	_	36	punct	_	_
+39	so	so	SCONJ	_	N	43	mark	_	_
+40	I	i	PRON	_	RP	43	nsubj	_	_
+41	do	do	AUX	_	BP	43	aux	_	_
+42	n't	not	PART	_	B	43	neg	_	_
+43	have	have	VERB	_	B	33	conj	_	_
+44	any	any	DET	_	T	45	det	_	_
+45	faith	faith	NOUN	_	N	43	dobj	_	_
+46	in	in	ADP	_	N	45	prep	_	_
+47	either	either	PRON	_	T	46	pobj	_	_
+48	of	of	ADP	_	N	47	prep	_	_
+49	them	they	PRON	_	RP	48	pobj	_	_
+50	)	)	PUNCT	_	RRB-	33	punct	_	_
+
+
+# sent_id = 37
+# text = I don't know what to do next.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	do	do	AUX	_	BP	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	know	know	VERB	_	B	0	root	_	_
+5	what	what	PRON	_	P	7	dobj	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	do	do	VERB	_	B	4	xcomp	_	_
+8	next	next	ADV	_	B	7	advmod	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 38
+# text = I've got over $10k in outstanding bills my insurance should have covered nearly in full, I've got irregularities everywhere in deductibles and out of pocket maximums they can't clarify or explain, hospital systems are getting angry about unpaid bills and I can't get help.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	've	have	AUX	_	BP	3	aux	_	_
+3	got	get	VERB	_	BN	21	ccomp	_	_
+4	over	over	ADP	_	N	5	quantmod	_	_
+5	$	$	SYM	_	_	6	nmod	_	_
+6	10k	10k	NOUN	_	NS	3	dobj	_	_
+7	in	in	ADP	_	N	6	prep	_	_
+8	outstanding	outstanding	ADJ	_	J	9	amod	_	_
+9	bills	bill	NOUN	_	NS	7	pobj	_	_
+10	my	my	PRON	_	RP$	11	poss	_	_
+11	insurance	insurance	NOUN	_	N	14	nsubj	_	_
+12	should	should	AUX	_	D	14	aux	_	_
+13	have	have	AUX	_	B	14	aux	_	_
+14	covered	cover	VERB	_	BN	3	ccomp	_	_
+15	nearly	nearly	ADV	_	B	14	advmod	_	_
+16	in	in	ADP	_	N	14	prep	_	_
+17	full	full	ADJ	_	J	16	amod	_	_
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	I	i	PRON	_	RP	21	nsubj	_	_
+20	've	have	AUX	_	BP	21	aux	_	_
+21	got	get	VERB	_	BD	0	root	_	_
+22	irregularities	irregularity	NOUN	_	NS	21	dobj	_	_
+23	everywhere	everywhere	ADV	_	B	21	advmod	_	_
+24	in	in	ADP	_	N	23	prep	_	_
+25	deductibles	deductible	NOUN	_	NS	24	pobj	_	_
+26	and	and	CCONJ	_	C	24	cc	_	_
+27	out	out	ADP	_	N	34	prep	_	_
+28	of	of	ADP	_	N	27	prep	_	_
+29	pocket	pocket	NOUN	_	N	30	compound	_	_
+30	maximums	maximum	NOUN	_	NS	28	pobj	_	_
+31	they	they	PRON	_	RP	34	nsubj	_	_
+32	ca	can	AUX	_	D	34	aux	_	_
+33	n't	not	PART	_	B	34	neg	_	_
+34	clarify	clarify	VERB	_	B	21	conj	_	_
+35	or	or	CCONJ	_	C	34	cc	_	_
+36	explain	explain	VERB	_	B	34	conj	_	_
+37	,	,	PUNCT	_	_	41	punct	_	_
+38	hospital	hospital	NOUN	_	N	39	compound	_	_
+39	systems	system	NOUN	_	NS	41	nsubj	_	_
+40	are	be	AUX	_	BP	41	aux	_	_
+41	getting	get	VERB	_	BG	34	conj	_	_
+42	angry	angry	ADJ	_	J	41	acomp	_	_
+43	about	about	ADP	_	N	42	prep	_	_
+44	unpaid	unpaid	ADJ	_	J	45	amod	_	_
+45	bills	bill	NOUN	_	NS	43	pobj	_	_
+46	and	and	CCONJ	_	C	41	cc	_	_
+47	I	i	PRON	_	RP	50	nsubj	_	_
+48	ca	can	AUX	_	D	50	aux	_	_
+49	n't	not	PART	_	B	50	neg	_	_
+50	get	get	VERB	_	B	41	conj	_	_
+51	help	help	NOUN	_	N	50	dobj	_	_
+52	.	.	PUNCT	_	_	21	punct	_	_
+
+
+# sent_id = 39
+# text = No employment attorney will touch it because the payout is so low and no one else seems to care because I have no teeth.
+1	No	no	DET	_	T	3	det	_	_
+2	employment	employment	NOUN	_	N	3	compound	_	_
+3	attorney	attorney	NOUN	_	N	5	nsubj	_	_
+4	will	will	AUX	_	D	5	aux	_	_
+5	touch	touch	VERB	_	B	0	root	_	_
+6	it	it	PRON	_	RP	5	dobj	_	_
+7	because	because	SCONJ	_	N	10	mark	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	payout	payout	NOUN	_	N	10	nsubj	_	_
+10	is	be	AUX	_	BZ	5	advcl	_	_
+11	so	so	ADV	_	B	12	advmod	_	_
+12	low	low	ADJ	_	J	10	acomp	_	_
+13	and	and	CCONJ	_	C	10	cc	_	_
+14	no	no	DET	_	T	15	det	_	_
+15	one	one	NOUN	_	N	17	nsubj	_	_
+16	else	else	ADV	_	B	15	advmod	_	_
+17	seems	seem	VERB	_	BZ	10	conj	_	_
+18	to	to	PART	_	O	19	aux	_	_
+19	care	care	VERB	_	B	17	xcomp	_	_
+20	because	because	SCONJ	_	N	22	mark	_	_
+21	I	i	PRON	_	RP	22	nsubj	_	_
+22	have	have	VERB	_	BP	17	advcl	_	_
+23	no	no	DET	_	T	24	det	_	_
+24	teeth	tooth	NOUN	_	NS	22	dobj	_	_
+25	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 40
+# text = Tl;dr Insurance company typed the wrong date when we switched to COBRA and accidentally cancelled our group coverage retroactively.
+1	Tl;dr	tl;dr	PROPN	_	NP	2	compound	_	_
+2	Insurance	insurance	PROPN	_	NP	3	compound	_	_
+3	company	company	NOUN	_	N	4	nsubj	_	_
+4	typed	type	VERB	_	BD	0	root	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	wrong	wrong	ADJ	_	J	7	amod	_	_
+7	date	date	NOUN	_	N	4	dobj	_	_
+8	when	when	SCONJ	_	RB	10	advmod	_	_
+9	we	we	PRON	_	RP	10	nsubj	_	_
+10	switched	switch	VERB	_	BD	4	advcl	_	_
+11	to	to	ADP	_	N	10	prep	_	_
+12	COBRA	cobra	PROPN	_	NP	11	pobj	_	_
+13	and	and	CCONJ	_	C	10	cc	_	_
+14	accidentally	accidentally	ADV	_	B	15	advmod	_	_
+15	cancelled	cancel	VERB	_	BD	10	conj	_	_
+16	our	our	PRON	_	RP$	18	poss	_	_
+17	group	group	NOUN	_	N	18	compound	_	_
+18	coverage	coverage	NOUN	_	N	15	dobj	_	_
+19	retroactively	retroactively	ADV	_	B	15	advmod	_	_
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 41
+# text = All our claims were denied, coverage was eventually reinstated, claims reprocessed but done incorrectly and none of the providers have been paid.
+1	All	all	DET	_	DT	3	det	_	_
+2	our	our	PRON	_	RP$	3	poss	_	_
+3	claims	claim	NOUN	_	NS	5	nsubjpass	_	_
+4	were	be	AUX	_	BD	5	auxpass	_	_
+5	denied	deny	VERB	_	BN	10	ccomp	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	coverage	coverage	NOUN	_	N	10	nsubjpass	_	_
+8	was	be	AUX	_	BD	10	auxpass	_	_
+9	eventually	eventually	ADV	_	B	10	advmod	_	_
+10	reinstated	reinstate	VERB	_	BN	13	ccomp	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	claims	claim	NOUN	_	NS	13	nsubj	_	_
+13	reprocessed	reprocess	VERB	_	BD	0	root	_	_
+14	but	but	CCONJ	_	C	13	cc	_	_
+15	done	do	VERB	_	BN	13	conj	_	_
+16	incorrectly	incorrectly	ADV	_	B	15	advmod	_	_
+17	and	and	CCONJ	_	C	13	cc	_	_
+18	none	none	NOUN	_	N	24	nsubjpass	_	_
+19	of	of	ADP	_	N	18	prep	_	_
+20	the	the	DET	_	T	21	det	_	_
+21	providers	provider	NOUN	_	NS	19	pobj	_	_
+22	have	have	AUX	_	BP	24	aux	_	_
+23	been	be	AUX	_	BN	24	auxpass	_	_
+24	paid	pay	VERB	_	BN	13	conj	_	_
+25	.	.	PUNCT	_	_	24	punct	_	_
+
+
+# sent_id = 42
+# text = I can't get any information in writing, I kept being told not to file appeals and now no one will return calls or emails.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	ca	can	AUX	_	D	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	get	get	VERB	_	B	11	ccomp	_	_
+5	any	any	DET	_	T	6	det	_	_
+6	information	information	NOUN	_	N	4	dobj	_	_
+7	in	in	ADP	_	N	6	prep	_	_
+8	writing	writing	NOUN	_	N	7	pobj	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	I	i	PRON	_	RP	11	nsubj	_	_
+11	kept	keep	VERB	_	BD	0	root	_	_
+12	being	be	AUX	_	BG	13	auxpass	_	_
+13	told	tell	VERB	_	BN	11	xcomp	_	_
+14	not	not	PART	_	B	16	neg	_	_
+15	to	to	PART	_	O	16	aux	_	_
+16	file	file	VERB	_	B	13	xcomp	_	_
+17	appeals	appeal	NOUN	_	NS	16	dobj	_	_
+18	and	and	CCONJ	_	C	11	cc	_	_
+19	now	now	ADV	_	B	23	advmod	_	_
+20	no	no	DET	_	T	21	det	_	_
+21	one	one	NOUN	_	N	23	nsubj	_	_
+22	will	will	AUX	_	D	23	aux	_	_
+23	return	return	VERB	_	B	11	conj	_	_
+24	calls	call	NOUN	_	NS	23	dobj	_	_
+25	or	or	CCONJ	_	C	24	cc	_	_
+26	emails	email	NOUN	_	NS	24	conj	_	_
+27	.	.	PUNCT	_	_	23	punct	_	_
+
+
+# sent_id = 43
+# text = It's an ERISA plan so the state can't help and DoL is not inspiring hope and no attorney wants it because it's relatively small.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	's	be	AUX	_	BZ	0	root	_	_
+3	an	an	DET	_	T	5	det	_	_
+4	ERISA	erisa	PROPN	_	NP	5	compound	_	_
+5	plan	plan	NOUN	_	N	2	attr	_	_
+6	so	so	SCONJ	_	N	11	mark	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	state	state	NOUN	_	N	11	nsubj	_	_
+9	ca	can	AUX	_	D	11	aux	_	_
+10	n't	not	PART	_	B	11	neg	_	_
+11	help	help	VERB	_	B	2	advcl	_	_
+12	and	and	CCONJ	_	C	11	cc	_	_
+13	DoL	dol	NOUN	_	N	11	conj	_	_
+14	is	be	AUX	_	BZ	16	aux	_	_
+15	not	not	PART	_	B	16	neg	_	_
+16	inspiring	inspire	VERB	_	BG	17	amod	_	_
+17	hope	hope	NOUN	_	N	2	attr	_	_
+18	and	and	CCONJ	_	C	2	cc	_	_
+19	no	no	DET	_	T	20	det	_	_
+20	attorney	attorney	NOUN	_	N	21	nsubj	_	_
+21	wants	want	VERB	_	BZ	2	conj	_	_
+22	it	it	PRON	_	RP	21	dobj	_	_
+23	because	because	SCONJ	_	N	25	mark	_	_
+24	it	it	PRON	_	RP	25	nsubj	_	_
+25	's	be	AUX	_	BZ	21	advcl	_	_
+26	relatively	relatively	ADV	_	B	27	advmod	_	_
+27	small	small	ADJ	_	J	25	acomp	_	_
+28	.	.	PUNCT	_	_	21	punct	_	_
+
+
+# sent_id = 44
+# text = How do I fix this?
+1	How	how	SCONJ	_	RB	4	advmod	_	_
+2	do	do	AUX	_	BP	4	aux	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	fix	fix	VERB	_	B	0	root	_	_
+5	this	this	PRON	_	T	4	dobj	_	_
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 45
+# text = I can't keep doing this alone
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	ca	can	AUX	_	D	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	keep	keep	VERB	_	B	0	root	_	_
+5	doing	do	VERB	_	BG	4	xcomp	_	_
+6	this	this	PRON	_	T	5	dobj	_	_
+7	alone	alone	ADV	_	B	5	advmod	_	_
+
+

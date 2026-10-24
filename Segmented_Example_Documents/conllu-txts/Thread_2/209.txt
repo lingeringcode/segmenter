@@ -1,0 +1,85 @@
+# sent_id = 1
+# text = Thread_2
+1	Thread_2	thread_2	ADV	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 209
+1	209	209	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 208
+1	208	208	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/MrTheRiddle
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	MrTheRiddle	mrtheriddle	NUM	_	D	1	punct	_	_
+
+
+# sent_id = 5
+# text = Don’t take the gingivitis thing literally.
+1	Do	do	AUX	_	BP	3	aux	_	_
+2	n’t	not	PART	_	B	3	neg	_	_
+3	take	take	VERB	_	B	0	root	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	gingivitis	gingivitis	NOUN	_	N	6	compound	_	_
+6	thing	thing	NOUN	_	N	3	dobj	_	_
+7	literally	literally	ADV	_	B	3	advmod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = I only understand half of what they talk about in the dentist office lol.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	only	only	ADV	_	B	3	advmod	_	_
+3	understand	understand	VERB	_	BP	0	root	_	_
+4	half	half	NOUN	_	N	14	nsubj	_	_
+5	of	of	ADP	_	N	4	prep	_	_
+6	what	what	PRON	_	P	9	pobj	_	_
+7	they	they	PRON	_	RP	8	nsubj	_	_
+8	talk	talk	VERB	_	BP	5	pcomp	_	_
+9	about	about	ADP	_	N	8	prep	_	_
+10	in	in	ADP	_	N	8	prep	_	_
+11	the	the	DET	_	T	13	det	_	_
+12	dentist	dentist	NOUN	_	N	13	compound	_	_
+13	office	office	NOUN	_	N	10	pobj	_	_
+14	lol	lol	NOUN	_	N	3	ccomp	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = I just know it was a gum health thing.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	just	just	ADV	_	B	3	advmod	_	_
+3	know	know	VERB	_	BP	0	root	_	_
+4	it	it	PRON	_	RP	5	nsubj	_	_
+5	was	be	AUX	_	BD	3	ccomp	_	_
+6	a	a	DET	_	T	9	det	_	_
+7	gum	gum	NOUN	_	N	8	compound	_	_
+8	health	health	NOUN	_	N	9	compound	_	_
+9	thing	thing	NOUN	_	N	5	attr	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = I believe the term they used was “to prevent bone loss”?
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	believe	believe	VERB	_	BP	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	term	term	NOUN	_	N	7	nsubj	_	_
+5	they	they	PRON	_	RP	6	nsubj	_	_
+6	used	use	VERB	_	BD	4	relcl	_	_
+7	was	be	AUX	_	BD	2	ccomp	_	_
+8	“	"	PUNCT	_	`	7	punct	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	prevent	prevent	VERB	_	B	7	xcomp	_	_
+11	bone	bone	NOUN	_	N	12	compound	_	_
+12	loss	loss	NOUN	_	N	10	dobj	_	_
+13	”	"	PUNCT	_	'	7	punct	_	_
+14	?	?	PUNCT	_	_	2	punct	_	_
+
+

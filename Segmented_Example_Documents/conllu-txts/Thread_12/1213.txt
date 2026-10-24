@@ -1,0 +1,111 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1213
+1	1213	1213	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1200
+1	1200	1200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/MaggieJack1
+1	u	u	NOUN	_	N	3	punct	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	MaggieJack1	maggiejack1	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = I had new insurance this year and was having trouble with my PSA meds.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	had	have	VERB	_	BD	0	root	_	_
+3	new	new	ADJ	_	J	4	amod	_	_
+4	insurance	insurance	NOUN	_	N	2	dobj	_	_
+5	this	this	DET	_	T	6	det	_	_
+6	year	year	NOUN	_	N	2	npadvmod	_	_
+7	and	and	CCONJ	_	C	2	cc	_	_
+8	was	be	AUX	_	BD	9	aux	_	_
+9	having	have	VERB	_	BG	2	conj	_	_
+10	trouble	trouble	NOUN	_	N	9	dobj	_	_
+11	with	with	ADP	_	N	10	prep	_	_
+12	my	my	PRON	_	RP$	14	poss	_	_
+13	PSA	psa	PROPN	_	NP	14	compound	_	_
+14	meds	med	NOUN	_	NS	11	pobj	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = I finally called the insurance company and asked why it was denied and what they needed from my dr to get it approved.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	finally	finally	ADV	_	B	3	advmod	_	_
+3	called	call	VERB	_	BD	0	root	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	insurance	insurance	NOUN	_	N	6	compound	_	_
+6	company	company	NOUN	_	N	3	dobj	_	_
+7	and	and	CCONJ	_	C	3	cc	_	_
+8	asked	ask	VERB	_	BD	3	conj	_	_
+9	why	why	SCONJ	_	RB	12	advmod	_	_
+10	it	it	PRON	_	RP	12	nsubjpass	_	_
+11	was	be	AUX	_	BD	12	auxpass	_	_
+12	denied	deny	VERB	_	BN	8	ccomp	_	_
+13	and	and	CCONJ	_	C	12	cc	_	_
+14	what	what	PRON	_	P	16	dobj	_	_
+15	they	they	PRON	_	RP	16	nsubj	_	_
+16	needed	need	VERB	_	BD	12	conj	_	_
+17	from	from	ADP	_	N	16	prep	_	_
+18	my	my	PRON	_	RP$	19	poss	_	_
+19	dr	dr	NOUN	_	N	17	pobj	_	_
+20	to	to	PART	_	O	21	aux	_	_
+21	get	get	VERB	_	B	16	advcl	_	_
+22	it	it	PRON	_	RP	23	nsubj	_	_
+23	approved	approve	VERB	_	BN	21	ccomp	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = My dr hadn't been sending full chart details, just notes.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	dr	dr	NOUN	_	N	6	nsubj	_	_
+3	had	have	AUX	_	BD	6	aux	_	_
+4	n't	not	PART	_	B	6	neg	_	_
+5	been	be	AUX	_	BN	6	aux	_	_
+6	sending	send	VERB	_	BG	0	root	_	_
+7	full	full	ADJ	_	J	9	amod	_	_
+8	chart	chart	NOUN	_	N	9	compound	_	_
+9	details	detail	NOUN	_	NS	6	dobj	_	_
+10	,	,	PUNCT	_	_	6	punct	_	_
+11	just	just	ADV	_	B	12	advmod	_	_
+12	notes	note	NOUN	_	NS	9	appos	_	_
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 8
+# text = Got insurance and my dr office on a 3 way call and insurance walked my dr through what they needed.
+1	Got	got	VERB	_	B	14	advcl	_	_
+2	insurance	insurance	NOUN	_	N	1	dobj	_	_
+3	and	and	CCONJ	_	C	2	cc	_	_
+4	my	my	PRON	_	RP$	6	poss	_	_
+5	dr	dr	ADJ	_	J	6	compound	_	_
+6	office	office	NOUN	_	N	2	conj	_	_
+7	on	on	ADP	_	N	1	prep	_	_
+8	a	a	DET	_	T	10	det	_	_
+9	3	3	NUM	_	D	10	nummod	_	_
+10	way	way	NOUN	_	N	7	pobj	_	_
+11	call	call	NOUN	_	N	14	nsubj	_	_
+12	and	and	CCONJ	_	C	11	cc	_	_
+13	insurance	insurance	NOUN	_	N	11	conj	_	_
+14	walked	walk	VERB	_	BD	0	root	_	_
+15	my	my	PRON	_	RP$	16	poss	_	_
+16	dr	dr	NOUN	_	N	14	attr	_	_
+17	through	through	ADP	_	N	14	prep	_	_
+18	what	what	PRON	_	P	20	dobj	_	_
+19	they	they	PRON	_	RP	20	nsubj	_	_
+20	needed	need	VERB	_	BD	17	pcomp	_	_
+21	.	.	PUNCT	_	_	14	punct	_	_
+
+

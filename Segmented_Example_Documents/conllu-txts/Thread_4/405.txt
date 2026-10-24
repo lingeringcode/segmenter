@@ -1,0 +1,109 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 405
+1	405	405	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 404
+1	404	404	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/OleLadyThinker
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	OleLadyThinker	oleladythinker	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = Not at all - it is a relatively new procedure.
+1	Not	not	PART	_	B	3	neg	_	_
+2	at	at	ADV	_	B	3	advmod	_	_
+3	all	all	ADV	_	B	6	advmod	_	_
+4	-	-	PUNCT	_	_	6	punct	_	_
+5	it	it	PRON	_	RP	6	nsubj	_	_
+6	is	be	AUX	_	BZ	0	root	_	_
+7	a	a	DET	_	T	10	det	_	_
+8	relatively	relatively	ADV	_	B	9	advmod	_	_
+9	new	new	ADJ	_	J	10	amod	_	_
+10	procedure	procedure	NOUN	_	N	6	attr	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 6
+# text = Thyroid RFA is FDA cleared, not FDA approved.
+1	Thyroid	thyroid	NOUN	_	N	2	compound	_	_
+2	RFA	rfa	PROPN	_	NP	5	nsubjpass	_	_
+3	is	be	AUX	_	BZ	5	auxpass	_	_
+4	FDA	fda	PROPN	_	NP	5	nsubj	_	_
+5	cleared	clear	VERB	_	BN	9	ccomp	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	not	not	PART	_	B	9	neg	_	_
+8	FDA	fda	PROPN	_	NP	9	nsubj	_	_
+9	approved	approve	VERB	_	BD	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 7
+# text = FDA approval differs from FDA clearance.
+1	FDA	fda	PROPN	_	NP	3	compound	_	_
+2	approval	approval	NOUN	_	N	3	compound	_	_
+3	differs	differ	VERB	_	BZ	0	root	_	_
+4	from	from	ADP	_	N	3	prep	_	_
+5	FDA	fda	PROPN	_	NP	6	compound	_	_
+6	clearance	clearance	NOUN	_	N	4	pobj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = FDA approval means a treatment has been rigorously tested through clinical trials and is proven safe and effective.
+1	FDA	fda	PROPN	_	NP	2	compound	_	_
+2	approval	approval	NOUN	_	N	3	nsubj	_	_
+3	means	mean	VERB	_	BZ	0	root	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	treatment	treatment	NOUN	_	N	9	nsubjpass	_	_
+6	has	have	AUX	_	BZ	9	aux	_	_
+7	been	be	AUX	_	BN	9	auxpass	_	_
+8	rigorously	rigorously	ADV	_	B	9	advmod	_	_
+9	tested	test	VERB	_	BN	3	ccomp	_	_
+10	through	through	ADP	_	N	9	prep	_	_
+11	clinical	clinical	ADJ	_	J	12	amod	_	_
+12	trials	trial	NOUN	_	NS	10	pobj	_	_
+13	and	and	CCONJ	_	C	9	cc	_	_
+14	is	be	AUX	_	BZ	15	auxpass	_	_
+15	proven	prove	VERB	_	BN	9	conj	_	_
+16	safe	safe	ADJ	_	J	15	oprd	_	_
+17	and	and	CCONJ	_	C	16	cc	_	_
+18	effective	effective	ADJ	_	J	16	conj	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = In contrast, clearance is reserved for a treatment that is equivalent to an existing FDA-approved treatment.
+1	In	in	ADP	_	N	6	prep	_	_
+2	contrast	contrast	NOUN	_	N	1	pobj	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	clearance	clearance	NOUN	_	N	6	nsubjpass	_	_
+5	is	be	AUX	_	BZ	6	auxpass	_	_
+6	reserved	reserve	VERB	_	BN	0	root	_	_
+7	for	for	ADP	_	N	6	prep	_	_
+8	a	a	DET	_	T	9	det	_	_
+9	treatment	treatment	NOUN	_	N	7	pobj	_	_
+10	that	that	PRON	_	DT	11	nsubj	_	_
+11	is	be	AUX	_	BZ	9	relcl	_	_
+12	equivalent	equivalent	ADJ	_	J	11	acomp	_	_
+13	to	to	ADP	_	N	12	prep	_	_
+14	an	an	DET	_	T	19	det	_	_
+15	existing	exist	VERB	_	BG	19	amod	_	_
+16	FDA	fda	PROPN	_	NP	18	npadvmod	_	_
+17	-	-	PUNCT	_	YPH	18	punct	_	_
+18	approved	approve	VERB	_	BN	19	amod	_	_
+19	treatment	treatment	NOUN	_	N	13	pobj	_	_
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+

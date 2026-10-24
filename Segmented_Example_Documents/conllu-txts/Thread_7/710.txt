@@ -1,0 +1,131 @@
+# sent_id = 1
+# text = Thread_7
+1	Thread_7	thread_7	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 710
+1	710	710	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 700
+1	700	700	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/unipride
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	unipride	unipride	ADJ	_	J	1	advmod	_	_
+
+
+# sent_id = 5
+# text = When the insurance was billed for my son’s first 3 weeks in the NICU it was denied.
+1	When	when	SCONJ	_	RB	5	advmod	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	insurance	insurance	NOUN	_	N	5	nsubjpass	_	_
+4	was	be	AUX	_	BD	5	auxpass	_	_
+5	billed	bill	VERB	_	BN	18	advcl	_	_
+6	for	for	ADP	_	N	5	prep	_	_
+7	my	my	PRON	_	RP$	8	poss	_	_
+8	son	son	NOUN	_	N	12	poss	_	_
+9	’s	’s	PART	_	OS	8	case	_	_
+10	first	first	ADJ	_	J	12	amod	_	_
+11	3	3	NUM	_	D	12	nummod	_	_
+12	weeks	week	NOUN	_	NS	6	pobj	_	_
+13	in	in	ADP	_	N	12	prep	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	NICU	nicu	PROPN	_	NP	13	pobj	_	_
+16	it	it	PRON	_	RP	18	nsubjpass	_	_
+17	was	be	AUX	_	BD	18	auxpass	_	_
+18	denied	deny	VERB	_	BN	0	root	_	_
+19	.	.	PUNCT	_	_	18	punct	_	_
+
+
+# sent_id = 6
+# text = Why?
+1	Why	why	SCONJ	_	RB	0	root	_	_
+2	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 7
+# text = Because I didn’t think to call about obtaining prior authorization for the incubator.
+1	Because	because	SCONJ	_	N	5	mark	_	_
+2	I	i	PRON	_	RP	5	nsubj	_	_
+3	did	do	AUX	_	BD	5	aux	_	_
+4	n’t	not	PART	_	B	5	neg	_	_
+5	think	think	VERB	_	B	0	root	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	call	call	VERB	_	B	5	xcomp	_	_
+8	about	about	ADP	_	N	7	prep	_	_
+9	obtaining	obtain	VERB	_	BG	8	pcomp	_	_
+10	prior	prior	ADJ	_	J	11	amod	_	_
+11	authorization	authorization	NOUN	_	N	9	dobj	_	_
+12	for	for	ADP	_	N	11	prep	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	incubator	incubator	NOUN	_	N	12	pobj	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 8
+# text = Right because as I was actively dying I didn’t think to stop and ask if it would be ok for my 29 weeks gestation son could use one.
+1	Right	right	INTJ	_	H	0	root	_	_
+2	because	because	SCONJ	_	N	11	mark	_	_
+3	as	as	SCONJ	_	N	7	mark	_	_
+4	I	i	PRON	_	RP	7	nsubj	_	_
+5	was	be	AUX	_	BD	7	aux	_	_
+6	actively	actively	ADV	_	B	7	advmod	_	_
+7	dying	die	VERB	_	BG	11	advcl	_	_
+8	I	i	PRON	_	RP	11	nsubj	_	_
+9	did	do	AUX	_	BD	11	aux	_	_
+10	n’t	not	PART	_	B	11	neg	_	_
+11	think	think	VERB	_	B	1	advcl	_	_
+12	to	to	PART	_	O	13	aux	_	_
+13	stop	stop	VERB	_	B	11	xcomp	_	_
+14	and	and	CCONJ	_	C	13	cc	_	_
+15	ask	ask	VERB	_	B	13	conj	_	_
+16	if	if	SCONJ	_	N	19	mark	_	_
+17	it	it	PRON	_	RP	19	nsubj	_	_
+18	would	would	AUX	_	D	19	aux	_	_
+19	be	be	AUX	_	B	15	ccomp	_	_
+20	ok	ok	ADJ	_	J	19	acomp	_	_
+21	for	for	SCONJ	_	N	28	mark	_	_
+22	my	my	PRON	_	RP$	24	poss	_	_
+23	29	29	NUM	_	D	24	nummod	_	_
+24	weeks	week	NOUN	_	NS	21	pobj	_	_
+25	gestation	gestation	NOUN	_	N	26	compound	_	_
+26	son	son	NOUN	_	N	28	nsubj	_	_
+27	could	could	AUX	_	D	28	aux	_	_
+28	use	use	VERB	_	B	19	advcl	_	_
+29	one	one	NUM	_	D	28	dobj	_	_
+30	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 9
+# text = Get used to calling and repeating the hospital has to fix it and you will not pay more than you are required.
+1	Get	get	AUX	_	B	2	auxpass	_	_
+2	used	use	VERB	_	BN	9	csubj	_	_
+3	to	to	ADP	_	N	2	prep	_	_
+4	calling	call	VERB	_	BG	3	pcomp	_	_
+5	and	and	CCONJ	_	C	4	cc	_	_
+6	repeating	repeat	VERB	_	BG	4	conj	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	hospital	hospital	NOUN	_	N	6	dobj	_	_
+9	has	have	VERB	_	BZ	0	root	_	_
+10	to	to	PART	_	O	11	aux	_	_
+11	fix	fix	VERB	_	B	9	xcomp	_	_
+12	it	it	PRON	_	RP	11	dobj	_	_
+13	and	and	CCONJ	_	C	9	cc	_	_
+14	you	you	PRON	_	RP	17	nsubj	_	_
+15	will	will	AUX	_	D	17	aux	_	_
+16	not	not	PART	_	B	17	neg	_	_
+17	pay	pay	VERB	_	B	9	conj	_	_
+18	more	more	ADJ	_	JR	17	dobj	_	_
+19	than	than	SCONJ	_	N	22	mark	_	_
+20	you	you	PRON	_	RP	22	nsubjpass	_	_
+21	are	be	AUX	_	BP	22	auxpass	_	_
+22	required	require	VERB	_	BN	18	advcl	_	_
+23	.	.	PUNCT	_	_	17	punct	_	_
+
+

@@ -1,0 +1,158 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 316
+1	316	316	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 300
+1	300	300	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Ok-Helicopter3433
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	Ok	ok	ADJ	_	J	5	amod	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Helicopter3433	helicopter3433	NOUN	_	N	1	nummod	_	_
+
+
+# sent_id = 5
+# text = I sincerely hope your new plan works well for you and your wife is able to get the care she needs to recover.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	sincerely	sincerely	ADV	_	B	3	advmod	_	_
+3	hope	hope	VERB	_	BP	0	root	_	_
+4	your	your	PRON	_	RP$	6	poss	_	_
+5	new	new	ADJ	_	J	6	amod	_	_
+6	plan	plan	NOUN	_	N	7	nsubj	_	_
+7	works	work	VERB	_	BZ	3	ccomp	_	_
+8	well	well	ADV	_	B	7	advmod	_	_
+9	for	for	ADP	_	N	7	prep	_	_
+10	you	you	PRON	_	RP	9	pobj	_	_
+11	and	and	CCONJ	_	C	10	cc	_	_
+12	your	your	PRON	_	RP$	13	poss	_	_
+13	wife	wife	NOUN	_	N	10	conj	_	_
+14	is	be	AUX	_	BZ	3	ccomp	_	_
+15	able	able	ADJ	_	J	14	acomp	_	_
+16	to	to	PART	_	O	17	aux	_	_
+17	get	get	VERB	_	B	15	xcomp	_	_
+18	the	the	DET	_	T	19	det	_	_
+19	care	care	NOUN	_	N	17	dobj	_	_
+20	she	she	PRON	_	RP	21	nsubj	_	_
+21	needs	need	VERB	_	BZ	19	relcl	_	_
+22	to	to	PART	_	O	23	aux	_	_
+23	recover	recover	VERB	_	B	21	xcomp	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = That sounds terrible.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	sounds	sound	VERB	_	BZ	0	root	_	_
+3	terrible	terrible	ADJ	_	J	2	acomp	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = A note, though, that folks don't understand.
+1	A	a	DET	_	T	2	det	_	_
+2	note	note	NOUN	_	N	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	though	though	ADV	_	B	2	advmod	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	that	that	SCONJ	_	N	10	mark	_	_
+7	folks	folk	NOUN	_	NS	10	nsubj	_	_
+8	do	do	AUX	_	BP	10	aux	_	_
+9	n't	not	PART	_	B	10	neg	_	_
+10	understand	understand	VERB	_	B	2	acl	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 8
+# text = Cigna is paid by the employer to be the middle man/bad guy, especially in the case of self insured plans.
+1	Cigna	cigna	PROPN	_	NP	3	nsubjpass	_	_
+2	is	be	AUX	_	BZ	3	auxpass	_	_
+3	paid	pay	VERB	_	BN	0	root	_	_
+4	by	by	ADP	_	N	3	agent	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	employer	employer	NOUN	_	N	4	pobj	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	be	be	AUX	_	B	3	xcomp	_	_
+9	the	the	DET	_	T	14	det	_	_
+10	middle	middle	ADJ	_	J	11	amod	_	_
+11	man	man	NOUN	_	N	14	nmod	_	_
+12	/	/	SYM	_	YM	14	punct	_	_
+13	bad	bad	ADJ	_	J	14	amod	_	_
+14	guy	guy	NOUN	_	N	8	attr	_	_
+15	,	,	PUNCT	_	_	8	punct	_	_
+16	especially	especially	ADV	_	B	17	advmod	_	_
+17	in	in	ADP	_	N	8	prep	_	_
+18	the	the	DET	_	T	19	det	_	_
+19	case	case	NOUN	_	N	17	pobj	_	_
+20	of	of	ADP	_	N	19	prep	_	_
+21	self	self	NOUN	_	N	22	npadvmod	_	_
+22	insured	insure	VERB	_	BN	23	amod	_	_
+23	plans	plan	NOUN	_	NS	20	pobj	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = The employer makes the choices about benefits to be offered and has multiple options of how authorizations are handled.
+1	The	the	DET	_	T	2	det	_	_
+2	employer	employer	NOUN	_	N	3	nsubj	_	_
+3	makes	make	VERB	_	BZ	0	root	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	choices	choice	NOUN	_	NS	3	dobj	_	_
+6	about	about	ADP	_	N	5	prep	_	_
+7	benefits	benefit	NOUN	_	NS	6	pobj	_	_
+8	to	to	PART	_	O	10	aux	_	_
+9	be	be	AUX	_	B	10	auxpass	_	_
+10	offered	offer	VERB	_	BN	7	relcl	_	_
+11	and	and	CCONJ	_	C	10	cc	_	_
+12	has	have	VERB	_	BZ	10	conj	_	_
+13	multiple	multiple	ADJ	_	J	14	amod	_	_
+14	options	option	NOUN	_	NS	12	dobj	_	_
+15	of	of	ADP	_	N	14	prep	_	_
+16	how	how	SCONJ	_	RB	19	advmod	_	_
+17	authorizations	authorization	NOUN	_	NS	19	nsubjpass	_	_
+18	are	be	AUX	_	BP	19	auxpass	_	_
+19	handled	handle	VERB	_	BN	15	pcomp	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 10
+# text = They do these things to save themselves money.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	do	do	VERB	_	BP	0	root	_	_
+3	these	these	DET	_	T	4	det	_	_
+4	things	thing	NOUN	_	NS	2	dobj	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	save	save	VERB	_	B	2	advcl	_	_
+7	themselves	themselves	PRON	_	RP	6	dative	_	_
+8	money	money	NOUN	_	N	6	dobj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 11
+# text = There are plans with no authorization requirements and no limit on therapy visits.
+1	There	there	PRON	_	X	2	expl	_	_
+2	are	be	VERB	_	BP	0	root	_	_
+3	plans	plan	NOUN	_	NS	2	attr	_	_
+4	with	with	ADP	_	N	3	prep	_	_
+5	no	no	DET	_	T	7	det	_	_
+6	authorization	authorization	NOUN	_	N	7	compound	_	_
+7	requirements	requirement	NOUN	_	NS	4	pobj	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	no	no	DET	_	T	10	det	_	_
+10	limit	limit	NOUN	_	N	7	conj	_	_
+11	on	on	ADP	_	N	10	prep	_	_
+12	therapy	therapy	NOUN	_	N	13	compound	_	_
+13	visits	visit	NOUN	_	NS	11	pobj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+

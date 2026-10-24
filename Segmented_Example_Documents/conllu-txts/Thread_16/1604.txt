@@ -1,0 +1,68 @@
+# sent_id = 1
+# text = Thread_16
+1	Thread_16	thread_16	ADJ	_	J	0	root	_	_
+
+
+# sent_id = 2
+# text = 1604
+1	1604	1604	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1603
+1	1603	1603	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Strykrol
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Strykrol	strykrol	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Yep Carelon, and by the way, thank you for taking the time to answer.
+1	Yep	yep	PROPN	_	NP	2	compound	_	_
+2	Carelon	carelon	PROPN	_	NP	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	and	and	CCONJ	_	C	2	cc	_	_
+5	by	by	ADP	_	N	9	prep	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	way	way	NOUN	_	N	5	pobj	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	thank	thank	VERB	_	BP	2	conj	_	_
+10	you	you	PRON	_	RP	9	dobj	_	_
+11	for	for	ADP	_	N	9	prep	_	_
+12	taking	take	VERB	_	BG	11	pcomp	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	time	time	NOUN	_	N	12	dobj	_	_
+15	to	to	PART	_	O	16	aux	_	_
+16	answer	answer	VERB	_	B	14	relcl	_	_
+17	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 6
+# text = Being so in the dark and dealing with all this crap is just the most defeating feeling in the world.
+1	Being	be	AUX	_	BG	12	csubj	_	_
+2	so	so	ADV	_	B	1	advmod	_	_
+3	in	in	ADP	_	N	1	prep	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	dark	dark	NOUN	_	N	3	pobj	_	_
+6	and	and	CCONJ	_	C	1	cc	_	_
+7	dealing	deal	VERB	_	BG	1	conj	_	_
+8	with	with	ADP	_	N	7	prep	_	_
+9	all	all	DET	_	DT	11	predet	_	_
+10	this	this	DET	_	T	11	det	_	_
+11	crap	crap	NOUN	_	N	8	pobj	_	_
+12	is	be	AUX	_	BZ	0	root	_	_
+13	just	just	ADV	_	B	17	advmod	_	_
+14	the	the	DET	_	T	17	det	_	_
+15	most	most	ADV	_	BS	16	advmod	_	_
+16	defeating	defeating	ADJ	_	J	17	amod	_	_
+17	feeling	feeling	NOUN	_	N	12	attr	_	_
+18	in	in	ADP	_	N	17	prep	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	world	world	NOUN	_	N	18	pobj	_	_
+21	.	.	PUNCT	_	_	12	punct	_	_
+
+

@@ -1,0 +1,124 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1510
+1	1510	1510	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/WormDentist
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	WormDentist	wormdentist	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = What’s the reason for the denial?
+1	What	what	PRON	_	P	2	nsubj	_	_
+2	’s	’s	VERB	_	BP	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	reason	reason	NOUN	_	N	2	nsubj	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	denial	denial	NOUN	_	N	5	pobj	_	_
+8	?	?	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = Call the neurosurgeon’s office ASAP to ensure they’re doing a peer-to-peer call with your insurance.
+1	Call	call	VERB	_	B	0	root	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	neurosurgeon	neurosurgeon	NOUN	_	N	5	poss	_	_
+4	’s	’s	PART	_	OS	3	case	_	_
+5	office	office	NOUN	_	N	1	dobj	_	_
+6	ASAP	asap	ADV	_	B	1	advmod	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	ensure	ensure	VERB	_	B	1	advcl	_	_
+9	they	they	PRON	_	RP	11	nsubj	_	_
+10	’re	’re	AUX	_	BP	11	aux	_	_
+11	doing	do	VERB	_	BG	8	ccomp	_	_
+12	a	a	DET	_	T	18	det	_	_
+13	peer	peer	NOUN	_	N	18	nmod	_	_
+14	-	-	PUNCT	_	YPH	13	punct	_	_
+15	to	to	ADP	_	N	13	prep	_	_
+16	-	-	PUNCT	_	YPH	15	punct	_	_
+17	peer	peer	NOUN	_	N	15	pobj	_	_
+18	call	call	NOUN	_	N	11	dobj	_	_
+19	with	with	ADP	_	N	18	prep	_	_
+20	your	your	PRON	_	RP$	21	poss	_	_
+21	insurance	insurance	NOUN	_	N	19	pobj	_	_
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 7
+# text = That’s when your doctor speaks with a medical director at the insurance.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	’s	’s	ADV	_	B	0	root	_	_
+3	when	when	SCONJ	_	RB	6	advmod	_	_
+4	your	your	PRON	_	RP$	5	poss	_	_
+5	doctor	doctor	NOUN	_	N	6	nsubj	_	_
+6	speaks	speak	VERB	_	BZ	2	advcl	_	_
+7	with	with	ADP	_	N	6	prep	_	_
+8	a	a	DET	_	T	10	det	_	_
+9	medical	medical	ADJ	_	J	10	amod	_	_
+10	director	director	NOUN	_	N	7	pobj	_	_
+11	at	at	ADP	_	N	10	prep	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	insurance	insurance	NOUN	_	N	11	pobj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 8
+# text = Prior authorization denials are either upheld or reversed on those calls.
+1	Prior	prior	ADJ	_	J	3	amod	_	_
+2	authorization	authorization	NOUN	_	N	3	compound	_	_
+3	denials	denial	NOUN	_	NS	6	nsubjpass	_	_
+4	are	be	AUX	_	BP	6	auxpass	_	_
+5	either	either	CCONJ	_	C	6	preconj	_	_
+6	upheld	uphold	VERB	_	BN	0	root	_	_
+7	or	or	CCONJ	_	C	6	cc	_	_
+8	reversed	reverse	VERB	_	BN	6	conj	_	_
+9	on	on	ADP	_	N	8	prep	_	_
+10	those	those	DET	_	T	11	det	_	_
+11	calls	call	NOUN	_	NS	9	pobj	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 9
+# text = It’s important that doc’s office handles this.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	’s	’	VERB	_	BZ	0	root	_	_
+3	important	important	ADJ	_	J	2	acomp	_	_
+4	that	that	SCONJ	_	N	8	mark	_	_
+5	doc	doc	PROPN	_	NP	7	poss	_	_
+6	’s	’s	PART	_	OS	5	case	_	_
+7	office	office	NOUN	_	N	8	nsubj	_	_
+8	handles	handle	VERB	_	BZ	2	ccomp	_	_
+9	this	this	PRON	_	T	8	dobj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 10
+# text = There is nothing you can do to get the denial overturned.
+1	There	there	PRON	_	X	2	expl	_	_
+2	is	be	VERB	_	BZ	0	root	_	_
+3	nothing	nothing	PRON	_	N	2	attr	_	_
+4	you	you	PRON	_	RP	6	nsubj	_	_
+5	can	can	AUX	_	D	6	aux	_	_
+6	do	do	VERB	_	B	3	relcl	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	get	get	VERB	_	B	2	advcl	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	denial	denial	NOUN	_	N	11	nsubj	_	_
+11	overturned	overturn	VERB	_	BN	8	ccomp	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+

@@ -1,0 +1,1282 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1100
+1	1100	1100	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/YouCooper
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	YouCooper	youcooper	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = My friend is on F1 STEM OPT and got $58,000 in ER bills.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	friend	friend	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	on	on	ADP	_	N	3	prep	_	_
+5	F1	f1	PROPN	_	NP	7	compound	_	_
+6	STEM	stem	PROPN	_	NP	7	compound	_	_
+7	OPT	opt	PROPN	_	NP	4	pobj	_	_
+8	and	and	CCONJ	_	C	3	cc	_	_
+9	got	get	VERB	_	BD	3	conj	_	_
+10	$	$	SYM	_	_	11	nmod	_	_
+11	58,000	58,000	NUM	_	D	9	dobj	_	_
+12	in	in	ADP	_	N	11	prep	_	_
+13	ER	er	PROPN	_	NP	14	compound	_	_
+14	bills	bill	NOUN	_	NS	12	pobj	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = Insurance denied everything as pre-existing.
+1	Insurance	insurance	NOUN	_	N	2	nsubj	_	_
+2	denied	deny	VERB	_	BD	0	root	_	_
+3	everything	everything	PRON	_	N	2	dobj	_	_
+4	as	as	ADP	_	N	2	prep	_	_
+5	pre	pre	ADJ	_	J	4	amod	_	_
+6	-	-	ADJ	_	J	4	amod	_	_
+7	existing	existing	ADJ	_	J	4	amod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = First appeal already denied.
+1	First	first	ADJ	_	J	2	amod	_	_
+2	appeal	appeal	NOUN	_	N	4	nsubj	_	_
+3	already	already	ADV	_	B	4	advmod	_	_
+4	denied	deny	VERB	_	BN	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 8
+# text = We don't know what to do [TX]
+1	We	we	PRON	_	RP	4	nsubj	_	_
+2	do	do	AUX	_	BP	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	know	know	VERB	_	B	0	root	_	_
+5	what	what	PRON	_	P	7	dobj	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	do	do	VERB	_	B	4	xcomp	_	_
+8	[	[	X	_	X	7	dep	_	_
+9	TX	tx	PROPN	_	NP	7	dobj	_	_
+10	]	]	PUNCT	_	RRB-	4	punct	_	_
+
+
+# sent_id = 9
+# text = Hi, posting this for a close friend who is going through a really bad situation with her medical insurance and neither of us has any idea what to do.
+1	Hi	hi	INTJ	_	H	25	intj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	posting	post	VERB	_	BG	1	advcl	_	_
+4	this	this	PRON	_	T	3	dobj	_	_
+5	for	for	ADP	_	N	3	prep	_	_
+6	a	a	DET	_	T	8	det	_	_
+7	close	close	ADJ	_	J	8	amod	_	_
+8	friend	friend	NOUN	_	N	5	pobj	_	_
+9	who	who	PRON	_	P	11	nsubj	_	_
+10	is	be	AUX	_	BZ	11	aux	_	_
+11	going	go	VERB	_	BG	8	relcl	_	_
+12	through	through	ADP	_	N	11	prep	_	_
+13	a	a	DET	_	T	16	det	_	_
+14	really	really	ADV	_	B	15	advmod	_	_
+15	bad	bad	ADJ	_	J	16	amod	_	_
+16	situation	situation	NOUN	_	N	12	pobj	_	_
+17	with	with	ADP	_	N	16	prep	_	_
+18	her	her	PRON	_	RP$	20	poss	_	_
+19	medical	medical	ADJ	_	J	20	amod	_	_
+20	insurance	insurance	NOUN	_	N	17	pobj	_	_
+21	and	and	CCONJ	_	C	3	cc	_	_
+22	neither	neither	PRON	_	T	25	nsubj	_	_
+23	of	of	ADP	_	N	22	prep	_	_
+24	us	we	PRON	_	RP	23	pobj	_	_
+25	has	have	VERB	_	BZ	0	root	_	_
+26	any	any	DET	_	T	27	det	_	_
+27	idea	idea	NOUN	_	N	25	dobj	_	_
+28	what	what	PRON	_	P	30	dobj	_	_
+29	to	to	PART	_	O	30	aux	_	_
+30	do	do	VERB	_	B	27	relcl	_	_
+31	.	.	PUNCT	_	_	25	punct	_	_
+
+
+# sent_id = 10
+# text = She is from India, here on F1 STEM OPT in Texas.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	from	from	ADP	_	N	2	prep	_	_
+4	India	india	PROPN	_	NP	3	pobj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	here	here	ADV	_	B	2	advmod	_	_
+7	on	on	ADP	_	N	6	prep	_	_
+8	F1	f1	PROPN	_	NP	10	compound	_	_
+9	STEM	stem	PROPN	_	NP	10	compound	_	_
+10	OPT	opt	PROPN	_	NP	7	pobj	_	_
+11	in	in	ADP	_	N	10	prep	_	_
+12	Texas	texas	PROPN	_	NP	11	pobj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 11
+# text = We have already reached out to some social media handles we know but nobody responded so this is kind of a last resort.
+1	We	we	PRON	_	RP	4	nsubj	_	_
+2	have	have	AUX	_	BP	4	aux	_	_
+3	already	already	ADV	_	B	4	advmod	_	_
+4	reached	reach	VERB	_	BN	0	root	_	_
+5	out	out	ADP	_	P	4	prt	_	_
+6	to	to	ADP	_	N	4	prep	_	_
+7	some	some	DET	_	T	10	det	_	_
+8	social	social	ADJ	_	J	9	amod	_	_
+9	media	medium	NOUN	_	NS	10	compound	_	_
+10	handles	handle	NOUN	_	NS	6	pobj	_	_
+11	we	we	PRON	_	RP	12	nsubj	_	_
+12	know	know	VERB	_	BP	4	parataxis	_	_
+13	but	but	CCONJ	_	C	4	cc	_	_
+14	nobody	nobody	PRON	_	N	15	nsubj	_	_
+15	responded	respond	VERB	_	BD	4	conj	_	_
+16	so	so	ADV	_	B	15	advmod	_	_
+17	this	this	PRON	_	T	18	nsubj	_	_
+18	is	be	AUX	_	BZ	15	conj	_	_
+19	kind	kind	ADV	_	B	20	advmod	_	_
+20	of	of	ADV	_	B	23	advmod	_	_
+21	a	a	DET	_	T	23	det	_	_
+22	last	last	ADJ	_	J	23	amod	_	_
+23	resort	resort	NOUN	_	N	18	attr	_	_
+24	.	.	PUNCT	_	_	15	punct	_	_
+
+
+# sent_id = 12
+# text = Sorry if this is long, i wanted to give the full picture.
+1	Sorry	sorry	INTJ	_	H	8	intj	_	_
+2	if	if	SCONJ	_	N	4	mark	_	_
+3	this	this	PRON	_	T	4	nsubj	_	_
+4	is	be	AUX	_	BZ	8	advcl	_	_
+5	long	long	ADJ	_	J	4	acomp	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	i	i	PRON	_	RP	8	nsubj	_	_
+8	wanted	want	VERB	_	BD	0	root	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	give	give	VERB	_	B	8	xcomp	_	_
+11	the	the	DET	_	T	13	det	_	_
+12	full	full	ADJ	_	J	13	amod	_	_
+13	picture	picture	NOUN	_	N	10	dobj	_	_
+14	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 13
+# text = She bought a travel medical insurance policy in mid December 2025 from one of the well known international student insurance carriers.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	bought	buy	VERB	_	BD	0	root	_	_
+3	a	a	DET	_	T	7	det	_	_
+4	travel	travel	NOUN	_	N	7	nmod	_	_
+5	medical	medical	ADJ	_	J	6	amod	_	_
+6	insurance	insurance	NOUN	_	N	7	compound	_	_
+7	policy	policy	NOUN	_	N	2	dobj	_	_
+8	in	in	ADP	_	N	2	prep	_	_
+9	mid	mid	ADJ	_	J	10	amod	_	_
+10	December	december	PROPN	_	NP	8	pobj	_	_
+11	2025	2025	NUM	_	D	10	nummod	_	_
+12	from	from	ADP	_	N	2	prep	_	_
+13	one	one	NUM	_	D	12	pobj	_	_
+14	of	of	ADP	_	N	13	prep	_	_
+15	the	the	DET	_	T	21	det	_	_
+16	well	well	ADV	_	B	17	advmod	_	_
+17	known	know	VERB	_	BN	21	amod	_	_
+18	international	international	ADJ	_	J	21	amod	_	_
+19	student	student	NOUN	_	N	20	compound	_	_
+20	insurance	insurance	NOUN	_	N	21	compound	_	_
+21	carriers	carrier	NOUN	_	NS	14	pobj	_	_
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 14
+# text = The policy is still active.
+1	The	the	DET	_	T	2	det	_	_
+2	policy	policy	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	still	still	ADV	_	B	3	advmod	_	_
+5	active	active	ADJ	_	J	3	acomp	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 15
+# text = Here is what happened:
+1	Here	here	ADV	_	B	2	advmod	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	what	what	PRON	_	P	4	nsubj	_	_
+4	happened	happen	VERB	_	BD	2	ccomp	_	_
+5	:	:	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 16
+# text = 4 days after her coverage started, she went to a primary care doctor for a routine visit.
+1	4	4	NUM	_	D	2	nummod	_	_
+2	days	day	NOUN	_	NS	6	npadvmod	_	_
+3	after	after	SCONJ	_	N	6	mark	_	_
+4	her	her	PRON	_	RP$	5	poss	_	_
+5	coverage	coverage	NOUN	_	N	6	nsubj	_	_
+6	started	start	VERB	_	BD	9	advcl	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	she	she	PRON	_	RP	9	nsubj	_	_
+9	went	go	VERB	_	BD	0	root	_	_
+10	to	to	ADP	_	N	9	prep	_	_
+11	a	a	DET	_	T	14	det	_	_
+12	primary	primary	ADJ	_	J	13	amod	_	_
+13	care	care	NOUN	_	N	14	compound	_	_
+14	doctor	doctor	NOUN	_	N	10	pobj	_	_
+15	for	for	ADP	_	N	9	prep	_	_
+16	a	a	DET	_	T	18	det	_	_
+17	routine	routine	ADJ	_	J	18	amod	_	_
+18	visit	visit	NOUN	_	N	15	pobj	_	_
+19	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 17
+# text = During testing they found she has H pylori (a bacterial stomach infection).
+1	During	during	ADP	_	N	4	prep	_	_
+2	testing	testing	NOUN	_	N	1	pobj	_	_
+3	they	they	PRON	_	RP	4	nsubj	_	_
+4	found	find	VERB	_	BD	0	root	_	_
+5	she	she	PRON	_	RP	6	nsubj	_	_
+6	has	have	VERB	_	BZ	4	ccomp	_	_
+7	H	h	PROPN	_	NP	8	compound	_	_
+8	pylori	pylori	NOUN	_	N	6	dobj	_	_
+9	(	(	PUNCT	_	LRB-	8	punct	_	_
+10	a	a	DET	_	T	13	det	_	_
+11	bacterial	bacterial	ADJ	_	J	13	amod	_	_
+12	stomach	stomach	NOUN	_	N	13	compound	_	_
+13	infection	infection	NOUN	_	N	8	appos	_	_
+14	)	)	PUNCT	_	RRB-	4	punct	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 18
+# text = This was the first time she was ever diagnosed with this.
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	was	be	AUX	_	BD	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	first	first	ADJ	_	J	5	amod	_	_
+5	time	time	NOUN	_	N	2	attr	_	_
+6	she	she	PRON	_	RP	9	nsubjpass	_	_
+7	was	be	AUX	_	BD	9	auxpass	_	_
+8	ever	ever	ADV	_	B	9	advmod	_	_
+9	diagnosed	diagnose	VERB	_	BN	5	relcl	_	_
+10	with	with	ADP	_	N	9	prep	_	_
+11	this	this	PRON	_	T	10	pobj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 19
+# text = No history of it, no prior symptoms, nothing.
+1	No	no	DET	_	T	2	det	_	_
+2	history	history	NOUN	_	N	0	root	_	_
+3	of	of	ADP	_	N	2	prep	_	_
+4	it	it	PRON	_	RP	3	pobj	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	no	no	DET	_	T	8	det	_	_
+7	prior	prior	ADJ	_	J	8	amod	_	_
+8	symptoms	symptom	NOUN	_	NS	2	conj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	nothing	nothing	PRON	_	N	8	appos	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 20
+# text = Doctor prescribed antibiotics for 2 weeks.
+1	Doctor	doctor	NOUN	_	N	2	npadvmod	_	_
+2	prescribed	prescribe	VERB	_	BD	0	root	_	_
+3	antibiotics	antibiotic	NOUN	_	NS	2	dobj	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	2	2	NUM	_	D	6	nummod	_	_
+6	weeks	week	NOUN	_	NS	4	pobj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 21
+# text = About 9 days into taking the antibiotics she started feeling really bad.
+1	About	about	ADV	_	B	2	advmod	_	_
+2	9	9	NUM	_	D	3	nummod	_	_
+3	days	day	NOUN	_	NS	4	npadvmod	_	_
+4	into	into	ADP	_	N	9	prep	_	_
+5	taking	take	VERB	_	BG	4	pcomp	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	antibiotics	antibiotic	NOUN	_	NS	5	dobj	_	_
+8	she	she	PRON	_	RP	9	nsubj	_	_
+9	started	start	VERB	_	BD	0	root	_	_
+10	feeling	feel	VERB	_	BG	9	xcomp	_	_
+11	really	really	ADV	_	B	12	advmod	_	_
+12	bad	bad	ADJ	_	J	10	acomp	_	_
+13	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 22
+# text = Severe stomach pain, throwing up, dehydrated.
+1	Severe	severe	ADJ	_	J	3	amod	_	_
+2	stomach	stomach	NOUN	_	N	3	compound	_	_
+3	pain	pain	NOUN	_	N	8	nsubj	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	throwing	throw	VERB	_	BG	3	acl	_	_
+6	up	up	ADP	_	P	5	prt	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	dehydrated	dehydrate	VERB	_	BD	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 23
+# text = We went to the nearest ER around 12:30 AM.
+1	We	we	PRON	_	RP	2	nsubj	_	_
+2	went	go	VERB	_	BD	0	root	_	_
+3	to	to	ADP	_	N	2	prep	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	nearest	near	ADJ	_	JS	6	amod	_	_
+6	ER	er	PROPN	_	NP	3	pobj	_	_
+7	around	around	ADP	_	N	2	prep	_	_
+8	12:30	12:30	NUM	_	D	9	nummod	_	_
+9	AM	am	PROPN	_	NP	7	pobj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 24
+# text = They put her in a room with a bed, gave her IV fluids and some medication, and kept her there for like 4 to 5 hours monitoring her.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	put	put	VERB	_	BD	0	root	_	_
+3	her	she	PRON	_	RP	2	dobj	_	_
+4	in	in	ADP	_	N	2	prep	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	room	room	NOUN	_	N	4	pobj	_	_
+7	with	with	ADP	_	N	6	prep	_	_
+8	a	a	DET	_	T	9	det	_	_
+9	bed	bed	NOUN	_	N	7	pobj	_	_
+10	,	,	PUNCT	_	_	2	punct	_	_
+11	gave	give	VERB	_	BD	2	conj	_	_
+12	her	she	PRON	_	RP	14	poss	_	_
+13	IV	iv	PROPN	_	NP	14	compound	_	_
+14	fluids	fluid	NOUN	_	NS	11	dobj	_	_
+15	and	and	CCONJ	_	C	14	cc	_	_
+16	some	some	DET	_	T	17	det	_	_
+17	medication	medication	NOUN	_	N	14	conj	_	_
+18	,	,	PUNCT	_	_	11	punct	_	_
+19	and	and	CCONJ	_	C	11	cc	_	_
+20	kept	keep	VERB	_	BD	11	conj	_	_
+21	her	she	PRON	_	RP	20	dobj	_	_
+22	there	there	ADV	_	B	20	advmod	_	_
+23	for	for	ADP	_	N	20	prep	_	_
+24	like	like	INTJ	_	H	27	quantmod	_	_
+25	4	4	NUM	_	D	27	quantmod	_	_
+26	to	to	PART	_	O	27	quantmod	_	_
+27	5	5	NUM	_	D	28	nummod	_	_
+28	hours	hour	NOUN	_	NS	23	pobj	_	_
+29	monitoring	monitor	VERB	_	BG	20	xcomp	_	_
+30	her	she	PRON	_	RP	29	dobj	_	_
+31	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 25
+# text = She fell asleep at some point because of the medication they gave.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	fell	fall	VERB	_	BD	0	root	_	_
+3	asleep	asleep	ADJ	_	J	2	acomp	_	_
+4	at	at	ADP	_	N	2	prep	_	_
+5	some	some	DET	_	T	6	det	_	_
+6	point	point	NOUN	_	N	4	pobj	_	_
+7	because	because	SCONJ	_	N	2	prep	_	_
+8	of	of	ADP	_	N	7	pcomp	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	medication	medication	NOUN	_	N	7	pobj	_	_
+11	they	they	PRON	_	RP	12	nsubj	_	_
+12	gave	give	VERB	_	BD	10	relcl	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 26
+# text = We left around 3 or 4 AM.
+1	We	we	PRON	_	RP	2	nsubj	_	_
+2	left	leave	VERB	_	BD	0	root	_	_
+3	around	around	ADV	_	B	4	quantmod	_	_
+4	3	3	NUM	_	D	7	nummod	_	_
+5	or	or	CCONJ	_	C	4	cc	_	_
+6	4	4	NUM	_	D	4	conj	_	_
+7	AM	am	NOUN	_	N	2	dobj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 27
+# text = She was not admitted overnight and there was no surgery or anything major, but she was in a room with a bed getting IV and being monitored.
+1	She	she	PRON	_	RP	4	nsubjpass	_	_
+2	was	be	AUX	_	BD	4	auxpass	_	_
+3	not	not	PART	_	B	4	neg	_	_
+4	admitted	admit	VERB	_	BN	0	root	_	_
+5	overnight	overnight	ADV	_	B	4	advmod	_	_
+6	and	and	CCONJ	_	C	4	cc	_	_
+7	there	there	PRON	_	X	8	expl	_	_
+8	was	be	VERB	_	BD	4	conj	_	_
+9	no	no	DET	_	T	10	det	_	_
+10	surgery	surgery	NOUN	_	N	8	attr	_	_
+11	or	or	CCONJ	_	C	10	cc	_	_
+12	anything	anything	PRON	_	N	10	conj	_	_
+13	major	major	ADJ	_	J	12	amod	_	_
+14	,	,	PUNCT	_	_	8	punct	_	_
+15	but	but	CCONJ	_	C	8	cc	_	_
+16	she	she	PRON	_	RP	17	nsubj	_	_
+17	was	be	AUX	_	BD	8	conj	_	_
+18	in	in	ADP	_	N	17	prep	_	_
+19	a	a	DET	_	T	20	det	_	_
+20	room	room	NOUN	_	N	18	pobj	_	_
+21	with	with	ADP	_	N	20	prep	_	_
+22	a	a	DET	_	T	23	det	_	_
+23	bed	bed	NOUN	_	N	24	nsubj	_	_
+24	getting	get	VERB	_	BG	21	pcomp	_	_
+25	IV	iv	PRON	_	RP	24	dobj	_	_
+26	and	and	CCONJ	_	C	24	cc	_	_
+27	being	be	AUX	_	BG	28	auxpass	_	_
+28	monitored	monitor	VERB	_	BN	24	conj	_	_
+29	.	.	PUNCT	_	_	17	punct	_	_
+
+
+# sent_id = 28
+# text = The ER doctor told her the antibiotic was probably causing the reaction and told her to stop taking it.
+1	The	the	DET	_	T	3	det	_	_
+2	ER	er	PROPN	_	NP	3	compound	_	_
+3	doctor	doctor	NOUN	_	N	4	nsubj	_	_
+4	told	tell	VERB	_	BD	0	root	_	_
+5	her	she	PRON	_	RP	4	dobj	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	antibiotic	antibiotic	NOUN	_	N	10	nsubj	_	_
+8	was	be	AUX	_	BD	10	aux	_	_
+9	probably	probably	ADV	_	B	10	advmod	_	_
+10	causing	cause	VERB	_	BG	4	ccomp	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	reaction	reaction	NOUN	_	N	10	dobj	_	_
+13	and	and	CCONJ	_	C	10	cc	_	_
+14	told	tell	VERB	_	BD	10	conj	_	_
+15	her	she	PRON	_	RP	14	dobj	_	_
+16	to	to	PART	_	O	17	aux	_	_
+17	stop	stop	VERB	_	B	14	xcomp	_	_
+18	taking	take	VERB	_	BG	17	xcomp	_	_
+19	it	it	PRON	_	RP	18	dobj	_	_
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 29
+# text = The discharge diagnosis was literally "adverse effect of systemic antibiotic".
+1	The	the	DET	_	T	3	det	_	_
+2	discharge	discharge	NOUN	_	N	3	compound	_	_
+3	diagnosis	diagnosis	NOUN	_	N	4	nsubj	_	_
+4	was	be	AUX	_	BD	0	root	_	_
+5	literally	literally	ADV	_	B	4	advmod	_	_
+6	"	"	PUNCT	_	`	8	punct	_	_
+7	adverse	adverse	ADJ	_	J	8	amod	_	_
+8	effect	effect	NOUN	_	N	4	attr	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	systemic	systemic	ADJ	_	J	11	amod	_	_
+11	antibiotic	antibiotic	NOUN	_	N	9	pobj	_	_
+12	"	"	PUNCT	_	'	4	punct	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 30
+# text = So basically her ER visit was caused by a drug she started taking AFTER her insurance began.
+1	So	so	ADV	_	B	7	advmod	_	_
+2	basically	basically	ADV	_	B	7	advmod	_	_
+3	her	her	PRON	_	RP$	5	poss	_	_
+4	ER	er	PROPN	_	NP	5	compound	_	_
+5	visit	visit	NOUN	_	N	7	nsubjpass	_	_
+6	was	be	AUX	_	BD	7	auxpass	_	_
+7	caused	cause	VERB	_	BN	0	root	_	_
+8	by	by	ADP	_	N	7	agent	_	_
+9	a	a	DET	_	T	10	det	_	_
+10	drug	drug	NOUN	_	N	8	pobj	_	_
+11	she	she	PRON	_	RP	12	nsubj	_	_
+12	started	start	VERB	_	BD	10	relcl	_	_
+13	taking	take	VERB	_	BG	12	xcomp	_	_
+14	AFTER	after	SCONJ	_	N	17	mark	_	_
+15	her	her	PRON	_	RP$	16	poss	_	_
+16	insurance	insurance	NOUN	_	N	17	nsubj	_	_
+17	began	begin	VERB	_	BD	7	advcl	_	_
+18	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 31
+# text = Then about a month later the bills started coming.
+1	Then	then	ADV	_	B	8	advmod	_	_
+2	about	about	ADV	_	B	3	advmod	_	_
+3	a	a	PRON	_	T	4	nummod	_	_
+4	month	month	NOUN	_	N	5	npadvmod	_	_
+5	later	later	ADV	_	BR	8	advmod	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	bills	bill	NOUN	_	NS	8	nsubj	_	_
+8	started	start	VERB	_	BD	0	root	_	_
+9	coming	come	VERB	_	BG	8	xcomp	_	_
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 32
+# text = She has received 9 separate bills so far totaling around $58,000.
+1	She	she	PRON	_	RP	3	nsubj	_	_
+2	has	have	AUX	_	BZ	3	aux	_	_
+3	received	receive	VERB	_	BN	0	root	_	_
+4	9	9	NUM	_	D	6	nummod	_	_
+5	separate	separate	ADJ	_	J	6	amod	_	_
+6	bills	bill	NOUN	_	NS	3	dobj	_	_
+7	so	so	ADV	_	B	8	advmod	_	_
+8	far	far	ADV	_	B	9	advmod	_	_
+9	totaling	total	VERB	_	BG	6	acl	_	_
+10	around	around	ADP	_	N	12	quantmod	_	_
+11	$	$	SYM	_	_	12	quantmod	_	_
+12	58,000	58,000	NUM	_	D	9	dobj	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 33
+# text = Bills are still coming.
+1	Bills	bill	NOUN	_	NS	4	nsubj	_	_
+2	are	be	AUX	_	BP	4	aux	_	_
+3	still	still	ADV	_	B	4	advmod	_	_
+4	coming	come	VERB	_	BG	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 34
+# text = As F1 students we honestly have never heard of amounts like this for one ER visit where nothing major was even done.
+1	As	as	SCONJ	_	N	8	mark	_	_
+2	F1	f1	NOUN	_	N	3	compound	_	_
+3	students	student	NOUN	_	NS	1	pobj	_	_
+4	we	we	PRON	_	RP	8	nsubj	_	_
+5	honestly	honestly	ADV	_	B	8	advmod	_	_
+6	have	have	AUX	_	BP	8	aux	_	_
+7	never	never	ADV	_	B	8	neg	_	_
+8	heard	hear	VERB	_	BN	0	root	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	amounts	amount	NOUN	_	NS	9	pobj	_	_
+11	like	like	ADP	_	N	10	prep	_	_
+12	this	this	PRON	_	T	11	pobj	_	_
+13	for	for	ADP	_	N	8	prep	_	_
+14	one	one	NUM	_	D	16	nummod	_	_
+15	ER	er	NOUN	_	N	16	compound	_	_
+16	visit	visit	NOUN	_	N	13	pobj	_	_
+17	where	where	SCONJ	_	RB	22	advmod	_	_
+18	nothing	nothing	PRON	_	N	22	nsubjpass	_	_
+19	major	major	ADJ	_	J	18	amod	_	_
+20	was	be	AUX	_	BD	22	auxpass	_	_
+21	even	even	ADV	_	B	22	advmod	_	_
+22	done	do	VERB	_	BN	16	relcl	_	_
+23	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 35
+# text = It is scary.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	scary	scary	ADJ	_	J	2	acomp	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 36
+# text = The denial:
+1	The	the	DET	_	T	2	det	_	_
+2	denial	denial	NOUN	_	N	0	root	_	_
+3	:	:	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 37
+# text = The insurance denied all 9 claims.
+1	The	the	DET	_	T	2	det	_	_
+2	insurance	insurance	NOUN	_	N	3	nsubj	_	_
+3	denied	deny	VERB	_	BD	0	root	_	_
+4	all	all	DET	_	T	5	quantmod	_	_
+5	9	9	NUM	_	D	6	nummod	_	_
+6	claims	claim	NOUN	_	NS	3	dobj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 38
+# text = The EOB says Reason Code 23: "This condition is not covered due to Pre-existing limitation."
+1	The	the	DET	_	T	2	det	_	_
+2	EOB	eob	PROPN	_	NP	3	nsubj	_	_
+3	says	say	VERB	_	BZ	0	root	_	_
+4	Reason	reason	PROPN	_	NP	5	compound	_	_
+5	Code	code	PROPN	_	NP	3	nsubj	_	_
+6	23	23	NUM	_	D	5	nummod	_	_
+7	:	:	PUNCT	_	_	3	punct	_	_
+8	"	"	PUNCT	_	`	13	punct	_	_
+9	This	this	DET	_	T	10	det	_	_
+10	condition	condition	NOUN	_	N	13	nsubjpass	_	_
+11	is	be	AUX	_	BZ	13	auxpass	_	_
+12	not	not	PART	_	B	13	neg	_	_
+13	covered	cover	VERB	_	BN	3	ccomp	_	_
+14	due	due	ADP	_	N	13	prep	_	_
+15	to	to	ADP	_	N	14	pcomp	_	_
+16	Pre	pre	ADJ	_	J	19	amod	_	_
+17	-	-	ADJ	_	J	19	amod	_	_
+18	existing	existing	ADJ	_	J	19	amod	_	_
+19	limitation	limitation	NOUN	_	N	15	pobj	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
+21	"	"	PUNCT	_	'	3	punct	_	_
+
+
+# sent_id = 39
+# text = We already filed a first level written appeal.
+1	We	we	PRON	_	RP	3	nsubj	_	_
+2	already	already	ADV	_	B	3	advmod	_	_
+3	filed	file	VERB	_	BD	0	root	_	_
+4	a	a	DET	_	T	8	det	_	_
+5	first	first	ADJ	_	J	6	amod	_	_
+6	level	level	NOUN	_	N	8	nmod	_	_
+7	written	write	VERB	_	BN	8	amod	_	_
+8	appeal	appeal	NOUN	_	N	3	dobj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 40
+# text = The insurer denied that appeal too, again citing pre-existing.
+1	The	the	DET	_	T	2	det	_	_
+2	insurer	insurer	NOUN	_	N	3	nsubj	_	_
+3	denied	deny	VERB	_	BD	0	root	_	_
+4	that	that	DET	_	T	5	det	_	_
+5	appeal	appeal	NOUN	_	N	3	dobj	_	_
+6	too	too	ADV	_	B	3	advmod	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	again	again	ADV	_	B	9	advmod	_	_
+9	citing	cite	VERB	_	BG	3	advcl	_	_
+10	pre	pre	ADJ	_	J	9	acomp	_	_
+11	-	-	ADJ	_	J	9	dobj	_	_
+12	existing	existing	ADJ	_	J	9	conj	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 41
+# text = We have the written denial letter.
+1	We	we	PRON	_	RP	2	nsubj	_	_
+2	have	have	VERB	_	BP	0	root	_	_
+3	the	the	DET	_	T	6	det	_	_
+4	written	write	VERB	_	BN	6	amod	_	_
+5	denial	denial	NOUN	_	N	6	compound	_	_
+6	letter	letter	NOUN	_	N	2	dobj	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 42
+# text = Second level appeal is still available.
+1	Second	second	ADJ	_	J	2	amod	_	_
+2	level	level	NOUN	_	N	3	compound	_	_
+3	appeal	appeal	NOUN	_	N	4	nsubj	_	_
+4	is	be	AUX	_	BZ	0	root	_	_
+5	still	still	ADV	_	B	4	advmod	_	_
+6	available	available	ADJ	_	J	4	acomp	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 43
+# text = Why the pre-existing reason doesn't make sense to us:
+1	Why	why	SCONJ	_	RB	9	advmod	_	_
+2	the	the	DET	_	T	6	det	_	_
+3	pre	pre	ADJ	_	J	6	amod	_	_
+4	-	-	ADJ	_	J	6	amod	_	_
+5	existing	existing	ADJ	_	J	6	amod	_	_
+6	reason	reason	NOUN	_	N	9	nsubj	_	_
+7	does	do	AUX	_	BZ	9	aux	_	_
+8	n't	not	PART	_	B	9	neg	_	_
+9	make	make	VERB	_	B	0	root	_	_
+10	sense	sense	NOUN	_	N	9	dobj	_	_
+11	to	to	ADP	_	N	9	prep	_	_
+12	us	we	PRON	_	RP	11	pobj	_	_
+13	:	:	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 44
+# text = 1.
+1	1	1	X	_	S	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 45
+# text = The H pylori diagnosis was 4 days AFTER her coverage started, not before.
+1	The	the	DET	_	T	4	det	_	_
+2	H	h	PROPN	_	NP	4	compound	_	_
+3	pylori	pylori	NOUN	_	N	4	compound	_	_
+4	diagnosis	diagnosis	NOUN	_	N	5	nsubj	_	_
+5	was	be	AUX	_	BD	0	root	_	_
+6	4	4	NUM	_	D	7	nummod	_	_
+7	days	day	NOUN	_	NS	11	npadvmod	_	_
+8	AFTER	after	SCONJ	_	N	11	mark	_	_
+9	her	her	PRON	_	RP$	10	poss	_	_
+10	coverage	coverage	NOUN	_	N	11	nsubj	_	_
+11	started	start	VERB	_	BD	5	advcl	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	not	not	PART	_	B	14	neg	_	_
+14	before	before	ADV	_	B	11	advmod	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 46
+# text = There is no medical record of this condition existing before her policy began.
+1	There	there	PRON	_	X	2	expl	_	_
+2	is	be	VERB	_	BZ	0	root	_	_
+3	no	no	DET	_	T	5	det	_	_
+4	medical	medical	ADJ	_	J	5	amod	_	_
+5	record	record	NOUN	_	N	2	attr	_	_
+6	of	of	ADP	_	N	5	prep	_	_
+7	this	this	DET	_	T	8	det	_	_
+8	condition	condition	NOUN	_	N	6	pobj	_	_
+9	existing	exist	VERB	_	BG	5	acl	_	_
+10	before	before	SCONJ	_	N	13	mark	_	_
+11	her	her	PRON	_	RP$	12	poss	_	_
+12	policy	policy	NOUN	_	N	13	nsubj	_	_
+13	began	begin	VERB	_	BD	9	advcl	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 47
+# text = 2.
+1	2	2	X	_	S	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 48
+# text = The ER visit was caused by an adverse reaction to a drug she started taking AFTER coverage began.
+1	The	the	DET	_	T	3	det	_	_
+2	ER	er	PROPN	_	NP	3	compound	_	_
+3	visit	visit	NOUN	_	N	5	nsubjpass	_	_
+4	was	be	AUX	_	BD	5	auxpass	_	_
+5	caused	cause	VERB	_	BN	0	root	_	_
+6	by	by	ADP	_	N	5	agent	_	_
+7	an	an	DET	_	T	9	det	_	_
+8	adverse	adverse	ADJ	_	J	9	amod	_	_
+9	reaction	reaction	NOUN	_	N	6	pobj	_	_
+10	to	to	ADP	_	N	9	prep	_	_
+11	a	a	DET	_	T	12	det	_	_
+12	drug	drug	NOUN	_	N	10	pobj	_	_
+13	she	she	PRON	_	RP	14	nsubj	_	_
+14	started	start	VERB	_	BD	12	relcl	_	_
+15	taking	take	VERB	_	BG	14	xcomp	_	_
+16	AFTER	after	SCONJ	_	N	18	mark	_	_
+17	coverage	coverage	NOUN	_	N	18	nsubj	_	_
+18	began	begin	VERB	_	BD	5	advcl	_	_
+19	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 49
+# text = The drug did not exist in her body before her policy started.
+1	The	the	DET	_	T	2	det	_	_
+2	drug	drug	NOUN	_	N	5	nsubj	_	_
+3	did	do	AUX	_	BD	5	aux	_	_
+4	not	not	PART	_	B	5	neg	_	_
+5	exist	exist	VERB	_	B	0	root	_	_
+6	in	in	ADP	_	N	5	prep	_	_
+7	her	her	PRON	_	RP$	8	poss	_	_
+8	body	body	NOUN	_	N	6	pobj	_	_
+9	before	before	SCONJ	_	N	12	mark	_	_
+10	her	her	PRON	_	RP$	11	poss	_	_
+11	policy	policy	NOUN	_	N	12	nsubj	_	_
+12	started	start	VERB	_	BD	5	advcl	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 50
+# text = So how can a reaction to it be called pre-existing?
+1	So	so	ADV	_	B	9	advmod	_	_
+2	how	how	SCONJ	_	RB	9	advmod	_	_
+3	can	can	AUX	_	D	9	aux	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	reaction	reaction	NOUN	_	N	9	nsubjpass	_	_
+6	to	to	ADP	_	N	5	prep	_	_
+7	it	it	PRON	_	RP	6	pobj	_	_
+8	be	be	AUX	_	B	9	auxpass	_	_
+9	called	call	VERB	_	BN	0	root	_	_
+10	pre	pre	ADJ	_	J	9	oprd	_	_
+11	-	-	ADJ	_	J	9	oprd	_	_
+12	existing	exist	VERB	_	BG	9	oprd	_	_
+13	?	?	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 51
+# text = Two other things we recently found out:
+1	Two	two	NUM	_	D	3	nummod	_	_
+2	other	other	ADJ	_	J	3	amod	_	_
+3	things	thing	NOUN	_	NS	0	root	_	_
+4	we	we	PRON	_	RP	6	nsubj	_	_
+5	recently	recently	ADV	_	B	6	advmod	_	_
+6	found	find	VERB	_	BD	3	relcl	_	_
+7	out	out	ADP	_	P	6	prt	_	_
+8	:	:	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 52
+# text = The policy has an "Acute Onset of Pre-Existing Condition" benefit up to $25,000 that is supposed to apply even in cases where the insurer thinks something is pre-existing.
+1	The	the	DET	_	T	2	det	_	_
+2	policy	policy	NOUN	_	N	3	nsubj	_	_
+3	has	have	AUX	_	BZ	14	aux	_	_
+4	an	an	DET	_	T	7	det	_	_
+5	"	"	PUNCT	_	`	7	punct	_	_
+6	Acute	acute	PROPN	_	NP	7	compound	_	_
+7	Onset	onset	PROPN	_	NP	14	nsubj	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	Pre	pre	PROPN	_	NP	12	compound	_	_
+10	-	-	ADJ	_	J	12	amod	_	_
+11	Existing	existing	ADJ	_	J	12	amod	_	_
+12	Condition	condition	NOUN	_	N	8	pobj	_	_
+13	"	"	PUNCT	_	'	7	punct	_	_
+14	benefit	benefit	VERB	_	BP	0	root	_	_
+15	up	up	ADP	_	N	18	quantmod	_	_
+16	to	to	PART	_	O	18	quantmod	_	_
+17	$	$	SYM	_	_	18	quantmod	_	_
+18	25,000	25,000	NUM	_	D	14	dobj	_	_
+19	that	that	PRON	_	DT	21	nsubjpass	_	_
+20	is	be	AUX	_	BZ	21	auxpass	_	_
+21	supposed	suppose	VERB	_	BN	18	relcl	_	_
+22	to	to	PART	_	O	23	aux	_	_
+23	apply	apply	VERB	_	B	21	xcomp	_	_
+24	even	even	ADV	_	B	25	advmod	_	_
+25	in	in	ADP	_	N	23	prep	_	_
+26	cases	case	NOUN	_	NS	25	pobj	_	_
+27	where	where	SCONJ	_	RB	30	advmod	_	_
+28	the	the	DET	_	T	29	det	_	_
+29	insurer	insurer	NOUN	_	N	30	nsubj	_	_
+30	thinks	think	VERB	_	BZ	26	relcl	_	_
+31	something	something	PRON	_	N	32	nsubj	_	_
+32	is	be	AUX	_	BZ	33	auxpass	_	_
+33	pre	pre	ADJ	_	J	30	ccomp	_	_
+34	-	-	ADJ	_	J	30	ccomp	_	_
+35	existing	exist	VERB	_	BG	30	ccomp	_	_
+36	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 53
+# text = The insurer did not even address this benefit in either the original denial or the appeal denial.
+1	The	the	DET	_	T	2	det	_	_
+2	insurer	insurer	NOUN	_	N	6	nsubj	_	_
+3	did	do	AUX	_	BD	6	aux	_	_
+4	not	not	PART	_	B	6	neg	_	_
+5	even	even	ADV	_	B	6	advmod	_	_
+6	address	address	VERB	_	B	0	root	_	_
+7	this	this	DET	_	T	8	det	_	_
+8	benefit	benefit	NOUN	_	N	6	dobj	_	_
+9	in	in	ADP	_	N	6	prep	_	_
+10	either	either	CCONJ	_	C	13	preconj	_	_
+11	the	the	DET	_	T	13	det	_	_
+12	original	original	ADJ	_	J	13	amod	_	_
+13	denial	denial	NOUN	_	N	9	pobj	_	_
+14	or	or	CCONJ	_	C	13	cc	_	_
+15	the	the	DET	_	T	17	det	_	_
+16	appeal	appeal	NOUN	_	N	17	compound	_	_
+17	denial	denial	NOUN	_	N	13	conj	_	_
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 54
+# text = They just said pre-existing and closed the claim.
+1	They	they	PRON	_	RP	3	nsubj	_	_
+2	just	just	ADV	_	B	3	advmod	_	_
+3	said	say	VERB	_	BD	0	root	_	_
+4	pre	pre	ADJ	_	J	3	ccomp	_	_
+5	-	-	ADJ	_	J	3	ccomp	_	_
+6	existing	exist	VERB	_	BG	3	ccomp	_	_
+7	and	and	CCONJ	_	C	3	cc	_	_
+8	closed	close	VERB	_	BD	3	conj	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	claim	claim	NOUN	_	N	8	dobj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 55
+# text = Also, we recently got UnitedHealthcare's own paperwork that shows the freestanding ER she went to was actually out of network for her policy.
+1	Also	also	ADV	_	B	5	advmod	_	_
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	we	we	PRON	_	RP	5	nsubj	_	_
+4	recently	recently	ADV	_	B	5	advmod	_	_
+5	got	get	VERB	_	BD	0	root	_	_
+6	UnitedHealthcare	unitedhealthcare	PROPN	_	NP	9	poss	_	_
+7	's	's	PART	_	OS	6	case	_	_
+8	own	own	ADJ	_	J	9	amod	_	_
+9	paperwork	paperwork	NOUN	_	N	5	dobj	_	_
+10	that	that	PRON	_	DT	11	nsubj	_	_
+11	shows	show	VERB	_	BZ	9	relcl	_	_
+12	the	the	DET	_	T	14	det	_	_
+13	freestanding	freestande	VERB	_	BG	14	amod	_	_
+14	ER	er	INTJ	_	H	11	dobj	_	_
+15	she	she	PRON	_	RP	16	nsubj	_	_
+16	went	go	VERB	_	BD	11	ccomp	_	_
+17	to	to	ADP	_	N	16	prep	_	_
+18	was	be	AUX	_	BD	5	ccomp	_	_
+19	actually	actually	ADV	_	B	18	advmod	_	_
+20	out	out	ADP	_	N	18	prep	_	_
+21	of	of	ADP	_	N	20	prep	_	_
+22	network	network	NOUN	_	N	21	pobj	_	_
+23	for	for	ADP	_	N	22	prep	_	_
+24	her	her	PRON	_	RP$	25	poss	_	_
+25	policy	policy	NOUN	_	N	23	pobj	_	_
+26	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 56
+# text = When she arrived at the ER she asked the front desk if they took her insurance.
+1	When	when	SCONJ	_	RB	3	advmod	_	_
+2	she	she	PRON	_	RP	3	nsubj	_	_
+3	arrived	arrive	VERB	_	BD	8	advcl	_	_
+4	at	at	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	ER	er	PROPN	_	NP	4	pobj	_	_
+7	she	she	PRON	_	RP	8	nsubj	_	_
+8	asked	ask	VERB	_	BD	0	root	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	front	front	NOUN	_	N	11	compound	_	_
+11	desk	desk	NOUN	_	N	8	dobj	_	_
+12	if	if	SCONJ	_	N	14	mark	_	_
+13	they	they	PRON	_	RP	14	nsubj	_	_
+14	took	take	VERB	_	BD	8	advcl	_	_
+15	her	her	PRON	_	RP$	16	poss	_	_
+16	insurance	insurance	NOUN	_	N	14	dobj	_	_
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 57
+# text = The front desk said they were having issues verifying it and told her to just go see the doctor while they figured it out.
+1	The	the	DET	_	T	3	det	_	_
+2	front	front	ADJ	_	J	3	amod	_	_
+3	desk	desk	NOUN	_	N	4	nsubj	_	_
+4	said	say	VERB	_	BD	0	root	_	_
+5	they	they	PRON	_	RP	7	nsubj	_	_
+6	were	be	AUX	_	BD	7	aux	_	_
+7	having	have	VERB	_	BG	4	ccomp	_	_
+8	issues	issue	NOUN	_	NS	9	nsubj	_	_
+9	verifying	verify	VERB	_	BG	7	ccomp	_	_
+10	it	it	PRON	_	RP	9	dobj	_	_
+11	and	and	CCONJ	_	C	7	cc	_	_
+12	told	tell	VERB	_	BD	7	conj	_	_
+13	her	she	PRON	_	RP	12	dobj	_	_
+14	to	to	PART	_	O	16	aux	_	_
+15	just	just	ADV	_	B	16	advmod	_	_
+16	go	go	VERB	_	B	12	xcomp	_	_
+17	see	see	VERB	_	B	16	advcl	_	_
+18	the	the	DET	_	T	19	det	_	_
+19	doctor	doctor	NOUN	_	N	17	dobj	_	_
+20	while	while	SCONJ	_	N	22	mark	_	_
+21	they	they	PRON	_	RP	22	nsubj	_	_
+22	figured	figure	VERB	_	BD	16	advcl	_	_
+23	it	it	PRON	_	RP	22	dobj	_	_
+24	out	out	ADP	_	P	22	prt	_	_
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 58
+# text = Nobody ever told her the ER was out of network.
+1	Nobody	nobody	PRON	_	N	3	nsubj	_	_
+2	ever	ever	ADV	_	B	3	advmod	_	_
+3	told	tell	VERB	_	BD	0	root	_	_
+4	her	she	PRON	_	RP	3	dobj	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	ER	er	PROPN	_	NP	7	nsubj	_	_
+7	was	be	AUX	_	BD	3	ccomp	_	_
+8	out	out	ADP	_	N	7	prep	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	network	network	NOUN	_	N	9	pobj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 59
+# text = She had no way to know.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	had	have	VERB	_	BD	0	root	_	_
+3	no	no	DET	_	T	4	det	_	_
+4	way	way	NOUN	_	N	2	dobj	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	know	know	VERB	_	B	4	relcl	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 60
+# text = Time is running out:
+1	Time	time	NOUN	_	N	3	nsubj	_	_
+2	is	be	AUX	_	BZ	3	aux	_	_
+3	running	run	VERB	_	BG	0	root	_	_
+4	out	out	ADV	_	B	3	prt	_	_
+5	:	:	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 61
+# text = Her policy has a mandatory arbitration clause with a 60 day opt out window that closes in about 3 weeks.
+1	Her	her	PRON	_	RP$	2	poss	_	_
+2	policy	policy	NOUN	_	N	3	nsubj	_	_
+3	has	have	VERB	_	BZ	0	root	_	_
+4	a	a	DET	_	T	7	det	_	_
+5	mandatory	mandatory	ADJ	_	J	7	amod	_	_
+6	arbitration	arbitration	NOUN	_	N	7	compound	_	_
+7	clause	clause	NOUN	_	N	3	dobj	_	_
+8	with	with	ADP	_	N	3	prep	_	_
+9	a	a	DET	_	T	11	det	_	_
+10	60	60	NUM	_	D	11	nummod	_	_
+11	day	day	NOUN	_	N	8	pobj	_	_
+12	opt	opt	VERB	_	B	3	advcl	_	_
+13	out	out	ADP	_	P	12	prt	_	_
+14	window	window	NOUN	_	N	12	dobj	_	_
+15	that	that	PRON	_	DT	16	nsubj	_	_
+16	closes	close	VERB	_	BZ	14	relcl	_	_
+17	in	in	ADP	_	N	16	prep	_	_
+18	about	about	ADV	_	B	19	quantmod	_	_
+19	3	3	NUM	_	D	20	nummod	_	_
+20	weeks	week	NOUN	_	NS	17	pobj	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 62
+# text = If she doesn't opt out, she loses the ability to fight this in a normal court and is stuck with JAMS arbitration in Houston.
+1	If	if	SCONJ	_	N	5	mark	_	_
+2	she	she	PRON	_	RP	5	nsubj	_	_
+3	does	do	AUX	_	BZ	5	aux	_	_
+4	n't	not	PART	_	B	5	neg	_	_
+5	opt	opt	VERB	_	B	9	advcl	_	_
+6	out	out	ADP	_	P	5	prt	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	she	she	PRON	_	RP	9	nsubj	_	_
+9	loses	lose	VERB	_	BZ	0	root	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	ability	ability	NOUN	_	N	9	dobj	_	_
+12	to	to	PART	_	O	13	aux	_	_
+13	fight	fight	VERB	_	B	11	acl	_	_
+14	this	this	PRON	_	T	13	dobj	_	_
+15	in	in	ADP	_	N	13	prep	_	_
+16	a	a	DET	_	T	18	det	_	_
+17	normal	normal	ADJ	_	J	18	amod	_	_
+18	court	court	NOUN	_	N	15	pobj	_	_
+19	and	and	CCONJ	_	C	9	cc	_	_
+20	is	be	AUX	_	BZ	21	auxpass	_	_
+21	stuck	stick	VERB	_	BN	9	conj	_	_
+22	with	with	ADP	_	N	21	prep	_	_
+23	JAMS	jams	PROPN	_	NP	24	compound	_	_
+24	arbitration	arbitration	NOUN	_	N	22	pobj	_	_
+25	in	in	ADP	_	N	24	prep	_	_
+26	Houston	houston	PROPN	_	NP	25	pobj	_	_
+27	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 63
+# text = The second level appeal deadline is roughly 90 days after that.
+1	The	the	DET	_	T	5	det	_	_
+2	second	second	ADJ	_	J	3	amod	_	_
+3	level	level	NOUN	_	N	5	compound	_	_
+4	appeal	appeal	NOUN	_	N	5	compound	_	_
+5	deadline	deadline	NOUN	_	N	6	nsubj	_	_
+6	is	be	AUX	_	BZ	0	root	_	_
+7	roughly	roughly	ADV	_	B	8	advmod	_	_
+8	90	90	NUM	_	D	9	nummod	_	_
+9	days	day	NOUN	_	NS	10	npadvmod	_	_
+10	after	after	ADP	_	N	6	prep	_	_
+11	that	that	PRON	_	T	10	pobj	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 64
+# text = What we are asking for:
+1	What	what	PRON	_	P	5	pobj	_	_
+2	we	we	PRON	_	RP	4	nsubj	_	_
+3	are	be	AUX	_	BP	4	aux	_	_
+4	asking	ask	VERB	_	BG	0	root	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	:	:	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 65
+# text = 1. Texas attorney recommendations for insurance appeals, travel medical insurance denials, or freestanding ER billing disputes.
+1	1	1	X	_	S	5	meta	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	Texas	texas	PROPN	_	NP	5	compound	_	_
+4	attorney	attorney	NOUN	_	N	5	compound	_	_
+5	recommendations	recommendation	NOUN	_	NS	0	root	_	_
+6	for	for	ADP	_	N	5	prep	_	_
+7	insurance	insurance	NOUN	_	N	8	compound	_	_
+8	appeals	appeal	NOUN	_	NS	6	pobj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	travel	travel	NOUN	_	N	13	compound	_	_
+11	medical	medical	ADJ	_	J	12	amod	_	_
+12	insurance	insurance	NOUN	_	N	13	compound	_	_
+13	denials	denial	NOUN	_	NS	8	conj	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	or	or	CCONJ	_	C	13	cc	_	_
+16	freestanding	freestande	VERB	_	BG	5	acl	_	_
+17	ER	er	PROPN	_	NP	19	compound	_	_
+18	billing	billing	NOUN	_	N	19	compound	_	_
+19	disputes	dispute	NOUN	_	NS	16	dobj	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 66
+# text = She has very limited income as a student so pro bono or contingency fee would be ideal.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	has	have	VERB	_	BZ	0	root	_	_
+3	very	very	ADV	_	B	4	advmod	_	_
+4	limited	limited	ADJ	_	J	5	amod	_	_
+5	income	income	NOUN	_	N	2	dobj	_	_
+6	as	as	ADP	_	N	5	prep	_	_
+7	a	a	DET	_	T	8	det	_	_
+8	student	student	NOUN	_	N	11	nmod	_	_
+9	so	so	ADV	_	B	10	advmod	_	_
+10	pro	pro	X	_	W	11	advmod	_	_
+11	bono	bono	X	_	W	14	nmod	_	_
+12	or	or	CCONJ	_	C	11	cc	_	_
+13	contingency	contingency	NOUN	_	N	14	compound	_	_
+14	fee	fee	NOUN	_	N	6	pobj	_	_
+15	would	would	AUX	_	D	16	aux	_	_
+16	be	be	AUX	_	B	2	ccomp	_	_
+17	ideal	ideal	ADJ	_	J	16	acomp	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 67
+# text = 2.
+1	2	2	X	_	S	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 68
+# text = Anyone who has successfully beaten a travel medical insurer's pre-existing denial.
+1	Anyone	anyone	PRON	_	N	0	root	_	_
+2	who	who	PRON	_	P	5	nsubj	_	_
+3	has	have	AUX	_	BZ	5	aux	_	_
+4	successfully	successfully	ADV	_	B	5	advmod	_	_
+5	beaten	beat	VERB	_	BN	1	relcl	_	_
+6	a	a	DET	_	T	9	det	_	_
+7	travel	travel	NOUN	_	N	9	nmod	_	_
+8	medical	medical	ADJ	_	J	9	amod	_	_
+9	insurer	insurer	NOUN	_	N	14	poss	_	_
+10	's	's	PART	_	OS	9	case	_	_
+11	pre	pre	ADJ	_	J	14	amod	_	_
+12	-	-	ADJ	_	J	14	amod	_	_
+13	existing	existing	ADJ	_	J	14	amod	_	_
+14	denial	denial	NOUN	_	N	5	dobj	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 69
+# text = What arguments worked?
+1	What	what	DET	_	DT	2	det	_	_
+2	arguments	argument	NOUN	_	NS	3	nsubj	_	_
+3	worked	work	VERB	_	BD	0	root	_	_
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 70
+# text = What documentation was decisive?
+1	What	what	DET	_	DT	2	det	_	_
+2	documentation	documentation	NOUN	_	N	3	nsubj	_	_
+3	was	be	AUX	_	BD	0	root	_	_
+4	decisive	decisive	ADJ	_	J	3	acomp	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 71
+# text = 3. Should she opt out of the arbitration clause before the deadline or stay in?
+1	3	3	X	_	S	5	meta	_	_
+2	.	.	X	_	S	1	punct	_	_
+3	Should	should	AUX	_	D	5	aux	_	_
+4	she	she	PRON	_	RP	5	nsubj	_	_
+5	opt	opt	VERB	_	B	0	root	_	_
+6	out	out	ADP	_	N	5	prep	_	_
+7	of	of	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	arbitration	arbitration	NOUN	_	N	10	compound	_	_
+10	clause	clause	NOUN	_	N	7	pobj	_	_
+11	before	before	ADP	_	N	5	prep	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	deadline	deadline	NOUN	_	N	11	pobj	_	_
+14	or	or	CCONJ	_	C	5	cc	_	_
+15	stay	stay	VERB	_	B	5	conj	_	_
+16	in	in	ADP	_	N	15	advmod	_	_
+17	?	?	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 72
+# text = 4.
+1	4	4	X	_	S	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 73
+# text = Any patient advocates or nonprofits that help international students with medical debt in the US.
+1	Any	any	DET	_	T	3	det	_	_
+2	patient	patient	ADJ	_	J	3	compound	_	_
+3	advocates	advocate	NOUN	_	NS	0	root	_	_
+4	or	or	CCONJ	_	C	3	cc	_	_
+5	nonprofits	nonprofit	NOUN	_	NS	3	conj	_	_
+6	that	that	PRON	_	DT	7	nsubj	_	_
+7	help	help	VERB	_	BP	5	relcl	_	_
+8	international	international	ADJ	_	J	9	amod	_	_
+9	students	student	NOUN	_	NS	7	dobj	_	_
+10	with	with	ADP	_	N	9	prep	_	_
+11	medical	medical	ADJ	_	J	12	amod	_	_
+12	debt	debt	NOUN	_	N	10	pobj	_	_
+13	in	in	ADP	_	N	7	prep	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	US	us	PROPN	_	NP	13	pobj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 74
+# text = She is really scared and stressed and doesn't know what to do.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	really	really	ADV	_	B	4	advmod	_	_
+4	scared	scared	ADJ	_	J	2	acomp	_	_
+5	and	and	CCONJ	_	C	2	cc	_	_
+6	stressed	stress	VERB	_	BD	2	conj	_	_
+7	and	and	CCONJ	_	C	6	cc	_	_
+8	does	do	AUX	_	BZ	10	aux	_	_
+9	n't	not	PART	_	B	10	neg	_	_
+10	know	know	VERB	_	B	6	conj	_	_
+11	what	what	PRON	_	P	13	dobj	_	_
+12	to	to	PART	_	O	13	aux	_	_
+13	do	do	VERB	_	B	10	xcomp	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 75
+# text = If anyone has been through something similar or knows someone who can help, please share.
+1	If	if	SCONJ	_	N	4	mark	_	_
+2	anyone	anyone	PRON	_	N	4	nsubj	_	_
+3	has	have	AUX	_	BZ	4	aux	_	_
+4	been	be	AUX	_	BN	16	advcl	_	_
+5	through	through	ADP	_	N	4	prep	_	_
+6	something	something	PRON	_	N	5	pobj	_	_
+7	similar	similar	ADJ	_	J	6	amod	_	_
+8	or	or	CCONJ	_	C	4	cc	_	_
+9	knows	know	VERB	_	BZ	4	conj	_	_
+10	someone	someone	PRON	_	N	9	dobj	_	_
+11	who	who	PRON	_	P	13	nsubj	_	_
+12	can	can	AUX	_	D	13	aux	_	_
+13	help	help	VERB	_	B	10	relcl	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	please	please	INTJ	_	H	16	intj	_	_
+16	share	share	VERB	_	B	0	root	_	_
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+
+# sent_id = 76
+# text = Any advice at all means a lot.
+1	Any	any	DET	_	T	2	det	_	_
+2	advice	advice	NOUN	_	N	5	nsubj	_	_
+3	at	at	ADV	_	B	4	advmod	_	_
+4	all	all	PRON	_	T	2	advmod	_	_
+5	means	mean	NOUN	_	NS	0	root	_	_
+6	a	a	DET	_	T	7	det	_	_
+7	lot	lot	NOUN	_	N	5	dobj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 77
+# text = Thanks so much for reading.
+1	Thanks	thank	NOUN	_	NS	0	root	_	_
+2	so	so	ADV	_	B	3	advmod	_	_
+3	much	much	ADV	_	B	1	advmod	_	_
+4	for	for	ADP	_	N	1	prep	_	_
+5	reading	read	VERB	_	BG	4	pobj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+

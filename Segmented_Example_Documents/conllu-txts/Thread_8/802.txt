@@ -1,0 +1,137 @@
+# sent_id = 1
+# text = Thread_8
+1	Thread_8	thread_8	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 802
+1	802	802	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 801
+1	801	801	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Quick-Permission3566
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Quick	quick	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Permission3566	permission3566	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = The insurance said its not medically necessary.
+1	The	the	DET	_	T	2	det	_	_
+2	insurance	insurance	NOUN	_	N	3	nsubj	_	_
+3	said	say	VERB	_	BD	0	root	_	_
+4	its	its	PRON	_	RP$	7	nsubj	_	_
+5	not	not	PART	_	B	7	neg	_	_
+6	medically	medically	ADV	_	B	7	advmod	_	_
+7	necessary	necessary	ADJ	_	J	3	ccomp	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = I had a bone infection 2 years ago in my back that has caused a lot of damage.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	had	have	VERB	_	BD	0	root	_	_
+3	a	a	DET	_	T	5	det	_	_
+4	bone	bone	NOUN	_	N	5	compound	_	_
+5	infection	infection	NOUN	_	N	2	dobj	_	_
+6	2	2	NUM	_	D	7	nummod	_	_
+7	years	year	NOUN	_	NS	8	npadvmod	_	_
+8	ago	ago	ADV	_	B	2	advmod	_	_
+9	in	in	ADP	_	N	2	prep	_	_
+10	my	my	PRON	_	RP$	11	poss	_	_
+11	back	back	NOUN	_	N	9	pobj	_	_
+12	that	that	PRON	_	DT	14	nsubj	_	_
+13	has	have	AUX	_	BZ	14	aux	_	_
+14	caused	cause	VERB	_	BN	11	relcl	_	_
+15	a	a	DET	_	T	16	det	_	_
+16	lot	lot	NOUN	_	N	14	dobj	_	_
+17	of	of	ADP	_	N	16	prep	_	_
+18	damage	damage	NOUN	_	N	17	pobj	_	_
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = I fell back in June, they did some xrays that made them think the infection was back.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	fell	fall	VERB	_	BD	8	ccomp	_	_
+3	back	back	ADV	_	B	2	advmod	_	_
+4	in	in	ADP	_	N	2	prep	_	_
+5	June	june	PROPN	_	NP	4	pobj	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	they	they	PRON	_	RP	8	nsubj	_	_
+8	did	do	VERB	_	BD	0	root	_	_
+9	some	some	DET	_	T	10	det	_	_
+10	xrays	xray	NOUN	_	NS	8	dobj	_	_
+11	that	that	PRON	_	DT	12	nsubj	_	_
+12	made	make	VERB	_	BD	10	relcl	_	_
+13	them	they	PRON	_	RP	14	nsubj	_	_
+14	think	think	VERB	_	B	12	ccomp	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	infection	infection	NOUN	_	N	17	nsubj	_	_
+17	was	be	AUX	_	BD	14	ccomp	_	_
+18	back	back	ADV	_	B	17	advmod	_	_
+19	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 8
+# text = The first MRI showed chronic changes but at the time they couldn't determine if it was an active infection or just residual damage from before.
+1	The	the	DET	_	T	3	det	_	_
+2	first	first	ADJ	_	J	3	amod	_	_
+3	MRI	mri	PROPN	_	NP	4	nsubj	_	_
+4	showed	show	VERB	_	BD	0	root	_	_
+5	chronic	chronic	ADJ	_	J	6	amod	_	_
+6	changes	change	NOUN	_	NS	4	dobj	_	_
+7	but	but	CCONJ	_	C	4	cc	_	_
+8	at	at	ADP	_	N	14	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	time	time	NOUN	_	N	8	pobj	_	_
+11	they	they	PRON	_	RP	14	nsubj	_	_
+12	could	could	AUX	_	D	14	aux	_	_
+13	n't	not	PART	_	B	14	neg	_	_
+14	determine	determine	VERB	_	B	4	conj	_	_
+15	if	if	SCONJ	_	N	17	mark	_	_
+16	it	it	PRON	_	RP	17	nsubj	_	_
+17	was	be	AUX	_	BD	14	ccomp	_	_
+18	an	an	DET	_	T	20	det	_	_
+19	active	active	ADJ	_	J	20	amod	_	_
+20	infection	infection	NOUN	_	N	17	attr	_	_
+21	or	or	CCONJ	_	C	20	cc	_	_
+22	just	just	ADV	_	B	23	advmod	_	_
+23	residual	residual	ADJ	_	J	24	amod	_	_
+24	damage	damage	NOUN	_	N	20	conj	_	_
+25	from	from	ADP	_	N	20	prep	_	_
+26	before	before	ADV	_	B	25	pcomp	_	_
+27	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 9
+# text = They wanted to do a 90 day check in to see if there was a rapid progression of damage.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	wanted	want	VERB	_	BD	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	do	do	VERB	_	B	2	xcomp	_	_
+5	a	a	DET	_	T	8	det	_	_
+6	90	90	NUM	_	D	7	nummod	_	_
+7	day	day	NOUN	_	N	8	compound	_	_
+8	check	check	NOUN	_	N	4	dobj	_	_
+9	in	in	ADP	_	P	8	prt	_	_
+10	to	to	PART	_	O	11	aux	_	_
+11	see	see	VERB	_	B	4	advcl	_	_
+12	if	if	SCONJ	_	N	14	mark	_	_
+13	there	there	PRON	_	X	14	expl	_	_
+14	was	be	VERB	_	BD	11	ccomp	_	_
+15	a	a	DET	_	T	17	det	_	_
+16	rapid	rapid	ADJ	_	J	17	amod	_	_
+17	progression	progression	NOUN	_	N	14	attr	_	_
+18	of	of	ADP	_	N	17	prep	_	_
+19	damage	damage	NOUN	_	N	18	pobj	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+

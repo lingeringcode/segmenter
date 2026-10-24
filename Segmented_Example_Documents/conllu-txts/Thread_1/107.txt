@@ -1,0 +1,29 @@
+# sent_id = 1
+# text = Thread_1
+1	Thread_1	thread_1	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 107
+1	107	107	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 105
+1	105	105	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/CallingYouForMoney
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	CallingYouForMoney	callingyouformoney	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = Cute deleted comment
+1	Cute	cute	ADJ	_	J	3	amod	_	_
+2	deleted	delete	VERB	_	BN	3	amod	_	_
+3	comment	comment	NOUN	_	N	0	root	_	_
+
+

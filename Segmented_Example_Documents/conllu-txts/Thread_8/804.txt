@@ -1,0 +1,85 @@
+# sent_id = 1
+# text = Thread_8
+1	Thread_8	thread_8	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 804
+1	804	804	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 803
+1	803	803	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Quick-Permission3566
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Quick	quick	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Permission3566	permission3566	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = I just learned this myself.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	just	just	ADV	_	B	3	advmod	_	_
+3	learned	learn	VERB	_	BD	0	root	_	_
+4	this	this	PRON	_	T	3	dobj	_	_
+5	myself	myself	PRON	_	RP	3	npadvmod	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = I tried calling my insurance to see what I can do as the provider won't answer me and they told me the provider has to submit the documentation for the appeal.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	tried	try	VERB	_	BD	0	root	_	_
+3	calling	call	VERB	_	BG	2	xcomp	_	_
+4	my	my	PRON	_	RP$	5	poss	_	_
+5	insurance	insurance	NOUN	_	N	3	dobj	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	see	see	VERB	_	B	3	advcl	_	_
+8	what	what	PRON	_	P	11	dobj	_	_
+9	I	i	PRON	_	RP	11	nsubj	_	_
+10	can	can	AUX	_	D	11	aux	_	_
+11	do	do	VERB	_	B	7	ccomp	_	_
+12	as	as	SCONJ	_	N	17	mark	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	provider	provider	NOUN	_	N	17	nsubj	_	_
+15	wo	will	AUX	_	D	17	aux	_	_
+16	n't	not	PART	_	B	17	neg	_	_
+17	answer	answer	VERB	_	B	11	advcl	_	_
+18	me	i	PRON	_	RP	17	dobj	_	_
+19	and	and	CCONJ	_	C	2	cc	_	_
+20	they	they	PRON	_	RP	21	nsubj	_	_
+21	told	tell	VERB	_	BD	2	conj	_	_
+22	me	i	PRON	_	RP	21	dobj	_	_
+23	the	the	DET	_	T	24	det	_	_
+24	provider	provider	NOUN	_	N	25	nsubj	_	_
+25	has	have	VERB	_	BZ	21	ccomp	_	_
+26	to	to	PART	_	O	27	aux	_	_
+27	submit	submit	VERB	_	B	25	xcomp	_	_
+28	the	the	DET	_	T	29	det	_	_
+29	documentation	documentation	NOUN	_	N	27	dobj	_	_
+30	for	for	ADP	_	N	29	prep	_	_
+31	the	the	DET	_	T	32	det	_	_
+32	appeal	appeal	NOUN	_	N	30	pobj	_	_
+33	.	.	PUNCT	_	_	21	punct	_	_
+
+
+# sent_id = 7
+# text = There is nothing I can do at this point.
+1	There	there	PRON	_	X	2	expl	_	_
+2	is	be	VERB	_	BZ	0	root	_	_
+3	nothing	nothing	PRON	_	N	2	attr	_	_
+4	I	i	PRON	_	RP	6	nsubj	_	_
+5	can	can	AUX	_	D	6	aux	_	_
+6	do	do	VERB	_	B	3	relcl	_	_
+7	at	at	ADP	_	N	6	prep	_	_
+8	this	this	DET	_	T	9	det	_	_
+9	point	point	NOUN	_	N	7	pobj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+

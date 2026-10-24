@@ -1,0 +1,50 @@
+# sent_id = 1
+# text = Thread_17
+1	Thread_17	thread_17	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1703
+1	1703	1703	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1700
+1	1700	1700	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Jcarlough
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Jcarlough	jcarlough	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = Get a copy of the Summary Plan Description for both the highmark and the new plan.
+1	Get	get	VERB	_	B	0	root	_	_
+2	a	a	DET	_	T	3	det	_	_
+3	copy	copy	NOUN	_	N	1	dobj	_	_
+4	of	of	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	8	det	_	_
+6	Summary	summary	PROPN	_	NP	7	compound	_	_
+7	Plan	plan	PROPN	_	NP	8	compound	_	_
+8	Description	description	PROPN	_	NP	4	pobj	_	_
+9	for	for	ADP	_	N	1	prep	_	_
+10	both	both	CCONJ	_	C	12	preconj	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	highmark	highmark	NOUN	_	N	9	pobj	_	_
+13	and	and	CCONJ	_	C	12	cc	_	_
+14	the	the	DET	_	T	16	det	_	_
+15	new	new	ADJ	_	J	16	amod	_	_
+16	plan	plan	NOUN	_	N	12	conj	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = Review them.
+1	Review	review	VERB	_	B	0	root	_	_
+2	them	they	PRON	_	RP	1	dobj	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+

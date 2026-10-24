@@ -1,0 +1,265 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1200
+1	1200	1200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/DeepFriarMediaReal
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	DeepFriarMediaReal	deepfriarmediareal	NOUN	_	N	1	conj	_	_
+
+
+# sent_id = 5
+# text = Insurance Denial for medication advice
+1	Insurance	insurance	NOUN	_	N	2	compound	_	_
+2	Denial	denial	PROPN	_	NP	0	root	_	_
+3	for	for	ADP	_	N	2	prep	_	_
+4	medication	medication	NOUN	_	N	5	compound	_	_
+5	advice	advice	NOUN	_	N	3	pobj	_	_
+
+
+# sent_id = 6
+# text = Hello Internet!
+1	Hello	hello	PROPN	_	NP	2	compound	_	_
+2	Internet	internet	PROPN	_	NP	0	root	_	_
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = I am currently doing battle with my insurance provider.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	am	be	AUX	_	BP	4	aux	_	_
+3	currently	currently	ADV	_	B	4	advmod	_	_
+4	doing	do	VERB	_	BG	0	root	_	_
+5	battle	battle	NOUN	_	N	4	dobj	_	_
+6	with	with	ADP	_	N	5	prep	_	_
+7	my	my	PRON	_	RP$	9	poss	_	_
+8	insurance	insurance	NOUN	_	N	9	compound	_	_
+9	provider	provider	NOUN	_	N	6	pobj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 8
+# text = I have been diagnosed with and am currently receiving treatment for moderate plaque psoriasis.
+1	I	i	PRON	_	RP	4	nsubjpass	_	_
+2	have	have	AUX	_	BP	4	aux	_	_
+3	been	be	AUX	_	BN	4	auxpass	_	_
+4	diagnosed	diagnose	VERB	_	BN	0	root	_	_
+5	with	with	ADP	_	N	4	prep	_	_
+6	and	and	CCONJ	_	C	4	cc	_	_
+7	am	be	AUX	_	BP	9	aux	_	_
+8	currently	currently	ADV	_	B	9	advmod	_	_
+9	receiving	receive	VERB	_	BG	4	conj	_	_
+10	treatment	treatment	NOUN	_	N	9	dobj	_	_
+11	for	for	ADP	_	N	10	prep	_	_
+12	moderate	moderate	ADJ	_	J	14	amod	_	_
+13	plaque	plaque	NOUN	_	N	14	compound	_	_
+14	psoriasis	psoriasis	NOUN	_	N	11	pobj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = I was approved for Tremfya on a previous plan without the need to go through step therapy.
+1	I	i	PRON	_	RP	3	nsubjpass	_	_
+2	was	be	AUX	_	BD	3	auxpass	_	_
+3	approved	approve	VERB	_	BN	0	root	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	Tremfya	tremfya	PROPN	_	NP	4	pobj	_	_
+6	on	on	ADP	_	N	3	prep	_	_
+7	a	a	DET	_	T	9	det	_	_
+8	previous	previous	ADJ	_	J	9	amod	_	_
+9	plan	plan	NOUN	_	N	6	pobj	_	_
+10	without	without	ADP	_	N	9	prep	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	need	need	NOUN	_	N	10	pobj	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	go	go	VERB	_	B	12	acl	_	_
+15	through	through	ADP	_	N	14	prep	_	_
+16	step	step	NOUN	_	N	17	compound	_	_
+17	therapy	therapy	NOUN	_	N	15	pobj	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 10
+# text = When I changed jobs and plans the new plan approved my Tremfya as a continuation of care without a single issue.
+1	When	when	SCONJ	_	RB	3	advmod	_	_
+2	I	i	PRON	_	RP	3	nsubj	_	_
+3	changed	change	VERB	_	BD	0	root	_	_
+4	jobs	job	NOUN	_	NS	3	dobj	_	_
+5	and	and	CCONJ	_	C	3	cc	_	_
+6	plans	plan	VERB	_	BZ	3	conj	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	new	new	ADJ	_	J	9	amod	_	_
+9	plan	plan	NOUN	_	N	10	nsubj	_	_
+10	approved	approve	VERB	_	BD	6	ccomp	_	_
+11	my	my	PRON	_	RP$	12	poss	_	_
+12	Tremfya	tremfya	PROPN	_	NP	10	dobj	_	_
+13	as	as	ADP	_	N	10	prep	_	_
+14	a	a	DET	_	T	15	det	_	_
+15	continuation	continuation	NOUN	_	N	13	pobj	_	_
+16	of	of	ADP	_	N	15	prep	_	_
+17	care	care	NOUN	_	N	16	pobj	_	_
+18	without	without	ADP	_	N	15	prep	_	_
+19	a	a	DET	_	T	21	det	_	_
+20	single	single	ADJ	_	J	21	amod	_	_
+21	issue	issue	NOUN	_	N	18	pobj	_	_
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 11
+# text = My condition is much better than it was before starting treatment but due to the dosing schedule of Tremfya, my doctor
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	condition	condition	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	much	much	ADV	_	B	5	advmod	_	_
+5	better	well	ADJ	_	JR	3	acomp	_	_
+6	than	than	SCONJ	_	N	8	mark	_	_
+7	it	it	PRON	_	RP	8	nsubj	_	_
+8	was	be	AUX	_	BD	5	advcl	_	_
+9	before	before	ADP	_	N	8	prep	_	_
+10	starting	start	VERB	_	BG	9	pcomp	_	_
+11	treatment	treatment	NOUN	_	N	10	dobj	_	_
+12	but	but	CCONJ	_	C	3	cc	_	_
+13	due	due	ADP	_	N	3	conj	_	_
+14	to	to	ADP	_	N	13	pcomp	_	_
+15	the	the	DET	_	T	17	det	_	_
+16	dosing	dose	VERB	_	BG	17	amod	_	_
+17	schedule	schedule	NOUN	_	N	13	pobj	_	_
+18	of	of	ADP	_	N	17	prep	_	_
+19	Tremfya	tremfya	PROPN	_	NP	18	pobj	_	_
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	my	my	PRON	_	RP$	22	poss	_	_
+22	doctor	doctor	NOUN	_	N	3	punct	_	_
+
+
+# sent_id = 12
+# text = and I agreed that a drug with a more frequent dosing schedule would be beneficial as I tend to get flare ups towards the end of a dosing cycle.
+1	and	and	CCONJ	_	C	3	cc	_	_
+2	I	i	PRON	_	RP	3	nsubj	_	_
+3	agreed	agree	VERB	_	BD	0	root	_	_
+4	that	that	SCONJ	_	N	14	mark	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	drug	drug	NOUN	_	N	14	nsubj	_	_
+7	with	with	ADP	_	N	6	prep	_	_
+8	a	a	DET	_	T	12	det	_	_
+9	more	more	ADV	_	BR	10	advmod	_	_
+10	frequent	frequent	ADJ	_	J	12	amod	_	_
+11	dosing	dose	VERB	_	BG	12	amod	_	_
+12	schedule	schedule	NOUN	_	N	7	pobj	_	_
+13	would	would	AUX	_	D	14	aux	_	_
+14	be	be	AUX	_	B	3	ccomp	_	_
+15	beneficial	beneficial	ADJ	_	J	14	acomp	_	_
+16	as	as	SCONJ	_	N	18	mark	_	_
+17	I	i	PRON	_	RP	18	nsubj	_	_
+18	tend	tend	VERB	_	BP	14	advcl	_	_
+19	to	to	PART	_	O	20	aux	_	_
+20	get	get	VERB	_	B	18	xcomp	_	_
+21	flare	flare	NOUN	_	N	22	compound	_	_
+22	ups	up	NOUN	_	NS	20	dobj	_	_
+23	towards	towards	ADP	_	N	22	prep	_	_
+24	the	the	DET	_	T	25	det	_	_
+25	end	end	NOUN	_	N	23	pobj	_	_
+26	of	of	ADP	_	N	25	prep	_	_
+27	a	a	DET	_	T	29	det	_	_
+28	dosing	dose	VERB	_	BG	29	amod	_	_
+29	cycle	cycle	NOUN	_	N	26	pobj	_	_
+30	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 13
+# text = They put in a prescription for Taltz and that was denied citing medical necessity and the fact that I had not gone through step therapy.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	put	put	VERB	_	BD	0	root	_	_
+3	in	in	ADP	_	P	2	prt	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	prescription	prescription	NOUN	_	N	2	dobj	_	_
+6	for	for	ADP	_	N	5	prep	_	_
+7	Taltz	taltz	PROPN	_	NP	6	pobj	_	_
+8	and	and	CCONJ	_	C	2	cc	_	_
+9	that	that	PRON	_	T	11	nsubjpass	_	_
+10	was	be	AUX	_	BD	11	auxpass	_	_
+11	denied	deny	VERB	_	BN	2	conj	_	_
+12	citing	cite	VERB	_	BG	11	xcomp	_	_
+13	medical	medical	ADJ	_	J	14	amod	_	_
+14	necessity	necessity	NOUN	_	N	12	dobj	_	_
+15	and	and	CCONJ	_	C	11	cc	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	fact	fact	NOUN	_	N	11	conj	_	_
+18	that	that	SCONJ	_	N	22	mark	_	_
+19	I	i	PRON	_	RP	22	nsubj	_	_
+20	had	have	AUX	_	BD	22	aux	_	_
+21	not	not	PART	_	B	22	neg	_	_
+22	gone	go	VERB	_	BN	17	acl	_	_
+23	through	through	ADP	_	N	22	prep	_	_
+24	step	step	NOUN	_	N	25	compound	_	_
+25	therapy	therapy	NOUN	_	N	23	pobj	_	_
+26	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 14
+# text = We appealed and they upheld the denial despite the fact that I am on a similar and more expensive drug.
+1	We	we	PRON	_	RP	2	nsubj	_	_
+2	appealed	appeal	VERB	_	BD	0	root	_	_
+3	and	and	CCONJ	_	C	2	cc	_	_
+4	they	they	PRON	_	RP	5	nsubj	_	_
+5	upheld	uphold	VERB	_	BD	2	conj	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	denial	denial	NOUN	_	N	5	dobj	_	_
+8	despite	despite	SCONJ	_	N	5	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	fact	fact	NOUN	_	N	8	pobj	_	_
+11	that	that	SCONJ	_	N	13	mark	_	_
+12	I	i	PRON	_	RP	13	nsubj	_	_
+13	am	be	AUX	_	BP	10	acl	_	_
+14	on	on	ADP	_	N	13	prep	_	_
+15	a	a	DET	_	T	20	det	_	_
+16	similar	similar	ADJ	_	J	20	amod	_	_
+17	and	and	CCONJ	_	C	16	cc	_	_
+18	more	more	ADV	_	BR	19	advmod	_	_
+19	expensive	expensive	ADJ	_	J	16	conj	_	_
+20	drug	drug	NOUN	_	N	14	pobj	_	_
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 15
+# text = I’m considering getting legal counsel but was hoping for the internet’s opinion.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	’m	’m	AUX	_	BD	3	aux	_	_
+3	considering	consider	VERB	_	BG	0	root	_	_
+4	getting	get	VERB	_	BG	3	xcomp	_	_
+5	legal	legal	ADJ	_	J	6	amod	_	_
+6	counsel	counsel	NOUN	_	N	4	dobj	_	_
+7	but	but	CCONJ	_	C	3	cc	_	_
+8	was	be	AUX	_	BD	9	aux	_	_
+9	hoping	hop	VERB	_	BG	3	conj	_	_
+10	for	for	ADP	_	N	9	prep	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	internet	internet	NOUN	_	N	14	poss	_	_
+13	’s	’s	PART	_	OS	12	case	_	_
+14	opinion	opinion	NOUN	_	N	10	pobj	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 16
+# text = Thank you.
+1	Thank	thank	VERB	_	BP	0	root	_	_
+2	you	you	PRON	_	RP	1	dobj	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 17
+# text = 🙏
+1	🙏	🙏	PROPN	_	NP	0	root	_	_
+
+

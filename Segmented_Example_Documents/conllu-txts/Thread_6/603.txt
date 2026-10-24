@@ -1,0 +1,163 @@
+# sent_id = 1
+# text = Thread_6
+1	Thread_6	thread_6	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 603
+1	603	603	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 602
+1	602	602	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/EffectiveEgg5712
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	EffectiveEgg5712	effectiveegg5712	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = Hmm when i see denials of claims with prior auth, it is because the claim was submitted with different codes from the PA.
+1	Hmm	hmm	INTJ	_	H	13	intj	_	_
+2	when	when	SCONJ	_	RB	4	advmod	_	_
+3	i	i	PRON	_	RP	4	nsubj	_	_
+4	see	see	VERB	_	BP	13	advcl	_	_
+5	denials	denial	NOUN	_	NS	4	dobj	_	_
+6	of	of	ADP	_	N	5	prep	_	_
+7	claims	claim	NOUN	_	NS	6	pobj	_	_
+8	with	with	ADP	_	N	7	prep	_	_
+9	prior	prior	ADJ	_	J	10	amod	_	_
+10	auth	auth	NOUN	_	N	8	pobj	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	it	it	PRON	_	RP	13	nsubj	_	_
+13	is	be	AUX	_	BZ	0	root	_	_
+14	because	because	SCONJ	_	N	18	mark	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	claim	claim	NOUN	_	N	18	nsubjpass	_	_
+17	was	be	AUX	_	BD	18	auxpass	_	_
+18	submitted	submit	VERB	_	BN	13	advcl	_	_
+19	with	with	ADP	_	N	18	prep	_	_
+20	different	different	ADJ	_	J	21	amod	_	_
+21	codes	code	NOUN	_	NS	19	pobj	_	_
+22	from	from	ADP	_	N	21	prep	_	_
+23	the	the	DET	_	T	24	det	_	_
+24	PA	pa	PROPN	_	NP	22	pobj	_	_
+25	.	.	PUNCT	_	_	13	punct	_	_
+
+
+# sent_id = 6
+# text = Unfortunately there is a disclaimer that a prior auth isn’t a guaranteed that the claim will be approval.
+1	Unfortunately	unfortunately	ADV	_	B	3	advmod	_	_
+2	there	there	PRON	_	X	3	expl	_	_
+3	is	be	VERB	_	BZ	0	root	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	disclaimer	disclaimer	NOUN	_	N	3	attr	_	_
+6	that	that	SCONJ	_	N	10	mark	_	_
+7	a	a	DET	_	T	9	det	_	_
+8	prior	prior	ADJ	_	J	9	amod	_	_
+9	auth	auth	NOUN	_	N	10	nsubj	_	_
+10	is	be	AUX	_	BZ	5	acl	_	_
+11	n’t	n’t	NOUN	_	N	10	neg	_	_
+12	a	a	DET	_	T	13	det	_	_
+13	guaranteed	guarantee	VERB	_	BN	10	attr	_	_
+14	that	that	SCONJ	_	N	18	mark	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	claim	claim	NOUN	_	N	18	nsubj	_	_
+17	will	will	AUX	_	D	18	aux	_	_
+18	be	be	AUX	_	B	13	acl	_	_
+19	approval	approval	NOUN	_	N	18	attr	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = I do admit it is sucky
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	do	do	AUX	_	BP	3	aux	_	_
+3	admit	admit	VERB	_	B	0	root	_	_
+4	it	it	PRON	_	RP	5	nsubj	_	_
+5	is	be	AUX	_	BZ	3	ccomp	_	_
+6	sucky	sucky	ADJ	_	J	5	acomp	_	_
+
+
+# sent_id = 8
+# text = and i would be furious if i was in the same situation.
+1	and	and	CCONJ	_	C	4	cc	_	_
+2	i	i	PRON	_	RP	4	nsubj	_	_
+3	would	would	AUX	_	D	4	aux	_	_
+4	be	be	AUX	_	B	0	root	_	_
+5	furious	furious	ADJ	_	J	4	acomp	_	_
+6	if	if	SCONJ	_	N	8	mark	_	_
+7	i	i	PRON	_	RP	8	nsubj	_	_
+8	was	be	AUX	_	BD	4	advcl	_	_
+9	in	in	ADP	_	N	8	prep	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	same	same	ADJ	_	J	12	amod	_	_
+12	situation	situation	NOUN	_	N	9	pobj	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = I would just go through your appeal process and keep escalating.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	would	would	AUX	_	D	4	aux	_	_
+3	just	just	ADV	_	B	4	advmod	_	_
+4	go	go	VERB	_	B	0	root	_	_
+5	through	through	ADP	_	N	4	prep	_	_
+6	your	your	PRON	_	RP$	8	poss	_	_
+7	appeal	appeal	NOUN	_	N	8	compound	_	_
+8	process	process	NOUN	_	N	5	pobj	_	_
+9	and	and	CCONJ	_	C	4	cc	_	_
+10	keep	keep	VERB	_	B	4	conj	_	_
+11	escalating	escalate	VERB	_	BG	10	xcomp	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 10
+# text = Don’t give up during the process.
+1	Do	do	AUX	_	B	3	aux	_	_
+2	n’t	not	PART	_	B	3	neg	_	_
+3	give	give	VERB	_	B	0	root	_	_
+4	up	up	ADP	_	P	3	prt	_	_
+5	during	during	ADP	_	N	3	prep	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	process	process	NOUN	_	N	5	pobj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 11
+# text = Maybe someone else can offer some more advice.
+1	Maybe	maybe	ADV	_	B	5	advmod	_	_
+2	someone	someone	PRON	_	N	5	nsubj	_	_
+3	else	else	ADV	_	B	2	advmod	_	_
+4	can	can	AUX	_	D	5	aux	_	_
+5	offer	offer	VERB	_	B	0	root	_	_
+6	some	some	DET	_	T	8	det	_	_
+7	more	more	ADJ	_	JR	8	amod	_	_
+8	advice	advice	NOUN	_	N	5	dobj	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 12
+# text = Just want to clarify that the F64.9 diagnosis code was on the prior auth letter.
+1	Just	just	ADV	_	B	2	advmod	_	_
+2	want	want	VERB	_	B	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	clarify	clarify	VERB	_	B	2	xcomp	_	_
+5	that	that	SCONJ	_	N	10	mark	_	_
+6	the	the	DET	_	T	9	det	_	_
+7	F64.9	f64.9	PROPN	_	NP	8	compound	_	_
+8	diagnosis	diagnosis	NOUN	_	N	9	compound	_	_
+9	code	code	NOUN	_	N	10	nsubj	_	_
+10	was	be	AUX	_	BD	4	ccomp	_	_
+11	on	on	ADP	_	N	10	prep	_	_
+12	the	the	DET	_	T	15	det	_	_
+13	prior	prior	ADJ	_	J	15	amod	_	_
+14	auth	auth	ADJ	_	J	15	compound	_	_
+15	letter	letter	NOUN	_	N	11	pobj	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+

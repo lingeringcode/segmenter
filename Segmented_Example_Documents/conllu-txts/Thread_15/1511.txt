@@ -1,0 +1,31 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1511
+1	1511	1511	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1510
+1	1510	1510	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Maleficent-Caramel37
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Maleficent	maleficent	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Caramel37	caramel37	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Not medically necessary
+1	Not	not	PART	_	B	2	neg	_	_
+2	medically	medically	ADV	_	B	3	advmod	_	_
+3	necessary	necessary	ADJ	_	J	0	root	_	_
+
+

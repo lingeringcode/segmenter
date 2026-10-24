@@ -1,0 +1,56 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 404
+1	404	404	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 403
+1	403	403	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Alicia2475
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Alicia2475	alicia2475	PROPN	_	NP	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Yes!
+1	Yes	yes	INTJ	_	H	0	root	_	_
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = It sounds like the provider is telling the OP i’d rather bill you as a cash paying patient and not deal with insurance
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	sounds	sound	VERB	_	BZ	0	root	_	_
+3	like	like	SCONJ	_	N	7	mark	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	provider	provider	NOUN	_	N	7	nsubj	_	_
+6	is	be	AUX	_	BZ	7	aux	_	_
+7	telling	tell	VERB	_	BG	2	advcl	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	OP	op	PROPN	_	NP	7	dative	_	_
+10	i	i	PROPN	_	NP	13	nsubj	_	_
+11	’d	’d	AUX	_	D	10	appos	_	_
+12	rather	rather	ADV	_	B	13	advmod	_	_
+13	bill	bill	VERB	_	B	7	ccomp	_	_
+14	you	you	PRON	_	RP	13	dobj	_	_
+15	as	as	ADP	_	N	13	prep	_	_
+16	a	a	DET	_	T	19	det	_	_
+17	cash	cash	NOUN	_	N	18	npadvmod	_	_
+18	paying	pay	VERB	_	BG	19	amod	_	_
+19	patient	patient	NOUN	_	N	15	pobj	_	_
+20	and	and	CCONJ	_	C	13	cc	_	_
+21	not	not	PART	_	B	22	neg	_	_
+22	deal	deal	VERB	_	B	13	conj	_	_
+23	with	with	ADP	_	N	22	prep	_	_
+24	insurance	insurance	NOUN	_	N	23	pobj	_	_
+
+

@@ -1,0 +1,67 @@
+# sent_id = 1
+# text = Thread_8
+1	Thread_8	thread_8	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 806
+1	806	806	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 805
+1	805	805	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Quick-Permission3566
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Quick	quick	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Permission3566	permission3566	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Its been about 1 year since doing PT.
+1	Its	its	PRON	_	RP$	2	nsubj	_	_
+2	been	be	AUX	_	BN	0	root	_	_
+3	about	about	ADV	_	B	4	advmod	_	_
+4	1	1	NUM	_	D	5	nummod	_	_
+5	year	year	NOUN	_	N	6	npadvmod	_	_
+6	since	since	SCONJ	_	N	2	prep	_	_
+7	doing	do	VERB	_	BG	6	pcomp	_	_
+8	PT	pt	PROPN	_	NP	7	dobj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = I went for about 6 months before the team said it wasn't beneficial as they couldn't get me to work through the pain.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	went	go	VERB	_	BD	0	root	_	_
+3	for	for	ADP	_	N	2	prep	_	_
+4	about	about	ADV	_	B	5	advmod	_	_
+5	6	6	NUM	_	D	6	nummod	_	_
+6	months	month	NOUN	_	NS	3	pobj	_	_
+7	before	before	SCONJ	_	N	10	mark	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	team	team	NOUN	_	N	10	nsubj	_	_
+10	said	say	VERB	_	BD	2	advcl	_	_
+11	it	it	PRON	_	RP	12	nsubj	_	_
+12	was	be	AUX	_	BD	10	ccomp	_	_
+13	n't	not	PART	_	B	12	neg	_	_
+14	beneficial	beneficial	ADJ	_	J	12	acomp	_	_
+15	as	as	SCONJ	_	N	19	mark	_	_
+16	they	they	PRON	_	RP	19	nsubj	_	_
+17	could	could	AUX	_	D	19	aux	_	_
+18	n't	not	PART	_	B	19	neg	_	_
+19	get	get	VERB	_	B	12	advcl	_	_
+20	me	i	PRON	_	RP	22	nsubj	_	_
+21	to	to	PART	_	O	22	aux	_	_
+22	work	work	VERB	_	B	19	ccomp	_	_
+23	through	through	ADP	_	N	22	prep	_	_
+24	the	the	DET	_	T	25	det	_	_
+25	pain	pain	NOUN	_	N	23	pobj	_	_
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+

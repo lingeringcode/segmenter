@@ -1,0 +1,85 @@
+# sent_id = 1
+# text = Thread_1
+1	Thread_1	thread_1	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 102
+1	102	102	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 101
+1	101	101	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Johciee
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	Johciee	johciee	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = From my experience from someone who does the prior auths/appeals, it isn’t close to half.
+1	From	from	ADP	_	N	15	prep	_	_
+2	my	my	PRON	_	RP$	3	poss	_	_
+3	experience	experience	NOUN	_	N	1	pobj	_	_
+4	from	from	ADP	_	N	3	prep	_	_
+5	someone	someone	PRON	_	N	4	pobj	_	_
+6	who	who	PRON	_	P	7	nsubj	_	_
+7	does	do	VERB	_	BZ	5	relcl	_	_
+8	the	the	DET	_	T	12	det	_	_
+9	prior	prior	ADJ	_	J	12	amod	_	_
+10	auths	auth	NOUN	_	NS	12	nmod	_	_
+11	/	/	SYM	_	YM	10	punct	_	_
+12	appeals	appeal	NOUN	_	NS	7	dobj	_	_
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	it	it	PRON	_	RP	15	nsubj	_	_
+15	is	be	AUX	_	BZ	0	root	_	_
+16	n’t	not	PART	_	B	15	neg	_	_
+17	close	close	ADJ	_	J	15	acomp	_	_
+18	to	to	ADP	_	N	17	prep	_	_
+19	half	half	NOUN	_	N	18	pobj	_	_
+20	.	.	PUNCT	_	_	15	punct	_	_
+
+
+# sent_id = 6
+# text = It’s closer to like.. 0.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	’s	’	VERB	_	BZ	0	root	_	_
+3	closer	close	ADJ	_	JR	2	advmod	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	like	like	INTJ	_	H	2	xcomp	_	_
+6	..	..	PUNCT	_	FP	2	punct	_	_
+7	0	0	NUM	_	D	2	attr	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = Most common reason they’re denied is they don’t cover medications for weight loss, so there’s nothing to appeal.
+1	Most	most	ADJ	_	JS	3	amod	_	_
+2	common	common	ADJ	_	J	3	amod	_	_
+3	reason	reason	NOUN	_	N	7	nsubj	_	_
+4	they	they	PRON	_	RP	6	nsubjpass	_	_
+5	’re	’re	AUX	_	BP	6	auxpass	_	_
+6	denied	deny	VERB	_	BN	3	relcl	_	_
+7	is	be	AUX	_	BZ	19	ccomp	_	_
+8	they	they	PRON	_	RP	11	nsubj	_	_
+9	do	do	AUX	_	BP	11	aux	_	_
+10	n’t	n’t	NOUN	_	N	11	neg	_	_
+11	cover	cover	VERB	_	B	7	ccomp	_	_
+12	medications	medication	NOUN	_	NS	11	dobj	_	_
+13	for	for	ADP	_	N	12	prep	_	_
+14	weight	weight	NOUN	_	N	15	compound	_	_
+15	loss	loss	NOUN	_	N	13	pobj	_	_
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	so	so	CCONJ	_	C	19	mark	_	_
+18	there	there	PRON	_	X	19	expl	_	_
+19	’s	’	VERB	_	BZ	0	root	_	_
+20	nothing	nothing	PRON	_	N	19	attr	_	_
+21	to	to	PART	_	O	22	aux	_	_
+22	appeal	appeal	VERB	_	B	20	relcl	_	_
+23	.	.	PUNCT	_	_	19	punct	_	_
+
+

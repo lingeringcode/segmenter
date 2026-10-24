@@ -1,0 +1,110 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1209
+1	1209	1209	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1208
+1	1208	1208	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/wistah978
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	wistah978	wistah978	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = Your doctor will have to convince your insurance that her credentials are better than their clinical policies.
+1	Your	your	PRON	_	RP$	2	poss	_	_
+2	doctor	doctor	NOUN	_	N	4	nsubj	_	_
+3	will	will	AUX	_	D	4	aux	_	_
+4	have	have	VERB	_	B	0	root	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	convince	convince	VERB	_	B	4	xcomp	_	_
+7	your	your	PRON	_	RP$	8	poss	_	_
+8	insurance	insurance	NOUN	_	N	6	dobj	_	_
+9	that	that	SCONJ	_	N	12	mark	_	_
+10	her	her	PRON	_	RP$	11	poss	_	_
+11	credentials	credential	NOUN	_	NS	12	nsubj	_	_
+12	are	be	AUX	_	BP	6	ccomp	_	_
+13	better	well	ADJ	_	JR	12	acomp	_	_
+14	than	than	ADP	_	N	13	prep	_	_
+15	their	their	PRON	_	RP$	17	poss	_	_
+16	clinical	clinical	ADJ	_	J	17	amod	_	_
+17	policies	policy	NOUN	_	NS	14	pobj	_	_
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 6
+# text = The only alternative is if your plan is self-funded.
+1	The	the	DET	_	T	3	det	_	_
+2	only	only	ADJ	_	J	3	amod	_	_
+3	alternative	alternative	NOUN	_	N	4	nsubj	_	_
+4	is	be	AUX	_	BZ	0	root	_	_
+5	if	if	SCONJ	_	N	8	mark	_	_
+6	your	your	PRON	_	RP$	7	poss	_	_
+7	plan	plan	NOUN	_	N	8	nsubj	_	_
+8	is	be	AUX	_	BZ	4	advcl	_	_
+9	self	self	NOUN	_	N	11	npadvmod	_	_
+10	-	-	PUNCT	_	YPH	11	punct	_	_
+11	funded	fund	VERB	_	BN	8	acomp	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = In those circumstances, your employer pays all the bills but uses the insurance company to process the claims.
+1	In	in	ADP	_	N	7	prep	_	_
+2	those	those	DET	_	T	3	det	_	_
+3	circumstances	circumstance	NOUN	_	NS	1	pobj	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	your	your	PRON	_	RP$	6	poss	_	_
+6	employer	employer	NOUN	_	N	7	nsubj	_	_
+7	pays	pay	VERB	_	BZ	0	root	_	_
+8	all	all	DET	_	DT	10	predet	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	bills	bill	NOUN	_	NS	7	dobj	_	_
+11	but	but	CCONJ	_	C	7	cc	_	_
+12	uses	use	VERB	_	BZ	7	conj	_	_
+13	the	the	DET	_	T	15	det	_	_
+14	insurance	insurance	NOUN	_	N	15	compound	_	_
+15	company	company	NOUN	_	N	12	dobj	_	_
+16	to	to	PART	_	O	17	aux	_	_
+17	process	process	VERB	_	B	12	xcomp	_	_
+18	the	the	DET	_	T	19	det	_	_
+19	claims	claim	NOUN	_	NS	17	dobj	_	_
+20	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 8
+# text = So the employer has more control over decisions.
+1	So	so	ADV	_	B	4	advmod	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	employer	employer	NOUN	_	N	4	nsubj	_	_
+4	has	have	VERB	_	BZ	0	root	_	_
+5	more	more	ADJ	_	JR	6	amod	_	_
+6	control	control	NOUN	_	N	4	dobj	_	_
+7	over	over	ADP	_	N	6	prep	_	_
+8	decisions	decision	NOUN	_	NS	7	pobj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = You could ask your HR to get involved.
+1	You	you	PRON	_	RP	3	nsubj	_	_
+2	could	could	AUX	_	D	3	aux	_	_
+3	ask	ask	VERB	_	B	0	root	_	_
+4	your	your	PRON	_	RP$	5	poss	_	_
+5	HR	hr	NOUN	_	N	3	dobj	_	_
+6	to	to	PART	_	O	8	aux	_	_
+7	get	get	AUX	_	B	8	auxpass	_	_
+8	involved	involve	VERB	_	BN	3	xcomp	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+

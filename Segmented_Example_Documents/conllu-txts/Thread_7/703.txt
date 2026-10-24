@@ -1,0 +1,45 @@
+# sent_id = 1
+# text = Thread_7
+1	Thread_7	thread_7	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 703
+1	703	703	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 700
+1	700	700	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/EmZee2022
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	EmZee2022	emzee2022	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = Contact the hospital - they want to get paid, and they'll fight this on your behalf.
+1	Contact	contact	VERB	_	B	6	dep	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	hospital	hospital	NOUN	_	N	1	dobj	_	_
+4	-	-	PUNCT	_	_	6	punct	_	_
+5	they	they	PRON	_	RP	6	nsubj	_	_
+6	want	want	VERB	_	BP	0	root	_	_
+7	to	to	PART	_	O	9	aux	_	_
+8	get	get	AUX	_	B	9	auxpass	_	_
+9	paid	pay	VERB	_	BN	6	xcomp	_	_
+10	,	,	PUNCT	_	_	6	punct	_	_
+11	and	and	CCONJ	_	C	6	cc	_	_
+12	they	they	PRON	_	RP	14	nsubj	_	_
+13	'll	will	AUX	_	D	14	aux	_	_
+14	fight	fight	VERB	_	B	6	conj	_	_
+15	this	this	PRON	_	T	14	dobj	_	_
+16	on	on	ADP	_	N	14	prep	_	_
+17	your	your	PRON	_	RP$	18	poss	_	_
+18	behalf	behalf	NOUN	_	N	16	pobj	_	_
+19	.	.	PUNCT	_	_	14	punct	_	_
+
+

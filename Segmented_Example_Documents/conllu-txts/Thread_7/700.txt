@@ -1,0 +1,242 @@
+# sent_id = 1
+# text = Thread_7
+1	Thread_7	thread_7	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 700
+1	700	700	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/d3vhead
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	d3vhead	d3vhead	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = NICU stay denial?
+1	NICU	nicu	PROPN	_	NP	2	nsubj	_	_
+2	stay	stay	VERB	_	B	0	root	_	_
+3	denial	denial	NOUN	_	N	2	attr	_	_
+4	?	?	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = My twins were born 6 weeks early and were instantly admitted to the NICU.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	twins	twin	NOUN	_	NS	4	nsubjpass	_	_
+3	were	be	AUX	_	BD	4	auxpass	_	_
+4	born	bear	VERB	_	BN	0	root	_	_
+5	6	6	NUM	_	D	6	nummod	_	_
+6	weeks	week	NOUN	_	NS	7	npadvmod	_	_
+7	early	early	ADV	_	B	4	advmod	_	_
+8	and	and	CCONJ	_	C	4	cc	_	_
+9	were	be	AUX	_	BD	11	auxpass	_	_
+10	instantly	instantly	ADV	_	B	11	advmod	_	_
+11	admitted	admit	VERB	_	BN	4	conj	_	_
+12	to	to	ADP	_	N	11	prep	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	NICU	nicu	PROPN	_	NP	12	pobj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = Twin A was there for three weeks, while Twin B was there for two.
+1	Twin	twin	PROPN	_	NP	2	compound	_	_
+2	A	a	PROPN	_	NP	3	nsubj	_	_
+3	was	be	AUX	_	BD	0	root	_	_
+4	there	there	ADV	_	B	3	advmod	_	_
+5	for	for	ADP	_	N	3	prep	_	_
+6	three	three	NUM	_	D	7	nummod	_	_
+7	weeks	week	NOUN	_	NS	5	pobj	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	while	while	SCONJ	_	N	12	mark	_	_
+10	Twin	twin	PROPN	_	NP	11	compound	_	_
+11	B	b	PROPN	_	NP	12	nsubj	_	_
+12	was	be	AUX	_	BD	3	advcl	_	_
+13	there	there	ADV	_	B	12	advmod	_	_
+14	for	for	ADP	_	N	12	prep	_	_
+15	two	two	NUM	_	D	14	pobj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = I just received two letters from my health insurance (BCBS).
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	just	just	ADV	_	B	3	advmod	_	_
+3	received	receive	VERB	_	BD	0	root	_	_
+4	two	two	NUM	_	D	5	nummod	_	_
+5	letters	letter	NOUN	_	NS	3	dobj	_	_
+6	from	from	ADP	_	N	3	prep	_	_
+7	my	my	PRON	_	RP$	9	poss	_	_
+8	health	health	NOUN	_	N	9	compound	_	_
+9	insurance	insurance	NOUN	_	N	6	pobj	_	_
+10	(	(	PUNCT	_	LRB-	11	punct	_	_
+11	BCBS	bcbs	PROPN	_	NP	9	appos	_	_
+12	)	)	PUNCT	_	RRB-	9	punct	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = The first (dated 9/25) states that in order to process the entire NICU stay for Twin B, they need the inpatient admission history & physical, discharge summary, and physician progress notes.
+1	The	the	DET	_	T	4	det	_	_
+2	first	first	ADJ	_	J	4	amod	_	_
+3	(	(	PUNCT	_	LRB-	4	punct	_	_
+4	dated	date	VERB	_	BN	7	nsubj	_	_
+5	9/25	9/25	NUM	_	D	4	nummod	_	_
+6	)	)	PUNCT	_	RRB-	4	punct	_	_
+7	states	state	VERB	_	BZ	22	ccomp	_	_
+8	that	that	SCONJ	_	N	16	mark	_	_
+9	in	in	ADP	_	N	16	prep	_	_
+10	order	order	NOUN	_	N	9	pobj	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	process	process	VERB	_	B	10	acl	_	_
+13	the	the	DET	_	T	15	det	_	_
+14	entire	entire	ADJ	_	J	15	amod	_	_
+15	NICU	nicu	PROPN	_	NP	12	dobj	_	_
+16	stay	stay	VERB	_	B	7	ccomp	_	_
+17	for	for	ADP	_	N	16	prep	_	_
+18	Twin	twin	PROPN	_	NP	19	compound	_	_
+19	B	b	PROPN	_	NP	17	pobj	_	_
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	they	they	PRON	_	RP	22	nsubj	_	_
+22	need	need	VERB	_	BP	0	root	_	_
+23	the	the	DET	_	T	26	det	_	_
+24	inpatient	inpatient	ADJ	_	J	26	amod	_	_
+25	admission	admission	NOUN	_	N	26	compound	_	_
+26	history	history	NOUN	_	N	22	dobj	_	_
+27	&	&	CCONJ	_	C	26	cc	_	_
+28	physical	physical	ADJ	_	J	26	conj	_	_
+29	,	,	PUNCT	_	_	26	punct	_	_
+30	discharge	discharge	NOUN	_	N	31	compound	_	_
+31	summary	summary	NOUN	_	N	26	conj	_	_
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	and	and	CCONJ	_	C	31	cc	_	_
+34	physician	physician	NOUN	_	N	35	compound	_	_
+35	progress	progress	NOUN	_	N	36	compound	_	_
+36	notes	note	VERB	_	BZ	22	conj	_	_
+37	.	.	PUNCT	_	_	36	punct	_	_
+
+
+# sent_id = 10
+# text = The second (dated 9/30) states they have denied the claim for the last 4 days of Twin B’s NICU stay after a “board certified and licensed doctor” on the care team reviewed the request and “looked at the health records, plan policies, and evidence-based clinical guidelines”.
+1	The	the	PRON	_	T	4	advmod	_	_
+2	second	second	ADJ	_	J	4	advmod	_	_
+3	(	(	PUNCT	_	LRB-	4	punct	_	_
+4	dated	date	VERB	_	BN	7	amod	_	_
+5	9/30	9/30	NUM	_	D	4	nummod	_	_
+6	)	)	PUNCT	_	RRB-	4	punct	_	_
+7	states	state	NOUN	_	NS	21	nsubj	_	_
+8	they	they	PRON	_	RP	10	nsubj	_	_
+9	have	have	AUX	_	BP	10	aux	_	_
+10	denied	deny	VERB	_	BN	7	ccomp	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	claim	claim	NOUN	_	N	10	dobj	_	_
+13	for	for	ADP	_	N	12	prep	_	_
+14	the	the	DET	_	T	17	det	_	_
+15	last	last	ADJ	_	J	17	amod	_	_
+16	4	4	NUM	_	D	17	nummod	_	_
+17	days	day	NOUN	_	NS	13	pobj	_	_
+18	of	of	ADP	_	N	17	prep	_	_
+19	Twin	twin	PROPN	_	NP	20	compound	_	_
+20	B	b	PROPN	_	NP	18	pobj	_	_
+21	’s	’s	PART	_	OS	22	compound	_	_
+22	NICU	nicu	NOUN	_	N	23	nsubj	_	_
+23	stay	stay	VERB	_	B	0	root	_	_
+24	after	after	SCONJ	_	N	37	mark	_	_
+25	a	a	DET	_	T	31	det	_	_
+26	“	"	PUNCT	_	`	31	punct	_	_
+27	board	board	NOUN	_	N	28	npadvmod	_	_
+28	certified	certify	VERB	_	BN	31	amod	_	_
+29	and	and	CCONJ	_	C	28	cc	_	_
+30	licensed	licensed	ADJ	_	J	28	conj	_	_
+31	doctor	doctor	NOUN	_	N	37	nsubj	_	_
+32	”	"	PUNCT	_	'	31	punct	_	_
+33	on	on	ADP	_	N	31	prep	_	_
+34	the	the	DET	_	T	36	det	_	_
+35	care	care	NOUN	_	N	36	compound	_	_
+36	team	team	NOUN	_	N	33	pobj	_	_
+37	reviewed	review	VERB	_	BD	23	advcl	_	_
+38	the	the	DET	_	T	39	det	_	_
+39	request	request	NOUN	_	N	37	dobj	_	_
+40	and	and	CCONJ	_	C	37	cc	_	_
+41	“	"	PUNCT	_	`	42	punct	_	_
+42	looked	look	VERB	_	BD	37	conj	_	_
+43	at	at	ADP	_	N	42	prep	_	_
+44	the	the	DET	_	T	46	det	_	_
+45	health	health	NOUN	_	N	46	compound	_	_
+46	records	record	NOUN	_	NS	43	pobj	_	_
+47	,	,	PUNCT	_	_	42	punct	_	_
+48	plan	plan	VERB	_	BP	42	conj	_	_
+49	policies	policy	NOUN	_	NS	48	dobj	_	_
+50	,	,	PUNCT	_	_	49	punct	_	_
+51	and	and	CCONJ	_	C	49	cc	_	_
+52	evidence	evidence	NOUN	_	N	54	npadvmod	_	_
+53	-	-	PUNCT	_	YPH	54	punct	_	_
+54	based	base	VERB	_	BN	56	amod	_	_
+55	clinical	clinical	ADJ	_	J	56	amod	_	_
+56	guidelines	guideline	NOUN	_	NS	49	conj	_	_
+57	”	"	PUNCT	_	'	42	punct	_	_
+58	.	.	PUNCT	_	_	23	punct	_	_
+
+
+# sent_id = 11
+# text = I am going to obviously call insurance, but I’m not sure what to ask.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	am	be	AUX	_	BP	3	aux	_	_
+3	going	go	VERB	_	BG	0	root	_	_
+4	to	to	PART	_	O	6	aux	_	_
+5	obviously	obviously	ADV	_	B	6	advmod	_	_
+6	call	call	VERB	_	B	3	xcomp	_	_
+7	insurance	insurance	NOUN	_	N	6	dobj	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	but	but	CCONJ	_	C	3	cc	_	_
+10	I	i	PRON	_	RP	11	nsubj	_	_
+11	’m	’m	VERB	_	BZ	3	conj	_	_
+12	not	not	PART	_	B	11	neg	_	_
+13	sure	sure	ADJ	_	J	11	acomp	_	_
+14	what	what	PRON	_	P	16	dobj	_	_
+15	to	to	PART	_	O	16	aux	_	_
+16	ask	ask	VERB	_	B	13	xcomp	_	_
+17	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 12
+# text = Any tips?
+1	Any	any	DET	_	T	2	det	_	_
+2	tips	tip	NOUN	_	NS	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 13
+# text = I cannot afford to pay this $88k NICU stay (and I don’t know who could).
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	can	can	AUX	_	D	4	aux	_	_
+3	not	not	PART	_	B	4	neg	_	_
+4	afford	afford	VERB	_	B	17	ccomp	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	pay	pay	VERB	_	B	4	xcomp	_	_
+7	this	this	DET	_	T	10	det	_	_
+8	$	$	SYM	_	_	9	nmod	_	_
+9	88k	88k	NOUN	_	NS	10	compound	_	_
+10	NICU	nicu	PROPN	_	NP	6	dobj	_	_
+11	stay	stay	VERB	_	B	4	dep	_	_
+12	(	(	PUNCT	_	LRB-	17	punct	_	_
+13	and	and	CCONJ	_	C	17	cc	_	_
+14	I	i	PRON	_	RP	17	nsubj	_	_
+15	do	do	AUX	_	BP	17	aux	_	_
+16	n’t	not	PART	_	B	17	neg	_	_
+17	know	know	VERB	_	B	0	root	_	_
+18	who	who	PRON	_	P	19	nsubj	_	_
+19	could	could	AUX	_	D	17	ccomp	_	_
+20	)	)	PUNCT	_	RRB-	17	punct	_	_
+21	.	.	PUNCT	_	_	17	punct	_	_
+
+

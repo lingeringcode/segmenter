@@ -1,0 +1,127 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1116
+1	1116	1116	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1115
+1	1115	1115	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/YouCooper
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	YouCooper	youcooper	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Thank you for replying.
+1	Thank	thank	VERB	_	BP	0	root	_	_
+2	you	you	PRON	_	RP	1	dobj	_	_
+3	for	for	ADP	_	N	1	prep	_	_
+4	replying	reply	VERB	_	BG	3	pobj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = To clarify, my friend filed the appeal herself in writing, not the providers.
+1	To	to	PART	_	O	2	aux	_	_
+2	clarify	clarify	VERB	_	B	6	advcl	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	my	my	PRON	_	RP$	5	poss	_	_
+5	friend	friend	NOUN	_	N	6	nsubj	_	_
+6	filed	file	VERB	_	BD	0	root	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	appeal	appeal	NOUN	_	N	6	dobj	_	_
+9	herself	herself	PRON	_	RP	6	npadvmod	_	_
+10	in	in	ADP	_	N	6	prep	_	_
+11	writing	writing	NOUN	_	N	10	pobj	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	not	not	PART	_	B	11	neg	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	providers	provider	NOUN	_	NS	11	appos	_	_
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 7
+# text = Good point about pushing the providers to appeal, we did not think of that.
+1	Good	good	ADJ	_	J	2	amod	_	_
+2	point	point	NOUN	_	N	13	npadvmod	_	_
+3	about	about	ADP	_	N	2	prep	_	_
+4	pushing	push	VERB	_	BG	3	pcomp	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	providers	provider	NOUN	_	NS	4	dobj	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	appeal	appeal	VERB	_	B	4	xcomp	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	we	we	PRON	_	RP	13	nsubj	_	_
+11	did	do	AUX	_	BD	13	aux	_	_
+12	not	not	PART	_	B	13	neg	_	_
+13	think	think	VERB	_	B	0	root	_	_
+14	of	of	ADP	_	N	13	prep	_	_
+15	that	that	PRON	_	T	14	pobj	_	_
+16	.	.	PUNCT	_	_	13	punct	_	_
+
+
+# sent_id = 8
+# text = Do you know if it is common for freestanding ERs to file their own appeals when the patient’s insurance denies?
+1	Do	do	AUX	_	BP	3	aux	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	know	know	VERB	_	B	0	root	_	_
+4	if	if	SCONJ	_	N	6	mark	_	_
+5	it	it	PRON	_	RP	6	nsubj	_	_
+6	is	be	AUX	_	BZ	3	ccomp	_	_
+7	common	common	ADJ	_	J	6	acomp	_	_
+8	for	for	ADP	_	N	7	prep	_	_
+9	freestanding	freestande	VERB	_	BG	8	pcomp	_	_
+10	ERs	er	NOUN	_	NS	9	dobj	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	file	file	VERB	_	B	9	xcomp	_	_
+13	their	their	PRON	_	RP$	15	poss	_	_
+14	own	own	ADJ	_	J	15	amod	_	_
+15	appeals	appeal	NOUN	_	NS	12	dobj	_	_
+16	when	when	SCONJ	_	RB	21	advmod	_	_
+17	the	the	DET	_	T	18	det	_	_
+18	patient	patient	NOUN	_	N	20	poss	_	_
+19	’s	’s	PART	_	OS	18	case	_	_
+20	insurance	insurance	NOUN	_	N	21	nsubj	_	_
+21	denies	deny	VERB	_	BZ	12	advcl	_	_
+22	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = And do we as the patient need to do anything to authorize or trigger that, or would the providers do it on their own?
+1	And	and	CCONJ	_	C	2	cc	_	_
+2	do	do	VERB	_	BP	0	root	_	_
+3	we	we	PRON	_	RP	2	nsubj	_	_
+4	as	as	SCONJ	_	N	7	mark	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	patient	patient	NOUN	_	N	7	nsubj	_	_
+7	need	need	VERB	_	BP	2	advcl	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	do	do	VERB	_	B	7	xcomp	_	_
+10	anything	anything	PRON	_	N	9	dobj	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	authorize	authorize	VERB	_	B	10	relcl	_	_
+13	or	or	CCONJ	_	C	12	cc	_	_
+14	trigger	trigger	VERB	_	B	12	conj	_	_
+15	that	that	PRON	_	T	14	dobj	_	_
+16	,	,	PUNCT	_	_	2	punct	_	_
+17	or	or	CCONJ	_	C	2	cc	_	_
+18	would	would	AUX	_	D	21	aux	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	providers	provider	NOUN	_	NS	21	nsubj	_	_
+21	do	do	VERB	_	B	2	conj	_	_
+22	it	it	PRON	_	RP	21	dobj	_	_
+23	on	on	ADP	_	N	21	prep	_	_
+24	their	their	PRON	_	RP$	25	poss	_	_
+25	own	own	ADJ	_	J	23	pobj	_	_
+26	?	?	PUNCT	_	_	2	punct	_	_
+
+

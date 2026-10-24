@@ -1,0 +1,132 @@
+# sent_id = 1
+# text = Thread_9
+1	Thread_9	thread_9	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 903
+1	903	903	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 902
+1	902	902	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/wischywaschy
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	wischywaschy	wischywaschy	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = I can’t really help but I also have massive problems with IBX (self-funded plan) with an appeal process and the DOL is trying to help.
+1	I	i	PRON	_	RP	5	nsubj	_	_
+2	ca	can	AUX	_	D	5	aux	_	_
+3	n’t	not	PART	_	B	5	neg	_	_
+4	really	really	ADV	_	B	5	advmod	_	_
+5	help	help	VERB	_	B	0	root	_	_
+6	but	but	CCONJ	_	C	5	cc	_	_
+7	I	i	PRON	_	RP	9	nsubj	_	_
+8	also	also	ADV	_	B	9	advmod	_	_
+9	have	have	VERB	_	BP	5	conj	_	_
+10	massive	massive	ADJ	_	J	11	amod	_	_
+11	problems	problem	NOUN	_	NS	9	dobj	_	_
+12	with	with	ADP	_	N	11	prep	_	_
+13	IBX	ibx	PROPN	_	NP	12	pobj	_	_
+14	(	(	PUNCT	_	LRB-	13	punct	_	_
+15	self	self	NOUN	_	N	17	npadvmod	_	_
+16	-	-	PUNCT	_	YPH	17	punct	_	_
+17	funded	fund	VERB	_	BN	18	amod	_	_
+18	plan	plan	NOUN	_	N	13	appos	_	_
+19	)	)	PUNCT	_	RRB-	13	punct	_	_
+20	with	with	ADP	_	N	11	prep	_	_
+21	an	an	DET	_	T	23	det	_	_
+22	appeal	appeal	NOUN	_	N	23	compound	_	_
+23	process	process	NOUN	_	N	20	pobj	_	_
+24	and	and	CCONJ	_	C	23	cc	_	_
+25	the	the	DET	_	T	26	det	_	_
+26	DOL	dol	PROPN	_	NP	28	nsubj	_	_
+27	is	be	AUX	_	BZ	28	aux	_	_
+28	trying	try	VERB	_	BG	9	conj	_	_
+29	to	to	PART	_	O	30	aux	_	_
+30	help	help	VERB	_	B	28	xcomp	_	_
+31	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 6
+# text = IBX is a mess - it looks like they don’t follow all ERISA regulations and seem very disorganized.
+1	IBX	ibx	PROPN	_	NP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	7	ccomp	_	_
+3	a	a	DET	_	T	4	det	_	_
+4	mess	mess	NOUN	_	N	2	attr	_	_
+5	-	-	PUNCT	_	_	7	punct	_	_
+6	it	it	PRON	_	RP	7	nsubj	_	_
+7	looks	look	VERB	_	BZ	0	root	_	_
+8	like	like	SCONJ	_	N	12	mark	_	_
+9	they	they	PRON	_	RP	12	nsubj	_	_
+10	do	do	AUX	_	BP	12	aux	_	_
+11	n’t	not	PART	_	B	12	neg	_	_
+12	follow	follow	VERB	_	B	7	advcl	_	_
+13	all	all	DET	_	T	15	det	_	_
+14	ERISA	erisa	PROPN	_	NP	15	compound	_	_
+15	regulations	regulation	NOUN	_	NS	12	dobj	_	_
+16	and	and	CCONJ	_	C	12	cc	_	_
+17	seem	seem	VERB	_	BP	12	conj	_	_
+18	very	very	ADV	_	B	19	advmod	_	_
+19	disorganized	disorganized	ADJ	_	J	17	oprd	_	_
+20	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 7
+# text = The DOL is helpful but they are really short-staffed since they got DOGEd, so whatever they can do for us is slow.
+1	The	the	DET	_	T	2	det	_	_
+2	DOL	dol	PROPN	_	NP	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	helpful	helpful	ADJ	_	J	3	acomp	_	_
+5	but	but	CCONJ	_	C	3	cc	_	_
+6	they	they	PRON	_	RP	7	nsubj	_	_
+7	are	be	AUX	_	BP	3	conj	_	_
+8	really	really	ADV	_	B	11	advmod	_	_
+9	short	short	ADV	_	B	11	advmod	_	_
+10	-	-	PUNCT	_	YPH	11	punct	_	_
+11	staffed	staff	VERB	_	BN	7	acomp	_	_
+12	since	since	SCONJ	_	N	14	mark	_	_
+13	they	they	PRON	_	RP	14	nsubj	_	_
+14	got	get	VERB	_	BD	7	advcl	_	_
+15	DOGEd	doged	NOUN	_	NS	14	dobj	_	_
+16	,	,	PUNCT	_	_	7	punct	_	_
+17	so	so	SCONJ	_	N	24	advmod	_	_
+18	whatever	whatever	PRON	_	DT	21	dobj	_	_
+19	they	they	PRON	_	RP	21	nsubj	_	_
+20	can	can	AUX	_	D	21	aux	_	_
+21	do	do	AUX	_	B	24	csubj	_	_
+22	for	for	ADP	_	N	21	prep	_	_
+23	us	we	PRON	_	RP	22	pobj	_	_
+24	is	be	AUX	_	BZ	7	advcl	_	_
+25	slow	slow	ADJ	_	J	24	acomp	_	_
+26	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 8
+# text = They said to me they can do more when more people complain, so please complain!
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	said	say	VERB	_	BD	0	root	_	_
+3	to	to	ADP	_	N	2	prep	_	_
+4	me	i	PRON	_	RP	3	pobj	_	_
+5	they	they	PRON	_	RP	7	nsubj	_	_
+6	can	can	AUX	_	D	7	aux	_	_
+7	do	do	VERB	_	B	2	ccomp	_	_
+8	more	more	ADJ	_	JR	7	dobj	_	_
+9	when	when	SCONJ	_	RB	10	advmod	_	_
+10	more	more	ADJ	_	JR	11	amod	_	_
+11	people	people	NOUN	_	NS	12	nsubj	_	_
+12	complain	complain	VERB	_	BP	7	advcl	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	so	so	ADV	_	B	12	cc	_	_
+15	please	please	INTJ	_	H	16	intj	_	_
+16	complain	complain	VERB	_	B	2	ccomp	_	_
+17	!	!	PUNCT	_	_	2	punct	_	_
+
+

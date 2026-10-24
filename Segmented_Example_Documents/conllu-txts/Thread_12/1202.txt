@@ -1,0 +1,76 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1202
+1	1202	1202	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1201
+1	1201	1201	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/DeepFriarMediaReal
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	DeepFriarMediaReal	deepfriarmediareal	NOUN	_	N	1	conj	_	_
+
+
+# sent_id = 5
+# text = It hasn’t.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	has	have	VERB	_	BZ	0	root	_	_
+3	n’t	n’t	NUM	_	D	2	dobj	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = They seem to be ok paying for my Tremfya in perpetuity.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	seem	seem	VERB	_	BP	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	be	be	AUX	_	B	2	xcomp	_	_
+5	ok	ok	INTJ	_	H	4	acomp	_	_
+6	paying	pay	VERB	_	BG	4	acomp	_	_
+7	for	for	ADP	_	N	6	prep	_	_
+8	my	my	PRON	_	RP$	9	poss	_	_
+9	Tremfya	tremfya	PROPN	_	NP	7	pobj	_	_
+10	in	in	ADP	_	N	6	prep	_	_
+11	perpetuity	perpetuity	NOUN	_	N	10	pobj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = I have not tried the other options as my doctor did not think they would be effective given the severity and location of my psoriasis.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	have	have	AUX	_	BP	4	aux	_	_
+3	not	not	PART	_	B	4	neg	_	_
+4	tried	try	VERB	_	BN	0	root	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	other	other	ADJ	_	J	7	amod	_	_
+7	options	option	NOUN	_	NS	4	dobj	_	_
+8	as	as	SCONJ	_	N	13	mark	_	_
+9	my	my	PRON	_	RP$	10	poss	_	_
+10	doctor	doctor	NOUN	_	N	13	nsubj	_	_
+11	did	do	AUX	_	BD	13	aux	_	_
+12	not	not	PART	_	B	13	neg	_	_
+13	think	think	VERB	_	B	4	advcl	_	_
+14	they	they	PRON	_	RP	16	nsubj	_	_
+15	would	would	AUX	_	D	16	aux	_	_
+16	be	be	AUX	_	B	13	ccomp	_	_
+17	effective	effective	ADJ	_	J	16	acomp	_	_
+18	given	give	VERB	_	BN	17	prep	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	severity	severity	NOUN	_	N	18	pobj	_	_
+21	and	and	CCONJ	_	C	20	cc	_	_
+22	location	location	NOUN	_	N	20	conj	_	_
+23	of	of	ADP	_	N	20	prep	_	_
+24	my	my	PRON	_	RP$	25	poss	_	_
+25	psoriasis	psoriasis	NOUN	_	N	23	pobj	_	_
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+

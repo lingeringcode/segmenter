@@ -1,0 +1,327 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1800
+1	1800	1800	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Weekly-Ad-650
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Weekly	weekly	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Ad-650	ad-650	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Interesting Reimbursement Denial
+1	Interesting	interesting	PROPN	_	NP	3	compound	_	_
+2	Reimbursement	reimbursement	PROPN	_	NP	3	compound	_	_
+3	Denial	denial	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 6
+# text = Hi everyone!
+1	Hi	hi	INTJ	_	H	0	root	_	_
+2	everyone	everyone	PRON	_	N	1	npadvmod	_	_
+3	!	!	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 7
+# text = Dealing with a weird claim issue but I will try to make it as simple as possible.
+1	Dealing	deal	VERB	_	BG	0	root	_	_
+2	with	with	ADP	_	N	1	prep	_	_
+3	a	a	DET	_	T	6	det	_	_
+4	weird	weird	ADJ	_	J	6	amod	_	_
+5	claim	claim	NOUN	_	N	6	compound	_	_
+6	issue	issue	NOUN	_	N	2	pobj	_	_
+7	but	but	CCONJ	_	C	1	cc	_	_
+8	I	i	PRON	_	RP	10	nsubj	_	_
+9	will	will	AUX	_	D	10	aux	_	_
+10	try	try	VERB	_	B	1	conj	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	make	make	VERB	_	B	10	xcomp	_	_
+13	it	it	PRON	_	RP	15	nsubj	_	_
+14	as	as	ADV	_	B	15	advmod	_	_
+15	simple	simple	ADJ	_	J	12	ccomp	_	_
+16	as	as	ADP	_	N	15	prep	_	_
+17	possible	possible	ADJ	_	J	16	amod	_	_
+18	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 8
+# text = I have Stage II Lipedema and have received prior authorization and a gap exception for numerous procedures.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	have	have	VERB	_	BP	0	root	_	_
+3	Stage	stage	PROPN	_	NP	5	compound	_	_
+4	II	ii	PROPN	_	NP	5	compound	_	_
+5	Lipedema	lipedema	PROPN	_	NP	2	dobj	_	_
+6	and	and	CCONJ	_	C	2	cc	_	_
+7	have	have	AUX	_	BP	8	aux	_	_
+8	received	receive	VERB	_	BN	2	conj	_	_
+9	prior	prior	ADJ	_	J	10	amod	_	_
+10	authorization	authorization	NOUN	_	N	8	dobj	_	_
+11	and	and	CCONJ	_	C	10	cc	_	_
+12	a	a	DET	_	T	14	det	_	_
+13	gap	gap	NOUN	_	N	14	compound	_	_
+14	exception	exception	NOUN	_	N	10	conj	_	_
+15	for	for	ADP	_	N	14	prep	_	_
+16	numerous	numerous	ADJ	_	J	17	amod	_	_
+17	procedures	procedure	NOUN	_	NS	15	pobj	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = My latest claim for reimbursement was denied, as was my appeal.
+1	My	my	PRON	_	RP$	3	poss	_	_
+2	latest	late	ADJ	_	JS	3	amod	_	_
+3	claim	claim	NOUN	_	N	7	nsubjpass	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	reimbursement	reimbursement	NOUN	_	N	4	pobj	_	_
+6	was	be	AUX	_	BD	7	auxpass	_	_
+7	denied	deny	VERB	_	BN	0	root	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	as	as	SCONJ	_	N	10	mark	_	_
+10	was	be	AUX	_	BD	7	advcl	_	_
+11	my	my	PRON	_	RP$	12	poss	_	_
+12	appeal	appeal	NOUN	_	N	10	nsubj	_	_
+13	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 10
+# text = I had procedure CPT-15832 done in a POS 11 / office setting.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	had	have	VERB	_	BD	0	root	_	_
+3	procedure	procedure	NOUN	_	N	5	nsubj	_	_
+4	CPT-15832	cpt-15832	PROPN	_	NP	3	appos	_	_
+5	done	do	VERB	_	BN	2	ccomp	_	_
+6	in	in	ADP	_	N	5	prep	_	_
+7	a	a	DET	_	T	12	det	_	_
+8	POS	pos	PROPN	_	NP	11	nmod	_	_
+9	11	11	NUM	_	D	8	nummod	_	_
+10	/	/	SYM	_	YM	11	punct	_	_
+11	office	office	NOUN	_	N	12	compound	_	_
+12	setting	setting	NOUN	_	N	6	pobj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 11
+# text = Unusual, yes, but this surgeon is known for doing her surgeries in her facility with only local anesthetic while the patient is awake.
+1	Unusual	unusual	ADJ	_	J	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	yes	yes	INTJ	_	H	1	intj	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	but	but	CCONJ	_	C	1	cc	_	_
+6	this	this	DET	_	T	7	det	_	_
+7	surgeon	surgeon	NOUN	_	N	9	nsubjpass	_	_
+8	is	be	AUX	_	BZ	9	auxpass	_	_
+9	known	know	VERB	_	BN	1	conj	_	_
+10	for	for	ADP	_	N	9	prep	_	_
+11	doing	do	VERB	_	BG	10	pcomp	_	_
+12	her	her	PRON	_	RP$	13	poss	_	_
+13	surgeries	surgery	NOUN	_	NS	11	dobj	_	_
+14	in	in	ADP	_	N	11	prep	_	_
+15	her	her	PRON	_	RP$	16	poss	_	_
+16	facility	facility	NOUN	_	N	14	pobj	_	_
+17	with	with	ADP	_	N	11	prep	_	_
+18	only	only	ADJ	_	J	20	amod	_	_
+19	local	local	ADJ	_	J	20	amod	_	_
+20	anesthetic	anesthetic	NOUN	_	N	17	pobj	_	_
+21	while	while	SCONJ	_	N	24	mark	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	patient	patient	NOUN	_	N	24	nsubj	_	_
+24	is	be	AUX	_	BZ	11	advcl	_	_
+25	awake	awake	ADJ	_	J	24	acomp	_	_
+26	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 12
+# text = The claim was then denied for the surgery being done in an office setting.
+1	The	the	DET	_	T	2	det	_	_
+2	claim	claim	NOUN	_	N	5	nsubjpass	_	_
+3	was	be	AUX	_	BD	5	auxpass	_	_
+4	then	then	ADV	_	B	5	advmod	_	_
+5	denied	deny	VERB	_	BN	0	root	_	_
+6	for	for	SCONJ	_	N	10	mark	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	surgery	surgery	NOUN	_	N	10	nsubjpass	_	_
+9	being	be	AUX	_	BG	10	auxpass	_	_
+10	done	do	VERB	_	BN	5	advcl	_	_
+11	in	in	ADP	_	N	10	prep	_	_
+12	an	an	DET	_	T	14	det	_	_
+13	office	office	NOUN	_	N	14	compound	_	_
+14	setting	setting	NOUN	_	N	11	pobj	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 13
+# text = The insurance company cited a policy that does indeed say reimbursement is not considered for this CPT code if performed in an office setting.
+1	The	the	DET	_	T	3	det	_	_
+2	insurance	insurance	NOUN	_	N	3	compound	_	_
+3	company	company	NOUN	_	N	4	nsubj	_	_
+4	cited	cite	VERB	_	BD	0	root	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	policy	policy	NOUN	_	N	4	dobj	_	_
+7	that	that	PRON	_	DT	10	nsubj	_	_
+8	does	do	AUX	_	BZ	10	aux	_	_
+9	indeed	indeed	ADV	_	B	10	advmod	_	_
+10	say	say	VERB	_	B	6	relcl	_	_
+11	reimbursement	reimbursement	NOUN	_	N	14	nsubjpass	_	_
+12	is	be	AUX	_	BZ	14	auxpass	_	_
+13	not	not	PART	_	B	14	neg	_	_
+14	considered	consider	VERB	_	BN	10	ccomp	_	_
+15	for	for	ADP	_	N	14	prep	_	_
+16	this	this	DET	_	T	18	det	_	_
+17	CPT	cpt	PROPN	_	NP	18	compound	_	_
+18	code	code	NOUN	_	N	15	pobj	_	_
+19	if	if	SCONJ	_	N	20	mark	_	_
+20	performed	perform	VERB	_	BN	14	advcl	_	_
+21	in	in	ADP	_	N	20	prep	_	_
+22	an	an	DET	_	T	24	det	_	_
+23	office	office	NOUN	_	N	24	compound	_	_
+24	setting	setting	NOUN	_	N	21	pobj	_	_
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 14
+# text = That policy is on their provider-facing website, not the member site.
+1	That	that	DET	_	T	2	det	_	_
+2	policy	policy	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	on	on	ADP	_	N	3	prep	_	_
+5	their	their	PRON	_	RP$	9	poss	_	_
+6	provider	provider	NOUN	_	N	8	npadvmod	_	_
+7	-	-	PUNCT	_	YPH	8	punct	_	_
+8	facing	face	VERB	_	BG	9	amod	_	_
+9	website	website	NOUN	_	N	4	pobj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	not	not	PART	_	B	9	neg	_	_
+12	the	the	DET	_	T	14	det	_	_
+13	member	member	NOUN	_	N	14	compound	_	_
+14	site	site	NOUN	_	N	9	appos	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 15
+# text = HOWEVER - my prior authorization/gap exception approval letter specifically lists this CPT, done with this doctor, in an office setting.
+1	HOWEVER	however	ADV	_	B	12	advmod	_	_
+2	-	-	PUNCT	_	_	10	punct	_	_
+3	my	my	PRON	_	RP$	10	poss	_	_
+4	prior	prior	ADJ	_	J	10	amod	_	_
+5	authorization	authorization	NOUN	_	N	7	nmod	_	_
+6	/	/	SYM	_	YM	7	punct	_	_
+7	gap	gap	NOUN	_	N	10	compound	_	_
+8	exception	exception	NOUN	_	N	10	compound	_	_
+9	approval	approval	NOUN	_	N	10	compound	_	_
+10	letter	letter	NOUN	_	N	12	nsubj	_	_
+11	specifically	specifically	ADV	_	B	12	advmod	_	_
+12	lists	list	VERB	_	BZ	0	root	_	_
+13	this	this	DET	_	T	14	det	_	_
+14	CPT	cpt	PROPN	_	NP	12	dobj	_	_
+15	,	,	PUNCT	_	_	12	punct	_	_
+16	done	do	VERB	_	BN	12	advcl	_	_
+17	with	with	ADP	_	N	16	prep	_	_
+18	this	this	DET	_	T	19	det	_	_
+19	doctor	doctor	NOUN	_	N	17	pobj	_	_
+20	,	,	PUNCT	_	_	16	punct	_	_
+21	in	in	ADP	_	N	12	prep	_	_
+22	an	an	DET	_	T	24	det	_	_
+23	office	office	NOUN	_	N	24	compound	_	_
+24	setting	setting	NOUN	_	N	21	pobj	_	_
+25	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 16
+# text = I understand the whole "prior authorization doesn't guarantee reimbursement" argument they love to use, but are they allowed to pre-approve a procedure in a specific setting knowing that it will never be eligible for reimbursement in that setting?
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	understand	understand	VERB	_	BP	0	root	_	_
+3	the	the	DET	_	T	7	det	_	_
+4	whole	whole	ADJ	_	J	7	amod	_	_
+5	"	"	PUNCT	_	`	7	punct	_	_
+6	prior	prior	ADJ	_	J	7	amod	_	_
+7	authorization	authorization	NOUN	_	N	10	nsubj	_	_
+8	does	do	AUX	_	BZ	10	aux	_	_
+9	n't	not	PART	_	B	10	neg	_	_
+10	guarantee	guarantee	VERB	_	B	2	ccomp	_	_
+11	reimbursement	reimbursement	NOUN	_	N	13	nmod	_	_
+12	"	"	PUNCT	_	'	13	punct	_	_
+13	argument	argument	NOUN	_	N	10	dobj	_	_
+14	they	they	PRON	_	RP	15	nsubj	_	_
+15	love	love	VERB	_	BP	13	relcl	_	_
+16	to	to	PART	_	O	17	aux	_	_
+17	use	use	VERB	_	B	15	xcomp	_	_
+18	,	,	PUNCT	_	_	10	punct	_	_
+19	but	but	CCONJ	_	C	10	cc	_	_
+20	are	be	AUX	_	BP	22	auxpass	_	_
+21	they	they	PRON	_	RP	22	nsubjpass	_	_
+22	allowed	allow	VERB	_	BN	10	conj	_	_
+23	to	to	PART	_	O	24	aux	_	_
+24	pre	pre	VERB	_	B	22	xcomp	_	_
+25	-	-	VERB	_	B	22	xcomp	_	_
+26	approve	approve	VERB	_	B	22	xcomp	_	_
+27	a	a	DET	_	T	28	det	_	_
+28	procedure	procedure	NOUN	_	N	26	dobj	_	_
+29	in	in	ADP	_	N	28	prep	_	_
+30	a	a	DET	_	T	32	det	_	_
+31	specific	specific	ADJ	_	J	32	amod	_	_
+32	setting	setting	NOUN	_	N	29	pobj	_	_
+33	knowing	know	VERB	_	BG	28	acl	_	_
+34	that	that	SCONJ	_	N	38	mark	_	_
+35	it	it	PRON	_	RP	38	nsubj	_	_
+36	will	will	AUX	_	D	38	aux	_	_
+37	never	never	ADV	_	B	38	neg	_	_
+38	be	be	AUX	_	B	33	ccomp	_	_
+39	eligible	eligible	ADJ	_	J	38	acomp	_	_
+40	for	for	ADP	_	N	39	prep	_	_
+41	reimbursement	reimbursement	NOUN	_	N	40	pobj	_	_
+42	in	in	ADP	_	N	41	prep	_	_
+43	that	that	DET	_	T	44	det	_	_
+44	setting	setting	NOUN	_	N	42	pobj	_	_
+45	?	?	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 17
+# text = Medical necessity and prior authorization was only approved via a state complaint and subsequent External Review so this has been a fight from the beginning.
+1	Medical	medical	ADJ	_	J	2	amod	_	_
+2	necessity	necessity	NOUN	_	N	8	nsubjpass	_	_
+3	and	and	CCONJ	_	C	2	cc	_	_
+4	prior	prior	ADJ	_	J	5	amod	_	_
+5	authorization	authorization	NOUN	_	N	2	conj	_	_
+6	was	be	AUX	_	BD	8	auxpass	_	_
+7	only	only	ADV	_	B	8	advmod	_	_
+8	approved	approve	VERB	_	BN	0	root	_	_
+9	via	via	ADP	_	N	8	prep	_	_
+10	a	a	DET	_	T	12	det	_	_
+11	state	state	NOUN	_	N	12	compound	_	_
+12	complaint	complaint	NOUN	_	N	9	pobj	_	_
+13	and	and	CCONJ	_	C	12	cc	_	_
+14	subsequent	subsequent	ADJ	_	J	16	amod	_	_
+15	External	external	PROPN	_	NP	16	compound	_	_
+16	Review	review	PROPN	_	NP	12	conj	_	_
+17	so	so	ADV	_	B	20	mark	_	_
+18	this	this	PRON	_	T	20	nsubj	_	_
+19	has	have	AUX	_	BZ	20	aux	_	_
+20	been	be	AUX	_	BN	8	advcl	_	_
+21	a	a	DET	_	T	22	det	_	_
+22	fight	fight	NOUN	_	N	20	attr	_	_
+23	from	from	ADP	_	N	22	prep	_	_
+24	the	the	DET	_	T	25	det	_	_
+25	beginning	beginning	NOUN	_	N	23	pobj	_	_
+26	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 18
+# text = Thoughts?
+1	Thoughts	thought	NOUN	_	NS	0	root	_	_
+2	?	?	PUNCT	_	_	1	punct	_	_
+
+

@@ -1,0 +1,32 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 410
+1	410	410	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 409
+1	409	409	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/its_me9233
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	its_me9233	its_me9233	NOUN	_	N	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Radio frequency ablation for thyroid nodules
+1	Radio	radio	NOUN	_	N	3	compound	_	_
+2	frequency	frequency	NOUN	_	N	3	compound	_	_
+3	ablation	ablation	NOUN	_	N	0	root	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	thyroid	thyroid	NOUN	_	N	6	compound	_	_
+6	nodules	nodule	NOUN	_	NS	4	pobj	_	_
+
+

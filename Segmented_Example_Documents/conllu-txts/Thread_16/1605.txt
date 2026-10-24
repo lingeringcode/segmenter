@@ -1,0 +1,134 @@
+# sent_id = 1
+# text = Thread_16
+1	Thread_16	thread_16	ADJ	_	J	0	root	_	_
+
+
+# sent_id = 2
+# text = 1605
+1	1605	1605	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1600
+1	1600	1600	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/wistah978
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	wistah978	wistah978	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = It sounds like they may have approved an exercise stress test instead of a chemical stress test.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	sounds	sound	VERB	_	BZ	0	root	_	_
+3	like	like	SCONJ	_	N	7	mark	_	_
+4	they	they	PRON	_	RP	7	nsubj	_	_
+5	may	may	AUX	_	D	7	aux	_	_
+6	have	have	AUX	_	B	7	aux	_	_
+7	approved	approve	VERB	_	BN	2	advcl	_	_
+8	an	an	DET	_	T	11	det	_	_
+9	exercise	exercise	NOUN	_	N	10	compound	_	_
+10	stress	stress	NOUN	_	N	11	compound	_	_
+11	test	test	NOUN	_	N	7	dobj	_	_
+12	instead	instead	ADV	_	B	13	advmod	_	_
+13	of	of	ADP	_	N	11	cc	_	_
+14	a	a	DET	_	T	17	det	_	_
+15	chemical	chemical	ADJ	_	J	17	amod	_	_
+16	stress	stress	NOUN	_	N	17	compound	_	_
+17	test	test	NOUN	_	N	11	conj	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = If so, that is fine.
+1	If	if	SCONJ	_	N	2	mark	_	_
+2	so	so	ADV	_	B	5	advcl	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	that	that	PRON	_	T	5	nsubj	_	_
+5	is	be	AUX	_	BZ	0	root	_	_
+6	fine	fine	ADJ	_	J	5	acomp	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 7
+# text = The basic difference is that one puts stress on the heart using physical activity, the other uses medications to stress the heart.
+1	The	the	DET	_	T	3	det	_	_
+2	basic	basic	ADJ	_	J	3	amod	_	_
+3	difference	difference	NOUN	_	N	4	nsubj	_	_
+4	is	be	AUX	_	BZ	18	ccomp	_	_
+5	that	that	SCONJ	_	N	7	mark	_	_
+6	one	one	NOUN	_	N	7	nsubj	_	_
+7	puts	put	VERB	_	BZ	4	ccomp	_	_
+8	stress	stress	NOUN	_	N	7	dobj	_	_
+9	on	on	ADP	_	N	7	prep	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	heart	heart	NOUN	_	N	9	pobj	_	_
+12	using	use	VERB	_	BG	7	advcl	_	_
+13	physical	physical	ADJ	_	J	14	amod	_	_
+14	activity	activity	NOUN	_	N	12	dobj	_	_
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	other	other	ADJ	_	J	18	nsubj	_	_
+18	uses	use	VERB	_	BZ	0	root	_	_
+19	medications	medication	NOUN	_	NS	18	dobj	_	_
+20	to	to	PART	_	O	21	aux	_	_
+21	stress	stress	VERB	_	B	18	xcomp	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	heart	heart	NOUN	_	N	21	dobj	_	_
+24	.	.	PUNCT	_	_	18	punct	_	_
+
+
+# sent_id = 8
+# text = The second kind is used when the patient can't exercise enough to get good results - bad knees or lung disease for example.
+1	The	the	DET	_	T	3	det	_	_
+2	second	second	ADJ	_	J	3	amod	_	_
+3	kind	kind	NOUN	_	N	5	nsubjpass	_	_
+4	is	be	AUX	_	BZ	5	auxpass	_	_
+5	used	use	VERB	_	BN	0	root	_	_
+6	when	when	SCONJ	_	RB	11	advmod	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	patient	patient	NOUN	_	N	11	nsubj	_	_
+9	ca	can	AUX	_	D	11	aux	_	_
+10	n't	not	PART	_	B	11	neg	_	_
+11	exercise	exercise	VERB	_	B	5	advcl	_	_
+12	enough	enough	ADJ	_	J	11	advmod	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	get	get	VERB	_	B	12	xcomp	_	_
+15	good	good	ADJ	_	J	19	amod	_	_
+16	results	result	NOUN	_	NS	18	npadvmod	_	_
+17	-	-	PUNCT	_	YPH	18	punct	_	_
+18	bad	bad	ADJ	_	J	19	amod	_	_
+19	knees	knee	NOUN	_	NS	14	dobj	_	_
+20	or	or	CCONJ	_	C	19	cc	_	_
+21	lung	lung	NOUN	_	N	22	compound	_	_
+22	disease	disease	NOUN	_	N	19	conj	_	_
+23	for	for	ADP	_	N	14	prep	_	_
+24	example	example	NOUN	_	N	23	pobj	_	_
+25	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 9
+# text = If your wife is able to walk on a treadmill they will get the info they need.
+1	If	if	SCONJ	_	N	4	mark	_	_
+2	your	your	PRON	_	RP$	3	poss	_	_
+3	wife	wife	NOUN	_	N	4	nsubj	_	_
+4	is	be	AUX	_	BZ	13	advcl	_	_
+5	able	able	ADJ	_	J	4	acomp	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	walk	walk	VERB	_	B	5	xcomp	_	_
+8	on	on	ADP	_	N	7	prep	_	_
+9	a	a	DET	_	T	10	det	_	_
+10	treadmill	treadmill	NOUN	_	N	8	pobj	_	_
+11	they	they	PRON	_	RP	13	nsubj	_	_
+12	will	will	AUX	_	D	13	aux	_	_
+13	get	get	VERB	_	B	0	root	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	info	info	NOUN	_	N	13	dobj	_	_
+16	they	they	PRON	_	RP	17	nsubj	_	_
+17	need	need	VERB	_	BP	15	relcl	_	_
+18	.	.	PUNCT	_	_	13	punct	_	_
+
+

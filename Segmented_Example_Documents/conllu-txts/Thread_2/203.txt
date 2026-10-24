@@ -1,0 +1,43 @@
+# sent_id = 1
+# text = Thread_2
+1	Thread_2	thread_2	ADV	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 203
+1	203	203	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 200
+1	200	200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/RhubarbBest9090
+1	u	u	PROPN	_	NP	3	meta	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	RhubarbBest9090	rhubarbbest9090	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = This is why people get things pre-approved before having procedures they can’t pay for
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	why	why	SCONJ	_	RB	5	advmod	_	_
+4	people	people	NOUN	_	NS	5	nsubj	_	_
+5	get	get	VERB	_	BP	16	advcl	_	_
+6	things	thing	NOUN	_	NS	7	nsubj	_	_
+7	pre	pre	VERB	_	BN	5	ccomp	_	_
+8	-	-	VERB	_	BN	5	ccomp	_	_
+9	approved	approve	VERB	_	BN	5	conj	_	_
+10	before	before	ADP	_	N	5	prep	_	_
+11	having	have	VERB	_	BG	10	pcomp	_	_
+12	procedures	procedure	NOUN	_	NS	11	dobj	_	_
+13	they	they	PRON	_	RP	16	nsubj	_	_
+14	ca	can	AUX	_	D	16	aux	_	_
+15	n’t	not	PART	_	B	16	neg	_	_
+16	pay	pay	VERB	_	B	2	ccomp	_	_
+17	for	for	ADP	_	N	16	prep	_	_
+
+

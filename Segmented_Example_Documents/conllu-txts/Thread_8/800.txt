@@ -1,0 +1,302 @@
+# sent_id = 1
+# text = Thread_8
+1	Thread_8	thread_8	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 800
+1	800	800	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Quick-Permission3566
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Quick	quick	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Permission3566	permission3566	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = How to deal with an insurance denial?
+1	How	how	SCONJ	_	RB	3	advmod	_	_
+2	to	to	PART	_	O	3	aux	_	_
+3	deal	deal	VERB	_	B	0	root	_	_
+4	with	with	ADP	_	N	3	prep	_	_
+5	an	an	DET	_	T	7	det	_	_
+6	insurance	insurance	NOUN	_	N	7	compound	_	_
+7	denial	denial	NOUN	_	N	4	pobj	_	_
+8	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = I received a denial from my insurance that they wouldn't cover a follow up MRI and was told to follow up with my provider for next steps back in mid August.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	received	receive	VERB	_	BD	0	root	_	_
+3	a	a	DET	_	T	4	det	_	_
+4	denial	denial	NOUN	_	N	2	dobj	_	_
+5	from	from	ADP	_	N	2	prep	_	_
+6	my	my	PRON	_	RP$	7	poss	_	_
+7	insurance	insurance	NOUN	_	N	5	pobj	_	_
+8	that	that	SCONJ	_	N	12	mark	_	_
+9	they	they	PRON	_	RP	12	nsubj	_	_
+10	would	would	AUX	_	D	12	aux	_	_
+11	n't	not	PART	_	B	12	neg	_	_
+12	cover	cover	VERB	_	B	2	ccomp	_	_
+13	a	a	DET	_	T	16	det	_	_
+14	follow	follow	NOUN	_	N	16	amod	_	_
+15	up	up	ADP	_	P	14	prt	_	_
+16	MRI	mri	PROPN	_	NP	12	dobj	_	_
+17	and	and	CCONJ	_	C	12	cc	_	_
+18	was	be	AUX	_	BD	19	auxpass	_	_
+19	told	tell	VERB	_	BN	12	conj	_	_
+20	to	to	PART	_	O	21	aux	_	_
+21	follow	follow	VERB	_	B	19	xcomp	_	_
+22	up	up	ADP	_	P	21	prt	_	_
+23	with	with	ADP	_	N	21	prep	_	_
+24	my	my	PRON	_	RP$	25	poss	_	_
+25	provider	provider	NOUN	_	N	23	pobj	_	_
+26	for	for	ADP	_	N	21	prep	_	_
+27	next	next	ADJ	_	J	28	amod	_	_
+28	steps	step	NOUN	_	NS	26	pobj	_	_
+29	back	back	ADV	_	B	28	advmod	_	_
+30	in	in	ADP	_	N	29	prep	_	_
+31	mid	mid	ADJ	_	J	32	amod	_	_
+32	August	august	PROPN	_	NP	30	pobj	_	_
+33	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = I have called my provider every week for follow up since then and have been told the provider will do a peer review call with my insurance to explain why the MRI is medically necessary.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	have	have	AUX	_	BP	3	aux	_	_
+3	called	call	VERB	_	BN	0	root	_	_
+4	my	my	PRON	_	RP$	5	poss	_	_
+5	provider	provider	NOUN	_	N	3	dobj	_	_
+6	every	every	DET	_	T	7	det	_	_
+7	week	week	NOUN	_	N	3	npadvmod	_	_
+8	for	for	ADP	_	N	3	prep	_	_
+9	follow	follow	VERB	_	B	8	pobj	_	_
+10	up	up	ADP	_	P	9	prt	_	_
+11	since	since	SCONJ	_	N	9	prep	_	_
+12	then	then	ADV	_	B	11	pcomp	_	_
+13	and	and	CCONJ	_	C	3	cc	_	_
+14	have	have	AUX	_	BP	16	aux	_	_
+15	been	be	AUX	_	BN	16	auxpass	_	_
+16	told	tell	VERB	_	BN	3	conj	_	_
+17	the	the	DET	_	T	18	det	_	_
+18	provider	provider	NOUN	_	N	20	nsubj	_	_
+19	will	will	AUX	_	D	20	aux	_	_
+20	do	do	VERB	_	B	16	ccomp	_	_
+21	a	a	DET	_	T	24	det	_	_
+22	peer	peer	NOUN	_	N	23	compound	_	_
+23	review	review	NOUN	_	N	24	compound	_	_
+24	call	call	VERB	_	B	20	dobj	_	_
+25	with	with	ADP	_	N	24	prep	_	_
+26	my	my	PRON	_	RP$	27	poss	_	_
+27	insurance	insurance	NOUN	_	N	25	pobj	_	_
+28	to	to	PART	_	O	29	aux	_	_
+29	explain	explain	VERB	_	B	20	advcl	_	_
+30	why	why	SCONJ	_	RB	33	advmod	_	_
+31	the	the	DET	_	T	32	det	_	_
+32	MRI	mri	PROPN	_	NP	33	nsubj	_	_
+33	is	be	AUX	_	BZ	29	ccomp	_	_
+34	medically	medically	ADV	_	B	35	advmod	_	_
+35	necessary	necessary	ADJ	_	J	33	acomp	_	_
+36	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = I am 12 day from the MRI still being told the call hasn't happen when I call for a follow up.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	am	be	AUX	_	BP	0	root	_	_
+3	12	12	NUM	_	D	4	nummod	_	_
+4	day	day	NOUN	_	N	2	npadvmod	_	_
+5	from	from	ADP	_	N	2	prep	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	MRI	mri	PROPN	_	NP	5	pobj	_	_
+8	still	still	ADV	_	B	10	advmod	_	_
+9	being	be	AUX	_	BG	10	auxpass	_	_
+10	told	tell	VERB	_	BN	2	conj	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	call	call	NOUN	_	N	15	nsubj	_	_
+13	has	have	AUX	_	BZ	15	aux	_	_
+14	n't	not	PART	_	B	15	neg	_	_
+15	happen	happen	VERB	_	B	10	ccomp	_	_
+16	when	when	SCONJ	_	RB	18	advmod	_	_
+17	I	i	PRON	_	RP	18	nsubj	_	_
+18	call	call	VERB	_	BP	15	advcl	_	_
+19	for	for	ADP	_	N	18	prep	_	_
+20	a	a	DET	_	T	21	det	_	_
+21	follow	follow	NOUN	_	N	19	pobj	_	_
+22	up	up	ADP	_	P	18	prt	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = No word from the doctor or insurance on where things stand.
+1	No	no	DET	_	T	2	det	_	_
+2	word	word	NOUN	_	N	0	root	_	_
+3	from	from	ADP	_	N	2	prep	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	doctor	doctor	NOUN	_	N	3	pobj	_	_
+6	or	or	CCONJ	_	C	5	cc	_	_
+7	insurance	insurance	NOUN	_	N	5	conj	_	_
+8	on	on	ADP	_	N	2	prep	_	_
+9	where	where	SCONJ	_	RB	11	advmod	_	_
+10	things	thing	NOUN	_	NS	11	nsubj	_	_
+11	stand	stand	VERB	_	BP	8	pcomp	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 10
+# text = For context, I had an MRI done back in July and when I met with the provider, they ordered another one to be done in October.
+1	For	for	ADP	_	N	5	prep	_	_
+2	context	context	NOUN	_	N	1	pobj	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	I	i	PRON	_	RP	5	nsubj	_	_
+5	had	have	VERB	_	BD	21	ccomp	_	_
+6	an	an	DET	_	T	7	det	_	_
+7	MRI	mri	PROPN	_	NP	8	nsubj	_	_
+8	done	do	VERB	_	BN	5	ccomp	_	_
+9	back	back	ADV	_	B	8	advmod	_	_
+10	in	in	ADP	_	N	8	prep	_	_
+11	July	july	PROPN	_	NP	10	pobj	_	_
+12	and	and	CCONJ	_	C	8	cc	_	_
+13	when	when	SCONJ	_	RB	15	advmod	_	_
+14	I	i	PRON	_	RP	15	nsubj	_	_
+15	met	meet	VERB	_	BD	21	advcl	_	_
+16	with	with	ADP	_	N	15	prep	_	_
+17	the	the	DET	_	T	18	det	_	_
+18	provider	provider	NOUN	_	N	16	pobj	_	_
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	they	they	PRON	_	RP	21	nsubj	_	_
+21	ordered	order	VERB	_	BD	0	root	_	_
+22	another	another	DET	_	T	23	det	_	_
+23	one	one	NOUN	_	N	21	dobj	_	_
+24	to	to	PART	_	O	26	aux	_	_
+25	be	be	AUX	_	B	26	auxpass	_	_
+26	done	do	VERB	_	BN	23	relcl	_	_
+27	in	in	ADP	_	N	26	prep	_	_
+28	October	october	PROPN	_	NP	27	pobj	_	_
+29	.	.	PUNCT	_	_	21	punct	_	_
+
+
+# sent_id = 11
+# text = That is the one being denied by my insurance provider.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	one	one	NOUN	_	N	2	attr	_	_
+5	being	be	AUX	_	BG	6	auxpass	_	_
+6	denied	deny	VERB	_	BN	4	acl	_	_
+7	by	by	ADP	_	N	6	agent	_	_
+8	my	my	PRON	_	RP$	10	poss	_	_
+9	insurance	insurance	NOUN	_	N	10	compound	_	_
+10	provider	provider	NOUN	_	N	7	pobj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 12
+# text = I don't know if I should cancel the MRI, fight the denial myself, or keep calling the hospital till something is done.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	do	do	AUX	_	BP	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	know	know	VERB	_	B	0	root	_	_
+5	if	if	SCONJ	_	N	8	mark	_	_
+6	I	i	PRON	_	RP	8	nsubj	_	_
+7	should	should	AUX	_	D	8	aux	_	_
+8	cancel	cancel	VERB	_	B	4	ccomp	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	MRI	mri	PROPN	_	NP	8	dobj	_	_
+11	,	,	PUNCT	_	_	4	punct	_	_
+12	fight	fight	VERB	_	B	4	conj	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	denial	denial	NOUN	_	N	12	dobj	_	_
+15	myself	myself	PRON	_	RP	12	npadvmod	_	_
+16	,	,	PUNCT	_	_	12	punct	_	_
+17	or	or	CCONJ	_	C	12	cc	_	_
+18	keep	keep	VERB	_	B	12	conj	_	_
+19	calling	call	VERB	_	BG	18	xcomp	_	_
+20	the	the	DET	_	T	21	det	_	_
+21	hospital	hospital	NOUN	_	N	19	dobj	_	_
+22	till	till	SCONJ	_	N	25	mark	_	_
+23	something	something	PRON	_	N	25	nsubjpass	_	_
+24	is	be	AUX	_	BZ	25	auxpass	_	_
+25	done	do	VERB	_	BN	19	advcl	_	_
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 13
+# text = Is this a normal time frame for a process like this?
+1	Is	be	AUX	_	BZ	0	root	_	_
+2	this	this	PRON	_	T	1	nsubj	_	_
+3	a	a	DET	_	T	6	det	_	_
+4	normal	normal	ADJ	_	J	6	amod	_	_
+5	time	time	NOUN	_	N	6	compound	_	_
+6	frame	frame	NOUN	_	N	1	attr	_	_
+7	for	for	ADP	_	N	6	prep	_	_
+8	a	a	DET	_	T	9	det	_	_
+9	process	process	NOUN	_	N	7	pobj	_	_
+10	like	like	ADP	_	N	9	prep	_	_
+11	this	this	PRON	_	T	10	pobj	_	_
+12	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 14
+# text = I am honestly so exhausted from the process of fighting and feeling forgotten by the doctors.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	am	be	AUX	_	BP	0	root	_	_
+3	honestly	honestly	ADV	_	B	2	advmod	_	_
+4	so	so	ADV	_	B	5	advmod	_	_
+5	exhausted	exhausted	ADJ	_	J	2	acomp	_	_
+6	from	from	ADP	_	N	5	prep	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	process	process	NOUN	_	N	6	pobj	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	fighting	fighting	NOUN	_	N	9	pobj	_	_
+11	and	and	CCONJ	_	C	10	cc	_	_
+12	feeling	feeling	AUX	_	N	13	auxpass	_	_
+13	forgotten	forget	VERB	_	BN	10	conj	_	_
+14	by	by	ADP	_	N	13	agent	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	doctors	doctor	NOUN	_	NS	14	pobj	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 15
+# text = But this is the closest hospital to me and where all my records are held.
+1	But	but	CCONJ	_	C	3	cc	_	_
+2	this	this	PRON	_	T	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	closest	close	ADJ	_	JS	6	amod	_	_
+6	hospital	hospital	NOUN	_	N	3	attr	_	_
+7	to	to	ADP	_	N	6	prep	_	_
+8	me	i	PRON	_	RP	7	pobj	_	_
+9	and	and	CCONJ	_	C	6	cc	_	_
+10	where	where	SCONJ	_	RB	15	advmod	_	_
+11	all	all	DET	_	DT	13	predet	_	_
+12	my	my	PRON	_	RP$	13	poss	_	_
+13	records	record	NOUN	_	NS	15	nsubjpass	_	_
+14	are	be	AUX	_	BP	15	auxpass	_	_
+15	held	hold	VERB	_	BN	3	ccomp	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 16
+# text = Going somewhere else is a struggle.
+1	Going	go	VERB	_	BG	4	csubj	_	_
+2	somewhere	somewhere	ADV	_	B	3	advmod	_	_
+3	else	else	ADV	_	B	1	advmod	_	_
+4	is	be	AUX	_	BZ	0	root	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	struggle	struggle	NOUN	_	N	4	attr	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+

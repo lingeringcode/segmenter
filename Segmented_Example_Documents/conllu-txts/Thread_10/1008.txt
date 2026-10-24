@@ -1,0 +1,62 @@
+# sent_id = 1
+# text = Thread_10
+1	Thread_10	thread_10	VERB	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 1008
+1	1008	1008	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1007
+1	1007	1007	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Actual-Government96
+1	u	u	NOUN	_	N	5	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Actual	actual	ADJ	_	J	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Government96	government96	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = I was going to add that it's more likely in Blue states.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	was	be	AUX	_	BD	3	aux	_	_
+3	going	go	VERB	_	BG	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	add	add	VERB	_	B	3	xcomp	_	_
+6	that	that	SCONJ	_	N	8	mark	_	_
+7	it	it	PRON	_	RP	8	nsubj	_	_
+8	's	be	AUX	_	BZ	5	ccomp	_	_
+9	more	more	ADV	_	BR	10	advmod	_	_
+10	likely	likely	ADJ	_	J	8	acomp	_	_
+11	in	in	ADP	_	N	8	prep	_	_
+12	Blue	blue	PROPN	_	NP	13	amod	_	_
+13	states	state	NOUN	_	NS	11	pobj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = Texas likely doesn't care, though I still say it's worth a try.
+1	Texas	texas	PROPN	_	NP	5	nsubj	_	_
+2	likely	likely	ADV	_	B	5	advmod	_	_
+3	does	do	AUX	_	BZ	5	aux	_	_
+4	n't	not	PART	_	B	5	neg	_	_
+5	care	care	VERB	_	B	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	though	though	SCONJ	_	N	10	mark	_	_
+8	I	i	PRON	_	RP	10	nsubj	_	_
+9	still	still	ADV	_	B	10	advmod	_	_
+10	say	say	VERB	_	BP	5	advcl	_	_
+11	it	it	PRON	_	RP	12	nsubj	_	_
+12	's	be	AUX	_	BZ	10	ccomp	_	_
+13	worth	worth	ADJ	_	J	12	acomp	_	_
+14	a	a	DET	_	T	15	det	_	_
+15	try	try	NOUN	_	N	13	npadvmod	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+

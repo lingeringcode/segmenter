@@ -1,0 +1,146 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1113
+1	1113	1113	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1112
+1	1112	1112	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Business-Title8503
+1	u	u	PROPN	_	NP	5	compound	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	Business	business	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Title8503	title8503	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = No, no it’s not.
+1	No	no	INTJ	_	H	5	intj	_	_
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	no	no	INTJ	_	H	5	intj	_	_
+4	it	it	PRON	_	RP	5	nsubj	_	_
+5	’s	’s	VERB	_	BP	0	root	_	_
+6	not	not	PART	_	B	5	neg	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = The H pylori was the cause of the symptoms, the antibiotics were a side effect.
+1	The	the	DET	_	T	3	det	_	_
+2	H	h	PROPN	_	NP	3	compound	_	_
+3	pylori	pylori	NOUN	_	N	4	nsubj	_	_
+4	was	be	AUX	_	BD	13	ccomp	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	cause	cause	NOUN	_	N	4	attr	_	_
+7	of	of	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	symptoms	symptom	NOUN	_	NS	7	pobj	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	antibiotics	antibiotic	NOUN	_	NS	13	nsubj	_	_
+13	were	be	AUX	_	BD	0	root	_	_
+14	a	a	DET	_	T	16	det	_	_
+15	side	side	NOUN	_	N	16	compound	_	_
+16	effect	effect	NOUN	_	N	13	attr	_	_
+17	.	.	PUNCT	_	_	13	punct	_	_
+
+
+# sent_id = 7
+# text = Most likely considered a “pre existing condition”since the “friend” was treated at urgent care already.
+1	Most	most	ADV	_	BS	2	advmod	_	_
+2	likely	likely	ADV	_	B	3	advmod	_	_
+3	considered	consider	VERB	_	BD	0	root	_	_
+4	a	a	DET	_	T	8	det	_	_
+5	“	"	PUNCT	_	`	8	punct	_	_
+6	pre	pre	ADJ	_	J	8	amod	_	_
+7	existing	exist	VERB	_	BG	8	amod	_	_
+8	condition”since	condition”since	NOUN	_	N	3	dobj	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	“	"	PUNCT	_	`	11	punct	_	_
+11	friend	friend	NOUN	_	N	14	nsubjpass	_	_
+12	”	"	PUNCT	_	'	11	punct	_	_
+13	was	be	AUX	_	BD	14	auxpass	_	_
+14	treated	treat	VERB	_	BN	3	ccomp	_	_
+15	at	at	ADP	_	N	14	prep	_	_
+16	urgent	urgent	ADJ	_	J	17	amod	_	_
+17	care	care	NOUN	_	N	15	pobj	_	_
+18	already	already	ADV	_	B	14	advmod	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = Her symptoms didn’t require an ER visit since she was already under the care of the physician 9 days earlier.
+1	Her	her	PRON	_	RP$	2	poss	_	_
+2	symptoms	symptom	NOUN	_	NS	5	nsubj	_	_
+3	did	do	AUX	_	BD	5	aux	_	_
+4	n’t	not	PART	_	B	5	neg	_	_
+5	require	require	VERB	_	B	0	root	_	_
+6	an	an	DET	_	T	8	det	_	_
+7	ER	er	PROPN	_	NP	8	compound	_	_
+8	visit	visit	NOUN	_	N	5	dobj	_	_
+9	since	since	SCONJ	_	N	11	mark	_	_
+10	she	she	PRON	_	RP	11	nsubj	_	_
+11	was	be	AUX	_	BD	5	advcl	_	_
+12	already	already	ADV	_	B	11	advmod	_	_
+13	under	under	ADP	_	N	11	prep	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	care	care	NOUN	_	N	13	pobj	_	_
+16	of	of	ADP	_	N	15	prep	_	_
+17	the	the	DET	_	T	18	det	_	_
+18	physician	physician	NOUN	_	N	16	pobj	_	_
+19	9	9	NUM	_	D	20	nummod	_	_
+20	days	day	NOUN	_	NS	21	npadvmod	_	_
+21	earlier	early	ADV	_	BR	11	advmod	_	_
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 9
+# text = Instead of going back to the treating doctor, the “friend” skipped all steps and went to the ER to manage non emergency/non life threatening symptoms to something that was already diagnosed.
+1	Instead	instead	ADV	_	B	2	advmod	_	_
+2	of	of	ADP	_	N	14	prep	_	_
+3	going	go	VERB	_	BG	2	pcomp	_	_
+4	back	back	ADV	_	B	3	advmod	_	_
+5	to	to	ADP	_	N	4	prep	_	_
+6	the	the	DET	_	T	8	det	_	_
+7	treating	treat	VERB	_	BG	8	compound	_	_
+8	doctor	doctor	NOUN	_	N	5	pobj	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	“	"	PUNCT	_	`	12	punct	_	_
+12	friend	friend	NOUN	_	N	14	nsubj	_	_
+13	”	"	PUNCT	_	'	12	punct	_	_
+14	skipped	skip	VERB	_	BD	0	root	_	_
+15	all	all	DET	_	T	16	det	_	_
+16	steps	step	NOUN	_	NS	14	dobj	_	_
+17	and	and	CCONJ	_	C	14	cc	_	_
+18	went	go	VERB	_	BD	14	conj	_	_
+19	to	to	ADP	_	N	18	prep	_	_
+20	the	the	DET	_	T	21	det	_	_
+21	ER	er	PROPN	_	NP	19	pobj	_	_
+22	to	to	PART	_	O	23	aux	_	_
+23	manage	manage	VERB	_	B	18	advcl	_	_
+24	non	non	ADJ	_	FX	27	amod	_	_
+25	emergency	emergency	NOUN	_	N	27	nmod	_	_
+26	/	/	SYM	_	YM	27	punct	_	_
+27	non	non	NOUN	_	N	28	amod	_	_
+28	life	life	NOUN	_	N	29	nsubj	_	_
+29	threatening	threaten	VERB	_	BG	23	advcl	_	_
+30	symptoms	symptom	NOUN	_	NS	29	dobj	_	_
+31	to	to	ADP	_	N	29	prep	_	_
+32	something	something	PRON	_	N	31	pobj	_	_
+33	that	that	PRON	_	DT	36	nsubjpass	_	_
+34	was	be	AUX	_	BD	36	auxpass	_	_
+35	already	already	ADV	_	B	36	advmod	_	_
+36	diagnosed	diagnose	VERB	_	BN	32	relcl	_	_
+37	.	.	PUNCT	_	_	14	punct	_	_
+
+

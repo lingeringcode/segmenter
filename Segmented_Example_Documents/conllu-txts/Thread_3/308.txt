@@ -1,0 +1,69 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 308
+1	308	308	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 307
+1	307	307	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Dapper-Palpitation90
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Dapper	dapper	PROPN	_	NP	5	npadvmod	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Palpitation90	palpitation90	PROPN	_	NP	1	nummod	_	_
+
+
+# sent_id = 5
+# text = It sounds like your providers need to start following evidence-based guidelines.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	sounds	sound	VERB	_	BZ	0	root	_	_
+3	like	like	SCONJ	_	N	6	mark	_	_
+4	your	your	PRON	_	RP$	5	poss	_	_
+5	providers	provider	NOUN	_	NS	6	nsubj	_	_
+6	need	need	VERB	_	BP	2	advcl	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	start	start	VERB	_	B	6	xcomp	_	_
+9	following	follow	VERB	_	BG	8	xcomp	_	_
+10	evidence	evidence	NOUN	_	N	12	npadvmod	_	_
+11	-	-	PUNCT	_	YPH	12	punct	_	_
+12	based	base	VERB	_	BN	13	amod	_	_
+13	guidelines	guideline	NOUN	_	NS	9	dobj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = "Because I say so" is how patients end up getting procedures that aren't necessary and may even do harm.
+1	"	"	PUNCT	_	`	7	punct	_	_
+2	Because	because	SCONJ	_	N	4	mark	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	say	say	VERB	_	BP	7	advcl	_	_
+5	so	so	ADV	_	B	4	advmod	_	_
+6	"	"	PUNCT	_	'	7	punct	_	_
+7	is	be	AUX	_	BZ	0	root	_	_
+8	how	how	SCONJ	_	RB	10	advmod	_	_
+9	patients	patient	NOUN	_	NS	10	nsubj	_	_
+10	end	end	VERB	_	BP	7	ccomp	_	_
+11	up	up	ADP	_	P	10	prt	_	_
+12	getting	get	VERB	_	BG	10	xcomp	_	_
+13	procedures	procedure	NOUN	_	NS	12	dobj	_	_
+14	that	that	PRON	_	DT	15	nsubj	_	_
+15	are	be	AUX	_	BP	13	relcl	_	_
+16	n't	not	PART	_	B	15	neg	_	_
+17	necessary	necessary	ADJ	_	J	15	acomp	_	_
+18	and	and	CCONJ	_	C	10	cc	_	_
+19	may	may	AUX	_	D	21	aux	_	_
+20	even	even	ADV	_	B	21	advmod	_	_
+21	do	do	VERB	_	B	10	conj	_	_
+22	harm	harm	NOUN	_	N	21	dobj	_	_
+23	.	.	PUNCT	_	_	7	punct	_	_
+
+

@@ -1,0 +1,35 @@
+# sent_id = 1
+# text = Thread_10
+1	Thread_10	thread_10	VERB	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 1002
+1	1002	1002	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1001
+1	1001	1001	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/awgeez47
+1	u	u	NOUN	_	N	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	awgeez47	awgeez47	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 5
+# text = So the prior authorization doesn’t actually authorize?
+1	So	so	ADV	_	B	8	advmod	_	_
+2	the	the	DET	_	T	4	det	_	_
+3	prior	prior	ADJ	_	J	4	amod	_	_
+4	authorization	authorization	NOUN	_	N	8	nsubj	_	_
+5	does	do	AUX	_	BZ	8	aux	_	_
+6	n’t	n’t	NOUN	_	N	8	neg	_	_
+7	actually	actually	ADV	_	B	8	advmod	_	_
+8	authorize	authorize	VERB	_	B	0	root	_	_
+9	?	?	PUNCT	_	_	8	punct	_	_
+
+

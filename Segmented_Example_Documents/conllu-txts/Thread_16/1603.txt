@@ -1,0 +1,110 @@
+# sent_id = 1
+# text = Thread_16
+1	Thread_16	thread_16	ADJ	_	J	0	root	_	_
+
+
+# sent_id = 2
+# text = 1603
+1	1603	1603	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1602
+1	1602	1602	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/throwfarfaraway1818
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	throwfarfaraway1818	throwfarfaraway1818	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Does it say Carelon or Evicore on it?
+1	Does	do	AUX	_	BZ	3	aux	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	say	say	VERB	_	B	0	root	_	_
+4	Carelon	carelon	PROPN	_	NP	3	dobj	_	_
+5	or	or	CCONJ	_	C	4	cc	_	_
+6	Evicore	evicore	PROPN	_	NP	4	conj	_	_
+7	on	on	ADP	_	N	3	prep	_	_
+8	it	it	PRON	_	RP	7	pobj	_	_
+9	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = That wording sounds very familiar to me.
+1	That	that	DET	_	T	2	det	_	_
+2	wording	wording	NOUN	_	N	3	nsubj	_	_
+3	sounds	sound	VERB	_	BZ	0	root	_	_
+4	very	very	ADV	_	B	5	advmod	_	_
+5	familiar	familiar	ADJ	_	J	3	acomp	_	_
+6	to	to	ADP	_	N	5	prep	_	_
+7	me	i	PRON	_	RP	6	pobj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = They are 3rd party companies that insurance companies use for certain types of authorizations.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	are	be	AUX	_	BP	0	root	_	_
+3	3rd	3rd	ADJ	_	J	4	compound	_	_
+4	party	party	NOUN	_	N	5	compound	_	_
+5	companies	company	NOUN	_	NS	2	attr	_	_
+6	that	that	PRON	_	DT	9	dobj	_	_
+7	insurance	insurance	NOUN	_	N	8	compound	_	_
+8	companies	company	NOUN	_	NS	9	nsubj	_	_
+9	use	use	VERB	_	BP	5	relcl	_	_
+10	for	for	ADP	_	N	9	prep	_	_
+11	certain	certain	ADJ	_	J	12	amod	_	_
+12	types	type	NOUN	_	NS	10	pobj	_	_
+13	of	of	ADP	_	N	12	prep	_	_
+14	authorizations	authorization	NOUN	_	NS	13	pobj	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 8
+# text = I dont recall which one usually does MRIs, though.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	do	do	AUX	_	BP	4	aux	_	_
+3	nt	not	PART	_	B	4	neg	_	_
+4	recall	recall	VERB	_	B	0	root	_	_
+5	which	which	DET	_	DT	6	det	_	_
+6	one	one	NOUN	_	N	8	nsubj	_	_
+7	usually	usually	ADV	_	B	8	advmod	_	_
+8	does	do	VERB	_	BZ	4	ccomp	_	_
+9	MRIs	mri	NOUN	_	NS	8	dobj	_	_
+10	,	,	PUNCT	_	_	4	punct	_	_
+11	though	though	ADV	_	B	4	advmod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = In this case, you can probably overcome the rejection by having your provide include more information about why an MRI was appropriate.
+1	In	in	ADP	_	N	8	prep	_	_
+2	this	this	DET	_	T	3	det	_	_
+3	case	case	NOUN	_	N	1	pobj	_	_
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	you	you	PRON	_	RP	8	nsubj	_	_
+6	can	can	AUX	_	D	8	aux	_	_
+7	probably	probably	ADV	_	B	8	advmod	_	_
+8	overcome	overcome	VERB	_	B	0	root	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	rejection	rejection	NOUN	_	N	8	dobj	_	_
+11	by	by	ADP	_	N	8	prep	_	_
+12	having	have	VERB	_	BG	11	pcomp	_	_
+13	your	your	PRON	_	RP$	14	poss	_	_
+14	provide	provide	NOUN	_	N	15	nsubj	_	_
+15	include	include	VERB	_	B	12	ccomp	_	_
+16	more	more	ADJ	_	JR	17	amod	_	_
+17	information	information	NOUN	_	N	15	dobj	_	_
+18	about	about	ADP	_	N	17	prep	_	_
+19	why	why	SCONJ	_	RB	22	advmod	_	_
+20	an	an	DET	_	T	21	det	_	_
+21	MRI	mri	PROPN	_	NP	22	nsubj	_	_
+22	was	be	AUX	_	BD	18	pcomp	_	_
+23	appropriate	appropriate	ADJ	_	J	22	acomp	_	_
+24	.	.	PUNCT	_	_	8	punct	_	_
+
+

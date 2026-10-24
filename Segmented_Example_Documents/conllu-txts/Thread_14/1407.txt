@@ -1,0 +1,182 @@
+# sent_id = 1
+# text = Thread_14
+1	Thread_14	thread_14	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 1407
+1	1407	1407	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1406
+1	1406	1406	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/JessterJo
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	JessterJo	jessterjo	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = The hospital is most likely working on the appeal themselves.
+1	The	the	DET	_	T	2	det	_	_
+2	hospital	hospital	NOUN	_	N	6	nsubj	_	_
+3	is	be	AUX	_	BZ	6	aux	_	_
+4	most	most	ADV	_	BS	5	advmod	_	_
+5	likely	likely	ADV	_	B	6	advmod	_	_
+6	working	work	VERB	_	BG	0	root	_	_
+7	on	on	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	appeal	appeal	NOUN	_	N	7	pobj	_	_
+10	themselves	themselves	PRON	_	RP	6	npadvmod	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 6
+# text = You can call their billing department and check.
+1	You	you	PRON	_	RP	3	nsubj	_	_
+2	can	can	AUX	_	D	3	aux	_	_
+3	call	call	VERB	_	B	0	root	_	_
+4	their	their	PRON	_	RP$	6	poss	_	_
+5	billing	billing	NOUN	_	N	6	compound	_	_
+6	department	department	NOUN	_	N	3	dobj	_	_
+7	and	and	CCONJ	_	C	6	cc	_	_
+8	check	check	NOUN	_	N	6	conj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = Speaking as someone who also has to have all procedures done in a hospital, who also works in billing, these kinds of denials happen all the time.
+1	Speaking	speak	VERB	_	BG	26	advcl	_	_
+2	as	as	ADP	_	N	1	prep	_	_
+3	someone	someone	PRON	_	N	2	pobj	_	_
+4	who	who	PRON	_	P	6	nsubj	_	_
+5	also	also	ADV	_	B	6	advmod	_	_
+6	has	have	VERB	_	BZ	3	relcl	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	have	have	VERB	_	B	6	xcomp	_	_
+9	all	all	DET	_	T	10	det	_	_
+10	procedures	procedure	NOUN	_	NS	8	dobj	_	_
+11	done	do	VERB	_	BN	10	acl	_	_
+12	in	in	ADP	_	N	11	prep	_	_
+13	a	a	DET	_	T	14	det	_	_
+14	hospital	hospital	NOUN	_	N	12	pobj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	who	who	PRON	_	P	18	nsubj	_	_
+17	also	also	ADV	_	B	18	advmod	_	_
+18	works	work	VERB	_	BZ	14	relcl	_	_
+19	in	in	ADP	_	N	18	prep	_	_
+20	billing	billing	NOUN	_	N	19	pobj	_	_
+21	,	,	PUNCT	_	_	26	punct	_	_
+22	these	these	DET	_	T	23	det	_	_
+23	kinds	kind	NOUN	_	NS	26	nsubj	_	_
+24	of	of	ADP	_	N	23	prep	_	_
+25	denials	denial	NOUN	_	NS	24	pobj	_	_
+26	happen	happen	VERB	_	BP	0	root	_	_
+27	all	all	DET	_	DT	29	predet	_	_
+28	the	the	DET	_	T	29	det	_	_
+29	time	time	NOUN	_	N	26	npadvmod	_	_
+30	.	.	PUNCT	_	_	26	punct	_	_
+
+
+# sent_id = 8
+# text = The initial claim can be automatically denied by an algorithm solely based on the procedure, diagnosis, and location.
+1	The	the	DET	_	T	3	det	_	_
+2	initial	initial	ADJ	_	J	3	amod	_	_
+3	claim	claim	NOUN	_	N	7	nsubjpass	_	_
+4	can	can	AUX	_	D	7	aux	_	_
+5	be	be	AUX	_	B	7	auxpass	_	_
+6	automatically	automatically	ADV	_	B	7	advmod	_	_
+7	denied	deny	VERB	_	BN	0	root	_	_
+8	by	by	ADP	_	N	7	agent	_	_
+9	an	an	DET	_	T	10	det	_	_
+10	algorithm	algorithm	PROPN	_	NP	8	pobj	_	_
+11	solely	solely	ADV	_	B	12	advmod	_	_
+12	based	base	VERB	_	BN	7	prep	_	_
+13	on	on	ADP	_	N	12	prep	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	procedure	procedure	NOUN	_	N	13	pobj	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	diagnosis	diagnosis	NOUN	_	N	15	conj	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	and	and	CCONJ	_	C	17	cc	_	_
+20	location	location	NOUN	_	N	17	conj	_	_
+21	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 9
+# text = Only then can the hospital submit records to support the medical necessity, or even just tell the insurance "Hey, this diagnosis is also on the claim and is the reason it had to be done in a hospital," but their systems aren't built with that kind of logic.
+1	Only	only	ADV	_	B	2	advmod	_	_
+2	then	then	ADV	_	B	6	advmod	_	_
+3	can	can	AUX	_	D	6	aux	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	hospital	hospital	NOUN	_	N	6	nsubj	_	_
+6	submit	submit	VERB	_	B	0	root	_	_
+7	records	record	NOUN	_	NS	6	dobj	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	support	support	VERB	_	B	6	advcl	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	medical	medical	ADJ	_	J	12	amod	_	_
+12	necessity	necessity	NOUN	_	N	9	dobj	_	_
+13	,	,	PUNCT	_	_	6	punct	_	_
+14	or	or	CCONJ	_	C	6	cc	_	_
+15	even	even	ADV	_	B	17	advmod	_	_
+16	just	just	ADV	_	B	17	advmod	_	_
+17	tell	tell	VERB	_	B	6	conj	_	_
+18	the	the	DET	_	T	19	det	_	_
+19	insurance	insurance	NOUN	_	N	17	dobj	_	_
+20	"	"	PUNCT	_	`	17	punct	_	_
+21	Hey	hey	INTJ	_	H	25	intj	_	_
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	this	this	DET	_	T	24	det	_	_
+24	diagnosis	diagnosis	NOUN	_	N	25	nsubj	_	_
+25	is	be	AUX	_	BZ	17	ccomp	_	_
+26	also	also	ADV	_	B	25	advmod	_	_
+27	on	on	ADP	_	N	25	prep	_	_
+28	the	the	DET	_	T	29	det	_	_
+29	claim	claim	NOUN	_	N	27	pobj	_	_
+30	and	and	CCONJ	_	C	25	cc	_	_
+31	is	be	AUX	_	BZ	25	conj	_	_
+32	the	the	DET	_	T	33	det	_	_
+33	reason	reason	NOUN	_	N	31	attr	_	_
+34	it	it	PRON	_	RP	35	nsubj	_	_
+35	had	have	VERB	_	BD	33	relcl	_	_
+36	to	to	PART	_	O	38	aux	_	_
+37	be	be	AUX	_	B	38	auxpass	_	_
+38	done	do	VERB	_	BN	35	xcomp	_	_
+39	in	in	ADP	_	N	38	prep	_	_
+40	a	a	DET	_	T	41	det	_	_
+41	hospital	hospital	NOUN	_	N	39	pobj	_	_
+42	,	,	PUNCT	_	_	25	punct	_	_
+43	"	"	PUNCT	_	'	25	punct	_	_
+44	but	but	CCONJ	_	C	6	cc	_	_
+45	their	their	PRON	_	RP$	46	poss	_	_
+46	systems	system	NOUN	_	NS	49	nsubjpass	_	_
+47	are	be	AUX	_	BP	49	auxpass	_	_
+48	n't	not	PART	_	B	49	neg	_	_
+49	built	build	VERB	_	BN	6	conj	_	_
+50	with	with	ADP	_	N	49	prep	_	_
+51	that	that	DET	_	T	52	det	_	_
+52	kind	kind	NOUN	_	N	50	pobj	_	_
+53	of	of	ADP	_	N	52	prep	_	_
+54	logic	logic	NOUN	_	N	53	pobj	_	_
+55	.	.	PUNCT	_	_	49	punct	_	_
+
+
+# sent_id = 10
+# text = They're built to deny as much as possible.
+1	They	they	PRON	_	RP	3	nsubjpass	_	_
+2	're	be	AUX	_	BP	3	auxpass	_	_
+3	built	build	VERB	_	BN	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	deny	deny	VERB	_	B	3	xcomp	_	_
+6	as	as	ADV	_	B	7	advmod	_	_
+7	much	much	ADJ	_	J	5	dobj	_	_
+8	as	as	ADP	_	N	7	prep	_	_
+9	possible	possible	ADJ	_	J	8	amod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+

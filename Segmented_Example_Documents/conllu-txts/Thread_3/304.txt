@@ -1,0 +1,38 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 304
+1	304	304	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 303
+1	303	303	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/bethaliz6894
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	bethaliz6894	bethaliz6894	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = After 12, the provider request an auth for another round.
+1	After	after	ADP	_	N	6	prep	_	_
+2	12	12	NUM	_	D	1	pobj	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	provider	provider	NOUN	_	N	6	compound	_	_
+6	request	request	VERB	_	BP	0	root	_	_
+7	an	an	DET	_	T	8	det	_	_
+8	auth	auth	NOUN	_	N	6	dobj	_	_
+9	for	for	ADP	_	N	8	prep	_	_
+10	another	another	DET	_	T	11	det	_	_
+11	round	round	NOUN	_	N	9	pobj	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+

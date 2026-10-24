@@ -1,0 +1,74 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1503
+1	1503	1503	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1502
+1	1502	1502	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/stimpsonj5
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	stimpsonj5	stimpsonj5	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = You should get a letter (or it may even be online in PDF form) that should say more specifically why they deemed it not medically necessary.
+1	You	you	PRON	_	RP	3	nsubj	_	_
+2	should	should	AUX	_	D	3	aux	_	_
+3	get	get	VERB	_	B	0	root	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	letter	letter	NOUN	_	N	3	dobj	_	_
+6	(	(	PUNCT	_	LRB-	3	punct	_	_
+7	or	or	CCONJ	_	C	3	cc	_	_
+8	it	it	PRON	_	RP	11	nsubj	_	_
+9	may	may	AUX	_	D	11	aux	_	_
+10	even	even	ADV	_	B	11	advmod	_	_
+11	be	be	AUX	_	B	3	conj	_	_
+12	online	online	ADJ	_	J	11	acomp	_	_
+13	in	in	ADP	_	N	11	prep	_	_
+14	PDF	pdf	PROPN	_	NP	15	compound	_	_
+15	form	form	NOUN	_	N	13	pobj	_	_
+16	)	)	PUNCT	_	RRB-	11	punct	_	_
+17	that	that	PRON	_	DT	19	nsubj	_	_
+18	should	should	AUX	_	D	19	aux	_	_
+19	say	say	VERB	_	B	3	conj	_	_
+20	more	more	ADV	_	BR	21	advmod	_	_
+21	specifically	specifically	ADV	_	B	24	advmod	_	_
+22	why	why	SCONJ	_	RB	24	advmod	_	_
+23	they	they	PRON	_	RP	24	nsubj	_	_
+24	deemed	deem	VERB	_	BD	19	ccomp	_	_
+25	it	it	PRON	_	RP	24	dobj	_	_
+26	not	not	PART	_	B	28	neg	_	_
+27	medically	medically	ADV	_	B	28	advmod	_	_
+28	necessary	necessary	ADJ	_	J	24	ccomp	_	_
+29	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = The details are going to be important and may only make sense to your doctor
+1	The	the	DET	_	T	2	det	_	_
+2	details	detail	NOUN	_	NS	4	nsubj	_	_
+3	are	be	AUX	_	BP	4	aux	_	_
+4	going	go	VERB	_	BG	0	root	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	be	be	AUX	_	B	4	xcomp	_	_
+7	important	important	ADJ	_	J	6	acomp	_	_
+8	and	and	CCONJ	_	C	4	cc	_	_
+9	may	may	AUX	_	D	11	aux	_	_
+10	only	only	ADV	_	B	11	advmod	_	_
+11	make	make	VERB	_	B	4	conj	_	_
+12	sense	sense	NOUN	_	N	11	dobj	_	_
+13	to	to	ADP	_	N	11	prep	_	_
+14	your	your	PRON	_	RP$	15	poss	_	_
+15	doctor	doctor	NOUN	_	N	13	pobj	_	_
+
+

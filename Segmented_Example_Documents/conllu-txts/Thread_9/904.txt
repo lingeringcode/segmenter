@@ -1,0 +1,170 @@
+# sent_id = 1
+# text = Thread_9
+1	Thread_9	thread_9	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 904
+1	904	904	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 903
+1	903	903	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/p_kitty
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	p_kitty	p_kitty	NOUN	_	N	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Oh, I did.
+1	Oh	oh	INTJ	_	H	4	intj	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	did	do	VERB	_	BD	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 6
+# text = IBX hasn't recorded a single official complaint from me, apparently.
+1	IBX	ibx	PROPN	_	NP	4	nsubj	_	_
+2	has	have	AUX	_	BZ	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	recorded	record	VERB	_	BN	0	root	_	_
+5	a	a	DET	_	T	8	det	_	_
+6	single	single	ADJ	_	J	8	amod	_	_
+7	official	official	ADJ	_	J	8	amod	_	_
+8	complaint	complaint	NOUN	_	N	4	dobj	_	_
+9	from	from	ADP	_	N	8	prep	_	_
+10	me	i	PRON	_	RP	9	pobj	_	_
+11	,	,	PUNCT	_	_	4	punct	_	_
+12	apparently	apparently	ADV	_	B	4	advmod	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = Guess those repeated phone calls were chopped liver.
+1	Guess	guess	VERB	_	B	0	root	_	_
+2	those	those	DET	_	T	5	det	_	_
+3	repeated	repeat	VERB	_	BN	5	amod	_	_
+4	phone	phone	NOUN	_	N	5	compound	_	_
+5	calls	call	NOUN	_	NS	7	nsubjpass	_	_
+6	were	be	AUX	_	BD	7	auxpass	_	_
+7	chopped	chop	VERB	_	BN	1	ccomp	_	_
+8	liver	liver	NOUN	_	N	7	dobj	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 8
+# text = The DoL guy said he'd call me back, that was over a week ago now.
+1	The	the	DET	_	T	3	det	_	_
+2	DoL	dol	NOUN	_	N	3	compound	_	_
+3	guy	guy	NOUN	_	N	4	nsubj	_	_
+4	said	say	VERB	_	BD	0	root	_	_
+5	he	he	PRON	_	RP	7	nsubj	_	_
+6	'd	would	AUX	_	D	7	aux	_	_
+7	call	call	VERB	_	B	4	ccomp	_	_
+8	me	i	PRON	_	RP	7	dobj	_	_
+9	back	back	ADV	_	B	7	advmod	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	that	that	PRON	_	T	12	nsubj	_	_
+12	was	be	AUX	_	BD	4	ccomp	_	_
+13	over	over	ADV	_	B	14	advmod	_	_
+14	a	a	PRON	_	T	15	nummod	_	_
+15	week	week	NOUN	_	N	16	npadvmod	_	_
+16	ago	ago	ADV	_	B	12	advmod	_	_
+17	now	now	ADV	_	B	12	advmod	_	_
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = I eventually called our local BCBS to try to see what insight they could give me and they told me what IBX is doing makes no sense, like rejecting providers who are contracted with BCBS as fraudulent.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	eventually	eventually	ADV	_	B	3	advmod	_	_
+3	called	call	VERB	_	BD	0	root	_	_
+4	our	our	PRON	_	RP$	6	poss	_	_
+5	local	local	ADJ	_	J	6	amod	_	_
+6	BCBS	bcb	NOUN	_	NS	3	dobj	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	try	try	VERB	_	B	3	xcomp	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	see	see	VERB	_	B	8	xcomp	_	_
+11	what	what	PRON	_	P	12	det	_	_
+12	insight	insight	NOUN	_	N	15	dative	_	_
+13	they	they	PRON	_	RP	15	nsubj	_	_
+14	could	could	AUX	_	D	15	aux	_	_
+15	give	give	VERB	_	B	10	ccomp	_	_
+16	me	i	PRON	_	RP	15	dobj	_	_
+17	and	and	CCONJ	_	C	3	cc	_	_
+18	they	they	PRON	_	RP	19	nsubj	_	_
+19	told	tell	VERB	_	BD	3	conj	_	_
+20	me	i	PRON	_	RP	19	dobj	_	_
+21	what	what	PRON	_	P	24	dobj	_	_
+22	IBX	ibx	PROPN	_	NP	24	nsubj	_	_
+23	is	be	AUX	_	BZ	24	aux	_	_
+24	doing	do	VERB	_	BG	25	csubj	_	_
+25	makes	make	VERB	_	BZ	19	ccomp	_	_
+26	no	no	DET	_	T	27	det	_	_
+27	sense	sense	NOUN	_	N	25	dobj	_	_
+28	,	,	PUNCT	_	_	25	punct	_	_
+29	like	like	ADP	_	N	25	prep	_	_
+30	rejecting	reject	VERB	_	BG	29	pcomp	_	_
+31	providers	provider	NOUN	_	NS	30	dobj	_	_
+32	who	who	PRON	_	P	34	nsubjpass	_	_
+33	are	be	AUX	_	BP	34	auxpass	_	_
+34	contracted	contract	VERB	_	BN	31	relcl	_	_
+35	with	with	ADP	_	N	34	prep	_	_
+36	BCBS	bcb	NOUN	_	NS	35	pobj	_	_
+37	as	as	ADP	_	N	34	prep	_	_
+38	fraudulent	fraudulent	ADJ	_	J	37	amod	_	_
+39	.	.	PUNCT	_	_	19	punct	_	_
+
+
+# sent_id = 10
+# text = They definitely don't follow ERISA rules completely, which probably becomes the responsibility of the employer, knowing how those contracts work, but they don't even follow what's laid out in their own plan document.
+1	They	they	PRON	_	RP	5	nsubj	_	_
+2	definitely	definitely	ADV	_	B	5	advmod	_	_
+3	do	do	AUX	_	BP	5	aux	_	_
+4	n't	not	PART	_	B	5	neg	_	_
+5	follow	follow	VERB	_	B	0	root	_	_
+6	ERISA	erisa	PROPN	_	NP	7	compound	_	_
+7	rules	rule	NOUN	_	NS	5	dobj	_	_
+8	completely	completely	ADV	_	B	5	advmod	_	_
+9	,	,	PUNCT	_	_	5	punct	_	_
+10	which	which	PRON	_	DT	12	nsubj	_	_
+11	probably	probably	ADV	_	B	12	advmod	_	_
+12	becomes	become	VERB	_	BZ	5	advcl	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	responsibility	responsibility	NOUN	_	N	12	attr	_	_
+15	of	of	ADP	_	N	14	prep	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	employer	employer	NOUN	_	N	15	pobj	_	_
+18	,	,	PUNCT	_	_	12	punct	_	_
+19	knowing	know	VERB	_	BG	12	advcl	_	_
+20	how	how	SCONJ	_	RB	23	advmod	_	_
+21	those	those	DET	_	T	22	det	_	_
+22	contracts	contract	NOUN	_	NS	23	nsubj	_	_
+23	work	work	VERB	_	BP	19	ccomp	_	_
+24	,	,	PUNCT	_	_	5	punct	_	_
+25	but	but	CCONJ	_	C	5	cc	_	_
+26	they	they	PRON	_	RP	30	nsubj	_	_
+27	do	do	AUX	_	BP	30	aux	_	_
+28	n't	not	PART	_	B	30	neg	_	_
+29	even	even	ADV	_	B	30	advmod	_	_
+30	follow	follow	VERB	_	B	5	conj	_	_
+31	what	what	PRON	_	P	33	nsubjpass	_	_
+32	's	be	AUX	_	BZ	33	auxpass	_	_
+33	laid	lay	VERB	_	BN	30	ccomp	_	_
+34	out	out	ADP	_	P	33	prt	_	_
+35	in	in	ADP	_	N	33	prep	_	_
+36	their	their	PRON	_	RP$	39	poss	_	_
+37	own	own	ADJ	_	J	39	amod	_	_
+38	plan	plan	NOUN	_	N	39	compound	_	_
+39	document	document	NOUN	_	N	35	pobj	_	_
+40	.	.	PUNCT	_	_	30	punct	_	_
+
+

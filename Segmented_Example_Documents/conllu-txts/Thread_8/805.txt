@@ -1,0 +1,59 @@
+# sent_id = 1
+# text = Thread_8
+1	Thread_8	thread_8	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 805
+1	805	805	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 800
+1	800	800	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/No-Produce-6720
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	No	no	NOUN	_	N	1	appos	_	_
+4	-	-	NOUN	_	N	1	punct	_	_
+5	Produce-6720	produce-6720	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = How long has it been since you've done any physical therapy?
+1	How	how	SCONJ	_	RB	2	advmod	_	_
+2	long	long	ADV	_	B	5	advmod	_	_
+3	has	have	AUX	_	BZ	5	aux	_	_
+4	it	it	PRON	_	RP	5	nsubj	_	_
+5	been	be	AUX	_	BN	0	root	_	_
+6	since	since	SCONJ	_	N	9	mark	_	_
+7	you	you	PRON	_	RP	9	nsubj	_	_
+8	've	have	AUX	_	BP	9	aux	_	_
+9	done	do	VERB	_	BN	5	advcl	_	_
+10	any	any	DET	_	T	12	det	_	_
+11	physical	physical	ADJ	_	J	12	amod	_	_
+12	therapy	therapy	NOUN	_	N	9	dobj	_	_
+13	?	?	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = Most plans require a course of PT before approval of high end radiology.
+1	Most	most	ADJ	_	JS	2	amod	_	_
+2	plans	plan	NOUN	_	NS	3	nsubj	_	_
+3	require	require	VERB	_	BP	0	root	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	course	course	NOUN	_	N	3	dobj	_	_
+6	of	of	ADP	_	N	5	prep	_	_
+7	PT	pt	PROPN	_	NP	6	pobj	_	_
+8	before	before	ADP	_	N	3	prep	_	_
+9	approval	approval	NOUN	_	N	8	pobj	_	_
+10	of	of	ADP	_	N	9	prep	_	_
+11	high	high	ADJ	_	J	12	amod	_	_
+12	end	end	NOUN	_	N	13	compound	_	_
+13	radiology	radiology	NOUN	_	N	10	pobj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+

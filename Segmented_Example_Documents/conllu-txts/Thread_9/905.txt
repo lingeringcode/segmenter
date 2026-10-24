@@ -1,0 +1,165 @@
+# sent_id = 1
+# text = Thread_9
+1	Thread_9	thread_9	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 905
+1	905	905	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 900
+1	900	900	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/theoreticalking
+1	u	u	NOUN	_	N	3	meta	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	theoreticalking	theoreticalking	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Have you tried asking your employer's benefit manager and the broker to follow up with the account manager at IBX since she has not been responsive?
+1	Have	have	AUX	_	BP	3	aux	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	tried	try	VERB	_	BN	0	root	_	_
+4	asking	ask	VERB	_	BG	3	xcomp	_	_
+5	your	your	PRON	_	RP$	6	poss	_	_
+6	employer	employer	NOUN	_	N	9	poss	_	_
+7	's	's	PART	_	OS	6	case	_	_
+8	benefit	benefit	NOUN	_	N	9	compound	_	_
+9	manager	manager	NOUN	_	N	4	dobj	_	_
+10	and	and	CCONJ	_	C	9	cc	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	broker	broker	NOUN	_	N	9	conj	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	follow	follow	VERB	_	B	4	xcomp	_	_
+15	up	up	ADP	_	P	14	prt	_	_
+16	with	with	ADP	_	N	14	prep	_	_
+17	the	the	DET	_	T	19	det	_	_
+18	account	account	NOUN	_	N	19	compound	_	_
+19	manager	manager	NOUN	_	N	16	pobj	_	_
+20	at	at	ADP	_	N	19	prep	_	_
+21	IBX	ibx	PROPN	_	NP	20	pobj	_	_
+22	since	since	SCONJ	_	N	26	mark	_	_
+23	she	she	PRON	_	RP	26	nsubj	_	_
+24	has	have	AUX	_	BZ	26	aux	_	_
+25	not	not	PART	_	B	26	neg	_	_
+26	been	be	AUX	_	BN	14	advcl	_	_
+27	responsive	responsive	ADJ	_	J	26	acomp	_	_
+28	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = The most people you got pushing and fighting for you, the better.
+1	The	the	DET	_	T	3	det	_	_
+2	most	most	ADJ	_	JS	3	amod	_	_
+3	people	people	NOUN	_	NS	13	nsubj	_	_
+4	you	you	PRON	_	RP	6	nsubj	_	_
+5	got	get	AUX	_	BD	6	aux	_	_
+6	pushing	push	VERB	_	BG	3	relcl	_	_
+7	and	and	CCONJ	_	C	6	cc	_	_
+8	fighting	fight	VERB	_	BG	6	conj	_	_
+9	for	for	ADP	_	N	8	prep	_	_
+10	you	you	PRON	_	RP	9	pobj	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	the	the	PRON	_	T	13	advmod	_	_
+13	better	well	ADJ	_	JR	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+
+# sent_id = 7
+# text = sounds like you called your state's DOL?
+1	sounds	sound	VERB	_	BZ	0	root	_	_
+2	like	like	SCONJ	_	N	4	mark	_	_
+3	you	you	PRON	_	RP	4	nsubj	_	_
+4	called	call	VERB	_	BD	1	advcl	_	_
+5	your	your	PRON	_	RP$	6	poss	_	_
+6	state	state	NOUN	_	N	8	poss	_	_
+7	's	's	PART	_	OS	6	case	_	_
+8	DOL	dol	NOUN	_	N	4	dobj	_	_
+9	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 8
+# text = Try the US DOL here: https://beta.dol.gov/about/agencies/ebsa/ask-ebsa
+1	Try	try	VERB	_	B	0	root	_	_
+2	the	the	DET	_	T	4	det	_	_
+3	US	us	PROPN	_	NP	4	compound	_	_
+4	DOL	dol	PROPN	_	NP	1	dobj	_	_
+5	here	here	ADV	_	B	1	advmod	_	_
+6	:	:	PUNCT	_	_	1	punct	_	_
+7	https://beta.dol.gov/about/agencies/ebsa/ask-ebsa	https://beta.dol.gov/about/agencies/ebsa/ask-ebsa	NOUN	_	NS	1	punct	_	_
+
+
+# sent_id = 9
+# text = Have you tried looking up ERISA lawyers on Google?
+1	Have	have	AUX	_	BP	3	aux	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	tried	try	VERB	_	BN	0	root	_	_
+4	looking	look	VERB	_	BG	3	xcomp	_	_
+5	up	up	ADP	_	P	4	prep	_	_
+6	ERISA	erisa	PROPN	_	NP	7	compound	_	_
+7	lawyers	lawyer	NOUN	_	NS	4	dobj	_	_
+8	on	on	ADP	_	N	4	prep	_	_
+9	Google	google	PROPN	_	NP	8	pobj	_	_
+10	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 10
+# text = When I did that, I see a bunch lawyers that specialize in ERISA show up.
+1	When	when	SCONJ	_	RB	3	advmod	_	_
+2	I	i	PRON	_	RP	3	nsubj	_	_
+3	did	do	VERB	_	BD	7	advcl	_	_
+4	that	that	PRON	_	T	3	dobj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	I	i	PRON	_	RP	7	nsubj	_	_
+7	see	see	VERB	_	BP	0	root	_	_
+8	a	a	DET	_	T	10	det	_	_
+9	bunch	bunch	ADJ	_	J	10	amod	_	_
+10	lawyers	lawyer	NOUN	_	NS	15	nsubj	_	_
+11	that	that	PRON	_	DT	12	nsubj	_	_
+12	specialize	specialize	VERB	_	BP	10	relcl	_	_
+13	in	in	ADP	_	N	12	prep	_	_
+14	ERISA	erisa	PROPN	_	NP	13	pobj	_	_
+15	show	show	VERB	_	BP	7	ccomp	_	_
+16	up	up	ADP	_	P	15	prt	_	_
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 11
+# text = It seems most (or not all) of them offer free consultation.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	seems	seem	VERB	_	BZ	0	root	_	_
+3	most	most	ADJ	_	JS	11	nsubj	_	_
+4	(	(	PUNCT	_	LRB-	3	punct	_	_
+5	or	or	CCONJ	_	C	3	cc	_	_
+6	not	not	PART	_	B	7	neg	_	_
+7	all	all	PRON	_	T	3	conj	_	_
+8	)	)	PUNCT	_	RRB-	7	punct	_	_
+9	of	of	ADP	_	N	7	prep	_	_
+10	them	they	PRON	_	RP	9	pobj	_	_
+11	offer	offer	VERB	_	BP	2	ccomp	_	_
+12	free	free	ADJ	_	J	13	amod	_	_
+13	consultation	consultation	NOUN	_	N	11	dobj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 12
+# text = I suggest you try that to find someone in your region.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	suggest	suggest	VERB	_	BP	0	root	_	_
+3	you	you	PRON	_	RP	4	nsubj	_	_
+4	try	try	VERB	_	B	2	ccomp	_	_
+5	that	that	PRON	_	T	4	dobj	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	find	find	VERB	_	B	4	xcomp	_	_
+8	someone	someone	PRON	_	N	7	dobj	_	_
+9	in	in	ADP	_	N	8	prep	_	_
+10	your	your	PRON	_	RP$	11	poss	_	_
+11	region	region	NOUN	_	N	9	pobj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+

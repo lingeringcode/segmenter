@@ -1,0 +1,5 @@
+Thread_3
+304
+303
+u bethaliz6894
+After 12 the provider request an auth for another round

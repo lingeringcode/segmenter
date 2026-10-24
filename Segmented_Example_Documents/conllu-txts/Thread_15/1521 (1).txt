@@ -1,0 +1,177 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1521
+1	1521	1521	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/uPriorAuthPro
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	uPriorAuthPro	upriorauthpro	PROPN	_	NP	1	punct	_	_
+
+
+# sent_id = 5
+# text = So glad she got to surgery and is finally getting relief that update at the end genuinely made this worth reading all the way through.
+1	So	so	ADV	_	B	2	advmod	_	_
+2	glad	glad	ADJ	_	J	0	root	_	_
+3	she	she	PRON	_	RP	4	nsubj	_	_
+4	got	get	VERB	_	BD	2	ccomp	_	_
+5	to	to	ADP	_	N	4	prep	_	_
+6	surgery	surgery	NOUN	_	N	5	pobj	_	_
+7	and	and	CCONJ	_	C	4	cc	_	_
+8	is	be	AUX	_	BZ	10	aux	_	_
+9	finally	finally	ADV	_	B	10	advmod	_	_
+10	getting	get	VERB	_	BG	4	conj	_	_
+11	relief	relief	NOUN	_	N	10	dobj	_	_
+12	that	that	PRON	_	DT	13	det	_	_
+13	update	update	VERB	_	BP	10	ccomp	_	_
+14	at	at	ADP	_	N	13	prep	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	end	end	NOUN	_	N	14	pobj	_	_
+17	genuinely	genuinely	ADV	_	B	18	advmod	_	_
+18	made	make	VERB	_	BD	2	ccomp	_	_
+19	this	this	DET	_	T	20	det	_	_
+20	worth	worth	ADJ	_	J	21	nsubj	_	_
+21	reading	read	VERB	_	BG	18	ccomp	_	_
+22	all	all	DET	_	DT	24	predet	_	_
+23	the	the	DET	_	T	24	det	_	_
+24	way	way	NOUN	_	N	25	npadvmod	_	_
+25	through	through	ADV	_	B	21	advmod	_	_
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = What happened with the CPT code situation is something more people should know about.
+1	What	what	PRON	_	P	2	nsubj	_	_
+2	happened	happen	VERB	_	BD	8	csubj	_	_
+3	with	with	ADP	_	N	2	prep	_	_
+4	the	the	DET	_	T	7	det	_	_
+5	CPT	cpt	PROPN	_	NP	7	compound	_	_
+6	code	code	NOUN	_	N	7	compound	_	_
+7	situation	situation	NOUN	_	N	3	pobj	_	_
+8	is	be	AUX	_	BZ	0	root	_	_
+9	something	something	PRON	_	N	8	attr	_	_
+10	more	more	ADJ	_	JR	9	amod	_	_
+11	people	people	NOUN	_	NS	13	nsubj	_	_
+12	should	should	AUX	_	D	13	aux	_	_
+13	know	know	VERB	_	B	9	relcl	_	_
+14	about	about	ADP	_	N	13	prep	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 7
+# text = Self-funded plans administered through a union have a layer of internal oversight that fully insured plans don't.
+1	Self	self	NOUN	_	N	3	npadvmod	_	_
+2	-	-	PUNCT	_	YPH	3	punct	_	_
+3	funded	fund	VERB	_	BN	4	amod	_	_
+4	plans	plan	NOUN	_	NS	9	nsubj	_	_
+5	administered	administer	VERB	_	BN	4	acl	_	_
+6	through	through	ADP	_	N	5	prep	_	_
+7	a	a	DET	_	T	8	det	_	_
+8	union	union	NOUN	_	N	6	pobj	_	_
+9	have	have	VERB	_	BP	0	root	_	_
+10	a	a	DET	_	T	11	det	_	_
+11	layer	layer	NOUN	_	N	9	dobj	_	_
+12	of	of	ADP	_	N	11	prep	_	_
+13	internal	internal	ADJ	_	J	14	amod	_	_
+14	oversight	oversight	NOUN	_	N	12	pobj	_	_
+15	that	that	PRON	_	DT	19	nsubj	_	_
+16	fully	fully	ADV	_	B	17	advmod	_	_
+17	insured	insure	VERB	_	BN	18	amod	_	_
+18	plans	plan	NOUN	_	NS	19	nsubj	_	_
+19	do	do	VERB	_	BP	14	relcl	_	_
+20	n't	not	PART	_	B	19	neg	_	_
+21	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 8
+# text = Most people never know to escalate there because the standard path is just payer → appeal → external review.
+1	Most	most	ADJ	_	JS	2	amod	_	_
+2	people	people	NOUN	_	NS	4	nsubj	_	_
+3	never	never	ADV	_	B	4	neg	_	_
+4	know	know	VERB	_	BP	0	root	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	escalate	escalate	VERB	_	B	4	xcomp	_	_
+7	there	there	ADV	_	B	6	advmod	_	_
+8	because	because	SCONJ	_	N	12	mark	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	standard	standard	ADJ	_	J	11	amod	_	_
+11	path	path	NOUN	_	N	12	nsubj	_	_
+12	is	be	AUX	_	BZ	4	advcl	_	_
+13	just	just	ADV	_	B	14	advmod	_	_
+14	payer	payer	NOUN	_	N	16	nmod	_	_
+15	→	→	SYM	_	YM	16	punct	_	_
+16	appeal	appeal	NOUN	_	N	12	attr	_	_
+17	→	→	ADP	_	N	16	punct	_	_
+18	external	external	ADJ	_	J	19	amod	_	_
+19	review	review	NOUN	_	N	16	appos	_	_
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = The union intervening directly and overriding the denial in hours is exactly what that structure exists for it just almost never gets used because nobody tells families it's an option.
+1	The	the	DET	_	T	2	det	_	_
+2	union	union	NOUN	_	N	11	nsubj	_	_
+3	intervening	intervene	VERB	_	BG	2	acl	_	_
+4	directly	directly	ADV	_	B	3	advmod	_	_
+5	and	and	CCONJ	_	C	3	cc	_	_
+6	overriding	override	VERB	_	BG	3	conj	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	denial	denial	NOUN	_	N	6	dobj	_	_
+9	in	in	ADP	_	N	6	prep	_	_
+10	hours	hour	NOUN	_	NS	9	pobj	_	_
+11	is	be	AUX	_	BZ	0	root	_	_
+12	exactly	exactly	ADV	_	B	13	advmod	_	_
+13	what	what	PRON	_	P	16	dobj	_	_
+14	that	that	DET	_	T	15	det	_	_
+15	structure	structure	NOUN	_	N	16	nsubj	_	_
+16	exists	exist	VERB	_	BZ	11	ccomp	_	_
+17	for	for	ADP	_	N	16	prep	_	_
+18	it	it	PRON	_	RP	17	pobj	_	_
+19	just	just	ADV	_	B	23	advmod	_	_
+20	almost	almost	ADV	_	B	23	advmod	_	_
+21	never	never	ADV	_	B	23	neg	_	_
+22	gets	get	AUX	_	BZ	23	auxpass	_	_
+23	used	use	VERB	_	BN	16	advcl	_	_
+24	because	because	SCONJ	_	N	26	mark	_	_
+25	nobody	nobody	PRON	_	N	26	nsubj	_	_
+26	tells	tell	VERB	_	BZ	16	advcl	_	_
+27	families	family	NOUN	_	NS	26	dobj	_	_
+28	it	it	PRON	_	RP	29	nsubj	_	_
+29	's	be	AUX	_	BZ	26	ccomp	_	_
+30	an	an	DET	_	T	31	det	_	_
+31	option	option	NOUN	_	N	29	attr	_	_
+32	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 10
+# text = Documenting what worked here could genuinely help someone else in the same situation down the road.
+1	Documenting	document	VERB	_	BG	7	csubj	_	_
+2	what	what	PRON	_	P	3	nsubj	_	_
+3	worked	work	VERB	_	BD	1	ccomp	_	_
+4	here	here	ADV	_	B	3	advmod	_	_
+5	could	could	AUX	_	D	7	aux	_	_
+6	genuinely	genuinely	ADV	_	B	7	advmod	_	_
+7	help	help	VERB	_	B	0	root	_	_
+8	someone	someone	PRON	_	N	7	dobj	_	_
+9	else	else	ADV	_	B	8	advmod	_	_
+10	in	in	ADP	_	N	7	prep	_	_
+11	the	the	DET	_	T	13	det	_	_
+12	same	same	ADJ	_	J	13	amod	_	_
+13	situation	situation	NOUN	_	N	10	pobj	_	_
+14	down	down	ADP	_	N	13	prep	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	road	road	NOUN	_	N	14	pobj	_	_
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+

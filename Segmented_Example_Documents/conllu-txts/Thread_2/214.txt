@@ -1,0 +1,76 @@
+# sent_id = 1
+# text = Thread_2
+1	Thread_2	thread_2	ADV	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 214
+1	214	214	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 213
+1	213	213	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/MrTheRiddle
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	MrTheRiddle	mrtheriddle	NUM	_	D	1	punct	_	_
+
+
+# sent_id = 5
+# text = Couldn’t find it via email or in the glitchy Guardian app.
+1	Could	could	AUX	_	D	3	aux	_	_
+2	n’t	not	PART	_	B	3	neg	_	_
+3	find	find	VERB	_	B	0	root	_	_
+4	it	it	PRON	_	RP	3	dobj	_	_
+5	via	via	ADP	_	N	3	prep	_	_
+6	email	email	NOUN	_	N	5	pobj	_	_
+7	or	or	CCONJ	_	C	5	cc	_	_
+8	in	in	ADP	_	N	5	conj	_	_
+9	the	the	DET	_	T	12	det	_	_
+10	glitchy	glitchy	ADJ	_	J	12	amod	_	_
+11	Guardian	guardian	PROPN	_	NP	12	compound	_	_
+12	app	app	NOUN	_	N	8	pobj	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = The app also says I have zero claims, which is completely wrong (so buggy…)
+1	The	the	DET	_	T	2	det	_	_
+2	app	app	NOUN	_	N	4	nsubj	_	_
+3	also	also	ADV	_	B	4	advmod	_	_
+4	says	say	VERB	_	BZ	0	root	_	_
+5	I	i	PRON	_	RP	6	nsubj	_	_
+6	have	have	VERB	_	BP	4	ccomp	_	_
+7	zero	zero	NUM	_	D	8	nummod	_	_
+8	claims	claim	NOUN	_	NS	6	dobj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	which	which	PRON	_	DT	11	nsubj	_	_
+11	is	be	AUX	_	BZ	8	relcl	_	_
+12	completely	completely	ADV	_	B	13	advmod	_	_
+13	wrong	wrong	ADJ	_	J	11	acomp	_	_
+14	(	(	PUNCT	_	LRB-	16	punct	_	_
+15	so	so	ADV	_	B	16	advmod	_	_
+16	buggy	buggy	ADJ	_	J	11	parataxis	_	_
+17	…	…	PUNCT	_	FP	16	punct	_	_
+18	)	)	PUNCT	_	RRB-	4	punct	_	_
+
+
+# sent_id = 7
+# text = I’ll probably have to call them tomorrow about it.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	’ll	’ll	AUX	_	D	4	aux	_	_
+3	probably	probably	ADV	_	B	4	advmod	_	_
+4	have	have	VERB	_	B	0	root	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	call	call	VERB	_	B	4	xcomp	_	_
+7	them	they	PRON	_	RP	6	dobj	_	_
+8	tomorrow	tomorrow	NOUN	_	N	6	npadvmod	_	_
+9	about	about	ADP	_	N	6	prep	_	_
+10	it	it	PRON	_	RP	9	pobj	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+

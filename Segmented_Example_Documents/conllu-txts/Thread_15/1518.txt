@@ -1,0 +1,204 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1518
+1	1518	1518	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Botboy141
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Botboy141	botboy141	NUM	_	D	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Hey there - Don't freak out.
+1	Hey	hey	INTJ	_	H	6	intj	_	_
+2	there	there	ADV	_	B	6	advmod	_	_
+3	-	-	PUNCT	_	_	6	punct	_	_
+4	Do	do	AUX	_	BP	6	aux	_	_
+5	n't	not	PART	_	B	6	neg	_	_
+6	freak	freak	VERB	_	B	0	root	_	_
+7	out	out	ADP	_	P	6	prt	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 6
+# text = Get a hold of your doc that requested the PA immediately.
+1	Get	get	VERB	_	B	0	root	_	_
+2	a	a	DET	_	T	3	det	_	_
+3	hold	hold	NOUN	_	N	1	dobj	_	_
+4	of	of	ADP	_	N	3	prep	_	_
+5	your	your	PRON	_	RP$	6	poss	_	_
+6	doc	doc	NOUN	_	N	4	pobj	_	_
+7	that	that	PRON	_	DT	8	nsubj	_	_
+8	requested	request	VERB	_	BD	3	relcl	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	PA	pa	PROPN	_	NP	8	dobj	_	_
+11	immediately	immediately	ADV	_	B	8	advmod	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 7
+# text = They'll have urgent escalation channels.
+1	They	they	PRON	_	RP	3	nsubj	_	_
+2	'll	will	AUX	_	D	3	aux	_	_
+3	have	have	VERB	_	B	0	root	_	_
+4	urgent	urgent	ADJ	_	J	6	amod	_	_
+5	escalation	escalation	NOUN	_	N	6	compound	_	_
+6	channels	channel	NOUN	_	NS	3	dobj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = It may not take an extra handholding, but it may.
+1	It	it	PRON	_	RP	4	nsubj	_	_
+2	may	may	AUX	_	D	4	aux	_	_
+3	not	not	PART	_	B	4	neg	_	_
+4	take	take	VERB	_	B	0	root	_	_
+5	an	an	DET	_	T	7	det	_	_
+6	extra	extra	ADJ	_	J	7	amod	_	_
+7	handholding	handholding	NOUN	_	N	4	dobj	_	_
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	but	but	CCONJ	_	C	4	cc	_	_
+10	it	it	PRON	_	RP	11	nsubj	_	_
+11	may	may	AUX	_	D	4	conj	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 9
+# text = You can also attempt to pull someone in from your union benefits team.
+1	You	you	PRON	_	RP	4	nsubj	_	_
+2	can	can	AUX	_	D	4	aux	_	_
+3	also	also	ADV	_	B	4	advmod	_	_
+4	attempt	attempt	VERB	_	B	0	root	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	pull	pull	VERB	_	B	4	xcomp	_	_
+7	someone	someone	PRON	_	N	6	dobj	_	_
+8	in	in	ADP	_	P	6	advmod	_	_
+9	from	from	ADP	_	N	6	prep	_	_
+10	your	your	PRON	_	RP$	13	poss	_	_
+11	union	union	NOUN	_	N	12	compound	_	_
+12	benefits	benefit	NOUN	_	NS	13	compound	_	_
+13	team	team	NOUN	_	N	9	pobj	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 10
+# text = As a broker, I've jumped in previously when asked to ensure situations like this are expedited.
+1	As	as	ADP	_	N	7	prep	_	_
+2	a	a	DET	_	T	3	det	_	_
+3	broker	broker	NOUN	_	N	1	pobj	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	I	i	PRON	_	RP	7	nsubj	_	_
+6	've	have	AUX	_	BP	7	aux	_	_
+7	jumped	jump	VERB	_	BN	18	advcl	_	_
+8	in	in	ADP	_	P	7	prt	_	_
+9	previously	previously	ADV	_	B	7	advmod	_	_
+10	when	when	SCONJ	_	RB	11	advmod	_	_
+11	asked	ask	VERB	_	BN	7	advcl	_	_
+12	to	to	PART	_	O	13	aux	_	_
+13	ensure	ensure	VERB	_	B	11	xcomp	_	_
+14	situations	situation	NOUN	_	NS	13	dobj	_	_
+15	like	like	ADP	_	N	14	prep	_	_
+16	this	this	PRON	_	T	15	pobj	_	_
+17	are	be	AUX	_	BP	18	auxpass	_	_
+18	expedited	expedite	VERB	_	BN	0	root	_	_
+19	.	.	PUNCT	_	_	18	punct	_	_
+
+
+# sent_id = 11
+# text = Had a very similar case a few years back, client was f traveling the next morning for the producedure, BCBS.
+1	Had	have	VERB	_	BD	12	advcl	_	_
+2	a	a	DET	_	T	5	det	_	_
+3	very	very	ADV	_	B	4	advmod	_	_
+4	similar	similar	ADJ	_	J	5	amod	_	_
+5	case	case	NOUN	_	N	1	dobj	_	_
+6	a	a	DET	_	T	8	det	_	_
+7	few	few	ADJ	_	J	8	amod	_	_
+8	years	year	NOUN	_	NS	9	npadvmod	_	_
+9	back	back	ADV	_	B	1	advmod	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	client	client	NOUN	_	N	12	nsubj	_	_
+12	was	be	AUX	_	BD	14	aux	_	_
+13	f	f	PROPN	_	NP	14	nsubj	_	_
+14	traveling	travel	VERB	_	BG	0	root	_	_
+15	the	the	DET	_	T	17	det	_	_
+16	next	next	ADJ	_	J	17	amod	_	_
+17	morning	morning	NOUN	_	N	14	npadvmod	_	_
+18	for	for	ADP	_	N	14	prep	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	producedure	producedure	NOUN	_	N	18	pobj	_	_
+21	,	,	PUNCT	_	_	14	punct	_	_
+22	BCBS	bcbs	PROPN	_	NP	14	npadvmod	_	_
+23	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 12
+# text = We got the PA turned around for approval in 4 hours.
+1	We	we	PRON	_	RP	2	nsubj	_	_
+2	got	get	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	PA	pa	PROPN	_	NP	5	nsubj	_	_
+5	turned	turn	VERB	_	BD	2	ccomp	_	_
+6	around	around	ADP	_	P	5	prt	_	_
+7	for	for	ADP	_	N	5	prep	_	_
+8	approval	approval	NOUN	_	N	7	pobj	_	_
+9	in	in	ADP	_	N	8	prep	_	_
+10	4	4	NUM	_	D	11	nummod	_	_
+11	hours	hour	NOUN	_	NS	9	pobj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 13
+# text = Physician wants it to happen as much as anyone, enlist their help and guidance, if they deal with a lot of complex cases as you've said, this is par for the course for them.
+1	Physician	physician	NOUN	_	N	2	nsubj	_	_
+2	wants	want	VERB	_	BZ	32	ccomp	_	_
+3	it	it	PRON	_	RP	5	nsubj	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	happen	happen	VERB	_	B	2	ccomp	_	_
+6	as	as	ADV	_	B	7	advmod	_	_
+7	much	much	ADV	_	B	5	advmod	_	_
+8	as	as	ADP	_	N	7	prep	_	_
+9	anyone	anyone	PRON	_	N	8	pobj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	enlist	enlist	VERB	_	B	2	conj	_	_
+12	their	their	PRON	_	RP$	13	poss	_	_
+13	help	help	NOUN	_	N	11	dobj	_	_
+14	and	and	CCONJ	_	C	13	cc	_	_
+15	guidance	guidance	NOUN	_	N	13	conj	_	_
+16	,	,	PUNCT	_	_	32	punct	_	_
+17	if	if	SCONJ	_	N	19	mark	_	_
+18	they	they	PRON	_	RP	19	nsubj	_	_
+19	deal	deal	VERB	_	BP	32	advcl	_	_
+20	with	with	ADP	_	N	19	prep	_	_
+21	a	a	DET	_	T	22	det	_	_
+22	lot	lot	NOUN	_	N	20	pobj	_	_
+23	of	of	ADP	_	N	22	prep	_	_
+24	complex	complex	ADJ	_	J	25	amod	_	_
+25	cases	case	NOUN	_	NS	23	pobj	_	_
+26	as	as	SCONJ	_	N	29	mark	_	_
+27	you	you	PRON	_	RP	29	nsubj	_	_
+28	've	have	AUX	_	BP	29	aux	_	_
+29	said	say	VERB	_	BD	19	advcl	_	_
+30	,	,	PUNCT	_	_	32	punct	_	_
+31	this	this	PRON	_	T	32	nsubj	_	_
+32	is	be	AUX	_	BZ	0	root	_	_
+33	par	par	NOUN	_	N	32	attr	_	_
+34	for	for	ADP	_	N	33	prep	_	_
+35	the	the	DET	_	T	36	det	_	_
+36	course	course	NOUN	_	N	34	pobj	_	_
+37	for	for	ADP	_	N	36	prep	_	_
+38	them	they	PRON	_	RP	37	pobj	_	_
+39	.	.	PUNCT	_	_	32	punct	_	_
+
+

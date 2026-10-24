@@ -1,0 +1,157 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1129
+1	1129	1129	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1128
+1	1128	1128	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/YouCooper
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	YouCooper	youcooper	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Thanks for jumping in and confirming that.
+1	Thanks	thank	NOUN	_	NS	0	root	_	_
+2	for	for	ADP	_	N	1	prep	_	_
+3	jumping	jump	VERB	_	BG	2	pcomp	_	_
+4	in	in	ADV	_	B	3	advmod	_	_
+5	and	and	CCONJ	_	C	3	cc	_	_
+6	confirming	confirm	VERB	_	BG	3	conj	_	_
+7	that	that	PRON	_	T	6	dobj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = That matches what we have been figuring out too.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	matches	match	VERB	_	BZ	0	root	_	_
+3	what	what	PRON	_	P	7	dobj	_	_
+4	we	we	PRON	_	RP	7	nsubj	_	_
+5	have	have	AUX	_	BP	7	aux	_	_
+6	been	be	AUX	_	BN	7	aux	_	_
+7	figuring	figure	VERB	_	BG	2	ccomp	_	_
+8	out	out	ADP	_	P	7	prt	_	_
+9	too	too	ADV	_	B	7	advmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = So basically her main leverage is the appeal on the pre-existing denial plus the Acute Onset benefit argument, and then negotiation and charity care on the provider side.
+1	So	so	ADV	_	B	6	advmod	_	_
+2	basically	basically	ADV	_	B	6	advmod	_	_
+3	her	her	PRON	_	RP$	5	poss	_	_
+4	main	main	ADJ	_	J	5	amod	_	_
+5	leverage	leverage	NOUN	_	N	6	nsubj	_	_
+6	is	be	AUX	_	BZ	0	root	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	appeal	appeal	NOUN	_	N	6	attr	_	_
+9	on	on	ADP	_	N	8	prep	_	_
+10	the	the	DET	_	T	14	det	_	_
+11	pre	pre	ADJ	_	J	14	amod	_	_
+12	-	-	ADJ	_	J	14	amod	_	_
+13	existing	existing	ADJ	_	J	14	amod	_	_
+14	denial	denial	NOUN	_	N	9	pobj	_	_
+15	plus	plus	CCONJ	_	C	14	cc	_	_
+16	the	the	DET	_	T	20	det	_	_
+17	Acute	acute	PROPN	_	NP	18	compound	_	_
+18	Onset	onset	PROPN	_	NP	20	compound	_	_
+19	benefit	benefit	NOUN	_	N	20	compound	_	_
+20	argument	argument	NOUN	_	N	14	conj	_	_
+21	,	,	PUNCT	_	_	6	punct	_	_
+22	and	and	CCONJ	_	C	6	cc	_	_
+23	then	then	ADV	_	B	24	advmod	_	_
+24	negotiation	negotiation	NOUN	_	N	6	conj	_	_
+25	and	and	CCONJ	_	C	24	cc	_	_
+26	charity	charity	NOUN	_	N	27	compound	_	_
+27	care	care	NOUN	_	N	24	conj	_	_
+28	on	on	ADP	_	N	24	prep	_	_
+29	the	the	DET	_	T	31	det	_	_
+30	provider	provider	NOUN	_	N	31	compound	_	_
+31	side	side	NOUN	_	N	28	pobj	_	_
+32	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 8
+# text = No help expected from NSA or state balance billing laws because of the non-ACA policy type.
+1	No	no	DET	_	T	2	det	_	_
+2	help	help	NOUN	_	N	0	root	_	_
+3	expected	expect	VERB	_	BN	2	acl	_	_
+4	from	from	ADP	_	N	3	prep	_	_
+5	NSA	nsa	PROPN	_	NP	10	nmod	_	_
+6	or	or	CCONJ	_	C	5	cc	_	_
+7	state	state	NOUN	_	N	5	conj	_	_
+8	balance	balance	NOUN	_	N	9	compound	_	_
+9	billing	billing	NOUN	_	N	10	compound	_	_
+10	laws	law	NOUN	_	NS	4	pobj	_	_
+11	because	because	SCONJ	_	N	3	prep	_	_
+12	of	of	ADP	_	N	11	pcomp	_	_
+13	the	the	DET	_	T	18	det	_	_
+14	non	non	ADJ	_	J	18	amod	_	_
+15	-	-	ADJ	_	J	18	amod	_	_
+16	ACA	aca	ADJ	_	J	18	amod	_	_
+17	policy	policy	NOUN	_	N	18	compound	_	_
+18	type	type	NOUN	_	N	11	pobj	_	_
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = Is there anything specific you would suggest for a second level appeal on a medically underwritten F1 OPT policy like this one?
+1	Is	be	AUX	_	BZ	0	root	_	_
+2	there	there	ADV	_	B	1	expl	_	_
+3	anything	anything	PRON	_	N	1	attr	_	_
+4	specific	specific	ADJ	_	J	3	amod	_	_
+5	you	you	PRON	_	RP	7	nsubj	_	_
+6	would	would	AUX	_	D	7	aux	_	_
+7	suggest	suggest	VERB	_	B	1	ccomp	_	_
+8	for	for	ADP	_	N	7	prep	_	_
+9	a	a	DET	_	T	12	det	_	_
+10	second	second	ADJ	_	J	11	amod	_	_
+11	level	level	NOUN	_	N	12	compound	_	_
+12	appeal	appeal	NOUN	_	N	8	pobj	_	_
+13	on	on	ADP	_	N	12	prep	_	_
+14	a	a	DET	_	T	19	det	_	_
+15	medically	medically	ADV	_	B	16	advmod	_	_
+16	underwritten	underwritten	ADJ	_	J	19	amod	_	_
+17	F1	f1	NOUN	_	N	18	compound	_	_
+18	OPT	opt	PROPN	_	NP	19	compound	_	_
+19	policy	policy	NOUN	_	N	13	pobj	_	_
+20	like	like	ADP	_	N	19	prep	_	_
+21	this	this	DET	_	T	22	det	_	_
+22	one	one	NOUN	_	N	20	pobj	_	_
+23	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 10
+# text = Genuinely asking because the first appeal already got denied and we want to do the second one right.
+1	Genuinely	genuinely	ADV	_	B	2	advmod	_	_
+2	asking	ask	VERB	_	BG	0	root	_	_
+3	because	because	SCONJ	_	N	9	mark	_	_
+4	the	the	DET	_	T	6	det	_	_
+5	first	first	ADJ	_	J	6	amod	_	_
+6	appeal	appeal	NOUN	_	N	9	nsubjpass	_	_
+7	already	already	ADV	_	B	9	advmod	_	_
+8	got	get	AUX	_	BD	9	auxpass	_	_
+9	denied	deny	VERB	_	BN	2	advcl	_	_
+10	and	and	CCONJ	_	C	9	cc	_	_
+11	we	we	PRON	_	RP	12	nsubj	_	_
+12	want	want	VERB	_	BP	9	conj	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	do	do	VERB	_	B	12	xcomp	_	_
+15	the	the	DET	_	T	17	det	_	_
+16	second	second	ADJ	_	J	17	amod	_	_
+17	one	one	NUM	_	D	18	nummod	_	_
+18	right	right	NOUN	_	N	14	dobj	_	_
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+

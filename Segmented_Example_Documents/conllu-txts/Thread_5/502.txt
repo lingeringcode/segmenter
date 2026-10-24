@@ -1,0 +1,79 @@
+# sent_id = 1
+# text = Thread_5
+1	Thread_5	thread_5	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 502
+1	502	502	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 501
+1	501	501	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/NoSprinkles9539
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	NoSprinkles9539	nosprinkles9539	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 5
+# text = Correct, the requested date was July 1 but the external reviewers do not have the surgery date in their letter.
+1	Correct	correct	ADJ	_	J	6	advcl	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	requested	request	VERB	_	BN	5	amod	_	_
+5	date	date	NOUN	_	N	6	nsubj	_	_
+6	was	be	AUX	_	BD	0	root	_	_
+7	July	july	PROPN	_	NP	6	attr	_	_
+8	1	1	NUM	_	D	7	nummod	_	_
+9	but	but	CCONJ	_	C	6	cc	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	external	external	ADJ	_	J	12	amod	_	_
+12	reviewers	reviewer	NOUN	_	NS	15	nsubj	_	_
+13	do	do	AUX	_	BP	15	aux	_	_
+14	not	not	PART	_	B	15	neg	_	_
+15	have	have	VERB	_	B	6	conj	_	_
+16	the	the	DET	_	T	18	det	_	_
+17	surgery	surgery	NOUN	_	N	18	compound	_	_
+18	date	date	NOUN	_	N	15	dobj	_	_
+19	in	in	ADP	_	N	18	prep	_	_
+20	their	their	PRON	_	RP$	21	poss	_	_
+21	letter	letter	NOUN	_	N	19	pobj	_	_
+22	.	.	PUNCT	_	_	15	punct	_	_
+
+
+# sent_id = 6
+# text = They said they don't care about the service date.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	said	say	VERB	_	BD	0	root	_	_
+3	they	they	PRON	_	RP	6	nsubj	_	_
+4	do	do	AUX	_	BP	6	aux	_	_
+5	n't	not	PART	_	B	6	neg	_	_
+6	care	care	VERB	_	B	2	ccomp	_	_
+7	about	about	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	service	service	NOUN	_	N	10	compound	_	_
+10	date	date	NOUN	_	N	7	pobj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = I am a third party to what they told the hospital.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	am	be	AUX	_	BP	0	root	_	_
+3	a	a	DET	_	T	5	det	_	_
+4	third	third	ADJ	_	J	5	amod	_	_
+5	party	party	NOUN	_	N	2	attr	_	_
+6	to	to	ADP	_	N	2	prep	_	_
+7	what	what	PRON	_	P	9	dative	_	_
+8	they	they	PRON	_	RP	9	nsubj	_	_
+9	told	tell	VERB	_	BD	6	pcomp	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	hospital	hospital	NOUN	_	N	9	dobj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+

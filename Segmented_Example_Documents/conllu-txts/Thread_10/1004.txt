@@ -1,0 +1,135 @@
+# sent_id = 1
+# text = Thread_10
+1	Thread_10	thread_10	VERB	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 1004
+1	1004	1004	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1000
+1	1000	1000	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/beefjerky9
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	X	_	DD	1	punct	_	_
+3	beefjerky9	beefjerky9	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = For anyone who might be interested, here's what I've done so far.
+1	For	for	ADP	_	N	9	prep	_	_
+2	anyone	anyone	PRON	_	N	1	pobj	_	_
+3	who	who	PRON	_	P	5	nsubj	_	_
+4	might	might	AUX	_	D	5	aux	_	_
+5	be	be	AUX	_	B	2	relcl	_	_
+6	interested	interested	ADJ	_	J	5	acomp	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	here	here	ADV	_	B	9	advmod	_	_
+9	's	be	AUX	_	BZ	0	root	_	_
+10	what	what	PRON	_	P	13	dobj	_	_
+11	I	i	PRON	_	RP	13	nsubj	_	_
+12	've	have	AUX	_	BP	13	aux	_	_
+13	done	do	VERB	_	BN	9	ccomp	_	_
+14	so	so	ADV	_	B	15	advmod	_	_
+15	far	far	ADV	_	B	13	advmod	_	_
+16	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 6
+# text = I contacted the billing office for the imaging center and explained the situation.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	contacted	contact	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	billing	billing	NOUN	_	N	5	compound	_	_
+5	office	office	NOUN	_	N	2	dobj	_	_
+6	for	for	ADP	_	N	2	prep	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	imaging	imaging	NOUN	_	N	9	compound	_	_
+9	center	center	NOUN	_	N	6	pobj	_	_
+10	and	and	CCONJ	_	C	2	cc	_	_
+11	explained	explain	VERB	_	BD	2	conj	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	situation	situation	NOUN	_	N	11	dobj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = They are apparently sending it for a review to their "back office team," whatever that means.
+1	They	they	PRON	_	RP	4	nsubj	_	_
+2	are	be	AUX	_	BP	4	aux	_	_
+3	apparently	apparently	ADV	_	B	4	advmod	_	_
+4	sending	send	VERB	_	BG	0	root	_	_
+5	it	it	PRON	_	RP	4	dobj	_	_
+6	for	for	ADP	_	N	4	prep	_	_
+7	a	a	DET	_	T	8	det	_	_
+8	review	review	NOUN	_	N	6	pobj	_	_
+9	to	to	ADP	_	N	8	prep	_	_
+10	their	their	PRON	_	RP$	14	poss	_	_
+11	"	"	PUNCT	_	`	14	punct	_	_
+12	back	back	ADJ	_	J	14	amod	_	_
+13	office	office	NOUN	_	N	14	compound	_	_
+14	team	team	NOUN	_	N	9	pobj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	"	"	PUNCT	_	'	14	punct	_	_
+17	whatever	whatever	PRON	_	DT	19	dobj	_	_
+18	that	that	PRON	_	T	19	nsubj	_	_
+19	means	mean	VERB	_	BZ	14	relcl	_	_
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 8
+# text = They state it could take up to 45 days for that review, and I will receive a letter with details in the mail after the review.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	state	state	VERB	_	BP	0	root	_	_
+3	it	it	PRON	_	RP	5	nsubj	_	_
+4	could	could	AUX	_	D	5	aux	_	_
+5	take	take	VERB	_	B	2	ccomp	_	_
+6	up	up	ADV	_	B	8	quantmod	_	_
+7	to	to	PART	_	O	8	quantmod	_	_
+8	45	45	NUM	_	D	9	nummod	_	_
+9	days	day	NOUN	_	NS	5	dobj	_	_
+10	for	for	ADP	_	N	5	prep	_	_
+11	that	that	DET	_	T	12	det	_	_
+12	review	review	NOUN	_	N	10	pobj	_	_
+13	,	,	PUNCT	_	_	2	punct	_	_
+14	and	and	CCONJ	_	C	2	cc	_	_
+15	I	i	PRON	_	RP	17	nsubj	_	_
+16	will	will	AUX	_	D	17	aux	_	_
+17	receive	receive	VERB	_	B	2	conj	_	_
+18	a	a	DET	_	T	19	det	_	_
+19	letter	letter	NOUN	_	N	17	dobj	_	_
+20	with	with	ADP	_	N	19	prep	_	_
+21	details	detail	NOUN	_	NS	20	pobj	_	_
+22	in	in	ADP	_	N	21	prep	_	_
+23	the	the	DET	_	T	24	det	_	_
+24	mail	mail	NOUN	_	N	22	pobj	_	_
+25	after	after	ADP	_	N	17	prep	_	_
+26	the	the	DET	_	T	27	det	_	_
+27	review	review	NOUN	_	N	25	pobj	_	_
+28	.	.	PUNCT	_	_	17	punct	_	_
+
+
+# sent_id = 9
+# text = So, for now, I will wait and see the outcome of that.
+1	So	so	ADV	_	B	8	advmod	_	_
+2	,	,	PUNCT	_	_	8	punct	_	_
+3	for	for	ADP	_	N	8	prep	_	_
+4	now	now	ADV	_	B	3	pcomp	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	I	i	PRON	_	RP	8	nsubj	_	_
+7	will	will	AUX	_	D	8	aux	_	_
+8	wait	wait	VERB	_	B	0	root	_	_
+9	and	and	CCONJ	_	C	8	cc	_	_
+10	see	see	VERB	_	B	8	conj	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	outcome	outcome	NOUN	_	N	10	dobj	_	_
+13	of	of	ADP	_	N	12	prep	_	_
+14	that	that	PRON	_	T	13	pobj	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+

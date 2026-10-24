@@ -1,0 +1,101 @@
+# sent_id = 1
+# text = Thread_7
+1	Thread_7	thread_7	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 712
+1	712	712	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 700
+1	700	700	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/No-Produce-6720
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	No	no	NOUN	_	N	1	appos	_	_
+4	-	-	NOUN	_	N	1	punct	_	_
+5	Produce-6720	produce-6720	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = Have you actually received a bill for this, though?
+1	Have	have	AUX	_	BP	4	aux	_	_
+2	you	you	PRON	_	RP	4	nsubj	_	_
+3	actually	actually	ADV	_	B	4	advmod	_	_
+4	received	receive	VERB	_	BN	0	root	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	bill	bill	NOUN	_	N	4	dobj	_	_
+7	for	for	ADP	_	N	6	prep	_	_
+8	this	this	PRON	_	T	7	pobj	_	_
+9	,	,	PUNCT	_	_	4	punct	_	_
+10	though	though	ADV	_	B	4	advmod	_	_
+11	?	?	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 6
+# text = These are issues that the hospital must address and/or correct, not yours.
+1	These	these	PRON	_	T	2	nsubj	_	_
+2	are	be	AUX	_	BP	0	root	_	_
+3	issues	issue	NOUN	_	NS	2	attr	_	_
+4	that	that	PRON	_	DT	8	dobj	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	hospital	hospital	NOUN	_	N	8	nsubj	_	_
+7	must	must	AUX	_	D	8	aux	_	_
+8	address	address	VERB	_	B	3	relcl	_	_
+9	and/or	and/or	CCONJ	_	C	8	cc	_	_
+10	correct	correct	ADJ	_	J	13	amod	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	not	not	PART	_	B	10	neg	_	_
+13	yours	your	NOUN	_	NS	8	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = If you haven't been billed and the financial liability hasn't been assigned to you by your insurance, there is nothing for you to do.
+1	If	if	SCONJ	_	N	6	mark	_	_
+2	you	you	PRON	_	RP	6	nsubjpass	_	_
+3	have	have	AUX	_	BP	6	aux	_	_
+4	n't	not	PART	_	B	6	neg	_	_
+5	been	be	AUX	_	BN	6	auxpass	_	_
+6	billed	bill	VERB	_	BN	22	advcl	_	_
+7	and	and	CCONJ	_	C	6	cc	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	financial	financial	ADJ	_	J	10	amod	_	_
+10	liability	liability	NOUN	_	N	14	nsubjpass	_	_
+11	has	have	AUX	_	BZ	14	aux	_	_
+12	n't	not	PART	_	B	14	neg	_	_
+13	been	be	AUX	_	BN	14	auxpass	_	_
+14	assigned	assign	VERB	_	BN	6	conj	_	_
+15	to	to	ADP	_	N	14	prep	_	_
+16	you	you	PRON	_	RP	15	pobj	_	_
+17	by	by	ADP	_	N	14	agent	_	_
+18	your	your	PRON	_	RP$	19	poss	_	_
+19	insurance	insurance	NOUN	_	N	17	pobj	_	_
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	there	there	PRON	_	X	22	expl	_	_
+22	is	be	VERB	_	BZ	0	root	_	_
+23	nothing	nothing	PRON	_	N	22	attr	_	_
+24	for	for	SCONJ	_	N	27	mark	_	_
+25	you	you	PRON	_	RP	27	nsubj	_	_
+26	to	to	PART	_	O	27	aux	_	_
+27	do	do	VERB	_	B	23	relcl	_	_
+28	.	.	PUNCT	_	_	22	punct	_	_
+
+
+# sent_id = 8
+# text = The hospital will be working the issue.
+1	The	the	DET	_	T	2	det	_	_
+2	hospital	hospital	NOUN	_	N	5	nsubj	_	_
+3	will	will	AUX	_	D	5	aux	_	_
+4	be	be	AUX	_	B	5	aux	_	_
+5	working	work	VERB	_	BG	0	root	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	issue	issue	NOUN	_	N	5	dobj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+

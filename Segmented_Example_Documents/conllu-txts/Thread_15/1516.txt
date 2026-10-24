@@ -1,0 +1,186 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1516
+1	1516	1516	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Working_Coat5193
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Working_Coat5193	working_coat5193	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = Call the company, ask for the criteria.
+1	Call	call	VERB	_	B	0	root	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	company	company	NOUN	_	N	1	dobj	_	_
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	ask	ask	VERB	_	B	1	dep	_	_
+6	for	for	ADP	_	N	5	prep	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	criteria	criterion	NOUN	_	NS	6	pobj	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = Then can.
+1	Then	then	ADV	_	B	2	advmod	_	_
+2	can	can	AUX	_	D	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = Your doctor and ask for what they sent.
+1	Your	your	PRON	_	RP$	2	poss	_	_
+2	doctor	doctor	NOUN	_	N	0	root	_	_
+3	and	and	CCONJ	_	C	2	cc	_	_
+4	ask	ask	VERB	_	B	2	conj	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	what	what	PRON	_	P	8	dobj	_	_
+7	they	they	PRON	_	RP	8	nsubj	_	_
+8	sent	send	VERB	_	BD	5	pcomp	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 8
+# text = You need to make sure they listed out all of the conservative treatment she’s done, but also, the bone chip.
+1	You	you	PRON	_	RP	2	nsubj	_	_
+2	need	need	VERB	_	BP	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	make	make	VERB	_	B	2	xcomp	_	_
+5	sure	sure	ADJ	_	J	4	ccomp	_	_
+6	they	they	PRON	_	RP	7	nsubj	_	_
+7	listed	list	VERB	_	BD	5	ccomp	_	_
+8	out	out	ADP	_	P	7	prt	_	_
+9	all	all	PRON	_	T	7	dobj	_	_
+10	of	of	ADP	_	N	9	prep	_	_
+11	the	the	DET	_	T	13	det	_	_
+12	conservative	conservative	ADJ	_	J	13	amod	_	_
+13	treatment	treatment	NOUN	_	N	10	pobj	_	_
+14	she	she	PRON	_	RP	16	nsubj	_	_
+15	’s	’s	AUX	_	BP	16	aux	_	_
+16	done	do	VERB	_	BN	13	relcl	_	_
+17	,	,	PUNCT	_	_	2	punct	_	_
+18	but	but	CCONJ	_	C	2	cc	_	_
+19	also	also	ADV	_	B	18	advmod	_	_
+20	,	,	PUNCT	_	_	2	punct	_	_
+21	the	the	DET	_	T	23	det	_	_
+22	bone	bone	NOUN	_	N	23	compound	_	_
+23	chip	chip	NOUN	_	N	2	dobj	_	_
+24	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = Because that won’t respond to conservative treatment
+1	Because	because	SCONJ	_	N	5	mark	_	_
+2	that	that	PRON	_	T	5	nsubj	_	_
+3	wo	will	AUX	_	D	5	aux	_	_
+4	n’t	not	PART	_	B	5	neg	_	_
+5	respond	respond	VERB	_	B	0	root	_	_
+6	to	to	ADP	_	N	5	prep	_	_
+7	conservative	conservative	ADJ	_	J	8	amod	_	_
+8	treatment	treatment	NOUN	_	N	6	pobj	_	_
+
+
+# sent_id = 10
+# text = Also, look up Claimable and see if they can help (not affiliated with the company, but the founder is a friend)
+1	Also	also	ADV	_	B	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	look	look	VERB	_	B	0	root	_	_
+4	up	up	ADP	_	P	3	prt	_	_
+5	Claimable	claimable	ADJ	_	J	3	npadvmod	_	_
+6	and	and	CCONJ	_	C	3	cc	_	_
+7	see	see	VERB	_	B	3	conj	_	_
+8	if	if	SCONJ	_	N	11	mark	_	_
+9	they	they	PRON	_	RP	11	nsubj	_	_
+10	can	can	AUX	_	D	11	aux	_	_
+11	help	help	VERB	_	B	7	ccomp	_	_
+12	(	(	PUNCT	_	LRB-	14	punct	_	_
+13	not	not	PART	_	B	14	neg	_	_
+14	affiliated	affiliate	VERB	_	BN	11	xcomp	_	_
+15	with	with	ADP	_	N	14	prep	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	company	company	NOUN	_	N	15	pobj	_	_
+18	,	,	PUNCT	_	_	3	punct	_	_
+19	but	but	CCONJ	_	C	3	cc	_	_
+20	the	the	DET	_	T	21	det	_	_
+21	founder	founder	NOUN	_	N	22	nsubj	_	_
+22	is	be	AUX	_	BZ	3	conj	_	_
+23	a	a	DET	_	T	24	det	_	_
+24	friend	friend	NOUN	_	N	22	attr	_	_
+25	)	)	PUNCT	_	RRB-	22	punct	_	_
+
+
+# sent_id = 11
+# text = Also, your husband needs to call his union rep.
+1	Also	also	ADV	_	B	5	advmod	_	_
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	your	your	PRON	_	RP$	4	poss	_	_
+4	husband	husband	NOUN	_	N	5	nsubj	_	_
+5	needs	need	VERB	_	BZ	0	root	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	call	call	VERB	_	B	5	xcomp	_	_
+8	his	his	PRON	_	RP$	10	poss	_	_
+9	union	union	NOUN	_	N	10	compound	_	_
+10	rep	rep	PROPN	_	NP	7	dobj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 12
+# text = The union pays for the surgery.
+1	The	the	DET	_	T	2	det	_	_
+2	union	union	NOUN	_	N	3	nsubj	_	_
+3	pays	pay	VERB	_	BZ	0	root	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	surgery	surgery	NOUN	_	N	4	pobj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 13
+# text = They can decide to override.
+1	They	they	PRON	_	RP	3	nsubj	_	_
+2	can	can	AUX	_	D	3	aux	_	_
+3	decide	decide	VERB	_	B	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	override	override	VERB	_	B	3	xcomp	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 14
+# text = You can make this happen.
+1	You	you	PRON	_	RP	3	nsubj	_	_
+2	can	can	AUX	_	D	3	aux	_	_
+3	make	make	VERB	_	B	0	root	_	_
+4	this	this	PRON	_	T	5	nsubj	_	_
+5	happen	happen	VERB	_	B	3	ccomp	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 15
+# text = Also, ask your doctor to label it as “urgent”
+1	Also	also	ADV	_	B	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	ask	ask	VERB	_	B	0	root	_	_
+4	your	your	PRON	_	RP$	5	poss	_	_
+5	doctor	doctor	NOUN	_	N	3	dobj	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	label	label	VERB	_	B	3	xcomp	_	_
+8	it	it	PRON	_	RP	7	dobj	_	_
+9	as	as	ADP	_	N	7	prep	_	_
+10	“	"	PUNCT	_	`	9	punct	_	_
+11	urgent	urgent	ADJ	_	J	9	amod	_	_
+12	”	"	PUNCT	_	'	3	punct	_	_
+
+

@@ -1,0 +1,29 @@
+# sent_id = 1
+# text = Thread_2
+1	Thread_2	thread_2	ADV	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 202
+1	202	202	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 201
+1	201	201	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/MrTheRiddle
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	MrTheRiddle	mrtheriddle	NUM	_	D	1	punct	_	_
+
+
+# sent_id = 5
+# text = Thanks Confucious.
+1	Thanks	thank	NOUN	_	NS	2	npadvmod	_	_
+2	Confucious	confucious	ADJ	_	J	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+

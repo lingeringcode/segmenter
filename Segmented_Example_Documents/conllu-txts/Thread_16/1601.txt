@@ -1,0 +1,82 @@
+# sent_id = 1
+# text = Thread_16
+1	Thread_16	thread_16	ADJ	_	J	0	root	_	_
+
+
+# sent_id = 2
+# text = 1601
+1	1601	1601	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1600
+1	1600	1600	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/throwfarfaraway1818
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	throwfarfaraway1818	throwfarfaraway1818	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Whats the specific reason for the denial?
+1	What	what	PRON	_	P	2	nsubj	_	_
+2	s	s	VERB	_	BZ	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	specific	specific	ADJ	_	J	5	amod	_	_
+5	reason	reason	NOUN	_	N	2	nsubj	_	_
+6	for	for	ADP	_	N	5	prep	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	denial	denial	NOUN	_	N	6	pobj	_	_
+9	?	?	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = They should provide a letter indicating the specific reason, and it will go into more detail than "not medically necessary."
+1	They	they	PRON	_	RP	3	nsubj	_	_
+2	should	should	AUX	_	D	3	aux	_	_
+3	provide	provide	VERB	_	B	0	root	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	letter	letter	NOUN	_	N	3	dobj	_	_
+6	indicating	indicate	VERB	_	BG	5	acl	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	specific	specific	ADJ	_	J	9	amod	_	_
+9	reason	reason	NOUN	_	N	6	dobj	_	_
+10	,	,	PUNCT	_	_	3	punct	_	_
+11	and	and	CCONJ	_	C	3	cc	_	_
+12	it	it	PRON	_	RP	14	nsubj	_	_
+13	will	will	AUX	_	D	14	aux	_	_
+14	go	go	VERB	_	B	3	conj	_	_
+15	into	into	ADP	_	N	14	prep	_	_
+16	more	more	ADJ	_	JR	17	amod	_	_
+17	detail	detail	NOUN	_	N	15	pobj	_	_
+18	than	than	ADP	_	N	17	prep	_	_
+19	"	"	PUNCT	_	`	18	punct	_	_
+20	not	not	PART	_	B	22	neg	_	_
+21	medically	medically	ADV	_	B	22	advmod	_	_
+22	necessary	necessary	ADJ	_	J	18	amod	_	_
+23	.	.	PUNCT	_	_	14	punct	_	_
+24	"	"	PUNCT	_	'	14	punct	_	_
+
+
+# sent_id = 7
+# text = Usually the best start is to have the provider who ordered the test appeal.
+1	Usually	usually	ADV	_	B	5	advmod	_	_
+2	the	the	DET	_	T	4	det	_	_
+3	best	good	ADJ	_	JS	4	amod	_	_
+4	start	start	NOUN	_	N	5	nsubj	_	_
+5	is	be	AUX	_	BZ	0	root	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	have	have	VERB	_	B	5	xcomp	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	provider	provider	NOUN	_	N	7	dobj	_	_
+10	who	who	PRON	_	P	11	nsubj	_	_
+11	ordered	order	VERB	_	BD	9	relcl	_	_
+12	the	the	DET	_	T	14	det	_	_
+13	test	test	NOUN	_	N	14	compound	_	_
+14	appeal	appeal	NOUN	_	N	11	dobj	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+

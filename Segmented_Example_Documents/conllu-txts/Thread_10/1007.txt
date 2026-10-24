@@ -1,0 +1,59 @@
+# sent_id = 1
+# text = Thread_10
+1	Thread_10	thread_10	VERB	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 1007
+1	1007	1007	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1006
+1	1006	1006	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/beefjerky9
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	X	_	DD	1	punct	_	_
+3	beefjerky9	beefjerky9	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = May I ask which state you're in?
+1	May	may	AUX	_	D	3	aux	_	_
+2	I	i	PRON	_	RP	3	nsubj	_	_
+3	ask	ask	VERB	_	B	0	root	_	_
+4	which	which	DET	_	DT	5	det	_	_
+5	state	state	NOUN	_	N	8	pobj	_	_
+6	you	you	PRON	_	RP	7	nsubj	_	_
+7	're	be	AUX	_	BP	3	ccomp	_	_
+8	in	in	ADP	_	N	7	prep	_	_
+9	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = I'm sure my state (TX) doesn't care at all, but maybe I'm wrong.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	'm	be	AUX	_	BP	0	root	_	_
+3	sure	sure	ADJ	_	J	2	acomp	_	_
+4	my	my	PRON	_	RP$	5	poss	_	_
+5	state	state	NOUN	_	N	11	nsubj	_	_
+6	(	(	PUNCT	_	LRB-	7	punct	_	_
+7	TX	tx	PROPN	_	NP	5	appos	_	_
+8	)	)	PUNCT	_	RRB-	5	punct	_	_
+9	does	do	AUX	_	BZ	11	aux	_	_
+10	n't	not	PART	_	B	11	neg	_	_
+11	care	care	VERB	_	B	3	ccomp	_	_
+12	at	at	ADV	_	B	13	advmod	_	_
+13	all	all	ADV	_	B	11	advmod	_	_
+14	,	,	PUNCT	_	_	2	punct	_	_
+15	but	but	CCONJ	_	C	2	cc	_	_
+16	maybe	maybe	ADV	_	B	18	advmod	_	_
+17	I	i	PRON	_	RP	18	nsubj	_	_
+18	'm	be	AUX	_	BP	2	conj	_	_
+19	wrong	wrong	ADJ	_	J	18	acomp	_	_
+20	.	.	PUNCT	_	_	18	punct	_	_
+
+

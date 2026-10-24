@@ -1,0 +1,461 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1506
+1	1506	1506	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/sarahjustme
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	sarahjustme	sarahjustme	NOUN	_	NS	1	appos	_	_
+
+
+# sent_id = 5
+# text = As someone who has been on the other side (doing prior authorization reviews for insurance companies) and seen bazillion of these type requests (something major that requires out of town/out of network, is complex and expensive) here's the main reasons things get denied
+1	As	as	SCONJ	_	N	20	mark	_	_
+2	someone	someone	PRON	_	N	1	pobj	_	_
+3	who	who	PRON	_	P	5	nsubj	_	_
+4	has	have	AUX	_	BZ	5	aux	_	_
+5	been	be	AUX	_	BN	2	relcl	_	_
+6	on	on	ADP	_	N	5	prep	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	other	other	ADJ	_	J	9	amod	_	_
+9	side	side	NOUN	_	N	6	pobj	_	_
+10	(	(	PUNCT	_	LRB-	11	punct	_	_
+11	doing	do	VERB	_	BG	2	acl	_	_
+12	prior	prior	ADJ	_	J	14	amod	_	_
+13	authorization	authorization	NOUN	_	N	14	compound	_	_
+14	reviews	review	NOUN	_	NS	11	dobj	_	_
+15	for	for	ADP	_	N	14	prep	_	_
+16	insurance	insurance	NOUN	_	N	17	compound	_	_
+17	companies	company	NOUN	_	NS	15	pobj	_	_
+18	)	)	PUNCT	_	RRB-	11	punct	_	_
+19	and	and	CCONJ	_	C	2	cc	_	_
+20	seen	see	VERB	_	BN	39	csubj	_	_
+21	bazillion	bazillion	NOUN	_	N	20	dobj	_	_
+22	of	of	ADP	_	N	21	prep	_	_
+23	these	these	DET	_	T	25	det	_	_
+24	type	type	NOUN	_	N	25	compound	_	_
+25	requests	request	NOUN	_	NS	22	pobj	_	_
+26	(	(	PUNCT	_	LRB-	25	punct	_	_
+27	something	something	PRON	_	N	20	npadvmod	_	_
+28	major	major	ADJ	_	J	27	amod	_	_
+29	that	that	PRON	_	DT	30	nsubj	_	_
+30	requires	require	VERB	_	BZ	27	relcl	_	_
+31	out	out	ADP	_	N	30	prep	_	_
+32	of	of	ADP	_	N	31	prep	_	_
+33	town	town	NOUN	_	N	32	pobj	_	_
+34	/	/	SYM	_	YM	35	punct	_	_
+35	out	out	NOUN	_	N	30	dobj	_	_
+36	of	of	ADP	_	N	35	prep	_	_
+37	network	network	NOUN	_	N	36	pobj	_	_
+38	,	,	PUNCT	_	_	20	punct	_	_
+39	is	be	AUX	_	BZ	45	ccomp	_	_
+40	complex	complex	ADJ	_	J	39	acomp	_	_
+41	and	and	CCONJ	_	C	40	cc	_	_
+42	expensive	expensive	ADJ	_	J	40	conj	_	_
+43	)	)	PUNCT	_	RRB-	39	punct	_	_
+44	here	here	ADV	_	B	45	advmod	_	_
+45	's	be	AUX	_	BZ	0	root	_	_
+46	the	the	DET	_	T	48	det	_	_
+47	main	main	ADJ	_	J	48	amod	_	_
+48	reasons	reason	NOUN	_	NS	45	attr	_	_
+49	things	thing	NOUN	_	NS	51	nsubjpass	_	_
+50	get	get	AUX	_	BP	51	auxpass	_	_
+51	denied	deny	VERB	_	BN	48	relcl	_	_
+
+
+# sent_id = 6
+# text = 1- most common by far, the requesting dr doesn't send in enough clinical information.
+1	1-	1-	X	_	S	12	meta	_	_
+2	most	most	ADV	_	BS	3	advmod	_	_
+3	common	common	ADJ	_	J	1	amod	_	_
+4	by	by	ADP	_	N	12	prep	_	_
+5	far	far	ADV	_	B	4	pcomp	_	_
+6	,	,	PUNCT	_	_	12	punct	_	_
+7	the	the	DET	_	T	9	det	_	_
+8	requesting	request	VERB	_	BG	9	amod	_	_
+9	dr	dr	PROPN	_	NP	12	nsubj	_	_
+10	does	do	AUX	_	BZ	12	aux	_	_
+11	n't	not	PART	_	B	12	neg	_	_
+12	send	send	VERB	_	B	0	root	_	_
+13	in	in	ADP	_	P	12	prt	_	_
+14	enough	enough	ADJ	_	J	16	amod	_	_
+15	clinical	clinical	ADJ	_	J	16	amod	_	_
+16	information	information	NOUN	_	N	12	dobj	_	_
+17	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 7
+# text = Sometimes it's their staff not understanding what we need (and we reach out to them but lots of clinics have blanket policies about not respondingto insurance companies), sometimes its something little like a fax not going through (we reach out...), sometimes the requesting Dr doesn't even have a cess to the right information (we need the imaging report explaining the actual problem, or whatever to prove whatever the Dr wants, us reasonable
+1	Sometimes	sometimes	ADV	_	B	3	advmod	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	's	be	AUX	_	BZ	14	ccomp	_	_
+4	their	their	PRON	_	RP$	5	poss	_	_
+5	staff	staff	NOUN	_	N	7	nsubj	_	_
+6	not	not	PART	_	B	7	neg	_	_
+7	understanding	understand	VERB	_	BG	3	ccomp	_	_
+8	what	what	PRON	_	P	10	dobj	_	_
+9	we	we	PRON	_	RP	10	nsubj	_	_
+10	need	need	VERB	_	BP	7	ccomp	_	_
+11	(	(	PUNCT	_	LRB-	14	punct	_	_
+12	and	and	CCONJ	_	C	14	cc	_	_
+13	we	we	PRON	_	RP	14	nsubj	_	_
+14	reach	reach	VERB	_	BP	0	root	_	_
+15	out	out	ADP	_	P	14	prt	_	_
+16	to	to	ADP	_	N	14	prep	_	_
+17	them	they	PRON	_	RP	16	pobj	_	_
+18	but	but	CCONJ	_	C	14	cc	_	_
+19	lots	lot	NOUN	_	NS	23	nsubj	_	_
+20	of	of	ADP	_	N	19	prep	_	_
+21	clinics	clinic	NOUN	_	NS	20	pobj	_	_
+22	have	have	AUX	_	BP	23	aux	_	_
+23	blanket	blanket	NOUN	_	N	14	conj	_	_
+24	policies	policy	NOUN	_	NS	23	dobj	_	_
+25	about	about	ADP	_	N	24	prep	_	_
+26	not	not	PART	_	B	29	neg	_	_
+27	respondingto	respondingto	NOUN	_	N	29	compound	_	_
+28	insurance	insurance	NOUN	_	N	29	compound	_	_
+29	companies	company	NOUN	_	NS	25	pobj	_	_
+30	)	)	PUNCT	_	RRB-	23	punct	_	_
+31	,	,	PUNCT	_	_	14	punct	_	_
+32	sometimes	sometimes	ADV	_	B	34	advmod	_	_
+33	its	its	PRON	_	RP$	34	poss	_	_
+34	something	something	PRON	_	N	14	dobj	_	_
+35	little	little	ADJ	_	J	34	amod	_	_
+36	like	like	ADP	_	N	34	prep	_	_
+37	a	a	DET	_	T	38	det	_	_
+38	fax	fax	NOUN	_	N	36	pobj	_	_
+39	not	not	PART	_	B	40	neg	_	_
+40	going	go	VERB	_	BG	38	acl	_	_
+41	through	through	ADV	_	B	40	advmod	_	_
+42	(	(	PUNCT	_	LRB-	44	punct	_	_
+43	we	we	PRON	_	RP	44	nsubj	_	_
+44	reach	reach	VERB	_	BP	34	relcl	_	_
+45	out	out	ADV	_	B	44	prt	_	_
+46	...	...	PUNCT	_	_	44	punct	_	_
+47	)	)	PUNCT	_	RRB-	34	punct	_	_
+48	,	,	PUNCT	_	_	56	punct	_	_
+49	sometimes	sometimes	ADV	_	B	56	advmod	_	_
+50	the	the	DET	_	T	52	det	_	_
+51	requesting	request	VERB	_	BG	52	amod	_	_
+52	Dr	dr	PROPN	_	NP	56	nsubj	_	_
+53	does	do	AUX	_	BZ	56	aux	_	_
+54	n't	not	PART	_	B	56	neg	_	_
+55	even	even	ADV	_	B	56	advmod	_	_
+56	have	have	VERB	_	B	14	conj	_	_
+57	a	a	DET	_	T	58	det	_	_
+58	cess	cess	NOUN	_	N	56	dobj	_	_
+59	to	to	ADP	_	N	58	prep	_	_
+60	the	the	DET	_	T	62	det	_	_
+61	right	right	ADJ	_	J	62	amod	_	_
+62	information	information	NOUN	_	N	59	pobj	_	_
+63	(	(	PUNCT	_	LRB-	65	punct	_	_
+64	we	we	PRON	_	RP	65	nsubj	_	_
+65	need	need	VERB	_	BP	84	ccomp	_	_
+66	the	the	DET	_	T	68	det	_	_
+67	imaging	imaging	NOUN	_	N	68	compound	_	_
+68	report	report	NOUN	_	N	65	dobj	_	_
+69	explaining	explain	VERB	_	BG	68	acl	_	_
+70	the	the	DET	_	T	72	det	_	_
+71	actual	actual	ADJ	_	J	72	amod	_	_
+72	problem	problem	NOUN	_	N	69	dobj	_	_
+73	,	,	PUNCT	_	_	72	punct	_	_
+74	or	or	CCONJ	_	C	69	cc	_	_
+75	whatever	whatever	PRON	_	DT	77	dep	_	_
+76	to	to	PART	_	O	77	aux	_	_
+77	prove	prove	VERB	_	B	69	conj	_	_
+78	whatever	whatever	PRON	_	DT	81	dobj	_	_
+79	the	the	DET	_	T	80	det	_	_
+80	Dr	dr	PROPN	_	NP	81	nsubj	_	_
+81	wants	want	VERB	_	BZ	77	ccomp	_	_
+82	,	,	PUNCT	_	_	84	punct	_	_
+83	us	we	PRON	_	RP	84	nsubj	_	_
+84	reasonable	reasonable	ADJ	_	J	14	advmod	_	_
+
+
+# sent_id = 8
+# text = 2- theres a in network closer cheaper alternative.
+1	2-	2-	X	_	S	3	dep	_	_
+2	there	there	PRON	_	X	3	expl	_	_
+3	s	s	VERB	_	BZ	0	root	_	_
+4	a	a	DET	_	T	9	det	_	_
+5	in	in	ADP	_	N	4	prep	_	_
+6	network	network	NOUN	_	N	5	pobj	_	_
+7	closer	close	ADV	_	BR	8	advmod	_	_
+8	cheaper	cheap	ADJ	_	JR	9	amod	_	_
+9	alternative	alternative	NOUN	_	N	3	attr	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = Say your patient has cancer and needs specialty chemo.
+1	Say	say	VERB	_	B	0	root	_	_
+2	your	your	PRON	_	RP$	3	poss	_	_
+3	patient	patient	NOUN	_	N	4	nsubj	_	_
+4	has	have	VERB	_	BZ	1	ccomp	_	_
+5	cancer	cancer	NOUN	_	N	4	dobj	_	_
+6	and	and	CCONJ	_	C	4	cc	_	_
+7	needs	need	VERB	_	BZ	4	conj	_	_
+8	specialty	specialty	NOUN	_	N	9	compound	_	_
+9	chemo	chemo	NOUN	_	N	7	dobj	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 10
+# text = If you just submit a request for specialty chemo at some far away cancer center, without evidence that the patient cant do the regular chemo available nearby, it'll get denied.
+1	If	if	SCONJ	_	N	4	mark	_	_
+2	you	you	PRON	_	RP	4	nsubj	_	_
+3	just	just	ADV	_	B	4	advmod	_	_
+4	submit	submit	VERB	_	BP	34	advcl	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	request	request	NOUN	_	N	4	dobj	_	_
+7	for	for	ADP	_	N	6	prep	_	_
+8	specialty	specialty	NOUN	_	N	9	compound	_	_
+9	chemo	chemo	NOUN	_	N	7	pobj	_	_
+10	at	at	ADP	_	N	4	prep	_	_
+11	some	some	PRON	_	T	13	advmod	_	_
+12	far	far	ADV	_	B	13	advmod	_	_
+13	away	away	ADV	_	B	15	amod	_	_
+14	cancer	cancer	NOUN	_	N	15	compound	_	_
+15	center	center	NOUN	_	N	10	pobj	_	_
+16	,	,	PUNCT	_	_	4	punct	_	_
+17	without	without	ADP	_	N	4	prep	_	_
+18	evidence	evidence	NOUN	_	N	17	pobj	_	_
+19	that	that	SCONJ	_	N	24	mark	_	_
+20	the	the	DET	_	T	21	det	_	_
+21	patient	patient	NOUN	_	N	24	nsubj	_	_
+22	ca	can	AUX	_	D	24	aux	_	_
+23	nt	not	PART	_	B	24	neg	_	_
+24	do	do	AUX	_	B	18	acl	_	_
+25	the	the	DET	_	T	27	det	_	_
+26	regular	regular	ADJ	_	J	27	amod	_	_
+27	chemo	chemo	NOUN	_	N	28	nsubj	_	_
+28	available	available	ADJ	_	J	24	ccomp	_	_
+29	nearby	nearby	ADV	_	B	28	advmod	_	_
+30	,	,	PUNCT	_	_	34	punct	_	_
+31	it	it	PRON	_	RP	34	nsubjpass	_	_
+32	'll	will	AUX	_	D	34	aux	_	_
+33	get	get	AUX	_	B	34	auxpass	_	_
+34	denied	deny	VERB	_	BN	0	root	_	_
+35	.	.	PUNCT	_	_	34	punct	_	_
+
+
+# sent_id = 11
+# text = Again, it comes down to lack of information,but especially if theres a better (from insurance perspective) option that needs to be considered first
+1	Again	again	ADV	_	B	4	advmod	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	it	it	PRON	_	RP	4	nsubj	_	_
+4	comes	come	VERB	_	BZ	0	root	_	_
+5	down	down	ADP	_	P	4	prt	_	_
+6	to	to	ADP	_	N	4	prep	_	_
+7	lack	lack	NOUN	_	N	6	pobj	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	information	information	NOUN	_	N	8	pobj	_	_
+10	,	,	PUNCT	_	_	4	punct	_	_
+11	but	but	CCONJ	_	C	4	cc	_	_
+12	especially	especially	ADV	_	B	15	advmod	_	_
+13	if	if	SCONJ	_	N	15	mark	_	_
+14	there	there	PRON	_	X	15	expl	_	_
+15	s	s	VERB	_	BZ	4	conj	_	_
+16	a	a	PRON	_	T	17	advmod	_	_
+17	better	well	ADJ	_	JR	23	amod	_	_
+18	(	(	PUNCT	_	LRB-	17	punct	_	_
+19	from	from	ADP	_	N	17	prep	_	_
+20	insurance	insurance	NOUN	_	N	21	compound	_	_
+21	perspective	perspective	NOUN	_	N	19	pobj	_	_
+22	)	)	PUNCT	_	RRB-	23	punct	_	_
+23	option	option	NOUN	_	N	15	attr	_	_
+24	that	that	PRON	_	DT	25	nsubj	_	_
+25	needs	need	VERB	_	BZ	23	relcl	_	_
+26	to	to	PART	_	O	28	aux	_	_
+27	be	be	AUX	_	B	28	auxpass	_	_
+28	considered	consider	VERB	_	BN	25	xcomp	_	_
+29	first	first	ADV	_	B	28	oprd	_	_
+
+
+# sent_id = 12
+# text = 3- the Dr writing the request may assume the receiving Dr would understand the risks, eg chronic nerve pain --> permanent nerve damage.
+1	3-	3-	X	_	S	4	meta	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	Dr	dr	PROPN	_	NP	4	nsubj	_	_
+4	writing	write	VERB	_	BG	8	csubj	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	request	request	NOUN	_	N	4	dobj	_	_
+7	may	may	AUX	_	D	8	aux	_	_
+8	assume	assume	VERB	_	B	0	root	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	receiving	receive	VERB	_	BG	11	amod	_	_
+11	Dr	dr	PROPN	_	NP	13	nsubj	_	_
+12	would	would	AUX	_	D	13	aux	_	_
+13	understand	understand	VERB	_	B	8	ccomp	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	risks	risk	NOUN	_	NS	13	dobj	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	eg	eg	PROPN	_	NP	20	nmod	_	_
+18	chronic	chronic	ADJ	_	J	20	amod	_	_
+19	nerve	nerve	NOUN	_	N	20	compound	_	_
+20	pain	pain	NOUN	_	N	15	conj	_	_
+21	--	--	PUNCT	_	_	20	punct	_	_
+22	>	>	X	_	X	15	punct	_	_
+23	permanent	permanent	ADJ	_	J	25	amod	_	_
+24	nerve	nerve	NOUN	_	N	25	compound	_	_
+25	damage	damage	NOUN	_	N	15	appos	_	_
+26	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 13
+# text = But the vast majority of the scut work is done by nurses, who are pretty strictly forbidden from interpretation.
+1	But	but	CCONJ	_	C	10	cc	_	_
+2	the	the	DET	_	T	4	det	_	_
+3	vast	vast	ADJ	_	J	4	amod	_	_
+4	majority	majority	NOUN	_	N	10	nsubjpass	_	_
+5	of	of	ADP	_	N	4	prep	_	_
+6	the	the	DET	_	T	8	det	_	_
+7	scut	scut	NOUN	_	N	8	compound	_	_
+8	work	work	NOUN	_	N	5	pobj	_	_
+9	is	be	AUX	_	BZ	10	auxpass	_	_
+10	done	do	VERB	_	BN	0	root	_	_
+11	by	by	ADP	_	N	10	agent	_	_
+12	nurses	nurse	NOUN	_	NS	11	pobj	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	who	who	PRON	_	P	18	nsubjpass	_	_
+15	are	be	AUX	_	BP	18	auxpass	_	_
+16	pretty	pretty	ADV	_	B	17	advmod	_	_
+17	strictly	strictly	ADV	_	B	18	advmod	_	_
+18	forbidden	forbid	VERB	_	BN	12	relcl	_	_
+19	from	from	ADP	_	N	18	prep	_	_
+20	interpretation	interpretation	NOUN	_	N	19	pobj	_	_
+21	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 14
+# text = So if the clinical documents dont spell out the"why", it can cause problems.
+1	So	so	ADV	_	B	15	advmod	_	_
+2	if	if	SCONJ	_	N	8	mark	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	clinical	clinical	ADJ	_	J	5	amod	_	_
+5	documents	document	NOUN	_	NS	8	nsubj	_	_
+6	do	do	AUX	_	BP	8	aux	_	_
+7	nt	not	PART	_	B	8	neg	_	_
+8	spell	spell	VERB	_	B	15	advcl	_	_
+9	out	out	ADP	_	P	8	prt	_	_
+10	the"why	the"why	ADP	_	N	8	dobj	_	_
+11	"	"	PUNCT	_	'	15	punct	_	_
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	it	it	PRON	_	RP	15	nsubj	_	_
+14	can	can	AUX	_	D	15	aux	_	_
+15	cause	cause	VERB	_	B	0	root	_	_
+16	problems	problem	NOUN	_	NS	15	dobj	_	_
+17	.	.	PUNCT	_	_	15	punct	_	_
+
+
+# sent_id = 15
+# text = Advice: request a peer to peer (again, many clinics refuse to do these), or request an urgent appeal and make sure to emphasize the long term consequences of not getting this treatment
+1	Advice	advice	NOUN	_	N	3	dep	_	_
+2	:	:	PUNCT	_	_	3	punct	_	_
+3	request	request	VERB	_	B	0	root	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	peer	peer	NOUN	_	N	3	dobj	_	_
+6	to	to	ADP	_	N	5	prep	_	_
+7	peer	peer	NOUN	_	N	6	pobj	_	_
+8	(	(	PUNCT	_	LRB-	13	punct	_	_
+9	again	again	ADV	_	B	13	advmod	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	many	many	ADJ	_	J	12	amod	_	_
+12	clinics	clinic	NOUN	_	NS	13	nsubj	_	_
+13	refuse	refuse	VERB	_	BP	3	parataxis	_	_
+14	to	to	PART	_	O	15	aux	_	_
+15	do	do	VERB	_	B	13	xcomp	_	_
+16	these	these	PRON	_	T	15	dobj	_	_
+17	)	)	PUNCT	_	RRB-	13	punct	_	_
+18	,	,	PUNCT	_	_	13	punct	_	_
+19	or	or	CCONJ	_	C	13	cc	_	_
+20	request	request	VERB	_	B	13	conj	_	_
+21	an	an	DET	_	T	23	det	_	_
+22	urgent	urgent	ADJ	_	J	23	amod	_	_
+23	appeal	appeal	NOUN	_	N	20	dobj	_	_
+24	and	and	CCONJ	_	C	20	cc	_	_
+25	make	make	VERB	_	B	20	conj	_	_
+26	sure	sure	ADJ	_	J	25	acomp	_	_
+27	to	to	PART	_	O	28	aux	_	_
+28	emphasize	emphasize	VERB	_	B	26	xcomp	_	_
+29	the	the	DET	_	T	32	det	_	_
+30	long	long	ADJ	_	J	31	amod	_	_
+31	term	term	NOUN	_	N	32	compound	_	_
+32	consequences	consequence	NOUN	_	NS	28	dobj	_	_
+33	of	of	ADP	_	N	32	prep	_	_
+34	not	not	PART	_	B	35	neg	_	_
+35	getting	get	VERB	_	BG	33	pcomp	_	_
+36	this	this	DET	_	T	37	det	_	_
+37	treatment	treatment	NOUN	_	N	35	dobj	_	_
+
+
+# sent_id = 16
+# text = Add: the reviewer is supposed to review, knowing your specific plan benefits, but in real life,the details of 100s of plans, especially custom plans like yours, do get overlooked.
+1	Add	add	VERB	_	B	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	reviewer	reviewer	NOUN	_	N	6	nsubjpass	_	_
+5	is	be	AUX	_	BZ	6	auxpass	_	_
+6	supposed	suppose	VERB	_	BN	1	ccomp	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	review	review	VERB	_	B	6	xcomp	_	_
+9	,	,	PUNCT	_	_	6	punct	_	_
+10	knowing	know	VERB	_	BG	6	advcl	_	_
+11	your	your	PRON	_	RP$	14	poss	_	_
+12	specific	specific	ADJ	_	J	14	amod	_	_
+13	plan	plan	NOUN	_	N	14	compound	_	_
+14	benefits	benefit	NOUN	_	NS	10	dobj	_	_
+15	,	,	PUNCT	_	_	6	punct	_	_
+16	but	but	CCONJ	_	C	6	cc	_	_
+17	in	in	ADP	_	N	36	prep	_	_
+18	real	real	ADJ	_	J	19	amod	_	_
+19	life	life	NOUN	_	N	17	pobj	_	_
+20	,	,	PUNCT	_	_	36	punct	_	_
+21	the	the	DET	_	T	22	det	_	_
+22	details	detail	NOUN	_	NS	36	nsubjpass	_	_
+23	of	of	ADP	_	N	22	prep	_	_
+24	100s	100s	PROPN	_	NPS	23	pobj	_	_
+25	of	of	ADP	_	N	24	prep	_	_
+26	plans	plan	NOUN	_	NS	25	pobj	_	_
+27	,	,	PUNCT	_	_	36	punct	_	_
+28	especially	especially	ADV	_	B	30	advmod	_	_
+29	custom	custom	NOUN	_	N	30	compound	_	_
+30	plans	plan	NOUN	_	NS	36	nsubjpass	_	_
+31	like	like	ADP	_	N	30	prep	_	_
+32	yours	your	NOUN	_	NS	31	pobj	_	_
+33	,	,	PUNCT	_	_	36	punct	_	_
+34	do	do	AUX	_	BP	36	aux	_	_
+35	get	get	AUX	_	B	36	auxpass	_	_
+36	overlooked	overlook	VERB	_	BN	6	conj	_	_
+37	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 17
+# text = So things like your PPO benefits, might need to be spelled out
+1	So	so	ADV	_	B	9	advmod	_	_
+2	things	thing	NOUN	_	NS	9	nsubj	_	_
+3	like	like	ADP	_	N	2	prep	_	_
+4	your	your	PRON	_	RP$	6	poss	_	_
+5	PPO	ppo	PROPN	_	NP	6	compound	_	_
+6	benefits	benefit	NOUN	_	NS	3	pobj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	might	might	AUX	_	D	9	aux	_	_
+9	need	need	VERB	_	B	0	root	_	_
+10	to	to	PART	_	O	12	aux	_	_
+11	be	be	AUX	_	B	12	auxpass	_	_
+12	spelled	spell	VERB	_	BN	9	xcomp	_	_
+13	out	out	ADP	_	P	12	prt	_	_
+
+

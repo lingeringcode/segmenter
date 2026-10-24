@@ -1,0 +1,402 @@
+# sent_id = 1
+# text = Thread_10
+1	Thread_10	thread_10	VERB	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 1000
+1	1000	1000	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/beefjerky9
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	X	_	DD	1	punct	_	_
+3	beefjerky9	beefjerky9	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = Help with denial of imaging study
+1	Help	help	VERB	_	B	0	root	_	_
+2	with	with	ADP	_	N	1	prep	_	_
+3	denial	denial	NOUN	_	N	2	pobj	_	_
+4	of	of	ADP	_	N	3	prep	_	_
+5	imaging	imaging	NOUN	_	N	6	compound	_	_
+6	study	study	NOUN	_	N	4	pobj	_	_
+
+
+# sent_id = 6
+# text = I'm hoping y'all can help me navigate the best way to get this resolved in a way that will not screw me over too badly.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	'm	be	AUX	_	BP	3	aux	_	_
+3	hoping	hop	VERB	_	BG	0	root	_	_
+4	y'	you	PRON	_	RP	7	nsubj	_	_
+5	all	all	PRON	_	T	7	nsubj	_	_
+6	can	can	AUX	_	D	7	aux	_	_
+7	help	help	VERB	_	B	3	ccomp	_	_
+8	me	i	PRON	_	RP	7	dobj	_	_
+9	navigate	navigate	VERB	_	B	7	xcomp	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	best	good	ADJ	_	JS	12	amod	_	_
+12	way	way	NOUN	_	N	9	dobj	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	get	get	VERB	_	B	12	relcl	_	_
+15	this	this	PRON	_	T	16	nsubj	_	_
+16	resolved	resolve	VERB	_	BN	14	ccomp	_	_
+17	in	in	ADP	_	N	14	prep	_	_
+18	a	a	DET	_	T	19	det	_	_
+19	way	way	NOUN	_	N	17	pobj	_	_
+20	that	that	PRON	_	DT	23	nsubj	_	_
+21	will	will	AUX	_	D	23	aux	_	_
+22	not	not	PART	_	B	23	neg	_	_
+23	screw	screw	VERB	_	B	19	relcl	_	_
+24	me	i	PRON	_	RP	23	dobj	_	_
+25	over	over	ADP	_	P	23	prt	_	_
+26	too	too	ADV	_	B	27	advmod	_	_
+27	badly	badly	ADV	_	B	23	advmod	_	_
+28	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = I'll try to give as much detail as I can, without giving any identifying info.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	'll	will	AUX	_	D	3	aux	_	_
+3	try	try	VERB	_	B	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	give	give	VERB	_	B	3	xcomp	_	_
+6	as	as	ADV	_	B	7	advmod	_	_
+7	much	much	ADJ	_	J	8	amod	_	_
+8	detail	detail	NOUN	_	N	5	dobj	_	_
+9	as	as	SCONJ	_	N	11	mark	_	_
+10	I	i	PRON	_	RP	11	nsubj	_	_
+11	can	can	AUX	_	D	8	advcl	_	_
+12	,	,	PUNCT	_	_	3	punct	_	_
+13	without	without	ADP	_	N	3	prep	_	_
+14	giving	give	VERB	_	BG	13	pcomp	_	_
+15	any	any	DET	_	T	17	det	_	_
+16	identifying	identify	VERB	_	BG	17	amod	_	_
+17	info	info	NOUN	_	N	14	dobj	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = I had to have an imaging study done, and had it pre-approved.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	had	have	VERB	_	BD	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	have	have	VERB	_	B	2	xcomp	_	_
+5	an	an	DET	_	T	7	det	_	_
+6	imaging	imaging	NOUN	_	N	7	amod	_	_
+7	study	study	NOUN	_	N	8	nsubj	_	_
+8	done	do	VERB	_	BN	4	ccomp	_	_
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	and	and	CCONJ	_	C	2	cc	_	_
+11	had	have	VERB	_	BD	2	conj	_	_
+12	it	it	PRON	_	RP	13	nsubj	_	_
+13	pre	pre	VERB	_	BN	11	ccomp	_	_
+14	-	-	VERB	_	BN	11	ccomp	_	_
+15	approved	approve	VERB	_	BN	11	advcl	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = However, I made the mistake of thinking that pre-approval meant I was good to have it done at the facility the imaging order was sent to.
+1	However	however	ADV	_	B	4	advmod	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	made	make	VERB	_	BD	0	root	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	mistake	mistake	NOUN	_	N	4	dobj	_	_
+7	of	of	ADP	_	N	6	prep	_	_
+8	thinking	think	VERB	_	BG	7	pcomp	_	_
+9	that	that	SCONJ	_	N	13	mark	_	_
+10	pre	pre	NOUN	_	N	13	nsubj	_	_
+11	-	-	NOUN	_	N	13	nsubj	_	_
+12	approval	approval	ADJ	_	J	13	nsubj	_	_
+13	meant	mean	VERB	_	BD	8	ccomp	_	_
+14	I	i	PRON	_	RP	15	nsubj	_	_
+15	was	be	AUX	_	BD	13	ccomp	_	_
+16	good	good	ADJ	_	J	15	acomp	_	_
+17	to	to	PART	_	O	18	aux	_	_
+18	have	have	VERB	_	B	15	xcomp	_	_
+19	it	it	PRON	_	RP	20	nsubj	_	_
+20	done	do	VERB	_	BN	18	ccomp	_	_
+21	at	at	ADP	_	N	20	prep	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	facility	facility	NOUN	_	N	21	pobj	_	_
+24	the	the	DET	_	T	26	det	_	_
+25	imaging	imaging	NOUN	_	N	26	compound	_	_
+26	order	order	NOUN	_	N	28	nsubjpass	_	_
+27	was	be	AUX	_	BD	28	auxpass	_	_
+28	sent	send	VERB	_	BN	23	relcl	_	_
+29	to	to	ADP	_	N	28	prep	_	_
+30	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 10
+# text = Big mistake, and definitely a lesson learned.
+1	Big	big	ADJ	_	J	2	amod	_	_
+2	mistake	mistake	NOUN	_	N	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	and	and	CCONJ	_	C	2	cc	_	_
+5	definitely	definitely	ADV	_	B	8	advmod	_	_
+6	a	a	DET	_	T	7	det	_	_
+7	lesson	lesson	NOUN	_	N	8	nsubj	_	_
+8	learned	learn	VERB	_	BD	2	conj	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 11
+# text = I was, of course, denied as out of network.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	was	be	AUX	_	BD	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	of	of	ADP	_	N	2	prep	_	_
+5	course	course	NOUN	_	N	4	pobj	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	denied	deny	VERB	_	BD	2	xcomp	_	_
+8	as	as	ADP	_	N	9	advmod	_	_
+9	out	out	ADP	_	N	7	prep	_	_
+10	of	of	ADP	_	N	9	prep	_	_
+11	network	network	NOUN	_	N	10	pobj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 12
+# text = I called the insurance company, and they guided me through an appeal.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	called	call	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	insurance	insurance	NOUN	_	N	5	compound	_	_
+5	company	company	NOUN	_	N	2	dobj	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	and	and	CCONJ	_	C	2	cc	_	_
+8	they	they	PRON	_	RP	9	nsubj	_	_
+9	guided	guide	VERB	_	BD	2	conj	_	_
+10	me	i	PRON	_	RP	9	dobj	_	_
+11	through	through	ADP	_	N	9	prep	_	_
+12	an	an	DET	_	T	13	det	_	_
+13	appeal	appeal	NOUN	_	N	11	pobj	_	_
+14	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 13
+# text = The rep told me that the pre-approval request did include the location I was scheduled to have it done at.
+1	The	the	DET	_	T	2	det	_	_
+2	rep	rep	NOUN	_	N	3	nsubj	_	_
+3	told	tell	VERB	_	BD	0	root	_	_
+4	me	i	PRON	_	RP	3	dobj	_	_
+5	that	that	SCONJ	_	N	12	mark	_	_
+6	the	the	DET	_	T	10	det	_	_
+7	pre	pre	ADJ	_	J	10	amod	_	_
+8	-	-	ADJ	_	J	10	amod	_	_
+9	approval	approval	ADJ	_	J	10	amod	_	_
+10	request	request	NOUN	_	N	12	nsubj	_	_
+11	did	do	AUX	_	BD	12	aux	_	_
+12	include	include	VERB	_	B	3	ccomp	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	location	location	NOUN	_	N	12	dobj	_	_
+15	I	i	PRON	_	RP	17	nsubjpass	_	_
+16	was	be	AUX	_	BD	17	auxpass	_	_
+17	scheduled	schedule	VERB	_	BN	14	relcl	_	_
+18	to	to	PART	_	O	19	aux	_	_
+19	have	have	VERB	_	B	17	xcomp	_	_
+20	it	it	PRON	_	RP	21	nsubj	_	_
+21	done	do	VERB	_	BN	19	ccomp	_	_
+22	at	at	ADP	_	N	21	prep	_	_
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 14
+# text = I was hoping that would increase my chances of successfully appealing.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	was	be	AUX	_	BD	3	aux	_	_
+3	hoping	hop	VERB	_	BG	0	root	_	_
+4	that	that	PRON	_	T	6	nsubj	_	_
+5	would	would	AUX	_	D	6	aux	_	_
+6	increase	increase	VERB	_	B	3	ccomp	_	_
+7	my	my	PRON	_	RP$	8	poss	_	_
+8	chances	chance	NOUN	_	NS	6	dobj	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	successfully	successfully	ADV	_	B	11	advmod	_	_
+11	appealing	appealing	ADJ	_	J	9	pcomp	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 15
+# text = However, it was again denied, due to being out of network.
+1	However	however	ADV	_	B	6	advmod	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	it	it	PRON	_	RP	6	nsubjpass	_	_
+4	was	be	AUX	_	BD	6	auxpass	_	_
+5	again	again	ADV	_	B	6	advmod	_	_
+6	denied	deny	VERB	_	BN	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	due	due	ADP	_	N	6	prep	_	_
+9	to	to	ADP	_	N	8	pcomp	_	_
+10	being	be	AUX	_	BG	8	pcomp	_	_
+11	out	out	ADP	_	N	10	prep	_	_
+12	of	of	ADP	_	N	11	prep	_	_
+13	network	network	NOUN	_	N	12	pobj	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 16
+# text = From the denial letter, it is not clear that they even considered, or were aware that the pre-approval request contained the location.
+1	From	from	ADP	_	N	7	prep	_	_
+2	the	the	DET	_	T	4	det	_	_
+3	denial	denial	NOUN	_	N	4	compound	_	_
+4	letter	letter	NOUN	_	N	1	pobj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	it	it	PRON	_	RP	7	nsubj	_	_
+7	is	be	AUX	_	BZ	0	root	_	_
+8	not	not	PART	_	B	7	neg	_	_
+9	clear	clear	ADJ	_	J	7	acomp	_	_
+10	that	that	SCONJ	_	N	13	mark	_	_
+11	they	they	PRON	_	RP	13	nsubj	_	_
+12	even	even	ADV	_	B	13	advmod	_	_
+13	considered	consider	VERB	_	BD	7	ccomp	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	or	or	CCONJ	_	C	13	cc	_	_
+16	were	be	AUX	_	BD	13	conj	_	_
+17	aware	aware	ADJ	_	J	16	acomp	_	_
+18	that	that	SCONJ	_	N	24	mark	_	_
+19	the	the	DET	_	T	23	det	_	_
+20	pre	pre	ADJ	_	J	23	amod	_	_
+21	-	-	ADJ	_	J	23	amod	_	_
+22	approval	approval	ADJ	_	J	23	amod	_	_
+23	request	request	NOUN	_	N	24	nsubj	_	_
+24	contained	contain	VERB	_	BD	17	ccomp	_	_
+25	the	the	DET	_	T	26	det	_	_
+26	location	location	NOUN	_	N	24	dobj	_	_
+27	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 17
+# text = In the denial letter, they included an address that I could send a second level appeal to.
+1	In	in	ADP	_	N	7	prep	_	_
+2	the	the	DET	_	T	4	det	_	_
+3	denial	denial	NOUN	_	N	4	compound	_	_
+4	letter	letter	NOUN	_	N	1	pobj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	they	they	PRON	_	RP	7	nsubj	_	_
+7	included	include	VERB	_	BD	0	root	_	_
+8	an	an	DET	_	T	9	det	_	_
+9	address	address	NOUN	_	N	7	dobj	_	_
+10	that	that	PRON	_	DT	13	mark	_	_
+11	I	i	PRON	_	RP	13	nsubj	_	_
+12	could	could	AUX	_	D	13	aux	_	_
+13	send	send	VERB	_	B	9	acl	_	_
+14	a	a	DET	_	T	17	det	_	_
+15	second	second	ADJ	_	J	16	amod	_	_
+16	level	level	NOUN	_	N	17	compound	_	_
+17	appeal	appeal	NOUN	_	N	13	dobj	_	_
+18	to	to	ADP	_	N	13	prep	_	_
+19	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 18
+# text = Does it sound like I'd have any chance of success with a second level appeal?
+1	Does	do	AUX	_	BZ	3	aux	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	sound	sound	VERB	_	B	0	root	_	_
+4	like	like	SCONJ	_	N	7	mark	_	_
+5	I	i	PRON	_	RP	7	nsubj	_	_
+6	'd	would	AUX	_	D	7	aux	_	_
+7	have	have	VERB	_	B	3	advcl	_	_
+8	any	any	DET	_	T	9	det	_	_
+9	chance	chance	NOUN	_	N	7	dobj	_	_
+10	of	of	ADP	_	N	9	prep	_	_
+11	success	success	NOUN	_	N	10	pobj	_	_
+12	with	with	ADP	_	N	11	prep	_	_
+13	a	a	DET	_	T	16	det	_	_
+14	second	second	ADJ	_	J	15	amod	_	_
+15	level	level	NOUN	_	N	16	compound	_	_
+16	appeal	appeal	NOUN	_	N	12	pobj	_	_
+17	?	?	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 19
+# text = If so, I'd appreciate any suggestions on how to word it, and what to include.
+1	If	if	SCONJ	_	N	2	mark	_	_
+2	so	so	ADV	_	B	6	advcl	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	I	i	PRON	_	RP	6	nsubj	_	_
+5	'd	would	AUX	_	D	6	aux	_	_
+6	appreciate	appreciate	VERB	_	B	0	root	_	_
+7	any	any	DET	_	T	8	det	_	_
+8	suggestions	suggestion	NOUN	_	NS	6	dobj	_	_
+9	on	on	ADP	_	N	8	prep	_	_
+10	how	how	SCONJ	_	RB	12	advmod	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	word	word	VERB	_	B	9	pcomp	_	_
+13	it	it	PRON	_	RP	12	dobj	_	_
+14	,	,	PUNCT	_	_	6	punct	_	_
+15	and	and	CCONJ	_	C	6	cc	_	_
+16	what	what	PRON	_	P	18	dobj	_	_
+17	to	to	PART	_	O	18	aux	_	_
+18	include	include	VERB	_	B	6	conj	_	_
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 20
+# text = If it doesn't sound feasible, I'm certainly open to other suggestions on how to handle this.
+1	If	if	SCONJ	_	N	5	mark	_	_
+2	it	it	PRON	_	RP	5	nsubj	_	_
+3	does	do	AUX	_	BZ	5	aux	_	_
+4	n't	not	PART	_	B	5	neg	_	_
+5	sound	sound	VERB	_	B	9	advcl	_	_
+6	feasible	feasible	ADJ	_	J	5	acomp	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	I	i	PRON	_	RP	9	nsubj	_	_
+9	'm	be	AUX	_	BP	0	root	_	_
+10	certainly	certainly	ADV	_	B	9	advmod	_	_
+11	open	open	ADJ	_	J	9	acomp	_	_
+12	to	to	ADP	_	N	11	prep	_	_
+13	other	other	ADJ	_	J	14	amod	_	_
+14	suggestions	suggestion	NOUN	_	NS	12	pobj	_	_
+15	on	on	ADP	_	N	14	prep	_	_
+16	how	how	SCONJ	_	RB	18	advmod	_	_
+17	to	to	PART	_	O	18	aux	_	_
+18	handle	handle	VERB	_	B	15	pcomp	_	_
+19	this	this	PRON	_	T	18	dobj	_	_
+20	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 21
+# text = As is, the cost is 4x what I was expecting, and far more than I can afford.
+1	As	as	SCONJ	_	N	2	mark	_	_
+2	is	be	AUX	_	BZ	6	advcl	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	cost	cost	NOUN	_	N	6	nsubj	_	_
+6	is	be	AUX	_	BZ	0	root	_	_
+7	4x	4x	NOUN	_	NS	6	attr	_	_
+8	what	what	PRON	_	P	11	dobj	_	_
+9	I	i	PRON	_	RP	11	nsubj	_	_
+10	was	be	AUX	_	BD	11	aux	_	_
+11	expecting	expect	VERB	_	BG	7	relcl	_	_
+12	,	,	PUNCT	_	_	7	punct	_	_
+13	and	and	CCONJ	_	C	7	cc	_	_
+14	far	far	ADV	_	B	15	advmod	_	_
+15	more	more	ADJ	_	JR	6	advmod	_	_
+16	than	than	SCONJ	_	N	19	mark	_	_
+17	I	i	PRON	_	RP	19	nsubj	_	_
+18	can	can	AUX	_	D	19	aux	_	_
+19	afford	afford	VERB	_	B	15	advcl	_	_
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 22
+# text = Thanks in advance!
+1	Thanks	thank	NOUN	_	NS	0	root	_	_
+2	in	in	ADP	_	N	1	prep	_	_
+3	advance	advance	NOUN	_	N	2	pobj	_	_
+4	!	!	PUNCT	_	_	1	punct	_	_
+
+

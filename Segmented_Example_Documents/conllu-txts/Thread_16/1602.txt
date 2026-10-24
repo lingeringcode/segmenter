@@ -1,0 +1,138 @@
+# sent_id = 1
+# text = Thread_16
+1	Thread_16	thread_16	ADJ	_	J	0	root	_	_
+
+
+# sent_id = 2
+# text = 1602
+1	1602	1602	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1601
+1	1601	1601	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Strykrol
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Strykrol	strykrol	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Thank you, it does appear like doctor appeal is the first recourse.
+1	Thank	thank	VERB	_	BP	6	advcl	_	_
+2	you	you	PRON	_	RP	1	dobj	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	it	it	PRON	_	RP	6	nsubj	_	_
+5	does	do	AUX	_	BZ	6	aux	_	_
+6	appear	appear	VERB	_	B	0	root	_	_
+7	like	like	SCONJ	_	N	10	mark	_	_
+8	doctor	doctor	NOUN	_	N	9	compound	_	_
+9	appeal	appeal	NOUN	_	N	10	nsubj	_	_
+10	is	be	AUX	_	BZ	6	advcl	_	_
+11	the	the	DET	_	T	13	det	_	_
+12	first	first	ADJ	_	J	13	amod	_	_
+13	recourse	recourse	NOUN	_	N	10	attr	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 6
+# text = They said the specific reason is that “the doctor ordered an MRI, which is used to take pictures in the body.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	said	say	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	specific	specific	ADJ	_	J	5	amod	_	_
+5	reason	reason	NOUN	_	N	6	nsubj	_	_
+6	is	be	AUX	_	BZ	2	ccomp	_	_
+7	that	that	SCONJ	_	N	11	mark	_	_
+8	“	"	PUNCT	_	`	11	punct	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	doctor	doctor	NOUN	_	N	11	nsubj	_	_
+11	ordered	order	VERB	_	BD	6	ccomp	_	_
+12	an	an	DET	_	T	13	det	_	_
+13	MRI	mri	PROPN	_	NP	11	dobj	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	which	which	PRON	_	DT	17	nsubjpass	_	_
+16	is	be	AUX	_	BZ	17	auxpass	_	_
+17	used	use	VERB	_	BN	13	relcl	_	_
+18	to	to	PART	_	O	19	aux	_	_
+19	take	take	VERB	_	B	17	xcomp	_	_
+20	pictures	picture	NOUN	_	NS	19	dobj	_	_
+21	in	in	ADP	_	N	19	prep	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	body	body	NOUN	_	N	21	pobj	_	_
+24	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = The test can be approved when the doctor is looking for a specific condition or certain criteria is met.
+1	The	the	DET	_	T	2	det	_	_
+2	test	test	NOUN	_	N	5	nsubjpass	_	_
+3	can	can	AUX	_	D	5	aux	_	_
+4	be	be	AUX	_	B	5	auxpass	_	_
+5	approved	approve	VERB	_	BN	0	root	_	_
+6	when	when	SCONJ	_	RB	10	advmod	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	doctor	doctor	NOUN	_	N	10	nsubj	_	_
+9	is	be	AUX	_	BZ	10	aux	_	_
+10	looking	look	VERB	_	BG	5	advcl	_	_
+11	for	for	ADP	_	N	10	prep	_	_
+12	a	a	DET	_	T	14	det	_	_
+13	specific	specific	ADJ	_	J	14	amod	_	_
+14	condition	condition	NOUN	_	N	11	pobj	_	_
+15	or	or	CCONJ	_	C	14	cc	_	_
+16	certain	certain	ADJ	_	J	17	amod	_	_
+17	criteria	criterion	NOUN	_	NS	14	conj	_	_
+18	is	be	AUX	_	BZ	19	auxpass	_	_
+19	met	meet	VERB	_	BN	5	conj	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 8
+# text = These conditions might be blood vessel anomalies, a muscle tear, or a tumor.
+1	These	these	DET	_	T	2	det	_	_
+2	conditions	condition	NOUN	_	NS	4	nsubj	_	_
+3	might	might	AUX	_	D	4	aux	_	_
+4	be	be	AUX	_	B	0	root	_	_
+5	blood	blood	NOUN	_	N	6	compound	_	_
+6	vessel	vessel	NOUN	_	N	7	compound	_	_
+7	anomalies	anomaly	NOUN	_	NS	4	attr	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	a	a	DET	_	T	11	det	_	_
+10	muscle	muscle	NOUN	_	N	11	compound	_	_
+11	tear	tear	NOUN	_	N	7	appos	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	or	or	CCONJ	_	C	11	cc	_	_
+14	a	a	DET	_	T	15	det	_	_
+15	tumor	tumor	NOUN	_	N	11	conj	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = The doctor did not tell us that they are looking for any these conditions, therefore we cannot approve…”
+1	The	the	DET	_	T	2	det	_	_
+2	doctor	doctor	NOUN	_	N	5	nsubj	_	_
+3	did	do	AUX	_	BD	5	aux	_	_
+4	not	not	PART	_	B	5	neg	_	_
+5	tell	tell	VERB	_	B	20	ccomp	_	_
+6	us	we	PRON	_	RP	5	dobj	_	_
+7	that	that	SCONJ	_	N	10	mark	_	_
+8	they	they	PRON	_	RP	10	nsubj	_	_
+9	are	be	AUX	_	BP	10	aux	_	_
+10	looking	look	VERB	_	BG	5	ccomp	_	_
+11	for	for	ADP	_	N	10	prep	_	_
+12	any	any	DET	_	DT	14	det	_	_
+13	these	these	DET	_	T	14	det	_	_
+14	conditions	condition	NOUN	_	NS	11	pobj	_	_
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	therefore	therefore	ADV	_	B	20	advmod	_	_
+17	we	we	PRON	_	RP	20	nsubj	_	_
+18	can	can	AUX	_	D	20	aux	_	_
+19	not	not	PART	_	B	20	neg	_	_
+20	approve	approve	VERB	_	B	0	root	_	_
+21	…	…	PUNCT	_	FP	20	punct	_	_
+22	”	"	PUNCT	_	'	20	punct	_	_
+
+

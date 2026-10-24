@@ -1,0 +1,110 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1514
+1	1514	1514	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/LizzieMac123
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	LizzieMac123	lizziemac123	NOUN	_	NS	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Obtain the criteria for the cpt code of the surgery.
+1	Obtain	obtain	VERB	_	B	0	root	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	criteria	criterion	NOUN	_	NS	1	dobj	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	cpt	cpt	PROPN	_	NP	7	compound	_	_
+7	code	code	PROPN	_	NP	4	pobj	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	surgery	surgery	NOUN	_	N	8	pobj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = You may be able to Google this by googling your tpa plus the cpt code (ie: "uhc medically necessary criteria for cpt 12345") and be sure you meet all of those... also be sure the surgeon turned in proof that she meets all of those.
+1	You	you	PRON	_	RP	3	nsubj	_	_
+2	may	may	AUX	_	D	3	aux	_	_
+3	be	be	AUX	_	B	39	ccomp	_	_
+4	able	able	ADJ	_	J	3	acomp	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	Google	google	PROPN	_	NP	4	xcomp	_	_
+7	this	this	PRON	_	T	6	dobj	_	_
+8	by	by	ADP	_	N	3	prep	_	_
+9	googling	google	VERB	_	BG	8	pcomp	_	_
+10	your	your	PRON	_	RP$	11	poss	_	_
+11	tpa	tpa	NOUN	_	N	9	dobj	_	_
+12	plus	plus	CCONJ	_	C	11	cc	_	_
+13	the	the	DET	_	T	15	det	_	_
+14	cpt	cpt	PROPN	_	NP	15	compound	_	_
+15	code	code	PROPN	_	NP	11	conj	_	_
+16	(	(	PUNCT	_	LRB-	15	punct	_	_
+17	ie	ie	PROPN	_	NP	23	nmod	_	_
+18	:	:	PUNCT	_	_	23	punct	_	_
+19	"	"	PUNCT	_	`	23	punct	_	_
+20	uhc	uhc	NOUN	_	N	23	nmod	_	_
+21	medically	medically	ADV	_	B	22	advmod	_	_
+22	necessary	necessary	ADJ	_	J	23	amod	_	_
+23	criteria	criterion	NOUN	_	NS	9	dobj	_	_
+24	for	for	ADP	_	N	23	prep	_	_
+25	cpt	cpt	PROPN	_	NP	24	pobj	_	_
+26	12345	12345	NUM	_	D	25	nummod	_	_
+27	"	"	PUNCT	_	'	3	punct	_	_
+28	)	)	PUNCT	_	RRB-	3	punct	_	_
+29	and	and	CCONJ	_	C	3	cc	_	_
+30	be	be	AUX	_	B	3	conj	_	_
+31	sure	sure	ADJ	_	J	30	acomp	_	_
+32	you	you	PRON	_	RP	33	nsubj	_	_
+33	meet	meet	VERB	_	BP	31	ccomp	_	_
+34	all	all	PRON	_	T	33	dobj	_	_
+35	of	of	ADP	_	N	34	prep	_	_
+36	those	those	PRON	_	T	35	pobj	_	_
+37	...	...	PUNCT	_	_	39	punct	_	_
+38	also	also	ADV	_	B	39	advmod	_	_
+39	be	be	AUX	_	B	0	root	_	_
+40	sure	sure	ADJ	_	J	39	acomp	_	_
+41	the	the	DET	_	T	42	det	_	_
+42	surgeon	surgeon	NOUN	_	N	43	nsubj	_	_
+43	turned	turn	VERB	_	BD	40	ccomp	_	_
+44	in	in	ADP	_	N	43	prep	_	_
+45	proof	proof	NOUN	_	N	44	pobj	_	_
+46	that	that	SCONJ	_	N	48	mark	_	_
+47	she	she	PRON	_	RP	48	nsubj	_	_
+48	meets	meet	VERB	_	BZ	45	acl	_	_
+49	all	all	PRON	_	T	48	dobj	_	_
+50	of	of	ADP	_	N	49	prep	_	_
+51	those	those	PRON	_	T	50	pobj	_	_
+52	.	.	PUNCT	_	_	39	punct	_	_
+
+
+# sent_id = 7
+# text = Monday morning, ask them to submit again with an expedited PA.
+1	Monday	monday	PROPN	_	NP	2	compound	_	_
+2	morning	morning	NOUN	_	N	4	npadvmod	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	ask	ask	VERB	_	B	0	root	_	_
+5	them	they	PRON	_	RP	4	dobj	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	submit	submit	VERB	_	B	4	xcomp	_	_
+8	again	again	ADV	_	B	7	advmod	_	_
+9	with	with	ADP	_	N	7	prep	_	_
+10	an	an	DET	_	T	12	det	_	_
+11	expedited	expedite	VERB	_	BN	12	amod	_	_
+12	PA	pa	PROPN	_	NP	9	pobj	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+

@@ -1,0 +1,107 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1521
+1	1521	1521	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/CGWInsurance
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	CGWInsurance	cgwinsurance	NOUN	_	N	1	nummod	_	_
+
+
+# sent_id = 5
+# text = The odds are out was denied because the submission lacked something the instance company wanted.
+1	The	the	DET	_	T	2	det	_	_
+2	odds	odd	NOUN	_	NS	3	nsubj	_	_
+3	are	be	AUX	_	BP	6	auxpass	_	_
+4	out	out	ADV	_	B	3	advmod	_	_
+5	was	be	AUX	_	BD	6	auxpass	_	_
+6	denied	deny	VERB	_	BN	0	root	_	_
+7	because	because	SCONJ	_	N	10	mark	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	submission	submission	NOUN	_	N	10	nsubj	_	_
+10	lacked	lack	VERB	_	BD	6	advcl	_	_
+11	something	something	PRON	_	N	10	dobj	_	_
+12	the	the	DET	_	T	14	det	_	_
+13	instance	instance	NOUN	_	N	14	compound	_	_
+14	company	company	NOUN	_	N	15	nsubj	_	_
+15	wanted	want	VERB	_	BD	11	relcl	_	_
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 6
+# text = They tell the doctors office what is missing and the doctors office will supply it and or will most likely be approved.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	tell	tell	VERB	_	BP	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	doctors	doctor	NOUN	_	NS	2	dobj	_	_
+5	office	office	VERB	_	B	2	ccomp	_	_
+6	what	what	PRON	_	P	7	nsubj	_	_
+7	is	be	AUX	_	BZ	2	ccomp	_	_
+8	missing	miss	VERB	_	BG	7	acomp	_	_
+9	and	and	CCONJ	_	C	7	cc	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	doctors	doctor	NOUN	_	NS	12	compound	_	_
+12	office	office	NOUN	_	N	14	nsubj	_	_
+13	will	will	AUX	_	D	14	aux	_	_
+14	supply	supply	VERB	_	B	7	conj	_	_
+15	it	it	PRON	_	RP	14	dobj	_	_
+16	and	and	CCONJ	_	C	14	cc	_	_
+17	or	or	CCONJ	_	C	14	cc	_	_
+18	will	will	AUX	_	D	22	aux	_	_
+19	most	most	ADV	_	BS	20	advmod	_	_
+20	likely	likely	ADV	_	B	22	advmod	_	_
+21	be	be	AUX	_	B	22	auxpass	_	_
+22	approved	approve	VERB	_	BN	14	conj	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = I know I get denials all the time and they are approved when doctors office resubmit.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	know	know	VERB	_	BP	4	parataxis	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	get	get	VERB	_	BP	0	root	_	_
+5	denials	denial	NOUN	_	NS	4	dobj	_	_
+6	all	all	DET	_	DT	8	predet	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	time	time	NOUN	_	N	4	npadvmod	_	_
+9	and	and	CCONJ	_	C	4	cc	_	_
+10	they	they	PRON	_	RP	12	nsubjpass	_	_
+11	are	be	AUX	_	BP	12	auxpass	_	_
+12	approved	approve	VERB	_	BN	4	conj	_	_
+13	when	when	SCONJ	_	RB	16	advmod	_	_
+14	doctors	doctor	NOUN	_	NS	15	compound	_	_
+15	office	office	NOUN	_	N	16	nsubj	_	_
+16	resubmit	resubmit	VERB	_	BP	12	advcl	_	_
+17	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 8
+# text = Even if it is denied again you can still do a WRITTEN appeal
+1	Even	even	ADV	_	B	5	advmod	_	_
+2	if	if	SCONJ	_	N	5	mark	_	_
+3	it	it	PRON	_	RP	5	nsubjpass	_	_
+4	is	be	AUX	_	BZ	5	auxpass	_	_
+5	denied	deny	VERB	_	BN	10	advcl	_	_
+6	again	again	ADV	_	B	5	advmod	_	_
+7	you	you	PRON	_	RP	10	nsubj	_	_
+8	can	can	AUX	_	D	10	aux	_	_
+9	still	still	ADV	_	B	10	advmod	_	_
+10	do	do	VERB	_	B	0	root	_	_
+11	a	a	DET	_	T	13	det	_	_
+12	WRITTEN	written	PROPN	_	NP	13	compound	_	_
+13	appeal	appeal	NOUN	_	N	10	dobj	_	_
+
+

@@ -1,0 +1,220 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1105
+1	1105	1105	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1104
+1	1104	1104	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/laurazhobson
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	laurazhobson	laurazhobson	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = That is what I think is what would make it difficult since the chain of causation is a result of treatment for a pre-existing condition.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	what	what	PRON	_	P	6	nsubj	_	_
+4	I	i	PRON	_	RP	5	nsubj	_	_
+5	think	think	VERB	_	BP	2	ccomp	_	_
+6	is	be	AUX	_	BZ	5	ccomp	_	_
+7	what	what	PRON	_	P	9	nsubj	_	_
+8	would	would	AUX	_	D	9	aux	_	_
+9	make	make	VERB	_	B	6	ccomp	_	_
+10	it	it	PRON	_	RP	11	nsubj	_	_
+11	difficult	difficult	ADJ	_	J	9	ccomp	_	_
+12	since	since	SCONJ	_	N	17	mark	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	chain	chain	NOUN	_	N	17	nsubj	_	_
+15	of	of	ADP	_	N	14	prep	_	_
+16	causation	causation	NOUN	_	N	15	pobj	_	_
+17	is	be	AUX	_	BZ	9	advcl	_	_
+18	a	a	DET	_	T	19	det	_	_
+19	result	result	NOUN	_	N	17	attr	_	_
+20	of	of	ADP	_	N	19	prep	_	_
+21	treatment	treatment	NOUN	_	N	20	pobj	_	_
+22	for	for	ADP	_	N	21	prep	_	_
+23	a	a	DET	_	T	27	det	_	_
+24	pre	pre	ADJ	_	J	27	amod	_	_
+25	-	-	ADJ	_	J	27	amod	_	_
+26	existing	existing	ADJ	_	J	27	amod	_	_
+27	condition	condition	NOUN	_	N	22	pobj	_	_
+28	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = It was not as if the person became acutely ill with something that was NOT a pre-existing condition and had a complication but in these specific facts the complication was a direct result of the pre-existing condition.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	was	be	AUX	_	BD	0	root	_	_
+3	not	not	PART	_	B	2	neg	_	_
+4	as	as	SCONJ	_	N	8	mark	_	_
+5	if	if	SCONJ	_	N	8	mark	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	person	person	NOUN	_	N	8	nsubj	_	_
+8	became	become	VERB	_	BD	2	advcl	_	_
+9	acutely	acutely	ADV	_	B	10	advmod	_	_
+10	ill	ill	ADJ	_	J	8	acomp	_	_
+11	with	with	ADP	_	N	8	prep	_	_
+12	something	something	PRON	_	N	11	pobj	_	_
+13	that	that	PRON	_	DT	14	nsubj	_	_
+14	was	be	AUX	_	BD	12	relcl	_	_
+15	NOT	not	PART	_	B	14	neg	_	_
+16	a	a	DET	_	T	20	det	_	_
+17	pre	pre	ADJ	_	J	20	amod	_	_
+18	-	-	ADJ	_	J	20	amod	_	_
+19	existing	existing	ADJ	_	J	20	amod	_	_
+20	condition	condition	NOUN	_	N	14	attr	_	_
+21	and	and	CCONJ	_	C	8	cc	_	_
+22	had	have	VERB	_	BD	8	conj	_	_
+23	a	a	DET	_	T	24	det	_	_
+24	complication	complication	NOUN	_	N	22	dobj	_	_
+25	but	but	CCONJ	_	C	22	cc	_	_
+26	in	in	ADP	_	N	32	prep	_	_
+27	these	these	DET	_	T	29	det	_	_
+28	specific	specific	ADJ	_	J	29	amod	_	_
+29	facts	fact	NOUN	_	NS	26	pobj	_	_
+30	the	the	DET	_	T	31	det	_	_
+31	complication	complication	NOUN	_	N	32	nsubj	_	_
+32	was	be	AUX	_	BD	2	conj	_	_
+33	a	a	DET	_	T	35	det	_	_
+34	direct	direct	ADJ	_	J	35	amod	_	_
+35	result	result	NOUN	_	N	32	attr	_	_
+36	of	of	ADP	_	N	35	prep	_	_
+37	the	the	DET	_	T	41	det	_	_
+38	pre	pre	ADJ	_	J	41	amod	_	_
+39	-	-	ADJ	_	J	41	amod	_	_
+40	existing	existing	ADJ	_	J	41	amod	_	_
+41	condition	condition	NOUN	_	N	36	pobj	_	_
+42	.	.	PUNCT	_	_	32	punct	_	_
+
+
+# sent_id = 7
+# text = It is why policies with pre-existing conditions can worthless because if one uses them for expensive medical issues they will look for any reason to deny the claim and this claim unfortunately is the kind that is ambiguous enough so that it will be denied and then the onus is on the claimant to fight a company with the resources - e.g. legal staff to fight it versus the insured like OP's friend.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	why	why	SCONJ	_	RB	11	advmod	_	_
+4	policies	policy	NOUN	_	NS	11	nsubj	_	_
+5	with	with	ADP	_	N	4	prep	_	_
+6	pre	pre	ADJ	_	J	9	amod	_	_
+7	-	-	ADJ	_	J	9	amod	_	_
+8	existing	existing	ADJ	_	J	9	amod	_	_
+9	conditions	condition	NOUN	_	NS	5	pobj	_	_
+10	can	can	AUX	_	D	11	aux	_	_
+11	worthless	worthless	VERB	_	B	2	ccomp	_	_
+12	because	because	SCONJ	_	N	23	mark	_	_
+13	if	if	SCONJ	_	N	15	mark	_	_
+14	one	one	NUM	_	D	15	nsubj	_	_
+15	uses	use	VERB	_	BZ	23	advcl	_	_
+16	them	they	PRON	_	RP	15	dobj	_	_
+17	for	for	ADP	_	N	15	prep	_	_
+18	expensive	expensive	ADJ	_	J	20	amod	_	_
+19	medical	medical	ADJ	_	J	20	amod	_	_
+20	issues	issue	NOUN	_	NS	17	pobj	_	_
+21	they	they	PRON	_	RP	23	nsubj	_	_
+22	will	will	AUX	_	D	23	aux	_	_
+23	look	look	VERB	_	B	2	advcl	_	_
+24	for	for	ADP	_	N	23	prep	_	_
+25	any	any	DET	_	T	26	det	_	_
+26	reason	reason	NOUN	_	N	24	pobj	_	_
+27	to	to	PART	_	O	28	aux	_	_
+28	deny	deny	VERB	_	B	26	relcl	_	_
+29	the	the	DET	_	T	30	det	_	_
+30	claim	claim	NOUN	_	N	28	dobj	_	_
+31	and	and	CCONJ	_	C	23	cc	_	_
+32	this	this	DET	_	T	33	det	_	_
+33	claim	claim	NOUN	_	N	35	nsubj	_	_
+34	unfortunately	unfortunately	ADV	_	B	35	advmod	_	_
+35	is	be	AUX	_	BZ	23	conj	_	_
+36	the	the	DET	_	T	37	det	_	_
+37	kind	kind	NOUN	_	N	35	attr	_	_
+38	that	that	PRON	_	DT	39	nsubj	_	_
+39	is	be	AUX	_	BZ	37	relcl	_	_
+40	ambiguous	ambiguous	ADJ	_	J	39	acomp	_	_
+41	enough	enough	ADV	_	B	40	advmod	_	_
+42	so	so	SCONJ	_	N	47	mark	_	_
+43	that	that	SCONJ	_	N	47	mark	_	_
+44	it	it	PRON	_	RP	47	nsubjpass	_	_
+45	will	will	AUX	_	D	47	aux	_	_
+46	be	be	AUX	_	B	47	auxpass	_	_
+47	denied	deny	VERB	_	BN	39	advcl	_	_
+48	and	and	CCONJ	_	C	47	cc	_	_
+49	then	then	ADV	_	B	52	advmod	_	_
+50	the	the	DET	_	T	51	det	_	_
+51	onus	onus	NOUN	_	N	52	nsubj	_	_
+52	is	be	AUX	_	BZ	47	conj	_	_
+53	on	on	ADP	_	N	52	prep	_	_
+54	the	the	DET	_	T	55	det	_	_
+55	claimant	claimant	NOUN	_	N	53	pobj	_	_
+56	to	to	PART	_	O	57	aux	_	_
+57	fight	fight	VERB	_	B	52	advcl	_	_
+58	a	a	DET	_	T	59	det	_	_
+59	company	company	NOUN	_	N	57	dobj	_	_
+60	with	with	ADP	_	N	57	prep	_	_
+61	the	the	DET	_	T	62	det	_	_
+62	resources	resource	NOUN	_	NS	60	pobj	_	_
+63	-	-	PUNCT	_	_	62	punct	_	_
+64	e.g.	e.g.	ADV	_	B	57	advmod	_	_
+65	legal	legal	ADJ	_	J	66	amod	_	_
+66	staff	staff	NOUN	_	N	57	dobj	_	_
+67	to	to	PART	_	O	68	aux	_	_
+68	fight	fight	VERB	_	B	57	advcl	_	_
+69	it	it	PRON	_	RP	68	dobj	_	_
+70	versus	versus	ADP	_	N	68	prep	_	_
+71	the	the	DET	_	T	72	det	_	_
+72	insured	insure	VERB	_	BN	70	pobj	_	_
+73	like	like	ADP	_	N	72	prep	_	_
+74	OP	op	PROPN	_	NP	76	poss	_	_
+75	's	's	PART	_	OS	74	case	_	_
+76	friend	friend	NOUN	_	N	73	pobj	_	_
+77	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 8
+# text = That said it never hurts to get a lawyer involved because lawyers DO deal with regulations and negotiating with insurance companies just like they do if you are dealing with auto or home insurance.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	said	say	VERB	_	BD	0	root	_	_
+3	it	it	PRON	_	RP	5	nsubj	_	_
+4	never	never	ADV	_	B	5	neg	_	_
+5	hurts	hurt	VERB	_	BZ	2	ccomp	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	get	get	VERB	_	B	5	xcomp	_	_
+8	a	a	DET	_	T	9	det	_	_
+9	lawyer	lawyer	NOUN	_	N	7	dobj	_	_
+10	involved	involve	VERB	_	BN	9	acl	_	_
+11	because	because	SCONJ	_	N	14	mark	_	_
+12	lawyers	lawyer	NOUN	_	NS	14	nsubj	_	_
+13	DO	do	AUX	_	BP	14	aux	_	_
+14	deal	deal	VERB	_	B	7	advcl	_	_
+15	with	with	ADP	_	N	14	prep	_	_
+16	regulations	regulation	NOUN	_	NS	15	pobj	_	_
+17	and	and	CCONJ	_	C	16	cc	_	_
+18	negotiating	negotiate	VERB	_	BG	16	conj	_	_
+19	with	with	ADP	_	N	18	prep	_	_
+20	insurance	insurance	NOUN	_	N	21	compound	_	_
+21	companies	company	NOUN	_	NS	19	pobj	_	_
+22	just	just	ADV	_	B	25	advmod	_	_
+23	like	like	SCONJ	_	N	25	mark	_	_
+24	they	they	PRON	_	RP	25	nsubj	_	_
+25	do	do	VERB	_	BP	2	advcl	_	_
+26	if	if	SCONJ	_	N	29	mark	_	_
+27	you	you	PRON	_	RP	29	nsubj	_	_
+28	are	be	AUX	_	BP	29	aux	_	_
+29	dealing	deal	VERB	_	BG	25	advcl	_	_
+30	with	with	ADP	_	N	29	prep	_	_
+31	auto	auto	NOUN	_	N	34	nmod	_	_
+32	or	or	CCONJ	_	C	31	cc	_	_
+33	home	home	NOUN	_	N	31	conj	_	_
+34	insurance	insurance	NOUN	_	N	30	pobj	_	_
+35	.	.	PUNCT	_	_	2	punct	_	_
+
+

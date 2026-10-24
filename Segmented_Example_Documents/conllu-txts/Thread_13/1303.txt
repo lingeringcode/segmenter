@@ -1,0 +1,36 @@
+# sent_id = 1
+# text = Thread_13
+1	Thread_13	thread_13	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 1303
+1	1303	1303	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1302
+1	1302	1302	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/throwfarfaraway1818
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	throwfarfaraway1818	throwfarfaraway1818	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Does your insurance agree that you owe the 100k?
+1	Does	do	AUX	_	BZ	4	aux	_	_
+2	your	your	PRON	_	RP$	3	poss	_	_
+3	insurance	insurance	NOUN	_	N	4	nsubj	_	_
+4	agree	agree	VERB	_	B	0	root	_	_
+5	that	that	SCONJ	_	N	7	mark	_	_
+6	you	you	PRON	_	RP	7	nsubj	_	_
+7	owe	owe	VERB	_	BP	4	ccomp	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	100k	100k	PROPN	_	NPS	7	dobj	_	_
+10	?	?	PUNCT	_	_	4	punct	_	_
+
+

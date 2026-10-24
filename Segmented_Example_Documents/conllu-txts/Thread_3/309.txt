@@ -1,0 +1,102 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 309
+1	309	309	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 308
+1	308	308	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Plantmom67
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Plantmom67	plantmom67	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = Actually, my providers do follow evidence based guidelines.
+1	Actually	actually	ADV	_	B	6	advmod	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	my	my	PRON	_	RP$	4	poss	_	_
+4	providers	provider	NOUN	_	NS	6	nsubj	_	_
+5	do	do	AUX	_	BP	6	aux	_	_
+6	follow	follow	VERB	_	B	0	root	_	_
+7	evidence	evidence	NOUN	_	N	6	dobj	_	_
+8	based	base	VERB	_	BN	7	acl	_	_
+9	guidelines	guideline	NOUN	_	NS	8	pobj	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 6
+# text = Cigna is my primary insurance, I have Anthem secondary.
+1	Cigna	cigna	PROPN	_	NP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	8	ccomp	_	_
+3	my	my	PRON	_	RP$	5	poss	_	_
+4	primary	primary	ADJ	_	J	5	amod	_	_
+5	insurance	insurance	NOUN	_	N	2	attr	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	I	i	PRON	_	RP	8	nsubj	_	_
+8	have	have	VERB	_	BP	0	root	_	_
+9	Anthem	anthem	PROPN	_	NP	10	nsubj	_	_
+10	secondary	secondary	ADJ	_	J	8	ccomp	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 7
+# text = I used to work at Anthem in appeals and grievances
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	used	use	VERB	_	BD	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	work	work	VERB	_	B	2	xcomp	_	_
+5	at	at	ADP	_	N	4	prep	_	_
+6	Anthem	anthem	PROPN	_	NP	5	pobj	_	_
+7	in	in	ADP	_	N	4	prep	_	_
+8	appeals	appeal	NOUN	_	NS	7	pobj	_	_
+9	and	and	CCONJ	_	C	8	cc	_	_
+10	grievances	grievance	NOUN	_	NS	8	conj	_	_
+
+
+# sent_id = 8
+# text = so I understand the game.
+1	so	so	SCONJ	_	N	3	advmod	_	_
+2	I	i	PRON	_	RP	3	nsubj	_	_
+3	understand	understand	VERB	_	BP	0	root	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	game	game	NOUN	_	N	3	dobj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = As much as I think Anthem is crap, they have approved everything that Cigna has denied, with the same clinicals.
+1	As	as	ADV	_	B	2	advmod	_	_
+2	much	much	ADV	_	B	12	advmod	_	_
+3	as	as	SCONJ	_	N	5	mark	_	_
+4	I	i	PRON	_	RP	5	nsubj	_	_
+5	think	think	VERB	_	BP	2	advcl	_	_
+6	Anthem	anthem	PROPN	_	NP	7	nsubj	_	_
+7	is	be	AUX	_	BZ	5	ccomp	_	_
+8	crap	crap	NOUN	_	N	7	attr	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	they	they	PRON	_	RP	12	nsubj	_	_
+11	have	have	AUX	_	BP	12	aux	_	_
+12	approved	approve	VERB	_	BN	0	root	_	_
+13	everything	everything	PRON	_	N	12	dobj	_	_
+14	that	that	PRON	_	DT	17	dobj	_	_
+15	Cigna	cigna	PROPN	_	NP	17	nsubj	_	_
+16	has	have	AUX	_	BZ	17	aux	_	_
+17	denied	deny	VERB	_	BN	13	relcl	_	_
+18	,	,	PUNCT	_	_	12	punct	_	_
+19	with	with	ADP	_	N	12	prep	_	_
+20	the	the	DET	_	T	22	det	_	_
+21	same	same	ADJ	_	J	22	amod	_	_
+22	clinicals	clinical	NOUN	_	NS	19	pobj	_	_
+23	.	.	PUNCT	_	_	12	punct	_	_
+
+

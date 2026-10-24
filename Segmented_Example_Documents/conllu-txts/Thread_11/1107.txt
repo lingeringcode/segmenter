@@ -1,0 +1,165 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1107
+1	1107	1107	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1106
+1	1106	1106	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/YouCooper
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	YouCooper	youcooper	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Thanks for the reply.
+1	Thanks	thank	NOUN	_	NS	0	root	_	_
+2	for	for	ADP	_	N	1	prep	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	reply	reply	NOUN	_	N	2	pobj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = You may be right that H pylori could have been brewing before, that is the insurer’s exact argument too.
+1	You	you	PRON	_	RP	3	nsubj	_	_
+2	may	may	AUX	_	D	3	aux	_	_
+3	be	be	AUX	_	B	0	root	_	_
+4	right	right	ADJ	_	J	3	acomp	_	_
+5	that	that	SCONJ	_	N	11	mark	_	_
+6	H	h	NOUN	_	N	7	compound	_	_
+7	pylori	pylori	NOUN	_	N	11	nsubj	_	_
+8	could	could	AUX	_	D	11	aux	_	_
+9	have	have	AUX	_	B	11	aux	_	_
+10	been	be	AUX	_	BN	11	aux	_	_
+11	brewing	brew	VERB	_	BG	4	ccomp	_	_
+12	before	before	ADV	_	B	11	advmod	_	_
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	that	that	PRON	_	T	15	nsubj	_	_
+15	is	be	AUX	_	BZ	3	advcl	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	insurer	insurer	NOUN	_	N	20	poss	_	_
+18	’s	’s	PART	_	OS	17	case	_	_
+19	exact	exact	ADJ	_	J	20	amod	_	_
+20	argument	argument	NOUN	_	N	15	attr	_	_
+21	too	too	ADV	_	B	15	advmod	_	_
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = But the ER visit itself was not for H pylori.
+1	But	but	CCONJ	_	C	6	cc	_	_
+2	the	the	DET	_	T	4	det	_	_
+3	ER	er	PROPN	_	NP	4	compound	_	_
+4	visit	visit	NOUN	_	N	6	nsubj	_	_
+5	itself	itself	PRON	_	RP	4	appos	_	_
+6	was	be	AUX	_	BD	0	root	_	_
+7	not	not	PART	_	B	6	neg	_	_
+8	for	for	ADP	_	N	6	prep	_	_
+9	H	h	PROPN	_	NP	10	compound	_	_
+10	pylori	pylori	NOUN	_	N	8	pobj	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 8
+# text = It was for an adverse reaction to the antibiotic she started taking to treat the H pylori.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	was	be	AUX	_	BD	0	root	_	_
+3	for	for	ADP	_	N	2	prep	_	_
+4	an	an	DET	_	T	6	det	_	_
+5	adverse	adverse	ADJ	_	J	6	amod	_	_
+6	reaction	reaction	NOUN	_	N	3	pobj	_	_
+7	to	to	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	antibiotic	antibiotic	ADJ	_	J	7	pobj	_	_
+10	she	she	PRON	_	RP	11	nsubj	_	_
+11	started	start	VERB	_	BD	9	relcl	_	_
+12	taking	take	VERB	_	BG	11	xcomp	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	treat	treat	VERB	_	B	12	xcomp	_	_
+15	the	the	DET	_	T	17	det	_	_
+16	H	h	PROPN	_	NP	17	compound	_	_
+17	pylori	pylori	NOUN	_	N	14	dobj	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = The ER discharge diagnosis was literally “adverse effect of systemic antibiotic”.
+1	The	the	DET	_	T	4	det	_	_
+2	ER	er	PROPN	_	NP	3	compound	_	_
+3	discharge	discharge	NOUN	_	N	4	compound	_	_
+4	diagnosis	diagnosis	NOUN	_	N	5	nsubj	_	_
+5	was	be	AUX	_	BD	0	root	_	_
+6	literally	literally	ADV	_	B	9	advmod	_	_
+7	“	"	PUNCT	_	`	9	punct	_	_
+8	adverse	adverse	ADJ	_	J	9	amod	_	_
+9	effect	effect	NOUN	_	N	5	attr	_	_
+10	of	of	ADP	_	N	9	prep	_	_
+11	systemic	systemic	ADJ	_	J	12	amod	_	_
+12	antibiotic	antibiotic	NOUN	_	N	10	pobj	_	_
+13	”	"	PUNCT	_	'	5	punct	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 10
+# text = She started that drug after her coverage began, so the reaction to it could not have existed before coverage.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	started	start	VERB	_	BD	0	root	_	_
+3	that	that	DET	_	T	4	det	_	_
+4	drug	drug	NOUN	_	N	2	dobj	_	_
+5	after	after	SCONJ	_	N	8	mark	_	_
+6	her	her	PRON	_	RP$	7	poss	_	_
+7	coverage	coverage	NOUN	_	N	8	nsubj	_	_
+8	began	begin	VERB	_	BD	2	advcl	_	_
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	so	so	SCONJ	_	N	18	mark	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	reaction	reaction	NOUN	_	N	18	nsubj	_	_
+13	to	to	ADP	_	N	12	prep	_	_
+14	it	it	PRON	_	RP	13	pobj	_	_
+15	could	could	AUX	_	D	18	aux	_	_
+16	not	not	PART	_	B	18	neg	_	_
+17	have	have	AUX	_	B	18	aux	_	_
+18	existed	exist	VERB	_	BN	2	advcl	_	_
+19	before	before	ADP	_	N	18	prep	_	_
+20	coverage	coverage	NOUN	_	N	19	pobj	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 11
+# text = Would that argument hold weight or does the insurer still get to call the reaction pre-existing because the underlying infection was?
+1	Would	would	AUX	_	D	4	aux	_	_
+2	that	that	DET	_	T	3	det	_	_
+3	argument	argument	NOUN	_	N	4	nsubj	_	_
+4	hold	hold	VERB	_	B	0	root	_	_
+5	weight	weight	NOUN	_	N	4	dobj	_	_
+6	or	or	CCONJ	_	C	4	cc	_	_
+7	does	do	AUX	_	BZ	11	aux	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	insurer	insurer	NOUN	_	N	11	nsubj	_	_
+10	still	still	ADV	_	B	11	advmod	_	_
+11	get	get	VERB	_	B	4	conj	_	_
+12	to	to	PART	_	O	13	aux	_	_
+13	call	call	VERB	_	B	11	xcomp	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	reaction	reaction	NOUN	_	N	13	dobj	_	_
+16	pre	pre	VERB	_	BG	13	oprd	_	_
+17	-	-	ADJ	_	J	13	oprd	_	_
+18	existing	exist	VERB	_	BG	13	oprd	_	_
+19	because	because	SCONJ	_	N	23	mark	_	_
+20	the	the	DET	_	T	22	det	_	_
+21	underlying	underlie	VERB	_	BG	22	amod	_	_
+22	infection	infection	NOUN	_	N	23	nsubj	_	_
+23	was	be	AUX	_	BD	11	advcl	_	_
+24	?	?	PUNCT	_	_	4	punct	_	_
+
+

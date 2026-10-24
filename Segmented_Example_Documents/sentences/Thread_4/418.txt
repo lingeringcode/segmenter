@@ -1,0 +1,16 @@
+Thread_4
+418
+400
+u/wistah978
+One annoying thing about insurance companies is the way they use the term "No prior auth required."
+To normal people, that means you can have it done without asking.
+To insurance, it means that, but it also means "We don't pay for that procedure at all so you don't need an auth for it.".
+They really need to reply "No auth required" or "Not a covered service.
+".
+If you have the surgery done, they will deny it saying "Not a covered service."
+Ask the surgeon's office for the CPT code of the procedure and if there are any alternatives.
+Ask your insurance for the medical necessity criteria for those codes.
+Sometimes you can get them from the portal, sometimes customer service can send them, some companies just don't want you to have access to them.
+Insurance has to cover treatments for a list of conditions.
+They don't have to cover every treatment and they usually don't cover newer procedures until they can't deny that there is good data showing the procedure is safe/effective/better than alternatives.
+Your options will depend on why it isn't covered and if your surgeon is willing to fight your insurance.

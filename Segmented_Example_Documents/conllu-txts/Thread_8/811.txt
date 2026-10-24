@@ -1,0 +1,40 @@
+# sent_id = 1
+# text = Thread_8
+1	Thread_8	thread_8	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 811
+1	811	811	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 800
+1	800	800	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Educational-Gap-3390
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Educational	educational	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Gap-3390	gap-3390	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = At worst you will need to reschedule for a letter date.
+1	At	at	ADV	_	B	2	advmod	_	_
+2	worst	bad	ADJ	_	JS	5	advmod	_	_
+3	you	you	PRON	_	RP	5	nsubj	_	_
+4	will	will	AUX	_	D	5	aux	_	_
+5	need	need	VERB	_	B	0	root	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	reschedule	reschedule	VERB	_	B	5	xcomp	_	_
+8	for	for	ADP	_	N	7	prep	_	_
+9	a	a	DET	_	T	11	det	_	_
+10	letter	letter	NOUN	_	N	11	compound	_	_
+11	date	date	NOUN	_	N	8	pobj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+

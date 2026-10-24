@@ -1,0 +1,37 @@
+# sent_id = 1
+# text = Thread_6
+1	Thread_6	thread_6	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 602
+1	602	602	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 601
+1	601	601	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Campnoodles
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Campnoodles	campnoodle	NOUN	_	NS	1	appos	_	_
+
+
+# sent_id = 5
+# text = yes, it is the diagnosis code for gender identity disorder
+1	yes	yes	INTJ	_	H	4	intj	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	it	it	PRON	_	RP	4	nsubj	_	_
+4	is	be	AUX	_	BZ	0	root	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	diagnosis	diagnosis	NOUN	_	N	7	compound	_	_
+7	code	code	NOUN	_	N	4	attr	_	_
+8	for	for	ADP	_	N	7	prep	_	_
+9	gender	gender	NOUN	_	N	10	compound	_	_
+10	identity	identity	NOUN	_	N	11	compound	_	_
+11	disorder	disorder	NOUN	_	N	8	pobj	_	_
+
+

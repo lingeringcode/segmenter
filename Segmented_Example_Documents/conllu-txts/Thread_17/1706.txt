@@ -1,0 +1,57 @@
+# sent_id = 1
+# text = Thread_17
+1	Thread_17	thread_17	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1706
+1	1706	1706	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1705
+1	1705	1705	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/DerfK
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	DerfK	derfk	NUM	_	D	0	root	_	_
+
+
+# sent_id = 5
+# text = Why wouldn’t Medicare be the primary insurance
+1	Why	why	SCONJ	_	RB	5	advmod	_	_
+2	would	would	AUX	_	D	5	aux	_	_
+3	n’t	not	PART	_	B	5	neg	_	_
+4	Medicare	medicare	AUX	_	NP	5	aux	_	_
+5	be	be	AUX	_	B	0	root	_	_
+6	the	the	DET	_	T	8	det	_	_
+7	primary	primary	ADJ	_	J	8	amod	_	_
+8	insurance	insurance	NOUN	_	N	5	attr	_	_
+
+
+# sent_id = 6
+# text = With a PPO, its almost certainly employer/group coverage, which would be primary to Medicare.
+1	With	with	ADP	_	N	11	prep	_	_
+2	a	a	DET	_	T	3	det	_	_
+3	PPO	ppo	PROPN	_	NP	1	pobj	_	_
+4	,	,	PUNCT	_	_	11	punct	_	_
+5	its	its	PRON	_	RP$	11	poss	_	_
+6	almost	almost	ADV	_	B	7	advmod	_	_
+7	certainly	certainly	ADV	_	B	11	advmod	_	_
+8	employer	employer	NOUN	_	N	10	nmod	_	_
+9	/	/	SYM	_	YM	10	punct	_	_
+10	group	group	NOUN	_	N	11	compound	_	_
+11	coverage	coverage	NOUN	_	N	0	root	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	which	which	PRON	_	DT	15	nsubj	_	_
+14	would	would	AUX	_	D	15	aux	_	_
+15	be	be	AUX	_	B	11	relcl	_	_
+16	primary	primary	ADJ	_	J	15	acomp	_	_
+17	to	to	ADP	_	N	16	prep	_	_
+18	Medicare	medicare	PROPN	_	NP	17	pobj	_	_
+19	.	.	PUNCT	_	_	11	punct	_	_
+
+

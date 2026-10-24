@@ -1,0 +1,78 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1117
+1	1117	1117	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1116
+1	1116	1116	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/throwfarfaraway1818
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	throwfarfaraway1818	throwfarfaraway1818	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = It's very common for ERs to file appeals for denied care.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	's	be	AUX	_	BZ	0	root	_	_
+3	very	very	ADV	_	B	4	advmod	_	_
+4	common	common	ADJ	_	J	2	acomp	_	_
+5	for	for	SCONJ	_	N	8	mark	_	_
+6	ERs	er	NOUN	_	NS	8	nsubj	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	file	file	VERB	_	B	2	advcl	_	_
+9	appeals	appeal	NOUN	_	NS	8	dobj	_	_
+10	for	for	ADP	_	N	9	prep	_	_
+11	denied	deny	VERB	_	BN	12	amod	_	_
+12	care	care	NOUN	_	N	10	pobj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = Many of them will do it automatically when they receive a blanket denial, but it doesnt hurt to call them to see if they are planning to or ask that they do.
+1	Many	many	ADJ	_	J	5	nsubj	_	_
+2	of	of	ADP	_	N	1	prep	_	_
+3	them	they	PRON	_	RP	2	pobj	_	_
+4	will	will	AUX	_	D	5	aux	_	_
+5	do	do	VERB	_	B	0	root	_	_
+6	it	it	PRON	_	RP	5	dobj	_	_
+7	automatically	automatically	ADV	_	B	5	advmod	_	_
+8	when	when	SCONJ	_	RB	10	advmod	_	_
+9	they	they	PRON	_	RP	10	nsubj	_	_
+10	receive	receive	VERB	_	BP	5	advcl	_	_
+11	a	a	DET	_	T	13	det	_	_
+12	blanket	blanket	NOUN	_	N	13	compound	_	_
+13	denial	denial	NOUN	_	N	10	dobj	_	_
+14	,	,	PUNCT	_	_	5	punct	_	_
+15	but	but	CCONJ	_	C	5	cc	_	_
+16	it	it	PRON	_	RP	19	nsubj	_	_
+17	does	do	AUX	_	BZ	19	aux	_	_
+18	nt	not	PART	_	B	19	neg	_	_
+19	hurt	hurt	VERB	_	B	5	conj	_	_
+20	to	to	PART	_	O	21	aux	_	_
+21	call	call	VERB	_	B	19	xcomp	_	_
+22	them	they	PRON	_	RP	21	dobj	_	_
+23	to	to	PART	_	O	24	aux	_	_
+24	see	see	VERB	_	B	21	advcl	_	_
+25	if	if	SCONJ	_	N	28	mark	_	_
+26	they	they	PRON	_	RP	28	nsubj	_	_
+27	are	be	AUX	_	BP	28	aux	_	_
+28	planning	plan	VERB	_	BG	24	ccomp	_	_
+29	to	to	PART	_	O	28	prep	_	_
+30	or	or	CCONJ	_	C	28	cc	_	_
+31	ask	ask	VERB	_	B	28	conj	_	_
+32	that	that	SCONJ	_	N	34	mark	_	_
+33	they	they	PRON	_	RP	34	nsubj	_	_
+34	do	do	VERB	_	BP	31	ccomp	_	_
+35	.	.	PUNCT	_	_	19	punct	_	_
+
+

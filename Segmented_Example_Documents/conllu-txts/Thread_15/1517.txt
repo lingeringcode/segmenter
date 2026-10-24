@@ -1,0 +1,93 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1517
+1	1517	1517	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1516
+1	1516	1516	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Maleficent-Caramel37
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Maleficent	maleficent	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Caramel37	caramel37	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Thank you, pre paring everything, surgeons office opens in 20 min. Anastasia and pre op have already called for their check list, I didnt ask them about it as they dont deal with that end. .im
+1	Thank	thank	VERB	_	BP	10	advcl	_	_
+2	you	you	PRON	_	RP	1	dobj	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	pre	pre	ADP	_	N	1	prep	_	_
+5	paring	par	VERB	_	BG	4	pcomp	_	_
+6	everything	everything	PRON	_	N	5	dobj	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	surgeons	surgeon	NOUN	_	NS	9	compound	_	_
+9	office	office	NOUN	_	N	10	nsubj	_	_
+10	opens	open	VERB	_	BZ	30	ccomp	_	_
+11	in	in	ADP	_	N	10	prep	_	_
+12	20	20	NUM	_	D	15	nummod	_	_
+13	min	min	NOUN	_	N	15	compound	_	_
+14	.	.	PROPN	_	NP	15	compound	_	_
+15	Anastasia	anastasia	PROPN	_	NP	11	pobj	_	_
+16	and	and	CCONJ	_	C	10	cc	_	_
+17	pre	pre	ADJ	_	J	18	compound	_	_
+18	op	op	NOUN	_	N	21	nsubj	_	_
+19	have	have	AUX	_	BP	21	aux	_	_
+20	already	already	ADV	_	B	21	advmod	_	_
+21	called	call	VERB	_	BN	10	conj	_	_
+22	for	for	ADP	_	N	21	prep	_	_
+23	their	their	PRON	_	RP$	25	poss	_	_
+24	check	check	NOUN	_	N	25	compound	_	_
+25	list	list	NOUN	_	N	22	pobj	_	_
+26	,	,	PUNCT	_	_	30	punct	_	_
+27	I	i	PRON	_	RP	30	nsubj	_	_
+28	did	do	AUX	_	BD	30	aux	_	_
+29	nt	not	PART	_	B	30	neg	_	_
+30	ask	ask	VERB	_	B	0	root	_	_
+31	them	they	PRON	_	RP	30	dobj	_	_
+32	about	about	ADP	_	N	30	prep	_	_
+33	it	it	PRON	_	RP	32	pobj	_	_
+34	as	as	SCONJ	_	N	38	mark	_	_
+35	they	they	PRON	_	RP	38	nsubj	_	_
+36	do	do	AUX	_	BP	38	aux	_	_
+37	nt	not	PART	_	B	38	neg	_	_
+38	deal	deal	VERB	_	B	30	advcl	_	_
+39	with	with	ADP	_	N	38	prep	_	_
+40	that	that	DET	_	T	41	det	_	_
+41	end	end	NOUN	_	N	39	pobj	_	_
+42	.	.	PUNCT	_	_	30	punct	_	_
+43	.im	.im	PUNCT	_	_	30	punct	_	_
+
+
+# sent_id = 6
+# text = hoping this is a good sign as they wouldn't call if it wasnt approved correct?
+1	hoping	hop	VERB	_	BG	0	root	_	_
+2	this	this	PRON	_	T	3	nsubj	_	_
+3	is	be	AUX	_	BZ	1	ccomp	_	_
+4	a	a	DET	_	T	6	det	_	_
+5	good	good	ADJ	_	J	6	amod	_	_
+6	sign	sign	NOUN	_	N	3	attr	_	_
+7	as	as	SCONJ	_	N	11	mark	_	_
+8	they	they	PRON	_	RP	11	nsubj	_	_
+9	would	would	AUX	_	D	11	aux	_	_
+10	n't	not	PART	_	B	11	neg	_	_
+11	call	call	VERB	_	B	3	advcl	_	_
+12	if	if	SCONJ	_	N	16	mark	_	_
+13	it	it	PRON	_	RP	16	nsubjpass	_	_
+14	was	be	AUX	_	BD	16	auxpass	_	_
+15	nt	not	PART	_	B	16	neg	_	_
+16	approved	approve	VERB	_	BN	11	ccomp	_	_
+17	correct	correct	ADJ	_	J	16	oprd	_	_
+18	?	?	PUNCT	_	_	1	punct	_	_
+
+

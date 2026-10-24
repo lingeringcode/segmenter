@@ -1,0 +1,109 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1205
+1	1205	1205	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1200
+1	1200	1200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Guilty-Committee9622
+1	u	u	NOUN	_	N	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Guilty	guilty	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Committee9622	committee9622	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = A lawyer won't be able to help you with your employer plans specific requirements and exclusions.
+1	A	a	DET	_	T	2	det	_	_
+2	lawyer	lawyer	NOUN	_	N	5	nsubj	_	_
+3	wo	will	AUX	_	D	5	aux	_	_
+4	n't	not	PART	_	B	5	neg	_	_
+5	be	be	AUX	_	B	0	root	_	_
+6	able	able	ADJ	_	J	5	acomp	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	help	help	VERB	_	B	6	xcomp	_	_
+9	you	you	PRON	_	RP	8	dobj	_	_
+10	with	with	ADP	_	N	8	prep	_	_
+11	your	your	PRON	_	RP$	12	poss	_	_
+12	employer	employer	NOUN	_	N	10	pobj	_	_
+13	plans	plan	VERB	_	BZ	5	ccomp	_	_
+14	specific	specific	ADJ	_	J	15	amod	_	_
+15	requirements	requirement	NOUN	_	NS	13	dobj	_	_
+16	and	and	CCONJ	_	C	15	cc	_	_
+17	exclusions	exclusion	NOUN	_	NS	15	conj	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = Best process is getting physician to write an appeal based on medical notes and progress to date.
+1	Best	good	ADJ	_	JS	2	amod	_	_
+2	process	process	NOUN	_	N	4	nsubj	_	_
+3	is	be	AUX	_	BZ	4	aux	_	_
+4	getting	get	VERB	_	BG	0	root	_	_
+5	physician	physician	NOUN	_	N	4	dobj	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	write	write	VERB	_	B	4	advcl	_	_
+8	an	an	DET	_	T	9	det	_	_
+9	appeal	appeal	NOUN	_	N	7	dobj	_	_
+10	based	base	VERB	_	BN	9	acl	_	_
+11	on	on	ADP	_	N	10	prep	_	_
+12	medical	medical	ADJ	_	J	13	amod	_	_
+13	notes	note	NOUN	_	NS	11	pobj	_	_
+14	and	and	CCONJ	_	C	13	cc	_	_
+15	progress	progress	NOUN	_	N	13	conj	_	_
+16	to	to	ADP	_	N	15	prep	_	_
+17	date	date	NOUN	_	N	16	pobj	_	_
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = Second - If you have a large employer plan you are better off having a discussion with your employers benefit people to see if they can call client services to put an exception in for you...
+1	Second	second	ADJ	_	J	20	advmod	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	If	if	SCONJ	_	N	5	mark	_	_
+4	you	you	PRON	_	RP	5	nsubj	_	_
+5	have	have	VERB	_	BP	20	advcl	_	_
+6	a	a	DET	_	T	9	det	_	_
+7	large	large	ADJ	_	J	9	amod	_	_
+8	employer	employer	NOUN	_	N	9	compound	_	_
+9	plan	plan	NOUN	_	N	5	dobj	_	_
+10	you	you	PRON	_	RP	11	nsubj	_	_
+11	are	be	AUX	_	BP	9	relcl	_	_
+12	better	well	ADJ	_	JR	13	advmod	_	_
+13	off	off	ADP	_	P	5	prep	_	_
+14	having	have	VERB	_	BG	13	pcomp	_	_
+15	a	a	DET	_	T	16	det	_	_
+16	discussion	discussion	NOUN	_	N	14	dobj	_	_
+17	with	with	ADP	_	N	16	prep	_	_
+18	your	your	PRON	_	RP$	19	poss	_	_
+19	employers	employer	NOUN	_	NS	17	pobj	_	_
+20	benefit	benefit	VERB	_	BP	0	root	_	_
+21	people	people	NOUN	_	NS	20	dobj	_	_
+22	to	to	PART	_	O	23	aux	_	_
+23	see	see	VERB	_	B	20	xcomp	_	_
+24	if	if	SCONJ	_	N	27	mark	_	_
+25	they	they	PRON	_	RP	27	nsubj	_	_
+26	can	can	AUX	_	D	27	aux	_	_
+27	call	call	VERB	_	B	23	ccomp	_	_
+28	client	client	NOUN	_	N	29	compound	_	_
+29	services	service	NOUN	_	NS	27	dobj	_	_
+30	to	to	PART	_	O	31	aux	_	_
+31	put	put	VERB	_	B	27	xcomp	_	_
+32	an	an	DET	_	T	33	det	_	_
+33	exception	exception	NOUN	_	N	31	dobj	_	_
+34	in	in	ADP	_	N	31	prep	_	_
+35	for	for	ADP	_	N	31	prep	_	_
+36	you	you	PRON	_	RP	35	pobj	_	_
+37	...	...	PUNCT	_	_	20	punct	_	_
+
+

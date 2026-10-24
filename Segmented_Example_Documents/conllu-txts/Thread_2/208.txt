@@ -1,0 +1,32 @@
+# sent_id = 1
+# text = Thread_2
+1	Thread_2	thread_2	ADV	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 208
+1	208	208	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 203
+1	203	203	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = [deleted]
+1	[	[	X	_	X	2	dep	_	_
+2	deleted	delete	VERB	_	BN	0	root	_	_
+3	]	]	PUNCT	_	RRB-	2	punct	_	_
+
+
+# sent_id = 5
+# text = [Comment removed by moderator]
+1	[	[	X	_	X	2	dep	_	_
+2	Comment	comment	NOUN	_	N	0	root	_	_
+3	removed	remove	VERB	_	BN	2	acl	_	_
+4	by	by	ADP	_	N	3	agent	_	_
+5	moderator	moderator	NOUN	_	N	4	pobj	_	_
+6	]	]	PUNCT	_	RRB-	2	punct	_	_
+
+

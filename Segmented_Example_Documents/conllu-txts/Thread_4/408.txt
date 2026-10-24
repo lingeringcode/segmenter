@@ -1,0 +1,156 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 408
+1	408	408	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 400
+1	400	400	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/No-Produce-6720
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	No	no	NOUN	_	N	1	appos	_	_
+4	-	-	NOUN	_	N	1	punct	_	_
+5	Produce-6720	produce-6720	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = If Carefirst says that the service is experimental, the procedure wouldn't require an authorization because it's a specifically excluded service.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	Carefirst	carefirst	PROPN	_	NP	3	nsubj	_	_
+3	says	say	VERB	_	BZ	14	advcl	_	_
+4	that	that	SCONJ	_	N	7	mark	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	service	service	NOUN	_	N	7	nsubj	_	_
+7	is	be	AUX	_	BZ	3	ccomp	_	_
+8	experimental	experimental	ADJ	_	J	7	acomp	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	procedure	procedure	NOUN	_	N	14	nsubj	_	_
+12	would	would	AUX	_	D	14	aux	_	_
+13	n't	not	PART	_	B	14	neg	_	_
+14	require	require	VERB	_	B	0	root	_	_
+15	an	an	DET	_	T	16	det	_	_
+16	authorization	authorization	NOUN	_	N	14	dobj	_	_
+17	because	because	SCONJ	_	N	19	mark	_	_
+18	it	it	PRON	_	RP	19	nsubj	_	_
+19	's	be	AUX	_	BZ	14	advcl	_	_
+20	a	a	DET	_	T	23	det	_	_
+21	specifically	specifically	ADV	_	B	22	advmod	_	_
+22	excluded	exclude	VERB	_	BN	23	amod	_	_
+23	service	service	NOUN	_	N	19	attr	_	_
+24	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 6
+# text = They won't authorization something that has no coverage available to begin with.
+1	They	they	PRON	_	RP	4	nsubj	_	_
+2	wo	will	AUX	_	D	4	aux	_	_
+3	n't	not	PART	_	B	4	neg	_	_
+4	authorization	authorization	VERB	_	B	0	root	_	_
+5	something	something	PRON	_	N	4	dobj	_	_
+6	that	that	PRON	_	DT	7	nsubj	_	_
+7	has	have	VERB	_	BZ	5	relcl	_	_
+8	no	no	DET	_	T	9	det	_	_
+9	coverage	coverage	NOUN	_	N	7	dobj	_	_
+10	available	available	ADJ	_	J	9	amod	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	begin	begin	VERB	_	B	10	xcomp	_	_
+13	with	with	ADP	_	N	12	prep	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = It sounds like you need to focus on the actual procedure, not an authorization.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	sounds	sound	VERB	_	BZ	0	root	_	_
+3	like	like	SCONJ	_	N	5	mark	_	_
+4	you	you	PRON	_	RP	5	nsubj	_	_
+5	need	need	VERB	_	BP	2	advcl	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	focus	focus	VERB	_	B	5	xcomp	_	_
+8	on	on	ADP	_	N	7	prep	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	actual	actual	ADJ	_	J	11	amod	_	_
+11	procedure	procedure	NOUN	_	N	8	pobj	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	not	not	PART	_	B	11	neg	_	_
+14	an	an	DET	_	T	15	det	_	_
+15	authorization	authorization	NOUN	_	N	11	appos	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 8
+# text = Find out it's true coverage status on your plan.
+1	Find	find	VERB	_	B	0	root	_	_
+2	out	out	ADP	_	P	1	prt	_	_
+3	it	it	PRON	_	RP	4	nsubj	_	_
+4	's	be	AUX	_	BZ	1	ccomp	_	_
+5	true	true	ADJ	_	J	7	amod	_	_
+6	coverage	coverage	NOUN	_	N	7	compound	_	_
+7	status	status	NOUN	_	N	4	attr	_	_
+8	on	on	ADP	_	N	7	prep	_	_
+9	your	your	PRON	_	RP$	10	poss	_	_
+10	plan	plan	NOUN	_	N	8	pobj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 9
+# text = If it's really an exclusion, there's nothing that can be done.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	's	be	AUX	_	BZ	9	advcl	_	_
+4	really	really	ADV	_	B	3	advmod	_	_
+5	an	an	DET	_	T	6	det	_	_
+6	exclusion	exclusion	NOUN	_	N	3	attr	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	there	there	PRON	_	X	9	expl	_	_
+9	's	be	VERB	_	BZ	0	root	_	_
+10	nothing	nothing	PRON	_	N	9	attr	_	_
+11	that	that	PRON	_	DT	14	nsubjpass	_	_
+12	can	can	AUX	_	D	14	aux	_	_
+13	be	be	AUX	_	B	14	auxpass	_	_
+14	done	do	VERB	_	BN	10	relcl	_	_
+15	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 10
+# text = An auth won't be issued, and the procedure wouldn't be covered.
+1	An	an	DET	_	T	2	det	_	_
+2	auth	auth	NOUN	_	N	6	nsubjpass	_	_
+3	wo	will	AUX	_	D	6	aux	_	_
+4	n't	not	PART	_	B	6	neg	_	_
+5	be	be	AUX	_	B	6	auxpass	_	_
+6	issued	issue	VERB	_	BN	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	and	and	CCONJ	_	C	6	cc	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	procedure	procedure	NOUN	_	N	14	nsubjpass	_	_
+11	would	would	AUX	_	D	14	aux	_	_
+12	n't	not	PART	_	B	14	neg	_	_
+13	be	be	AUX	_	B	14	auxpass	_	_
+14	covered	cover	VERB	_	BN	6	conj	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+
+# sent_id = 11
+# text = That's where you'll have to start.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	's	be	AUX	_	BZ	0	root	_	_
+3	where	where	SCONJ	_	RB	6	advmod	_	_
+4	you	you	PRON	_	RP	6	nsubj	_	_
+5	'll	will	AUX	_	D	6	aux	_	_
+6	have	have	VERB	_	B	2	ccomp	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	start	start	VERB	_	B	6	xcomp	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+

@@ -1,0 +1,34 @@
+# sent_id = 1
+# text = Thread_14
+1	Thread_14	thread_14	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 1410
+1	1410	1410	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1404
+1	1404	1404	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/msp_ryno
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	msp_ryno	msp_ryno	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = I’d ask for the specific denial reason
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	’d	’d	AUX	_	D	1	punct	_	_
+3	ask	ask	VERB	_	B	0	root	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	8	det	_	_
+6	specific	specific	ADJ	_	J	8	amod	_	_
+7	denial	denial	NOUN	_	N	8	compound	_	_
+8	reason	reason	NOUN	_	N	4	pobj	_	_
+
+

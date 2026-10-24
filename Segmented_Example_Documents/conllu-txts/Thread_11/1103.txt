@@ -1,0 +1,165 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1103
+1	1103	1103	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1102
+1	1102	1102	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/ComeSeptember
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	ComeSeptember	comeseptember	PROPN	_	NP	1	nsubj	_	_
+
+
+# sent_id = 5
+# text = If she has an allergy or intolerance to a particular antibiotic, then that would also be a pre-existing condition because she would've been born with it.
+1	If	if	SCONJ	_	N	3	mark	_	_
+2	she	she	PRON	_	RP	3	nsubj	_	_
+3	has	have	VERB	_	BZ	17	advcl	_	_
+4	an	an	DET	_	T	5	det	_	_
+5	allergy	allergy	NOUN	_	N	3	dobj	_	_
+6	or	or	CCONJ	_	C	5	cc	_	_
+7	intolerance	intolerance	NOUN	_	N	5	conj	_	_
+8	to	to	ADP	_	N	5	prep	_	_
+9	a	a	DET	_	T	11	det	_	_
+10	particular	particular	ADJ	_	J	11	amod	_	_
+11	antibiotic	antibiotic	NOUN	_	N	8	pobj	_	_
+12	,	,	PUNCT	_	_	17	punct	_	_
+13	then	then	ADV	_	B	17	advmod	_	_
+14	that	that	PRON	_	T	17	nsubj	_	_
+15	would	would	AUX	_	D	17	aux	_	_
+16	also	also	ADV	_	B	17	advmod	_	_
+17	be	be	AUX	_	B	0	root	_	_
+18	a	a	DET	_	T	22	det	_	_
+19	pre	pre	ADJ	_	J	22	amod	_	_
+20	-	-	ADJ	_	J	22	amod	_	_
+21	existing	existing	ADJ	_	J	22	amod	_	_
+22	condition	condition	NOUN	_	N	17	attr	_	_
+23	because	because	SCONJ	_	N	28	mark	_	_
+24	she	she	PRON	_	RP	28	nsubjpass	_	_
+25	would	would	AUX	_	D	28	aux	_	_
+26	've	've	AUX	_	B	28	aux	_	_
+27	been	be	AUX	_	BN	28	auxpass	_	_
+28	born	bear	VERB	_	BN	17	advcl	_	_
+29	with	with	ADP	_	N	28	prep	_	_
+30	it	it	PRON	_	RP	29	pobj	_	_
+31	.	.	PUNCT	_	_	17	punct	_	_
+
+
+# sent_id = 6
+# text = Just because she didn't take the antibiotic until after the policy began doesn't mean she wasn't allergic/intolerant until that moment.
+1	Just	just	ADV	_	B	6	advmod	_	_
+2	because	because	SCONJ	_	N	6	mark	_	_
+3	she	she	PRON	_	RP	6	nsubj	_	_
+4	did	do	AUX	_	BD	6	aux	_	_
+5	n't	not	PART	_	B	6	neg	_	_
+6	take	take	VERB	_	B	16	advcl	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	antibiotic	antibiotic	ADJ	_	J	6	dobj	_	_
+9	until	until	SCONJ	_	N	13	mark	_	_
+10	after	after	SCONJ	_	N	13	mark	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	policy	policy	NOUN	_	N	13	nsubj	_	_
+13	began	begin	VERB	_	BD	6	advcl	_	_
+14	does	do	AUX	_	BZ	16	aux	_	_
+15	n't	not	PART	_	B	16	neg	_	_
+16	mean	mean	VERB	_	B	0	root	_	_
+17	she	she	PRON	_	RP	18	nsubj	_	_
+18	was	be	AUX	_	BD	16	ccomp	_	_
+19	n't	not	PART	_	B	18	neg	_	_
+20	allergic	allergic	ADJ	_	J	22	amod	_	_
+21	/	/	SYM	_	YM	20	punct	_	_
+22	intolerant	intolerant	ADJ	_	J	18	acomp	_	_
+23	until	until	ADP	_	N	18	prep	_	_
+24	that	that	DET	_	T	25	det	_	_
+25	moment	moment	NOUN	_	N	23	pobj	_	_
+26	.	.	PUNCT	_	_	16	punct	_	_
+
+
+# sent_id = 7
+# text = And these games are exactly why the ACA's elimination of pre-existing condition carveouts was touted as such a massive accomplishment.
+1	And	and	CCONJ	_	C	4	cc	_	_
+2	these	these	DET	_	T	3	det	_	_
+3	games	game	NOUN	_	NS	4	nsubj	_	_
+4	are	be	AUX	_	BP	0	root	_	_
+5	exactly	exactly	ADV	_	B	6	advmod	_	_
+6	why	why	SCONJ	_	RB	18	advmod	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	ACA	aca	PROPN	_	NP	10	poss	_	_
+9	's	's	PART	_	OS	8	case	_	_
+10	elimination	elimination	NOUN	_	N	18	nsubjpass	_	_
+11	of	of	ADP	_	N	10	prep	_	_
+12	pre	pre	ADJ	_	J	16	amod	_	_
+13	-	-	ADJ	_	J	16	amod	_	_
+14	existing	existing	ADJ	_	J	16	amod	_	_
+15	condition	condition	NOUN	_	N	16	compound	_	_
+16	carveouts	carveout	NOUN	_	NS	11	pobj	_	_
+17	was	be	AUX	_	BD	18	auxpass	_	_
+18	touted	tout	VERB	_	BN	4	ccomp	_	_
+19	as	as	ADP	_	N	18	prep	_	_
+20	such	such	DET	_	DT	23	predet	_	_
+21	a	a	DET	_	T	23	det	_	_
+22	massive	massive	ADJ	_	J	23	amod	_	_
+23	accomplishment	accomplishment	NOUN	_	N	19	pobj	_	_
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 8
+# text = Insurance companies used to deny pretty much everything as pre-existing and make people with chronic conditions effectively uninsurable.
+1	Insurance	insurance	NOUN	_	N	2	compound	_	_
+2	companies	company	NOUN	_	NS	3	nsubj	_	_
+3	used	use	VERB	_	BD	0	root	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	deny	deny	VERB	_	B	3	xcomp	_	_
+6	pretty	pretty	ADV	_	B	7	advmod	_	_
+7	much	much	ADJ	_	J	8	amod	_	_
+8	everything	everything	PRON	_	N	5	dobj	_	_
+9	as	as	SCONJ	_	N	12	mark	_	_
+10	pre	pre	ADJ	_	J	9	amod	_	_
+11	-	-	ADJ	_	J	9	amod	_	_
+12	existing	exist	VERB	_	BG	3	advcl	_	_
+13	and	and	CCONJ	_	C	3	cc	_	_
+14	make	make	VERB	_	B	3	conj	_	_
+15	people	people	NOUN	_	NS	20	nsubj	_	_
+16	with	with	ADP	_	N	15	prep	_	_
+17	chronic	chronic	ADJ	_	J	18	amod	_	_
+18	conditions	condition	NOUN	_	NS	16	pobj	_	_
+19	effectively	effectively	ADV	_	B	20	advmod	_	_
+20	uninsurable	uninsurable	ADJ	_	J	14	ccomp	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = The plans (like travel insurance) that aren't subject to the law can still get away with it.
+1	The	the	DET	_	T	2	det	_	_
+2	plans	plan	NOUN	_	NS	17	nsubj	_	_
+3	(	(	PUNCT	_	LRB-	2	punct	_	_
+4	like	like	ADP	_	N	2	prep	_	_
+5	travel	travel	NOUN	_	N	6	compound	_	_
+6	insurance	insurance	NOUN	_	N	4	pobj	_	_
+7	)	)	PUNCT	_	RRB-	2	punct	_	_
+8	that	that	PRON	_	DT	9	nsubj	_	_
+9	are	be	AUX	_	BP	2	relcl	_	_
+10	n't	not	PART	_	B	9	neg	_	_
+11	subject	subject	ADJ	_	J	9	acomp	_	_
+12	to	to	ADP	_	N	11	prep	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	law	law	NOUN	_	N	12	pobj	_	_
+15	can	can	AUX	_	D	17	aux	_	_
+16	still	still	ADV	_	B	17	advmod	_	_
+17	get	get	VERB	_	B	0	root	_	_
+18	away	away	ADV	_	B	17	advmod	_	_
+19	with	with	ADP	_	N	17	prep	_	_
+20	it	it	PRON	_	RP	19	pobj	_	_
+21	.	.	PUNCT	_	_	17	punct	_	_
+
+

@@ -1,0 +1,119 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1121
+1	1121	1121	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1120
+1	1120	1120	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/YouCooper
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	YouCooper	youcooper	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = That makes a lot of sense actually.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	makes	make	VERB	_	BZ	0	root	_	_
+3	a	a	DET	_	T	4	det	_	_
+4	lot	lot	NOUN	_	N	2	dobj	_	_
+5	of	of	ADP	_	N	4	prep	_	_
+6	sense	sense	NOUN	_	N	5	pobj	_	_
+7	actually	actually	ADV	_	B	2	advmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = One of the bills has a code (96523, irrigation of an implanted port) that was definitely not done, she has no port and never had one.
+1	One	one	NUM	_	D	5	nsubj	_	_
+2	of	of	ADP	_	N	1	prep	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	bills	bill	NOUN	_	NS	2	pobj	_	_
+5	has	have	VERB	_	BZ	24	ccomp	_	_
+6	a	a	DET	_	T	7	det	_	_
+7	code	code	NOUN	_	N	5	dobj	_	_
+8	(	(	PUNCT	_	LRB-	7	punct	_	_
+9	96523	96523	NUM	_	D	7	appos	_	_
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	irrigation	irrigation	NOUN	_	N	7	conj	_	_
+12	of	of	ADP	_	N	11	prep	_	_
+13	an	an	DET	_	T	15	det	_	_
+14	implanted	implant	VERB	_	BN	15	amod	_	_
+15	port	port	NOUN	_	N	12	pobj	_	_
+16	)	)	PUNCT	_	RRB-	7	punct	_	_
+17	that	that	PRON	_	DT	21	nsubjpass	_	_
+18	was	be	AUX	_	BD	21	auxpass	_	_
+19	definitely	definitely	ADV	_	B	21	advmod	_	_
+20	not	not	PART	_	B	21	neg	_	_
+21	done	do	VERB	_	BN	7	relcl	_	_
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	she	she	PRON	_	RP	24	nsubj	_	_
+24	has	have	VERB	_	BZ	0	root	_	_
+25	no	no	DET	_	T	26	det	_	_
+26	port	port	NOUN	_	N	24	dobj	_	_
+27	and	and	CCONJ	_	C	24	cc	_	_
+28	never	never	ADV	_	B	29	neg	_	_
+29	had	have	VERB	_	BD	24	conj	_	_
+30	one	one	NUM	_	D	29	dobj	_	_
+31	.	.	PUNCT	_	_	24	punct	_	_
+
+
+# sent_id = 7
+# text = Just a regular peripheral IV.
+1	Just	just	ADV	_	B	5	advmod	_	_
+2	a	a	DET	_	T	5	det	_	_
+3	regular	regular	ADJ	_	J	5	amod	_	_
+4	peripheral	peripheral	ADJ	_	J	5	amod	_	_
+5	IV	iv	PROPN	_	NP	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 8
+# text = So there are clearly coding issues in there.
+1	So	so	ADV	_	B	3	advmod	_	_
+2	there	there	PRON	_	X	3	expl	_	_
+3	are	be	VERB	_	BP	0	root	_	_
+4	clearly	clearly	ADV	_	B	5	advmod	_	_
+5	coding	cod	VERB	_	BG	6	amod	_	_
+6	issues	issue	NOUN	_	NS	3	attr	_	_
+7	in	in	ADV	_	B	8	advmod	_	_
+8	there	there	ADV	_	B	3	advmod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = I will make sure to raise that with the providers when I call.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	will	will	AUX	_	D	3	aux	_	_
+3	make	make	VERB	_	B	0	root	_	_
+4	sure	sure	ADJ	_	J	3	acomp	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	raise	raise	VERB	_	B	4	xcomp	_	_
+7	that	that	PRON	_	T	6	dobj	_	_
+8	with	with	ADP	_	N	6	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	providers	provider	NOUN	_	NS	8	pobj	_	_
+11	when	when	SCONJ	_	RB	13	advmod	_	_
+12	I	i	PRON	_	RP	13	nsubj	_	_
+13	call	call	VERB	_	BP	6	advcl	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 10
+# text = Thanks for the insight.
+1	Thanks	thank	NOUN	_	NS	0	root	_	_
+2	for	for	ADP	_	N	1	prep	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	insight	insight	NOUN	_	N	2	pobj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+

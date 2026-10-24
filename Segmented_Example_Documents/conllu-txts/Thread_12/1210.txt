@@ -1,0 +1,100 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1210
+1	1210	1210	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1200
+1	1200	1200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/throwfarfaraway1818
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	throwfarfaraway1818	throwfarfaraway1818	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Step therapy is normal process for these approvals.
+1	Step	step	NOUN	_	N	2	compound	_	_
+2	therapy	therapy	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	normal	normal	ADJ	_	J	5	amod	_	_
+5	process	process	NOUN	_	N	3	attr	_	_
+6	for	for	ADP	_	N	5	prep	_	_
+7	these	these	DET	_	T	8	det	_	_
+8	approvals	approval	NOUN	_	NS	6	pobj	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = If your provider can push it through with medical necessity, and argue that all other steps are unnecessary, than great, but if not you likely will have to take those recommended steps first.
+1	If	if	SCONJ	_	N	5	mark	_	_
+2	your	your	PRON	_	RP$	3	poss	_	_
+3	provider	provider	NOUN	_	N	5	nsubj	_	_
+4	can	can	AUX	_	D	5	aux	_	_
+5	push	push	VERB	_	B	0	root	_	_
+6	it	it	PRON	_	RP	5	dobj	_	_
+7	through	through	ADP	_	P	5	prt	_	_
+8	with	with	ADP	_	N	5	prep	_	_
+9	medical	medical	ADJ	_	J	10	amod	_	_
+10	necessity	necessity	NOUN	_	N	8	pobj	_	_
+11	,	,	PUNCT	_	_	5	punct	_	_
+12	and	and	CCONJ	_	C	5	cc	_	_
+13	argue	argue	VERB	_	BP	5	conj	_	_
+14	that	that	SCONJ	_	N	18	mark	_	_
+15	all	all	DET	_	T	17	det	_	_
+16	other	other	ADJ	_	J	17	amod	_	_
+17	steps	step	NOUN	_	NS	18	nsubj	_	_
+18	are	be	AUX	_	BP	13	ccomp	_	_
+19	unnecessary	unnecessary	ADJ	_	J	18	acomp	_	_
+20	,	,	PUNCT	_	_	18	punct	_	_
+21	than	than	ADP	_	N	18	prep	_	_
+22	great	great	ADJ	_	J	21	amod	_	_
+23	,	,	PUNCT	_	_	5	punct	_	_
+24	but	but	CCONJ	_	C	5	cc	_	_
+25	if	if	SCONJ	_	N	30	mark	_	_
+26	not	not	PART	_	B	30	neg	_	_
+27	you	you	PRON	_	RP	30	nsubj	_	_
+28	likely	likely	ADJ	_	J	27	amod	_	_
+29	will	will	AUX	_	D	30	aux	_	_
+30	have	have	VERB	_	B	5	conj	_	_
+31	to	to	PART	_	O	32	aux	_	_
+32	take	take	VERB	_	B	30	xcomp	_	_
+33	those	those	DET	_	T	35	det	_	_
+34	recommended	recommend	VERB	_	BN	35	amod	_	_
+35	steps	step	NOUN	_	NS	32	dobj	_	_
+36	first	first	ADV	_	B	32	advmod	_	_
+37	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 7
+# text = There's no reason to hire an attorney at this stage, it would be a waste of money.
+1	There	there	PRON	_	X	2	expl	_	_
+2	's	be	VERB	_	BZ	15	ccomp	_	_
+3	no	no	DET	_	T	4	det	_	_
+4	reason	reason	NOUN	_	N	2	attr	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	hire	hire	VERB	_	B	4	relcl	_	_
+7	an	an	DET	_	T	8	det	_	_
+8	attorney	attorney	NOUN	_	N	6	dobj	_	_
+9	at	at	ADP	_	N	8	prep	_	_
+10	this	this	DET	_	T	11	det	_	_
+11	stage	stage	NOUN	_	N	9	pobj	_	_
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	it	it	PRON	_	RP	15	nsubj	_	_
+14	would	would	AUX	_	D	15	aux	_	_
+15	be	be	AUX	_	B	0	root	_	_
+16	a	a	DET	_	T	17	det	_	_
+17	waste	waste	NOUN	_	N	15	attr	_	_
+18	of	of	ADP	_	N	17	prep	_	_
+19	money	money	NOUN	_	N	18	pobj	_	_
+20	.	.	PUNCT	_	_	15	punct	_	_
+
+

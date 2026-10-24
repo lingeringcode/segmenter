@@ -1,0 +1,44 @@
+# sent_id = 1
+# text = Thread_10
+1	Thread_10	thread_10	VERB	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 1011
+1	1011	1011	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1010
+1	1010	1010	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Botasoda102
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Botasoda102	botasoda102	NUM	_	D	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Fine, let the facility do it.
+1	Fine	fine	ADV	_	B	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	let	let	VERB	_	B	0	root	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	facility	facility	NOUN	_	N	6	nsubj	_	_
+6	do	do	VERB	_	B	3	ccomp	_	_
+7	it	it	PRON	_	RP	6	dobj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = They want to get paid.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	want	want	VERB	_	BP	0	root	_	_
+3	to	to	PART	_	O	5	aux	_	_
+4	get	get	AUX	_	B	5	auxpass	_	_
+5	paid	pay	VERB	_	BN	2	xcomp	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+

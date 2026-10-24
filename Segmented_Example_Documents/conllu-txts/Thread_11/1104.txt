@@ -1,0 +1,46 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1104
+1	1104	1104	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1103
+1	1103	1103	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/CGWInsurance
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	CGWInsurance	cgwinsurance	NOUN	_	N	1	nummod	_	_
+
+
+# sent_id = 5
+# text = This is still preexisting since it the antibiotics was given to treat a disease that was labeled preexisting condition.
+1	This	this	PRON	_	T	4	nsubj	_	_
+2	is	be	AUX	_	BZ	4	aux	_	_
+3	still	still	ADV	_	B	4	advmod	_	_
+4	preexisting	preexist	VERB	_	BG	0	root	_	_
+5	since	since	SCONJ	_	N	10	mark	_	_
+6	it	it	PRON	_	RP	5	pobj	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	antibiotics	antibiotic	NOUN	_	NS	10	nsubjpass	_	_
+9	was	be	AUX	_	BD	10	auxpass	_	_
+10	given	give	VERB	_	BN	4	advcl	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	treat	treat	VERB	_	B	10	advcl	_	_
+13	a	a	DET	_	T	14	det	_	_
+14	disease	disease	NOUN	_	N	12	dobj	_	_
+15	that	that	PRON	_	DT	17	nsubjpass	_	_
+16	was	be	AUX	_	BD	17	auxpass	_	_
+17	labeled	label	VERB	_	BN	14	relcl	_	_
+18	preexisting	preexisting	NOUN	_	N	19	compound	_	_
+19	condition	condition	NOUN	_	N	17	oprd	_	_
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+

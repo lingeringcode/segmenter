@@ -1,0 +1,49 @@
+# sent_id = 1
+# text = Thread_4
+1	Thread_4	thread_4	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 406
+1	406	406	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 400
+1	400	400	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Bogg99
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	PROPN	_	NP	1	punct	_	_
+3	Bogg99	bogg99	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = In cases where there is no official prior auth required, your Dr office can still file a predetermination of benefits form.
+1	In	in	ADP	_	N	17	prep	_	_
+2	cases	case	NOUN	_	NS	1	pobj	_	_
+3	where	where	SCONJ	_	RB	5	advmod	_	_
+4	there	there	PRON	_	X	5	expl	_	_
+5	is	be	VERB	_	BZ	2	relcl	_	_
+6	no	no	DET	_	T	7	det	_	_
+7	official	official	ADJ	_	J	9	amod	_	_
+8	prior	prior	ADJ	_	J	9	amod	_	_
+9	auth	auth	NOUN	_	N	5	attr	_	_
+10	required	require	VERB	_	BN	9	acl	_	_
+11	,	,	PUNCT	_	_	17	punct	_	_
+12	your	your	PRON	_	RP$	14	poss	_	_
+13	Dr	dr	PROPN	_	NP	14	compound	_	_
+14	office	office	NOUN	_	N	17	nsubj	_	_
+15	can	can	AUX	_	D	17	aux	_	_
+16	still	still	ADV	_	B	17	advmod	_	_
+17	file	file	VERB	_	B	0	root	_	_
+18	a	a	DET	_	T	19	det	_	_
+19	predetermination	predetermination	NOUN	_	N	17	dobj	_	_
+20	of	of	ADP	_	N	19	prep	_	_
+21	benefits	benefit	NOUN	_	NS	22	compound	_	_
+22	form	form	NOUN	_	N	20	pobj	_	_
+23	.	.	PUNCT	_	_	17	punct	_	_
+
+

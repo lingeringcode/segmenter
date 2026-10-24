@@ -1,0 +1,37 @@
+# sent_id = 1
+# text = Thread_6
+1	Thread_6	thread_6	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 601
+1	601	601	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 600
+1	600	600	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/EffectiveEgg5712
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	EffectiveEgg5712	effectiveegg5712	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = Does it say what diagnosis code is on the letter?
+1	Does	do	AUX	_	BZ	3	aux	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	say	say	VERB	_	B	0	root	_	_
+4	what	what	DET	_	DT	6	det	_	_
+5	diagnosis	diagnosis	NOUN	_	N	6	compound	_	_
+6	code	code	NOUN	_	N	7	nsubj	_	_
+7	is	be	AUX	_	BZ	3	ccomp	_	_
+8	on	on	ADP	_	N	7	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	letter	letter	NOUN	_	N	8	pobj	_	_
+11	?	?	PUNCT	_	_	3	punct	_	_
+
+

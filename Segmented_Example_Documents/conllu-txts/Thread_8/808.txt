@@ -1,0 +1,49 @@
+# sent_id = 1
+# text = Thread_8
+1	Thread_8	thread_8	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 808
+1	808	808	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 805
+1	805	805	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Liberteez
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Liberteez	liberteez	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = Wouldn’t that be an arbitrary demand here when the object is to monitor disease progression and not to treat poor conditioning?
+1	Would	would	AUX	_	D	4	aux	_	_
+2	n’t	not	PART	_	B	1	punct	_	_
+3	that	that	PRON	_	T	4	nsubj	_	_
+4	be	be	AUX	_	B	0	root	_	_
+5	an	an	DET	_	T	7	det	_	_
+6	arbitrary	arbitrary	ADJ	_	J	7	amod	_	_
+7	demand	demand	NOUN	_	N	4	attr	_	_
+8	here	here	ADV	_	B	7	advmod	_	_
+9	when	when	SCONJ	_	RB	12	advmod	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	object	object	NOUN	_	N	12	nsubj	_	_
+12	is	be	AUX	_	BZ	4	advcl	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	monitor	monitor	VERB	_	B	12	xcomp	_	_
+15	disease	disease	NOUN	_	N	16	compound	_	_
+16	progression	progression	NOUN	_	N	14	dobj	_	_
+17	and	and	CCONJ	_	C	14	cc	_	_
+18	not	not	PART	_	B	20	neg	_	_
+19	to	to	PART	_	O	20	aux	_	_
+20	treat	treat	VERB	_	B	14	conj	_	_
+21	poor	poor	ADJ	_	J	22	amod	_	_
+22	conditioning	conditioning	NOUN	_	N	20	dobj	_	_
+23	?	?	PUNCT	_	_	4	punct	_	_
+
+

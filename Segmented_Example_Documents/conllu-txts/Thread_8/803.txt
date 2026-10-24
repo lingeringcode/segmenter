@@ -1,0 +1,74 @@
+# sent_id = 1
+# text = Thread_8
+1	Thread_8	thread_8	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 803
+1	803	803	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 802
+1	802	802	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/vctrlarae
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	vctrlarae	vctrlarae	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = The your provider would ultimately need to show the medical documentation showing this is why they are requesting it.
+1	The	the	DET	_	T	3	det	_	_
+2	your	your	PRON	_	RP$	3	poss	_	_
+3	provider	provider	NOUN	_	N	6	nsubj	_	_
+4	would	would	AUX	_	D	6	aux	_	_
+5	ultimately	ultimately	ADV	_	B	6	advmod	_	_
+6	need	need	VERB	_	B	0	root	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	show	show	VERB	_	B	6	xcomp	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	medical	medical	ADJ	_	J	11	amod	_	_
+11	documentation	documentation	NOUN	_	N	8	dobj	_	_
+12	showing	show	VERB	_	BG	11	acl	_	_
+13	this	this	PRON	_	T	12	dobj	_	_
+14	is	be	AUX	_	BZ	8	ccomp	_	_
+15	why	why	SCONJ	_	RB	18	advmod	_	_
+16	they	they	PRON	_	RP	18	nsubj	_	_
+17	are	be	AUX	_	BP	18	aux	_	_
+18	requesting	request	VERB	_	BG	14	ccomp	_	_
+19	it	it	PRON	_	RP	18	dobj	_	_
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 6
+# text = I fear all attempts on your part are still going to end up with the provider needing to call/submit information themselves.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	fear	fear	VERB	_	BP	0	root	_	_
+3	all	all	DET	_	T	4	det	_	_
+4	attempts	attempt	NOUN	_	NS	10	nsubj	_	_
+5	on	on	ADP	_	N	4	prep	_	_
+6	your	your	PRON	_	RP$	7	poss	_	_
+7	part	part	NOUN	_	N	5	pobj	_	_
+8	are	be	AUX	_	BP	10	aux	_	_
+9	still	still	ADV	_	B	10	advmod	_	_
+10	going	go	VERB	_	BG	2	ccomp	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	end	end	VERB	_	B	10	xcomp	_	_
+13	up	up	ADP	_	P	12	prt	_	_
+14	with	with	ADP	_	N	12	prep	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	provider	provider	NOUN	_	N	17	nsubj	_	_
+17	needing	need	VERB	_	BG	14	pcomp	_	_
+18	to	to	PART	_	O	19	aux	_	_
+19	call	call	VERB	_	B	17	xcomp	_	_
+20	/	/	SYM	_	YM	21	punct	_	_
+21	submit	submit	VERB	_	B	19	dobj	_	_
+22	information	information	NOUN	_	N	19	dobj	_	_
+23	themselves	themselves	PRON	_	RP	19	npadvmod	_	_
+24	.	.	PUNCT	_	_	2	punct	_	_
+
+

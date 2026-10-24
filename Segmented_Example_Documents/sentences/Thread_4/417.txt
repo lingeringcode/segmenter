@@ -1,0 +1,18 @@
+Thread_4
+417
+400
+u/TherapyCompanion
+I work on the provider side of this, on the billing and pre-auth workflow, so here is how I read what your doctor told you.
+"No prior authorization required" and "experimental, not covered" are two different lists at the insurer.
+Auth is only asked for on services they cover.
+If the procedure sits on their investigational list, they do not need an auth to deny it, and the denial will say experimental no matter what you do beforehand.
+Two things you can do before surgery.
+First, get the exact CPT code from the surgeon's office and ask CareFirst for the medical policy for that code.
+Most payers publish these, and the policy will say outright whether the procedure is considered investigational and what evidence would change that.
+Second, ask the office to file a predetermination of benefits with that code and a letter of medical necessity.
+It is voluntary and it is not an auth, but it gets you a written answer before you are on the table instead of after.
+If the predetermination comes back as experimental, you can decide with real numbers.
+If you go ahead and it is denied, the path is internal appeal, then external review through your state.
+The appeals that win on experimental denials attach peer-reviewed evidence and a specialist letter explaining why the standard alternative is not appropriate for you.
+Ask the surgeon now whether they will write that letter.
+Their answer tells you how hard the fight will be.

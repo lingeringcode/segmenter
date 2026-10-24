@@ -1,0 +1,386 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1805
+1	1805	1805	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1804
+1	1804	1804	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Weekly-Ad-650
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Weekly	weekly	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Ad-650	ad-650	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Thank you for the response, so sorry I missed it!
+1	Thank	thank	VERB	_	BP	0	root	_	_
+2	you	you	PRON	_	RP	1	dobj	_	_
+3	for	for	ADP	_	N	1	prep	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	response	response	NOUN	_	N	3	pobj	_	_
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	so	so	ADV	_	B	8	advmod	_	_
+8	sorry	sorry	INTJ	_	H	1	advcl	_	_
+9	I	i	PRON	_	RP	10	nsubj	_	_
+10	missed	miss	VERB	_	BD	8	ccomp	_	_
+11	it	it	PRON	_	RP	10	dobj	_	_
+12	!	!	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = Not only does everything match (service, location, etc) but my Prior Authorization says “this is a benefit determination” “approved: services are covered” and “these services will be covered at the network level”.
+1	Not	not	PART	_	B	5	preconj	_	_
+2	only	only	ADV	_	B	1	advmod	_	_
+3	does	do	AUX	_	BZ	5	aux	_	_
+4	everything	everything	PRON	_	N	5	nsubj	_	_
+5	match	match	VERB	_	B	17	nsubj	_	_
+6	(	(	PUNCT	_	LRB-	5	punct	_	_
+7	service	service	NOUN	_	N	5	appos	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	location	location	NOUN	_	N	7	conj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	etc	etc	X	_	W	9	conj	_	_
+12	)	)	PUNCT	_	RRB-	5	punct	_	_
+13	but	but	CCONJ	_	C	5	cc	_	_
+14	my	my	PRON	_	RP$	16	poss	_	_
+15	Prior	prior	PROPN	_	NP	16	compound	_	_
+16	Authorization	authorization	PROPN	_	NP	17	nsubj	_	_
+17	says	say	VERB	_	BZ	0	root	_	_
+18	“	"	PUNCT	_	`	17	punct	_	_
+19	this	this	PRON	_	T	20	nsubj	_	_
+20	is	be	AUX	_	BZ	26	ccomp	_	_
+21	a	a	DET	_	T	23	det	_	_
+22	benefit	benefit	NOUN	_	N	23	compound	_	_
+23	determination	determination	NOUN	_	N	20	attr	_	_
+24	”	"	PUNCT	_	'	26	punct	_	_
+25	“	"	PUNCT	_	`	26	punct	_	_
+26	approved	approve	VERB	_	BN	17	ccomp	_	_
+27	:	:	PUNCT	_	_	26	punct	_	_
+28	services	service	NOUN	_	NS	30	nsubjpass	_	_
+29	are	be	AUX	_	BP	30	auxpass	_	_
+30	covered	cover	VERB	_	BN	26	conj	_	_
+31	”	"	PUNCT	_	'	30	punct	_	_
+32	and	and	CCONJ	_	C	30	cc	_	_
+33	“	"	PUNCT	_	`	38	punct	_	_
+34	these	these	DET	_	T	35	det	_	_
+35	services	service	NOUN	_	NS	38	nsubjpass	_	_
+36	will	will	AUX	_	D	38	aux	_	_
+37	be	be	AUX	_	B	38	auxpass	_	_
+38	covered	cover	VERB	_	BN	30	conj	_	_
+39	at	at	ADP	_	N	38	prep	_	_
+40	the	the	DET	_	T	42	det	_	_
+41	network	network	NOUN	_	N	42	compound	_	_
+42	level	level	NOUN	_	N	39	pobj	_	_
+43	”	"	PUNCT	_	'	38	punct	_	_
+44	.	.	PUNCT	_	_	17	punct	_	_
+
+
+# sent_id = 7
+# text = Additionally, the provider facing reimbursement policy literally says it only applies to CMS-1500 forms submitted by providers…mine was a member submitted reimbursement form.
+1	Additionally	additionally	ADV	_	B	9	advmod	_	_
+2	,	,	PUNCT	_	_	9	punct	_	_
+3	the	the	DET	_	T	7	det	_	_
+4	provider	provider	NOUN	_	N	5	npadvmod	_	_
+5	facing	face	VERB	_	BG	7	amod	_	_
+6	reimbursement	reimbursement	NOUN	_	N	7	compound	_	_
+7	policy	policy	NOUN	_	N	9	nsubj	_	_
+8	literally	literally	ADV	_	B	9	advmod	_	_
+9	says	say	VERB	_	BZ	0	root	_	_
+10	it	it	PRON	_	RP	12	nsubj	_	_
+11	only	only	ADV	_	B	12	advmod	_	_
+12	applies	apply	VERB	_	BZ	9	ccomp	_	_
+13	to	to	ADP	_	N	12	prep	_	_
+14	CMS-1500	cms-1500	ADJ	_	J	15	amod	_	_
+15	forms	form	NOUN	_	NS	13	pobj	_	_
+16	submitted	submit	VERB	_	BN	15	acl	_	_
+17	by	by	ADP	_	N	16	agent	_	_
+18	providers	provider	NOUN	_	NS	17	pobj	_	_
+19	…	…	PUNCT	_	FP	21	punct	_	_
+20	mine	mine	NOUN	_	N	21	nsubj	_	_
+21	was	be	AUX	_	BD	9	ccomp	_	_
+22	a	a	DET	_	T	26	det	_	_
+23	member	member	NOUN	_	N	24	npadvmod	_	_
+24	submitted	submit	VERB	_	BN	26	amod	_	_
+25	reimbursement	reimbursement	NOUN	_	N	26	compound	_	_
+26	form	form	NOUN	_	N	21	attr	_	_
+27	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 8
+# text = I also noted that my IRO determination letter says “this decision is binding…plan must provide service or payment.”
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	also	also	ADV	_	B	3	advmod	_	_
+3	noted	note	VERB	_	BD	0	root	_	_
+4	that	that	SCONJ	_	N	9	mark	_	_
+5	my	my	PRON	_	RP$	8	poss	_	_
+6	IRO	iro	PROPN	_	NP	8	amod	_	_
+7	determination	determination	NOUN	_	N	8	compound	_	_
+8	letter	letter	NOUN	_	N	9	nsubj	_	_
+9	says	say	VERB	_	BZ	3	ccomp	_	_
+10	“	"	PUNCT	_	`	9	punct	_	_
+11	this	this	DET	_	T	12	det	_	_
+12	decision	decision	NOUN	_	N	13	nsubj	_	_
+13	is	be	AUX	_	BZ	18	ccomp	_	_
+14	binding	bind	VERB	_	BG	13	acomp	_	_
+15	…	…	SYM	_	YM	18	punct	_	_
+16	plan	plan	NOUN	_	N	18	nsubj	_	_
+17	must	must	AUX	_	D	18	aux	_	_
+18	provide	provide	VERB	_	B	9	ccomp	_	_
+19	service	service	NOUN	_	N	18	dobj	_	_
+20	or	or	CCONJ	_	C	19	cc	_	_
+21	payment	payment	NOUN	_	N	19	conj	_	_
+22	.	.	PUNCT	_	_	3	punct	_	_
+23	”	"	PUNCT	_	'	3	punct	_	_
+
+
+# sent_id = 9
+# text = That being said, my insurer stood their ground on the denial when the department of consumer services asked them about it.
+1	That	that	PRON	_	T	3	nsubjpass	_	_
+2	being	be	AUX	_	BG	3	auxpass	_	_
+3	said	say	VERB	_	BN	7	advcl	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	my	my	PRON	_	RP$	6	poss	_	_
+6	insurer	insurer	NOUN	_	N	7	nsubj	_	_
+7	stood	stand	VERB	_	BD	0	root	_	_
+8	their	their	PRON	_	RP$	9	poss	_	_
+9	ground	ground	NOUN	_	N	7	dobj	_	_
+10	on	on	ADP	_	N	7	prep	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	denial	denial	NOUN	_	N	10	pobj	_	_
+13	when	when	SCONJ	_	RB	19	advmod	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	department	department	NOUN	_	N	19	nsubj	_	_
+16	of	of	ADP	_	N	15	prep	_	_
+17	consumer	consumer	NOUN	_	N	18	compound	_	_
+18	services	service	NOUN	_	NS	16	pobj	_	_
+19	asked	ask	VERB	_	BD	7	advcl	_	_
+20	them	they	PRON	_	RP	19	dobj	_	_
+21	about	about	ADP	_	N	19	prep	_	_
+22	it	it	PRON	_	RP	21	pobj	_	_
+23	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 10
+# text = They at least agreed that I was supposed to be allowed a second appeal so that’s what I’m working on now.
+1	They	they	PRON	_	RP	4	nsubj	_	_
+2	at	at	ADP	_	N	3	advmod	_	_
+3	least	least	ADV	_	B	4	advmod	_	_
+4	agreed	agree	VERB	_	BD	0	root	_	_
+5	that	that	SCONJ	_	N	8	mark	_	_
+6	I	i	PRON	_	RP	8	nsubjpass	_	_
+7	was	be	AUX	_	BD	8	auxpass	_	_
+8	supposed	suppose	VERB	_	BN	4	ccomp	_	_
+9	to	to	PART	_	O	11	aux	_	_
+10	be	be	AUX	_	B	11	auxpass	_	_
+11	allowed	allow	VERB	_	BN	8	xcomp	_	_
+12	a	a	DET	_	T	14	det	_	_
+13	second	second	ADJ	_	J	14	amod	_	_
+14	appeal	appeal	NOUN	_	N	11	dobj	_	_
+15	so	so	SCONJ	_	N	17	mark	_	_
+16	that	that	PRON	_	T	17	nsubj	_	_
+17	’s	’	VERB	_	BZ	11	advcl	_	_
+18	what	what	PRON	_	P	21	dobj	_	_
+19	I	i	PRON	_	RP	21	nsubj	_	_
+20	’m	’m	AUX	_	BZ	21	aux	_	_
+21	working	work	VERB	_	BG	17	ccomp	_	_
+22	on	on	ADP	_	N	21	prep	_	_
+23	now	now	ADV	_	B	21	advmod	_	_
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 11
+# text = Then it’s off to the state (again) if/when they deny this one I guess.
+1	Then	then	ADV	_	B	3	advmod	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	’s	’	VERB	_	BZ	0	root	_	_
+4	off	off	ADP	_	N	3	prep	_	_
+5	to	to	ADP	_	N	4	prep	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	state	state	NOUN	_	N	5	pobj	_	_
+8	(	(	PUNCT	_	LRB-	9	punct	_	_
+9	again	again	ADV	_	B	3	advmod	_	_
+10	)	)	PUNCT	_	RRB-	9	punct	_	_
+11	if	if	SCONJ	_	N	15	mark	_	_
+12	/	/	SYM	_	YM	11	punct	_	_
+13	when	when	SCONJ	_	RB	15	advmod	_	_
+14	they	they	PRON	_	RP	15	nsubj	_	_
+15	deny	deny	VERB	_	BP	3	advcl	_	_
+16	this	this	DET	_	T	17	det	_	_
+17	one	one	NOUN	_	N	15	dobj	_	_
+18	I	i	PRON	_	RP	19	nsubj	_	_
+19	guess	guess	VERB	_	BP	17	relcl	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 12
+# text = I’ve also spoken to EBSA and the employee was very dismissive.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	’ve	’ve	AUX	_	BP	4	aux	_	_
+3	also	also	ADV	_	B	4	advmod	_	_
+4	spoken	speak	VERB	_	BN	0	root	_	_
+5	to	to	ADP	_	N	4	prep	_	_
+6	EBSA	ebsa	PROPN	_	NP	5	pobj	_	_
+7	and	and	CCONJ	_	C	4	cc	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	employee	employee	NOUN	_	N	10	nsubj	_	_
+10	was	be	AUX	_	BD	4	conj	_	_
+11	very	very	ADV	_	B	12	advmod	_	_
+12	dismissive	dismissive	ADJ	_	J	10	acomp	_	_
+13	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 13
+# text = He said approving “office” must have been a clerical error - but they reviewed and issued the prior authorization three different times.
+1	He	he	PRON	_	RP	2	nsubj	_	_
+2	said	say	VERB	_	BD	0	root	_	_
+3	approving	approve	VERB	_	BG	9	csubj	_	_
+4	“	"	PUNCT	_	`	5	punct	_	_
+5	office	office	NOUN	_	N	3	dobj	_	_
+6	”	"	PUNCT	_	'	5	punct	_	_
+7	must	must	AUX	_	D	9	aux	_	_
+8	have	have	AUX	_	B	9	aux	_	_
+9	been	be	AUX	_	BN	2	ccomp	_	_
+10	a	a	DET	_	T	12	det	_	_
+11	clerical	clerical	ADJ	_	J	12	amod	_	_
+12	error	error	NOUN	_	N	9	attr	_	_
+13	-	-	PUNCT	_	_	9	punct	_	_
+14	but	but	CCONJ	_	C	9	cc	_	_
+15	they	they	PRON	_	RP	16	nsubj	_	_
+16	reviewed	review	VERB	_	BD	9	conj	_	_
+17	and	and	CCONJ	_	C	16	cc	_	_
+18	issued	issue	VERB	_	BD	16	conj	_	_
+19	the	the	DET	_	T	21	det	_	_
+20	prior	prior	ADJ	_	J	21	amod	_	_
+21	authorization	authorization	NOUN	_	N	18	dobj	_	_
+22	three	three	NUM	_	D	24	nummod	_	_
+23	different	different	ADJ	_	J	24	amod	_	_
+24	times	time	NOUN	_	NS	18	npadvmod	_	_
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 14
+# text = I also asked him for help getting my file from the insurer.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	also	also	ADV	_	B	3	advmod	_	_
+3	asked	ask	VERB	_	BD	0	root	_	_
+4	him	he	PRON	_	RP	3	dobj	_	_
+5	for	for	ADP	_	N	3	prep	_	_
+6	help	help	NOUN	_	N	5	pobj	_	_
+7	getting	get	VERB	_	BG	6	xcomp	_	_
+8	my	my	PRON	_	RP$	9	poss	_	_
+9	file	file	NOUN	_	N	7	dobj	_	_
+10	from	from	ADP	_	N	7	prep	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	insurer	insurer	NOUN	_	N	10	pobj	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 15
+# text = I’ve requested it three times over the last 60 days with no response, which I know is a violation in itself.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	’ve	’ve	AUX	_	BP	3	aux	_	_
+3	requested	request	VERB	_	BN	0	root	_	_
+4	it	it	PRON	_	RP	3	dobj	_	_
+5	three	three	NUM	_	D	6	nummod	_	_
+6	times	time	NOUN	_	NS	3	npadvmod	_	_
+7	over	over	ADP	_	N	3	prep	_	_
+8	the	the	DET	_	T	11	det	_	_
+9	last	last	ADJ	_	J	11	amod	_	_
+10	60	60	NUM	_	D	11	nummod	_	_
+11	days	day	NOUN	_	NS	7	pobj	_	_
+12	with	with	ADP	_	N	3	prep	_	_
+13	no	no	DET	_	T	14	det	_	_
+14	response	response	NOUN	_	N	12	pobj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	which	which	PRON	_	DT	19	nsubj	_	_
+17	I	i	PRON	_	RP	18	nsubj	_	_
+18	know	know	VERB	_	BP	14	relcl	_	_
+19	is	be	AUX	_	BZ	18	ccomp	_	_
+20	a	a	DET	_	T	21	det	_	_
+21	violation	violation	NOUN	_	N	19	attr	_	_
+22	in	in	ADP	_	N	21	prep	_	_
+23	itself	itself	PRON	_	RP	22	pobj	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 16
+# text = He said it’s a big company and I needed to send it via certified mail in case it got missed.
+1	He	he	PRON	_	RP	2	nsubj	_	_
+2	said	say	VERB	_	BD	0	root	_	_
+3	it	it	PRON	_	RP	4	nsubj	_	_
+4	’s	’	VERB	_	BZ	2	ccomp	_	_
+5	a	a	DET	_	T	7	det	_	_
+6	big	big	ADJ	_	J	7	amod	_	_
+7	company	company	NOUN	_	N	4	dobj	_	_
+8	and	and	CCONJ	_	C	2	cc	_	_
+9	I	i	PRON	_	RP	10	nsubj	_	_
+10	needed	need	VERB	_	BD	2	conj	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	send	send	VERB	_	B	10	xcomp	_	_
+13	it	it	PRON	_	RP	12	dobj	_	_
+14	via	via	ADP	_	N	12	prep	_	_
+15	certified	certify	VERB	_	BN	16	amod	_	_
+16	mail	mail	NOUN	_	N	14	pobj	_	_
+17	in	in	ADP	_	N	21	prep	_	_
+18	case	case	NOUN	_	N	17	pobj	_	_
+19	it	it	PRON	_	RP	21	nsubjpass	_	_
+20	got	get	AUX	_	BD	21	auxpass	_	_
+21	missed	miss	VERB	_	BN	12	advcl	_	_
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 17
+# text = Okay, I guess my two faxes and regular mailing all got lost.
+1	Okay	okay	INTJ	_	H	4	intj	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	guess	guess	VERB	_	BP	0	root	_	_
+5	my	my	PRON	_	RP$	7	poss	_	_
+6	two	two	NUM	_	D	7	nummod	_	_
+7	faxes	fax	NOUN	_	NS	13	nsubjpass	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	regular	regular	ADJ	_	J	10	amod	_	_
+10	mailing	mailing	NOUN	_	N	7	conj	_	_
+11	all	all	PRON	_	T	7	appos	_	_
+12	got	get	AUX	_	BD	13	auxpass	_	_
+13	lost	lose	VERB	_	BN	4	ccomp	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 18
+# text = He said I just needed to contact an attorney.
+1	He	he	PRON	_	RP	2	nsubj	_	_
+2	said	say	VERB	_	BD	0	root	_	_
+3	I	i	PRON	_	RP	5	nsubj	_	_
+4	just	just	ADV	_	B	5	advmod	_	_
+5	needed	need	VERB	_	BD	2	ccomp	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	contact	contact	VERB	_	B	5	xcomp	_	_
+8	an	an	DET	_	T	9	det	_	_
+9	attorney	attorney	NOUN	_	N	7	dobj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 19
+# text = At this point I’m just flabbergasted.
+1	At	at	ADP	_	N	5	prep	_	_
+2	this	this	DET	_	T	3	det	_	_
+3	point	point	NOUN	_	N	1	pobj	_	_
+4	I	i	PRON	_	RP	5	nsubj	_	_
+5	’m	’m	AUX	_	BD	7	auxpass	_	_
+6	just	just	ADV	_	B	7	advmod	_	_
+7	flabbergasted	flabbergast	VERB	_	BN	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+

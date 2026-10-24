@@ -1,0 +1,181 @@
+# sent_id = 1
+# text = Thread_7
+1	Thread_7	thread_7	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 711
+1	711	711	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 700
+1	700	700	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Fluffydoggie
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Fluffydoggie	fluffydoggie	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = Can guarantee the review doctor half-a$$ read the recs and just thought it was one child.
+1	Can	can	AUX	_	D	2	aux	_	_
+2	guarantee	guarantee	VERB	_	B	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	review	review	NOUN	_	N	5	compound	_	_
+5	doctor	doctor	NOUN	_	N	2	dobj	_	_
+6	half	half	ADJ	_	J	8	amod	_	_
+7	-	-	PUNCT	_	YPH	8	punct	_	_
+8	a$$	a$$	ADV	_	B	2	advmod	_	_
+9	read	read	VERB	_	BD	2	ccomp	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	recs	rec	NOUN	_	NS	9	dobj	_	_
+12	and	and	CCONJ	_	C	9	cc	_	_
+13	just	just	ADV	_	B	14	advmod	_	_
+14	thought	think	VERB	_	BD	9	conj	_	_
+15	it	it	PRON	_	RP	16	nsubj	_	_
+16	was	be	AUX	_	BD	14	ccomp	_	_
+17	one	one	NUM	_	D	18	nummod	_	_
+18	child	child	NOUN	_	N	16	attr	_	_
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = Don't give up.
+1	Do	do	AUX	_	B	3	aux	_	_
+2	n't	not	PART	_	B	3	neg	_	_
+3	give	give	VERB	_	B	0	root	_	_
+4	up	up	ADP	_	P	3	prt	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = Contact the hospital billing and ask for them to submit the requested information.
+1	Contact	contact	NOUN	_	N	0	root	_	_
+2	the	the	DET	_	T	4	det	_	_
+3	hospital	hospital	NOUN	_	N	4	compound	_	_
+4	billing	billing	NOUN	_	N	1	dobj	_	_
+5	and	and	CCONJ	_	C	1	cc	_	_
+6	ask	ask	VERB	_	B	1	conj	_	_
+7	for	for	SCONJ	_	N	10	mark	_	_
+8	them	they	PRON	_	RP	10	nsubj	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	submit	submit	VERB	_	B	6	advcl	_	_
+11	the	the	DET	_	T	13	det	_	_
+12	requested	request	VERB	_	BN	13	amod	_	_
+13	information	information	NOUN	_	N	10	dobj	_	_
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 8
+# text = Tell them they need to identify it is Baby B records that are needed and their full medical records are needed to be sent to have the claim processed.
+1	Tell	tell	VERB	_	B	0	root	_	_
+2	them	they	PRON	_	RP	1	dobj	_	_
+3	they	they	PRON	_	RP	4	nsubj	_	_
+4	need	need	VERB	_	BP	1	ccomp	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	identify	identify	VERB	_	B	4	xcomp	_	_
+7	it	it	PRON	_	RP	8	nsubj	_	_
+8	is	be	AUX	_	BZ	1	ccomp	_	_
+9	Baby	baby	PROPN	_	NP	10	compound	_	_
+10	B	b	PROPN	_	NP	11	compound	_	_
+11	records	record	NOUN	_	NS	8	attr	_	_
+12	that	that	PRON	_	DT	14	nsubjpass	_	_
+13	are	be	AUX	_	BP	14	auxpass	_	_
+14	needed	need	VERB	_	BN	11	relcl	_	_
+15	and	and	CCONJ	_	C	11	cc	_	_
+16	their	their	PRON	_	RP$	19	poss	_	_
+17	full	full	ADJ	_	J	19	amod	_	_
+18	medical	medical	ADJ	_	J	19	amod	_	_
+19	records	record	NOUN	_	NS	21	nsubjpass	_	_
+20	are	be	AUX	_	BP	21	auxpass	_	_
+21	needed	need	VERB	_	BN	1	ccomp	_	_
+22	to	to	PART	_	O	24	aux	_	_
+23	be	be	AUX	_	B	24	auxpass	_	_
+24	sent	send	VERB	_	BN	21	xcomp	_	_
+25	to	to	PART	_	O	26	aux	_	_
+26	have	have	VERB	_	B	24	advcl	_	_
+27	the	the	DET	_	T	28	det	_	_
+28	claim	claim	NOUN	_	N	29	nsubj	_	_
+29	processed	process	VERB	_	BN	26	ccomp	_	_
+30	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 9
+# text = I spend way too much time every day trying to figure out which records belong with which baby in these types cases.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	spend	spend	VERB	_	BP	0	root	_	_
+3	way	way	ADV	_	B	2	advmod	_	_
+4	too	too	ADV	_	B	5	advmod	_	_
+5	much	much	ADJ	_	J	6	amod	_	_
+6	time	time	NOUN	_	N	2	dobj	_	_
+7	every	every	DET	_	T	8	det	_	_
+8	day	day	NOUN	_	N	6	npadvmod	_	_
+9	trying	try	VERB	_	BG	2	advcl	_	_
+10	to	to	PART	_	O	11	aux	_	_
+11	figure	figure	VERB	_	B	9	xcomp	_	_
+12	out	out	ADP	_	P	11	prt	_	_
+13	which	which	DET	_	DT	14	det	_	_
+14	records	record	NOUN	_	NS	15	nsubj	_	_
+15	belong	belong	VERB	_	BP	11	ccomp	_	_
+16	with	with	ADP	_	N	15	prep	_	_
+17	which	which	DET	_	DT	18	det	_	_
+18	baby	baby	NOUN	_	N	22	nsubj	_	_
+19	in	in	ADP	_	N	18	prep	_	_
+20	these	these	DET	_	T	21	det	_	_
+21	types	type	NOUN	_	NS	19	pobj	_	_
+22	cases	case	NOUN	_	NS	16	pobj	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 10
+# text = The honest reason is there's only so many characters allowed for the name space so last name, first name or usually Baby A, mother's name.
+1	The	the	DET	_	T	3	det	_	_
+2	honest	honest	ADJ	_	J	3	amod	_	_
+3	reason	reason	NOUN	_	N	4	nsubj	_	_
+4	is	be	AUX	_	BZ	0	root	_	_
+5	there	there	PRON	_	X	6	expl	_	_
+6	's	be	VERB	_	BZ	4	ccomp	_	_
+7	only	only	ADV	_	B	6	advmod	_	_
+8	so	so	ADV	_	B	9	advmod	_	_
+9	many	many	ADJ	_	J	10	amod	_	_
+10	characters	character	NOUN	_	NS	6	attr	_	_
+11	allowed	allow	VERB	_	BN	10	acl	_	_
+12	for	for	ADP	_	N	11	prep	_	_
+13	the	the	DET	_	T	15	det	_	_
+14	name	name	NOUN	_	N	15	compound	_	_
+15	space	space	NOUN	_	N	12	pobj	_	_
+16	so	so	ADV	_	B	18	advmod	_	_
+17	last	last	ADJ	_	J	18	amod	_	_
+18	name	name	NOUN	_	N	10	appos	_	_
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	first	first	ADJ	_	J	21	amod	_	_
+21	name	name	NOUN	_	N	18	appos	_	_
+22	or	or	CCONJ	_	C	21	cc	_	_
+23	usually	usually	ADV	_	B	25	advmod	_	_
+24	Baby	baby	PROPN	_	NP	25	compound	_	_
+25	A	a	PROPN	_	NP	21	conj	_	_
+26	,	,	PUNCT	_	_	25	punct	_	_
+27	mother	mother	NOUN	_	N	29	poss	_	_
+28	's	's	PART	_	OS	27	case	_	_
+29	name	name	NOUN	_	N	25	appos	_	_
+30	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 11
+# text = It gets squished together at times and gets confusing.
+1	It	it	PRON	_	RP	3	nsubjpass	_	_
+2	gets	get	AUX	_	BZ	3	auxpass	_	_
+3	squished	squish	VERB	_	BN	0	root	_	_
+4	together	together	ADV	_	B	3	advmod	_	_
+5	at	at	ADP	_	N	3	prep	_	_
+6	times	time	NOUN	_	NS	5	pobj	_	_
+7	and	and	CCONJ	_	C	3	cc	_	_
+8	gets	get	VERB	_	BZ	3	conj	_	_
+9	confusing	confusing	ADJ	_	J	8	acomp	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+

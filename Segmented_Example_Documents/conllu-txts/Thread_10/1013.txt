@@ -1,0 +1,194 @@
+# sent_id = 1
+# text = Thread_10
+1	Thread_10	thread_10	VERB	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 1013
+1	1013	1013	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1012
+1	1012	1012	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Botasoda102
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Botasoda102	botasoda102	NUM	_	D	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Jeez, the provider can make sure the correct address and billing numbers were use.
+1	Jeez	jeez	PROPN	_	NP	6	advcl	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	provider	provider	NOUN	_	N	6	nsubj	_	_
+5	can	can	AUX	_	D	6	aux	_	_
+6	make	make	VERB	_	B	0	root	_	_
+7	sure	sure	ADJ	_	J	14	acomp	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	correct	correct	ADJ	_	J	10	amod	_	_
+10	address	address	NOUN	_	N	14	nsubj	_	_
+11	and	and	CCONJ	_	C	10	cc	_	_
+12	billing	billing	NOUN	_	N	13	compound	_	_
+13	numbers	number	NOUN	_	NS	10	conj	_	_
+14	were	be	AUX	_	BD	6	ccomp	_	_
+15	use	use	NOUN	_	N	14	attr	_	_
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 6
+# text = AND, even if it is truly out of network, the providers might be able to negotiate a deal with the insurer, maybe even join the network.
+1	AND	and	CCONJ	_	C	15	cc	_	_
+2	,	,	PUNCT	_	_	15	punct	_	_
+3	even	even	ADV	_	B	6	advmod	_	_
+4	if	if	SCONJ	_	N	6	mark	_	_
+5	it	it	PRON	_	RP	6	nsubj	_	_
+6	is	be	AUX	_	BZ	15	advcl	_	_
+7	truly	truly	ADV	_	B	6	advmod	_	_
+8	out	out	ADP	_	N	6	prep	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	network	network	NOUN	_	N	9	pobj	_	_
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	providers	provider	NOUN	_	NS	15	nsubj	_	_
+14	might	might	AUX	_	D	15	aux	_	_
+15	be	be	AUX	_	B	27	advcl	_	_
+16	able	able	ADJ	_	J	15	acomp	_	_
+17	to	to	PART	_	O	18	aux	_	_
+18	negotiate	negotiate	VERB	_	B	16	xcomp	_	_
+19	a	a	DET	_	T	20	det	_	_
+20	deal	deal	NOUN	_	N	18	dobj	_	_
+21	with	with	ADP	_	N	18	prep	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	insurer	insurer	NOUN	_	N	21	pobj	_	_
+24	,	,	PUNCT	_	_	27	punct	_	_
+25	maybe	maybe	ADV	_	B	27	advmod	_	_
+26	even	even	ADV	_	B	27	advmod	_	_
+27	join	join	VERB	_	BP	0	root	_	_
+28	the	the	DET	_	T	29	det	_	_
+29	network	network	NOUN	_	N	27	dobj	_	_
+30	.	.	PUNCT	_	_	27	punct	_	_
+
+
+# sent_id = 7
+# text = I've done that, even if you haven't or haven't even tried.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	've	have	AUX	_	BP	3	aux	_	_
+3	done	do	VERB	_	BN	0	root	_	_
+4	that	that	PRON	_	T	3	dobj	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	even	even	ADV	_	B	9	advmod	_	_
+7	if	if	SCONJ	_	N	9	mark	_	_
+8	you	you	PRON	_	RP	9	nsubj	_	_
+9	have	have	VERB	_	BP	3	advcl	_	_
+10	n't	not	PART	_	B	9	neg	_	_
+11	or	or	CCONJ	_	C	9	cc	_	_
+12	have	have	AUX	_	B	15	aux	_	_
+13	n't	not	PART	_	B	15	neg	_	_
+14	even	even	ADV	_	B	15	advmod	_	_
+15	tried	try	VERB	_	BN	9	conj	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = If the provider knew they were out of network, they would likely have made the patient pay upfront.
+1	If	if	SCONJ	_	N	4	mark	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	provider	provider	NOUN	_	N	4	nsubj	_	_
+4	knew	know	VERB	_	BD	15	advcl	_	_
+5	they	they	PRON	_	RP	6	nsubj	_	_
+6	were	be	AUX	_	BD	4	ccomp	_	_
+7	out	out	ADP	_	N	6	prep	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	network	network	NOUN	_	N	8	pobj	_	_
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	they	they	PRON	_	RP	15	nsubj	_	_
+12	would	would	AUX	_	D	15	aux	_	_
+13	likely	likely	ADV	_	B	15	advmod	_	_
+14	have	have	AUX	_	B	15	aux	_	_
+15	made	make	VERB	_	BN	0	root	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	patient	patient	NOUN	_	N	18	nsubj	_	_
+18	pay	pay	NOUN	_	N	19	compound	_	_
+19	upfront	upfront	NOUN	_	N	15	dobj	_	_
+20	.	.	PUNCT	_	_	15	punct	_	_
+
+
+# sent_id = 9
+# text = Finally, the providers likely charged 4, 5, 6 times what they expected to receive, and if all if fails, offer the patient a significantly reduced rate.
+1	Finally	finally	ADV	_	B	6	advmod	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	providers	provider	NOUN	_	NS	6	nsubj	_	_
+5	likely	likely	ADV	_	B	6	advmod	_	_
+6	charged	charge	VERB	_	BD	0	root	_	_
+7	4	4	NUM	_	D	6	dobj	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	5	5	NUM	_	D	6	npadvmod	_	_
+10	,	,	PUNCT	_	_	6	punct	_	_
+11	6	6	NUM	_	D	12	nummod	_	_
+12	times	time	NOUN	_	NS	6	npadvmod	_	_
+13	what	what	PRON	_	P	17	dobj	_	_
+14	they	they	PRON	_	RP	15	nsubj	_	_
+15	expected	expect	VERB	_	BD	6	ccomp	_	_
+16	to	to	PART	_	O	17	aux	_	_
+17	receive	receive	VERB	_	B	15	xcomp	_	_
+18	,	,	PUNCT	_	_	6	punct	_	_
+19	and	and	CCONJ	_	C	6	cc	_	_
+20	if	if	SCONJ	_	N	23	mark	_	_
+21	all	all	ADV	_	B	23	advmod	_	_
+22	if	if	SCONJ	_	N	23	mark	_	_
+23	fails	fail	VERB	_	BZ	25	advcl	_	_
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	offer	offer	VERB	_	BP	6	conj	_	_
+26	the	the	DET	_	T	27	det	_	_
+27	patient	patient	NOUN	_	N	25	dative	_	_
+28	a	a	DET	_	T	31	det	_	_
+29	significantly	significantly	ADV	_	B	30	advmod	_	_
+30	reduced	reduce	VERB	_	BN	31	amod	_	_
+31	rate	rate	NOUN	_	N	25	dobj	_	_
+32	.	.	PUNCT	_	_	25	punct	_	_
+
+
+# sent_id = 10
+# text = And the facility wants to get paid, and the patient clearly isn't in a position to pay.
+1	And	and	CCONJ	_	C	4	cc	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	facility	facility	NOUN	_	N	4	nsubj	_	_
+4	wants	want	VERB	_	BZ	0	root	_	_
+5	to	to	PART	_	O	7	aux	_	_
+6	get	get	AUX	_	B	7	auxpass	_	_
+7	paid	pay	VERB	_	BN	4	xcomp	_	_
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	and	and	CCONJ	_	C	4	cc	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	patient	patient	NOUN	_	N	13	nsubj	_	_
+12	clearly	clearly	ADV	_	B	13	advmod	_	_
+13	is	be	AUX	_	BZ	4	conj	_	_
+14	n't	not	PART	_	B	13	neg	_	_
+15	in	in	ADP	_	N	13	prep	_	_
+16	a	a	DET	_	T	17	det	_	_
+17	position	position	NOUN	_	N	15	pobj	_	_
+18	to	to	PART	_	O	19	aux	_	_
+19	pay	pay	VERB	_	B	17	relcl	_	_
+20	.	.	PUNCT	_	_	13	punct	_	_
+
+
+# sent_id = 11
+# text = So someone is going to have to do something.
+1	So	so	ADV	_	B	4	advmod	_	_
+2	someone	someone	PRON	_	N	4	nsubj	_	_
+3	is	be	AUX	_	BZ	4	aux	_	_
+4	going	go	VERB	_	BG	0	root	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	have	have	VERB	_	B	4	xcomp	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	do	do	VERB	_	B	6	xcomp	_	_
+9	something	something	PRON	_	N	8	dobj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+

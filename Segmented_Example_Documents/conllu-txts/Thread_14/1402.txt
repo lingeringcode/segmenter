@@ -1,0 +1,48 @@
+# sent_id = 1
+# text = Thread_14
+1	Thread_14	thread_14	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 1402
+1	1402	1402	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1401
+1	1401	1401	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/AdDesigner9976
+1	u	u	NOUN	_	N	3	punct	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	AdDesigner9976	addesigner9976	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = Thanks.
+1	Thanks	thank	NOUN	_	NS	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = would this be in the form of letters we have to submit with the appeal?
+1	would	would	AUX	_	D	3	aux	_	_
+2	this	this	PRON	_	T	3	nsubj	_	_
+3	be	be	AUX	_	B	0	root	_	_
+4	in	in	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	form	form	NOUN	_	N	4	pobj	_	_
+7	of	of	ADP	_	N	6	prep	_	_
+8	letters	letter	NOUN	_	NS	7	pobj	_	_
+9	we	we	PRON	_	RP	10	nsubj	_	_
+10	have	have	VERB	_	BP	8	relcl	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	submit	submit	VERB	_	B	10	xcomp	_	_
+13	with	with	ADP	_	N	12	prep	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	appeal	appeal	NOUN	_	N	13	pobj	_	_
+16	?	?	PUNCT	_	_	3	punct	_	_
+
+

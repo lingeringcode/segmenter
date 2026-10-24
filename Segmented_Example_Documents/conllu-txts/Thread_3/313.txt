@@ -1,0 +1,97 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 313
+1	313	313	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 312
+1	312	312	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/ResponsibilityNo4650
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	X	_	DD	1	punct	_	_
+3	ResponsibilityNo4650	responsibilityno4650	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 5
+# text = I wish we could switch, I got hired maybe a month after they switched from a different health plan.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	wish	wish	VERB	_	BP	9	ccomp	_	_
+3	we	we	PRON	_	RP	5	nsubj	_	_
+4	could	could	AUX	_	D	5	aux	_	_
+5	switch	switch	VERB	_	B	2	ccomp	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	I	i	PRON	_	RP	9	nsubjpass	_	_
+8	got	get	AUX	_	BD	9	auxpass	_	_
+9	hired	hire	VERB	_	BN	0	root	_	_
+10	maybe	maybe	ADV	_	B	9	advmod	_	_
+11	a	a	DET	_	T	12	det	_	_
+12	month	month	NOUN	_	N	15	npadvmod	_	_
+13	after	after	SCONJ	_	N	15	mark	_	_
+14	they	they	PRON	_	RP	15	nsubj	_	_
+15	switched	switch	VERB	_	BD	9	advcl	_	_
+16	from	from	ADP	_	N	15	prep	_	_
+17	a	a	DET	_	T	20	det	_	_
+18	different	different	ADJ	_	J	20	amod	_	_
+19	health	health	NOUN	_	N	20	compound	_	_
+20	plan	plan	NOUN	_	N	16	pobj	_	_
+21	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 6
+# text = It’s bonkers they’d change everything over then make it worse.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	’s	’	VERB	_	BZ	0	root	_	_
+3	bonkers	bonker	NOUN	_	NS	2	attr	_	_
+4	they	they	PRON	_	RP	6	nsubj	_	_
+5	’d	’d	AUX	_	D	6	aux	_	_
+6	change	change	VERB	_	B	3	ccomp	_	_
+7	everything	everything	PRON	_	N	6	dobj	_	_
+8	over	over	ADP	_	P	6	prt	_	_
+9	then	then	ADV	_	B	6	advmod	_	_
+10	make	make	VERB	_	BP	6	dep	_	_
+11	it	it	PRON	_	RP	12	nsubj	_	_
+12	worse	bad	ADJ	_	JR	10	ccomp	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = I’m sure to them its saving money, but I can’t think having employees needing to take fmla or take more sick days would be cheaper.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	’m	’m	VERB	_	BZ	0	root	_	_
+3	sure	sure	ADJ	_	J	2	acomp	_	_
+4	to	to	ADP	_	N	3	prep	_	_
+5	them	they	PRON	_	RP	4	pobj	_	_
+6	its	its	PRON	_	RP$	8	poss	_	_
+7	saving	save	VERB	_	BG	8	amod	_	_
+8	money	money	NOUN	_	N	2	dobj	_	_
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	but	but	CCONJ	_	C	2	cc	_	_
+11	I	i	PRON	_	RP	14	nsubj	_	_
+12	ca	can	AUX	_	D	14	aux	_	_
+13	n’t	not	PART	_	B	14	neg	_	_
+14	think	think	VERB	_	B	2	conj	_	_
+15	having	have	VERB	_	BG	27	csubj	_	_
+16	employees	employee	NOUN	_	NS	17	nsubj	_	_
+17	needing	need	VERB	_	BG	15	ccomp	_	_
+18	to	to	PART	_	O	19	aux	_	_
+19	take	take	VERB	_	B	17	xcomp	_	_
+20	fmla	fmla	NOUN	_	NS	19	dobj	_	_
+21	or	or	CCONJ	_	C	19	cc	_	_
+22	take	take	VERB	_	B	19	conj	_	_
+23	more	more	ADV	_	BR	24	advmod	_	_
+24	sick	sick	ADJ	_	J	25	amod	_	_
+25	days	day	NOUN	_	NS	22	dobj	_	_
+26	would	would	AUX	_	D	27	aux	_	_
+27	be	be	AUX	_	B	14	ccomp	_	_
+28	cheaper	cheap	ADJ	_	JR	27	acomp	_	_
+29	.	.	PUNCT	_	_	14	punct	_	_
+
+

@@ -1,0 +1,42 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1211
+1	1211	1211	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1200
+1	1200	1200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/DeepFriarMediaReal
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	DeepFriarMediaReal	deepfriarmediareal	NOUN	_	N	1	conj	_	_
+
+
+# sent_id = 5
+# text = Update.
+1	Update	update	NOUN	_	N	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = We are going with a peer to peer next.
+1	We	we	PRON	_	RP	3	nsubj	_	_
+2	are	be	AUX	_	BP	3	aux	_	_
+3	going	go	VERB	_	BG	0	root	_	_
+4	with	with	ADP	_	N	3	prep	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	peer	peer	NOUN	_	N	4	pobj	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	peer	peer	VERB	_	B	3	xcomp	_	_
+9	next	next	ADV	_	B	8	advmod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+

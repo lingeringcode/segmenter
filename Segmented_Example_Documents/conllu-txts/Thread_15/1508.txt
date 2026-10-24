@@ -1,0 +1,63 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1508
+1	1508	1508	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1507
+1	1507	1507	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/sarahjustme
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	sarahjustme	sarahjustme	NOUN	_	NS	1	appos	_	_
+
+
+# sent_id = 5
+# text = Focus on function.
+1	Focus	focus	NOUN	_	N	0	root	_	_
+2	on	on	ADP	_	N	1	prep	_	_
+3	function	function	NOUN	_	N	2	pobj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = Pain can be treated with meds.
+1	Pain	pain	NOUN	_	N	4	nsubjpass	_	_
+2	can	can	AUX	_	D	4	aux	_	_
+3	be	be	AUX	_	B	4	auxpass	_	_
+4	treated	treat	VERB	_	BN	0	root	_	_
+5	with	with	ADP	_	N	4	prep	_	_
+6	meds	med	NOUN	_	NS	5	pobj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = This is about things like walking, peeing/pooping, being able to do normal human stuff
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	about	about	ADP	_	N	2	prep	_	_
+4	things	thing	NOUN	_	NS	3	pobj	_	_
+5	like	like	ADP	_	N	4	prep	_	_
+6	walking	walk	VERB	_	BG	5	pcomp	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	peeing	pee	VERB	_	BG	10	nmod	_	_
+9	/	/	SYM	_	YM	10	punct	_	_
+10	pooping	pooping	NOUN	_	N	6	conj	_	_
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	being	be	AUX	_	BG	2	advcl	_	_
+13	able	able	ADJ	_	J	12	acomp	_	_
+14	to	to	PART	_	O	15	aux	_	_
+15	do	do	VERB	_	B	13	xcomp	_	_
+16	normal	normal	ADJ	_	J	18	amod	_	_
+17	human	human	ADJ	_	J	18	amod	_	_
+18	stuff	stuff	NOUN	_	N	15	dobj	_	_
+
+

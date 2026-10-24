@@ -1,0 +1,155 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1115
+1	1115	1115	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1100
+1	1100	1100	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Botasoda102
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Botasoda102	botasoda102	NUM	_	D	1	nummod	_	_
+
+
+# sent_id = 5
+# text = When you say "we appealed," do you mean you and your friend or the medical providers?
+1	When	when	SCONJ	_	RB	3	advmod	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	say	say	VERB	_	BP	11	advcl	_	_
+4	"	"	PUNCT	_	`	6	punct	_	_
+5	we	we	PRON	_	RP	6	nsubj	_	_
+6	appealed	appeal	VERB	_	BD	3	ccomp	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	"	"	PUNCT	_	'	6	punct	_	_
+9	do	do	AUX	_	BP	11	aux	_	_
+10	you	you	PRON	_	RP	11	nsubj	_	_
+11	mean	mean	VERB	_	B	0	root	_	_
+12	you	you	PRON	_	RP	11	dobj	_	_
+13	and	and	CCONJ	_	C	12	cc	_	_
+14	your	your	PRON	_	RP$	15	poss	_	_
+15	friend	friend	NOUN	_	N	12	conj	_	_
+16	or	or	CCONJ	_	C	15	cc	_	_
+17	the	the	DET	_	T	19	det	_	_
+18	medical	medical	ADJ	_	J	19	amod	_	_
+19	providers	provider	NOUN	_	NS	15	conj	_	_
+20	?	?	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 6
+# text = Unfortunately, your chances of winning an appeal are low.
+1	Unfortunately	unfortunately	ADV	_	B	9	advmod	_	_
+2	,	,	PUNCT	_	_	9	punct	_	_
+3	your	your	PRON	_	RP$	4	poss	_	_
+4	chances	chance	NOUN	_	NS	9	nsubj	_	_
+5	of	of	ADP	_	N	4	prep	_	_
+6	winning	win	VERB	_	BG	5	pcomp	_	_
+7	an	an	DET	_	T	8	det	_	_
+8	appeal	appeal	NOUN	_	N	6	dobj	_	_
+9	are	be	AUX	_	BP	0	root	_	_
+10	low	low	ADJ	_	J	9	acomp	_	_
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 7
+# text = A physician, etc., -- on the other hand -- has the info to indicate it was not a known condition when taking out policy, they know how to appeal, and they want to get paid (and know your friend likely doesn't have the money).
+1	A	a	DET	_	T	2	det	_	_
+2	physician	physician	NOUN	_	N	13	nsubj	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	etc	etc	X	_	W	2	conj	_	_
+5	.	.	X	_	W	2	conj	_	_
+6	,	,	PUNCT	_	_	13	punct	_	_
+7	--	--	PUNCT	_	_	13	punct	_	_
+8	on	on	ADP	_	N	13	prep	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	other	other	ADJ	_	J	11	amod	_	_
+11	hand	hand	NOUN	_	N	8	pobj	_	_
+12	--	--	PUNCT	_	_	13	punct	_	_
+13	has	have	VERB	_	BZ	30	ccomp	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	info	info	NOUN	_	N	13	dobj	_	_
+16	to	to	PART	_	O	17	aux	_	_
+17	indicate	indicate	VERB	_	B	15	relcl	_	_
+18	it	it	PRON	_	RP	19	nsubj	_	_
+19	was	be	AUX	_	BD	17	ccomp	_	_
+20	not	not	PART	_	B	19	neg	_	_
+21	a	a	DET	_	T	23	det	_	_
+22	known	know	VERB	_	BN	23	amod	_	_
+23	condition	condition	NOUN	_	N	19	attr	_	_
+24	when	when	SCONJ	_	RB	25	advmod	_	_
+25	taking	take	VERB	_	BG	19	advcl	_	_
+26	out	out	ADP	_	P	25	prt	_	_
+27	policy	policy	NOUN	_	N	25	dobj	_	_
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	they	they	PRON	_	RP	30	nsubj	_	_
+30	know	know	VERB	_	BP	0	root	_	_
+31	how	how	SCONJ	_	RB	33	advmod	_	_
+32	to	to	PART	_	O	33	aux	_	_
+33	appeal	appeal	VERB	_	B	30	xcomp	_	_
+34	,	,	PUNCT	_	_	30	punct	_	_
+35	and	and	CCONJ	_	C	30	cc	_	_
+36	they	they	PRON	_	RP	37	nsubj	_	_
+37	want	want	VERB	_	BP	30	conj	_	_
+38	to	to	PART	_	O	40	aux	_	_
+39	get	get	AUX	_	B	40	auxpass	_	_
+40	paid	pay	VERB	_	BN	37	xcomp	_	_
+41	(	(	PUNCT	_	LRB-	37	punct	_	_
+42	and	and	CCONJ	_	C	37	cc	_	_
+43	know	know	VERB	_	B	37	conj	_	_
+44	your	your	PRON	_	RP$	45	poss	_	_
+45	friend	friend	NOUN	_	N	46	nsubj	_	_
+46	likely	likely	ADV	_	B	49	advmod	_	_
+47	does	do	AUX	_	BZ	49	aux	_	_
+48	n't	not	PART	_	B	49	neg	_	_
+49	have	have	VERB	_	B	43	ccomp	_	_
+50	the	the	DET	_	T	51	det	_	_
+51	money	money	NOUN	_	N	49	dobj	_	_
+52	)	)	PUNCT	_	RRB-	49	punct	_	_
+53	.	.	PUNCT	_	_	37	punct	_	_
+
+
+# sent_id = 8
+# text = An attorney might help, but providers are still the best ones to appeal.
+1	An	an	DET	_	T	2	det	_	_
+2	attorney	attorney	NOUN	_	N	4	nsubj	_	_
+3	might	might	AUX	_	D	4	aux	_	_
+4	help	help	VERB	_	B	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	but	but	CCONJ	_	C	4	cc	_	_
+7	providers	provider	NOUN	_	NS	8	nsubj	_	_
+8	are	be	AUX	_	BP	4	conj	_	_
+9	still	still	ADV	_	B	8	advmod	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	best	good	ADJ	_	JS	12	amod	_	_
+12	ones	one	NOUN	_	NS	8	attr	_	_
+13	to	to	PART	_	O	14	aux	_	_
+14	appeal	appeal	VERB	_	B	12	relcl	_	_
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 9
+# text = In any event, sorry you are going through this and good luck.
+1	In	in	ADP	_	N	5	prep	_	_
+2	any	any	DET	_	T	3	det	_	_
+3	event	event	NOUN	_	N	1	pobj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	sorry	sorry	ADJ	_	J	0	root	_	_
+6	you	you	PRON	_	RP	8	nsubj	_	_
+7	are	be	AUX	_	BP	8	aux	_	_
+8	going	go	VERB	_	BG	5	ccomp	_	_
+9	through	through	ADP	_	N	8	prep	_	_
+10	this	this	PRON	_	T	9	pobj	_	_
+11	and	and	CCONJ	_	C	10	cc	_	_
+12	good	good	ADJ	_	J	13	amod	_	_
+13	luck	luck	NOUN	_	N	10	conj	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+

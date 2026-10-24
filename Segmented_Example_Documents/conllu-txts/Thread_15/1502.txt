@@ -1,0 +1,153 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1502
+1	1502	1502	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1501
+1	1501	1501	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Maleficent-Caramel37
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Maleficent	maleficent	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Caramel37	caramel37	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Not medically necessary was the denial.
+1	Not	not	PART	_	B	3	neg	_	_
+2	medically	medically	ADV	_	B	3	advmod	_	_
+3	necessary	necessary	ADJ	_	J	4	acomp	_	_
+4	was	be	AUX	_	BD	0	root	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	denial	denial	NOUN	_	N	4	attr	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 6
+# text = I have not recieved a letter yet.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	have	have	AUX	_	BP	4	aux	_	_
+3	not	not	PART	_	B	4	neg	_	_
+4	recieved	recieve	VERB	_	BN	0	root	_	_
+5	a	a	DET	_	T	6	det	_	_
+6	letter	letter	NOUN	_	N	4	dobj	_	_
+7	yet	yet	ADV	_	B	4	advmod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = It was dated the 7th.
+1	It	it	PRON	_	RP	3	nsubjpass	_	_
+2	was	be	AUX	_	BD	3	auxpass	_	_
+3	dated	date	VERB	_	BN	0	root	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	7th	7th	NOUN	_	N	3	oprd	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = I was in the portal last week for dental benefits and there was nothing even pending so didn't think to keep checking.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	was	be	AUX	_	BD	0	root	_	_
+3	in	in	ADP	_	N	2	prep	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	portal	portal	ADJ	_	J	3	pobj	_	_
+6	last	last	ADJ	_	J	7	amod	_	_
+7	week	week	NOUN	_	N	2	npadvmod	_	_
+8	for	for	ADP	_	N	2	prep	_	_
+9	dental	dental	ADJ	_	J	10	amod	_	_
+10	benefits	benefit	NOUN	_	NS	8	pobj	_	_
+11	and	and	CCONJ	_	C	2	cc	_	_
+12	there	there	PRON	_	X	13	expl	_	_
+13	was	be	VERB	_	BD	2	conj	_	_
+14	nothing	nothing	PRON	_	N	13	attr	_	_
+15	even	even	ADV	_	B	16	advmod	_	_
+16	pending	pende	VERB	_	BG	13	advcl	_	_
+17	so	so	ADV	_	B	16	advmod	_	_
+18	did	do	AUX	_	BD	20	aux	_	_
+19	n't	not	PART	_	B	20	neg	_	_
+20	think	think	VERB	_	B	2	conj	_	_
+21	to	to	PART	_	O	22	aux	_	_
+22	keep	keep	VERB	_	B	20	xcomp	_	_
+23	checking	check	VERB	_	BG	22	xcomp	_	_
+24	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = Theres been many time prior auths didn't show in portal until after the procedure was completed for my husband's surgeries.
+1	There	there	PRON	_	X	3	expl	_	_
+2	s	s	AUX	_	BZ	3	auxpass	_	_
+3	been	be	AUX	_	BN	0	root	_	_
+4	many	many	ADJ	_	J	5	amod	_	_
+5	time	time	NOUN	_	N	3	attr	_	_
+6	prior	prior	ADJ	_	J	7	amod	_	_
+7	auths	auth	NOUN	_	NS	10	nsubj	_	_
+8	did	do	AUX	_	BD	10	aux	_	_
+9	n't	not	PART	_	B	10	neg	_	_
+10	show	show	VERB	_	B	5	relcl	_	_
+11	in	in	ADP	_	N	10	prep	_	_
+12	portal	portal	ADJ	_	J	11	pobj	_	_
+13	until	until	SCONJ	_	N	18	mark	_	_
+14	after	after	SCONJ	_	N	18	mark	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	procedure	procedure	NOUN	_	N	18	nsubjpass	_	_
+17	was	be	AUX	_	BD	18	auxpass	_	_
+18	completed	complete	VERB	_	BN	10	advcl	_	_
+19	for	for	ADP	_	N	18	prep	_	_
+20	my	my	PRON	_	RP$	21	poss	_	_
+21	husband	husband	NOUN	_	N	23	poss	_	_
+22	's	's	PART	_	OS	21	case	_	_
+23	surgeries	surgery	NOUN	_	NS	19	pobj	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 10
+# text = I decided to check my insurance portal randomly before the cancelation window on everything closed today.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	decided	decide	VERB	_	BD	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	check	check	VERB	_	B	2	xcomp	_	_
+5	my	my	PRON	_	RP$	6	poss	_	_
+6	insurance	insurance	NOUN	_	N	7	compound	_	_
+7	portal	portal	ADJ	_	J	4	dobj	_	_
+8	randomly	randomly	ADV	_	B	4	advmod	_	_
+9	before	before	SCONJ	_	N	15	mark	_	_
+10	the	the	DET	_	T	12	det	_	_
+11	cancelation	cancelation	NOUN	_	N	12	compound	_	_
+12	window	window	NOUN	_	N	15	nsubj	_	_
+13	on	on	ADP	_	N	12	prep	_	_
+14	everything	everything	PRON	_	N	13	pobj	_	_
+15	closed	close	VERB	_	BN	4	advcl	_	_
+16	today	today	NOUN	_	N	15	npadvmod	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 11
+# text = Have not heard from the surgical coordinator, but will be calling first thing.
+1	Have	have	AUX	_	BP	3	aux	_	_
+2	not	not	PART	_	B	3	neg	_	_
+3	heard	hear	VERB	_	BN	0	root	_	_
+4	from	from	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	surgical	surgical	ADJ	_	J	7	amod	_	_
+7	coordinator	coordinator	NOUN	_	N	4	pobj	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	but	but	CCONJ	_	C	3	cc	_	_
+10	will	will	AUX	_	D	12	aux	_	_
+11	be	be	AUX	_	B	12	aux	_	_
+12	calling	call	VERB	_	BG	3	conj	_	_
+13	first	first	ADJ	_	J	14	amod	_	_
+14	thing	thing	NOUN	_	N	12	dobj	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+

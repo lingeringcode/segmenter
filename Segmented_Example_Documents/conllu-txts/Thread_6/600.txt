@@ -1,0 +1,410 @@
+# sent_id = 1
+# text = Thread_6
+1	Thread_6	thread_6	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 600
+1	600	600	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Campnoodles
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Campnoodles	campnoodle	NOUN	_	NS	1	appos	_	_
+
+
+# sent_id = 5
+# text = Claim denial, next steps?
+1	Claim	claim	NOUN	_	N	2	compound	_	_
+2	denial	denial	NOUN	_	N	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	next	next	ADJ	_	J	5	amod	_	_
+5	steps	step	NOUN	_	NS	2	appos	_	_
+6	?	?	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = The patient Visited Northwestern Medicine for a surgery on December 24th 2025, for a gender affirming bilateral mastectomy .
+1	The	the	DET	_	T	2	det	_	_
+2	patient	patient	NOUN	_	N	0	root	_	_
+3	Visited	visited	PROPN	_	NP	5	compound	_	_
+4	Northwestern	northwestern	PROPN	_	NP	5	compound	_	_
+5	Medicine	medicine	PROPN	_	NP	2	appos	_	_
+6	for	for	ADP	_	N	2	prep	_	_
+7	a	a	DET	_	T	8	det	_	_
+8	surgery	surgery	NOUN	_	N	6	pobj	_	_
+9	on	on	ADP	_	N	2	prep	_	_
+10	December	december	PROPN	_	NP	11	compound	_	_
+11	24th	24th	NOUN	_	N	9	pobj	_	_
+12	2025	2025	NUM	_	D	11	nummod	_	_
+13	,	,	PUNCT	_	_	2	punct	_	_
+14	for	for	ADP	_	N	2	prep	_	_
+15	a	a	DET	_	T	16	det	_	_
+16	gender	gender	NOUN	_	N	17	nsubj	_	_
+17	affirming	affirm	VERB	_	BG	14	pcomp	_	_
+18	bilateral	bilateral	ADJ	_	J	19	amod	_	_
+19	mastectomy	mastectomy	NOUN	_	N	17	dobj	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = He was offered a Nerve Block before the surgery, as a form of anesthesia, This was billed under the CPT Code 64466 for a thoracic nerve block, which under his health plan is deemed Experimental and Exploratory, with the diagnostic code F64.9 which is for Gender identity disorder- unspecified.
+1	He	he	PRON	_	RP	3	nsubjpass	_	_
+2	was	be	AUX	_	BD	3	auxpass	_	_
+3	offered	offer	VERB	_	BN	0	root	_	_
+4	a	a	DET	_	T	6	det	_	_
+5	Nerve	nerve	PROPN	_	NP	6	compound	_	_
+6	Block	block	PROPN	_	NP	3	dobj	_	_
+7	before	before	ADP	_	N	3	prep	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	surgery	surgery	NOUN	_	N	7	pobj	_	_
+10	,	,	PUNCT	_	_	3	punct	_	_
+11	as	as	ADP	_	N	19	prep	_	_
+12	a	a	DET	_	T	13	det	_	_
+13	form	form	NOUN	_	N	11	pobj	_	_
+14	of	of	ADP	_	N	13	prep	_	_
+15	anesthesia	anesthesia	NOUN	_	N	14	pobj	_	_
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	This	this	PRON	_	T	19	nsubjpass	_	_
+18	was	be	AUX	_	BD	19	auxpass	_	_
+19	billed	bill	VERB	_	BN	3	advcl	_	_
+20	under	under	ADP	_	N	19	prep	_	_
+21	the	the	DET	_	T	23	det	_	_
+22	CPT	cpt	PROPN	_	NP	23	compound	_	_
+23	Code	code	PROPN	_	NP	20	pobj	_	_
+24	64466	64466	NUM	_	D	23	nummod	_	_
+25	for	for	ADP	_	N	19	prep	_	_
+26	a	a	DET	_	T	29	det	_	_
+27	thoracic	thoracic	ADJ	_	J	29	amod	_	_
+28	nerve	nerve	NOUN	_	N	29	compound	_	_
+29	block	block	NOUN	_	N	25	pobj	_	_
+30	,	,	PUNCT	_	_	29	punct	_	_
+31	which	which	PRON	_	DT	37	nsubjpass	_	_
+32	under	under	ADP	_	N	37	prep	_	_
+33	his	his	PRON	_	RP$	35	poss	_	_
+34	health	health	NOUN	_	N	35	compound	_	_
+35	plan	plan	NOUN	_	N	32	pobj	_	_
+36	is	be	AUX	_	BZ	37	auxpass	_	_
+37	deemed	deem	VERB	_	BN	29	relcl	_	_
+38	Experimental	experimental	PROPN	_	NP	37	oprd	_	_
+39	and	and	CCONJ	_	C	38	cc	_	_
+40	Exploratory	exploratory	PROPN	_	NP	38	conj	_	_
+41	,	,	PUNCT	_	_	29	punct	_	_
+42	with	with	ADP	_	N	29	prep	_	_
+43	the	the	DET	_	T	45	det	_	_
+44	diagnostic	diagnostic	ADJ	_	J	45	amod	_	_
+45	code	code	NOUN	_	N	46	compound	_	_
+46	F64.9	f64.9	PROPN	_	NP	42	pobj	_	_
+47	which	which	PRON	_	DT	48	nsubj	_	_
+48	is	be	AUX	_	BZ	46	relcl	_	_
+49	for	for	SCONJ	_	N	53	mark	_	_
+50	Gender	gender	PROPN	_	NP	51	compound	_	_
+51	identity	identity	NOUN	_	N	52	compound	_	_
+52	disorder-	disorder-	NOUN	_	N	53	nsubj	_	_
+53	unspecified	unspecified	ADJ	_	J	48	advcl	_	_
+54	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = On January 22nd 2026, after the surgery, the patient received a letter from Quantum Health, stating that the aforementioned Thoracic Nerve Block had been approved under the patients health plan for the date of service 12/24/2025.
+1	On	on	ADP	_	N	12	prep	_	_
+2	January	january	PROPN	_	NP	3	compound	_	_
+3	22nd	22nd	NOUN	_	N	1	pobj	_	_
+4	2026	2026	NUM	_	D	3	nummod	_	_
+5	,	,	PUNCT	_	_	12	punct	_	_
+6	after	after	ADP	_	N	12	prep	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	surgery	surgery	NOUN	_	N	6	pobj	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	patient	patient	NOUN	_	N	12	nsubj	_	_
+12	received	receive	VERB	_	BD	0	root	_	_
+13	a	a	DET	_	T	14	det	_	_
+14	letter	letter	NOUN	_	N	12	dobj	_	_
+15	from	from	ADP	_	N	14	prep	_	_
+16	Quantum	quantum	PROPN	_	NP	17	compound	_	_
+17	Health	health	PROPN	_	NP	15	pobj	_	_
+18	,	,	PUNCT	_	_	12	punct	_	_
+19	stating	state	VERB	_	BG	12	advcl	_	_
+20	that	that	SCONJ	_	N	28	mark	_	_
+21	the	the	DET	_	T	25	det	_	_
+22	aforementioned	aforementioned	ADJ	_	J	25	amod	_	_
+23	Thoracic	thoracic	PROPN	_	NP	25	compound	_	_
+24	Nerve	nerve	PROPN	_	NP	25	compound	_	_
+25	Block	block	PROPN	_	NP	28	nsubjpass	_	_
+26	had	have	AUX	_	BD	28	aux	_	_
+27	been	be	AUX	_	BN	28	auxpass	_	_
+28	approved	approve	VERB	_	BN	19	ccomp	_	_
+29	under	under	ADP	_	N	28	prep	_	_
+30	the	the	DET	_	T	33	det	_	_
+31	patients	patient	NOUN	_	NS	33	compound	_	_
+32	health	health	NOUN	_	N	33	compound	_	_
+33	plan	plan	NOUN	_	N	29	pobj	_	_
+34	for	for	ADP	_	N	33	prep	_	_
+35	the	the	DET	_	T	36	det	_	_
+36	date	date	NOUN	_	N	34	pobj	_	_
+37	of	of	ADP	_	N	36	prep	_	_
+38	service	service	NOUN	_	N	37	pobj	_	_
+39	12/24/2025	12/24/2025	NUM	_	D	38	nummod	_	_
+40	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 9
+# text = On January 28th 2026, the patient received a letter from Independence Administrators, a subsidiary of Blue cross blue shield operated by Amerihealth, that the claim from the date of service, for diagnostic code F64.9 and CPT Code 64466 had been Denied, and had been appealed by Northwestern Medicine.
+1	On	on	ADP	_	N	8	prep	_	_
+2	January	january	PROPN	_	NP	3	compound	_	_
+3	28th	28th	NOUN	_	N	1	pobj	_	_
+4	2026	2026	NUM	_	D	3	nummod	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	patient	patient	NOUN	_	N	8	nsubj	_	_
+8	received	receive	VERB	_	BD	0	root	_	_
+9	a	a	DET	_	T	10	det	_	_
+10	letter	letter	NOUN	_	N	8	dobj	_	_
+11	from	from	ADP	_	N	10	prep	_	_
+12	Independence	independence	PROPN	_	NP	13	compound	_	_
+13	Administrators	administrators	PROPN	_	NPS	11	pobj	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	a	a	DET	_	T	16	det	_	_
+16	subsidiary	subsidiary	NOUN	_	N	13	appos	_	_
+17	of	of	ADP	_	N	16	prep	_	_
+18	Blue	blue	PROPN	_	NP	17	pobj	_	_
+19	cross	cross	VERB	_	BP	8	prep	_	_
+20	blue	blue	ADJ	_	J	21	amod	_	_
+21	shield	shield	NOUN	_	N	19	dobj	_	_
+22	operated	operate	VERB	_	BN	21	acl	_	_
+23	by	by	ADP	_	N	22	agent	_	_
+24	Amerihealth	amerihealth	PROPN	_	NP	23	pobj	_	_
+25	,	,	PUNCT	_	_	8	punct	_	_
+26	that	that	SCONJ	_	N	45	mark	_	_
+27	the	the	DET	_	T	28	det	_	_
+28	claim	claim	NOUN	_	N	45	nsubjpass	_	_
+29	from	from	ADP	_	N	28	prep	_	_
+30	the	the	DET	_	T	31	det	_	_
+31	date	date	NOUN	_	N	29	pobj	_	_
+32	of	of	ADP	_	N	31	prep	_	_
+33	service	service	NOUN	_	N	32	pobj	_	_
+34	,	,	PUNCT	_	_	28	punct	_	_
+35	for	for	ADP	_	N	28	prep	_	_
+36	diagnostic	diagnostic	ADJ	_	J	37	amod	_	_
+37	code	code	NOUN	_	N	38	compound	_	_
+38	F64.9	f64.9	PROPN	_	NP	35	pobj	_	_
+39	and	and	CCONJ	_	C	38	cc	_	_
+40	CPT	cpt	PROPN	_	NP	41	compound	_	_
+41	Code	code	PROPN	_	NP	38	conj	_	_
+42	64466	64466	NUM	_	D	41	nummod	_	_
+43	had	have	AUX	_	BD	45	aux	_	_
+44	been	be	AUX	_	BN	45	auxpass	_	_
+45	Denied	deny	VERB	_	BN	8	advcl	_	_
+46	,	,	PUNCT	_	_	45	punct	_	_
+47	and	and	CCONJ	_	C	45	cc	_	_
+48	had	have	AUX	_	BD	50	aux	_	_
+49	been	be	AUX	_	BN	50	auxpass	_	_
+50	appealed	appeal	VERB	_	BN	45	conj	_	_
+51	by	by	ADP	_	N	50	agent	_	_
+52	Northwestern	northwestern	PROPN	_	NP	53	compound	_	_
+53	Medicine	medicine	PROPN	_	NP	51	pobj	_	_
+54	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 10
+# text = On February 6th 2026, The patient received another letter stating that the Appeal had been denied due to the exploratory nature of the CPT Code.
+1	On	on	ADP	_	N	8	prep	_	_
+2	February	february	PROPN	_	NP	3	compound	_	_
+3	6th	6th	NOUN	_	N	1	pobj	_	_
+4	2026	2026	NUM	_	D	3	nummod	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	The	the	DET	_	T	7	det	_	_
+7	patient	patient	NOUN	_	N	8	nsubj	_	_
+8	received	receive	VERB	_	BD	0	root	_	_
+9	another	another	DET	_	T	10	det	_	_
+10	letter	letter	NOUN	_	N	8	dobj	_	_
+11	stating	state	VERB	_	BG	10	acl	_	_
+12	that	that	SCONJ	_	N	17	mark	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	Appeal	appeal	NOUN	_	N	17	nsubjpass	_	_
+15	had	have	AUX	_	BD	17	aux	_	_
+16	been	be	AUX	_	BN	17	auxpass	_	_
+17	denied	deny	VERB	_	BN	11	ccomp	_	_
+18	due	due	ADP	_	N	17	prep	_	_
+19	to	to	ADP	_	N	18	pcomp	_	_
+20	the	the	DET	_	T	22	det	_	_
+21	exploratory	exploratory	ADJ	_	J	22	amod	_	_
+22	nature	nature	NOUN	_	N	19	pobj	_	_
+23	of	of	ADP	_	N	22	prep	_	_
+24	the	the	DET	_	T	26	det	_	_
+25	CPT	cpt	PROPN	_	NP	26	compound	_	_
+26	Code	code	PROPN	_	NP	23	pobj	_	_
+27	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 11
+# text = After an hour on the phone with the representative, the client had been given the option to file another appeal, which was submitted on February 20th 2026.
+1	After	after	ADP	_	N	15	prep	_	_
+2	an	an	DET	_	T	3	det	_	_
+3	hour	hour	NOUN	_	N	1	pobj	_	_
+4	on	on	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	phone	phone	NOUN	_	N	4	pobj	_	_
+7	with	with	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	representative	representative	NOUN	_	N	7	pobj	_	_
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	client	client	NOUN	_	N	15	nsubjpass	_	_
+13	had	have	AUX	_	BD	15	aux	_	_
+14	been	be	AUX	_	BN	15	auxpass	_	_
+15	given	give	VERB	_	BN	0	root	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	option	option	NOUN	_	N	15	dobj	_	_
+18	to	to	PART	_	O	19	aux	_	_
+19	file	file	VERB	_	B	17	acl	_	_
+20	another	another	DET	_	T	21	det	_	_
+21	appeal	appeal	NOUN	_	N	19	dobj	_	_
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	which	which	PRON	_	DT	25	nsubjpass	_	_
+24	was	be	AUX	_	BD	25	auxpass	_	_
+25	submitted	submit	VERB	_	BN	21	relcl	_	_
+26	on	on	ADP	_	N	25	prep	_	_
+27	February	february	PROPN	_	NP	28	compound	_	_
+28	20th	20th	NOUN	_	N	26	pobj	_	_
+29	2026	2026	NUM	_	D	28	nummod	_	_
+30	.	.	PUNCT	_	_	15	punct	_	_
+
+
+# sent_id = 12
+# text = It is the patients understanding that the denial of the claim is illegal and illegitimate given the fact that the diagnostic code for the procedure was deemed medically necessary, and had been given an approval from quantum health post service.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	patients	patient	NOUN	_	NS	2	attr	_	_
+5	understanding	understand	VERB	_	BG	4	acl	_	_
+6	that	that	SCONJ	_	N	12	mark	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	denial	denial	NOUN	_	N	12	nsubj	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	claim	claim	NOUN	_	N	9	pobj	_	_
+12	is	be	AUX	_	BZ	5	ccomp	_	_
+13	illegal	illegal	ADJ	_	J	12	acomp	_	_
+14	and	and	CCONJ	_	C	13	cc	_	_
+15	illegitimate	illegitimate	ADJ	_	J	13	conj	_	_
+16	given	give	VERB	_	BN	12	prep	_	_
+17	the	the	DET	_	T	18	det	_	_
+18	fact	fact	NOUN	_	N	16	pobj	_	_
+19	that	that	SCONJ	_	N	27	mark	_	_
+20	the	the	DET	_	T	22	det	_	_
+21	diagnostic	diagnostic	ADJ	_	J	22	amod	_	_
+22	code	code	NOUN	_	N	27	nsubjpass	_	_
+23	for	for	ADP	_	N	22	prep	_	_
+24	the	the	DET	_	T	25	det	_	_
+25	procedure	procedure	NOUN	_	N	23	pobj	_	_
+26	was	be	AUX	_	BD	27	auxpass	_	_
+27	deemed	deem	VERB	_	BN	18	acl	_	_
+28	medically	medically	ADV	_	B	29	advmod	_	_
+29	necessary	necessary	ADJ	_	J	27	oprd	_	_
+30	,	,	PUNCT	_	_	27	punct	_	_
+31	and	and	CCONJ	_	C	27	cc	_	_
+32	had	have	AUX	_	BD	34	aux	_	_
+33	been	be	AUX	_	BN	34	auxpass	_	_
+34	given	give	VERB	_	BN	27	conj	_	_
+35	an	an	DET	_	T	36	det	_	_
+36	approval	approval	NOUN	_	N	34	dobj	_	_
+37	from	from	ADP	_	N	36	prep	_	_
+38	quantum	quantum	PROPN	_	NP	41	compound	_	_
+39	health	health	NOUN	_	N	40	compound	_	_
+40	post	post	NOUN	_	N	41	compound	_	_
+41	service	service	NOUN	_	N	37	pobj	_	_
+42	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 13
+# text = Okay, so my question is, since they gave me an approval letter after my surgery, can they go back on that and deny it despite the procedureu having evidence?
+1	Okay	okay	INTJ	_	H	6	intj	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	so	so	ADV	_	B	6	advmod	_	_
+4	my	my	PRON	_	RP$	5	poss	_	_
+5	question	question	NOUN	_	N	6	nsubj	_	_
+6	is	be	AUX	_	BZ	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	since	since	SCONJ	_	N	10	mark	_	_
+9	they	they	PRON	_	RP	10	nsubj	_	_
+10	gave	give	VERB	_	BD	21	advcl	_	_
+11	me	i	PRON	_	RP	10	dative	_	_
+12	an	an	DET	_	T	14	det	_	_
+13	approval	approval	NOUN	_	N	14	compound	_	_
+14	letter	letter	NOUN	_	N	10	dobj	_	_
+15	after	after	ADP	_	N	14	prep	_	_
+16	my	my	PRON	_	RP$	17	poss	_	_
+17	surgery	surgery	NOUN	_	N	15	pobj	_	_
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	can	can	AUX	_	D	21	aux	_	_
+20	they	they	PRON	_	RP	21	nsubj	_	_
+21	go	go	VERB	_	B	6	ccomp	_	_
+22	back	back	ADV	_	B	21	advmod	_	_
+23	on	on	ADP	_	N	22	prep	_	_
+24	that	that	PRON	_	T	23	pobj	_	_
+25	and	and	CCONJ	_	C	21	cc	_	_
+26	deny	deny	VERB	_	B	21	conj	_	_
+27	it	it	PRON	_	RP	26	dobj	_	_
+28	despite	despite	SCONJ	_	N	26	prep	_	_
+29	the	the	DET	_	T	32	det	_	_
+30	procedureu	procedureu	NOUN	_	N	31	npadvmod	_	_
+31	having	have	VERB	_	BG	32	amod	_	_
+32	evidence	evidence	NOUN	_	N	28	pobj	_	_
+33	?	?	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 14
+# text = I am working on getting a copy of the claim and a letter from the anesthesiologist about the medical necessity of the procedure.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	am	be	AUX	_	BP	3	aux	_	_
+3	working	work	VERB	_	BG	0	root	_	_
+4	on	on	ADP	_	N	3	prep	_	_
+5	getting	get	VERB	_	BG	4	pcomp	_	_
+6	a	a	DET	_	T	7	det	_	_
+7	copy	copy	NOUN	_	N	5	dobj	_	_
+8	of	of	ADP	_	N	7	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	claim	claim	NOUN	_	N	8	pobj	_	_
+11	and	and	CCONJ	_	C	7	cc	_	_
+12	a	a	DET	_	T	13	det	_	_
+13	letter	letter	NOUN	_	N	7	conj	_	_
+14	from	from	ADP	_	N	13	prep	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	anesthesiologist	anesthesiologist	NOUN	_	N	14	pobj	_	_
+17	about	about	ADP	_	N	13	prep	_	_
+18	the	the	DET	_	T	20	det	_	_
+19	medical	medical	ADJ	_	J	20	amod	_	_
+20	necessity	necessity	NOUN	_	N	17	pobj	_	_
+21	of	of	ADP	_	N	20	prep	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	procedure	procedure	NOUN	_	N	21	pobj	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 15
+# text = What do I do next, is there a course for legal action?
+1	What	what	PRON	_	P	4	dobj	_	_
+2	do	do	AUX	_	BP	4	aux	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	do	do	AUX	_	B	7	csubj	_	_
+5	next	next	ADV	_	B	4	advmod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	is	be	AUX	_	BZ	0	root	_	_
+8	there	there	PRON	_	X	7	expl	_	_
+9	a	a	DET	_	T	10	det	_	_
+10	course	course	NOUN	_	N	7	attr	_	_
+11	for	for	ADP	_	N	10	prep	_	_
+12	legal	legal	ADJ	_	J	13	amod	_	_
+13	action	action	NOUN	_	N	11	pobj	_	_
+14	?	?	PUNCT	_	_	7	punct	_	_
+
+

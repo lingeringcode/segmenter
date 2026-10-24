@@ -1,0 +1,87 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 301
+1	301	301	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 300
+1	300	300	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/obvsnotrealname
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	obvsnotrealname	obvsnotrealname	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = Is it 12 seasons then you need to get authorization for another 12?
+1	Is	be	AUX	_	BZ	7	advcl	_	_
+2	it	it	PRON	_	RP	1	nsubj	_	_
+3	12	12	NUM	_	D	4	nummod	_	_
+4	seasons	season	NOUN	_	NS	1	attr	_	_
+5	then	then	ADV	_	B	7	advmod	_	_
+6	you	you	PRON	_	RP	7	nsubj	_	_
+7	need	need	VERB	_	BP	0	root	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	get	get	VERB	_	B	7	xcomp	_	_
+10	authorization	authorization	NOUN	_	N	9	dobj	_	_
+11	for	for	ADP	_	N	9	prep	_	_
+12	another	another	DET	_	T	13	det	_	_
+13	12	12	NUM	_	D	11	pobj	_	_
+14	?	?	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 6
+# text = Or 12 full stop.
+1	Or	or	CCONJ	_	C	4	cc	_	_
+2	12	12	NUM	_	D	4	nummod	_	_
+3	full	full	ADJ	_	J	4	amod	_	_
+4	stop	stop	NOUN	_	N	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 7
+# text = I’ve had 2 accidents and both insurers required authorization after x number of visits (I think UHC was after 8 😏) but it was a mere formality to get more.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	’ve	’ve	AUX	_	BP	3	aux	_	_
+3	had	have	VERB	_	BN	0	root	_	_
+4	2	2	NUM	_	D	5	nummod	_	_
+5	accidents	accident	NOUN	_	NS	3	dobj	_	_
+6	and	and	CCONJ	_	C	3	cc	_	_
+7	both	both	DET	_	T	8	det	_	_
+8	insurers	insurer	NOUN	_	NS	9	nsubj	_	_
+9	required	require	VERB	_	BD	3	conj	_	_
+10	authorization	authorization	NOUN	_	N	9	dobj	_	_
+11	after	after	ADP	_	N	9	prep	_	_
+12	x	x	NOUN	_	N	11	punct	_	_
+13	number	number	NOUN	_	N	11	pobj	_	_
+14	of	of	ADP	_	N	13	prep	_	_
+15	visits	visit	NOUN	_	NS	14	pobj	_	_
+16	(	(	PUNCT	_	LRB-	18	punct	_	_
+17	I	i	PRON	_	RP	18	nsubj	_	_
+18	think	think	VERB	_	BP	9	parataxis	_	_
+19	UHC	uhc	PROPN	_	NP	20	nsubj	_	_
+20	was	be	AUX	_	BD	18	ccomp	_	_
+21	after	after	ADP	_	N	20	prep	_	_
+22	8	8	NUM	_	D	23	nummod	_	_
+23	😏	😏	NOUN	_	NS	21	pobj	_	_
+24	)	)	PUNCT	_	RRB-	18	punct	_	_
+25	but	but	CCONJ	_	C	3	cc	_	_
+26	it	it	PRON	_	RP	27	nsubj	_	_
+27	was	be	AUX	_	BD	3	conj	_	_
+28	a	a	DET	_	T	30	det	_	_
+29	mere	mere	ADJ	_	J	30	amod	_	_
+30	formality	formality	NOUN	_	N	27	attr	_	_
+31	to	to	PART	_	O	32	aux	_	_
+32	get	get	VERB	_	B	30	acl	_	_
+33	more	more	ADJ	_	JR	32	dobj	_	_
+34	.	.	PUNCT	_	_	27	punct	_	_
+
+

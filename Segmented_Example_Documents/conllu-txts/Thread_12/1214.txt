@@ -1,0 +1,55 @@
+# sent_id = 1
+# text = Thread_12
+1	Thread_12	thread_12	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1214
+1	1214	1214	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1200
+1	1200	1200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Working-Attempt741
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Working	working	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Attempt741	attempt741	PROPN	_	NP	1	appos	_	_
+
+
+# sent_id = 5
+# text = What is going on with Walgreens or is it BCBS not allowing this Prozac rx.
+1	What	what	PRON	_	P	3	nsubj	_	_
+2	is	be	AUX	_	BZ	3	aux	_	_
+3	going	go	VERB	_	BG	0	root	_	_
+4	on	on	ADP	_	P	3	prt	_	_
+5	with	with	ADP	_	N	3	prep	_	_
+6	Walgreens	walgreens	PROPN	_	NPS	5	pobj	_	_
+7	or	or	CCONJ	_	C	3	cc	_	_
+8	is	be	AUX	_	BZ	3	conj	_	_
+9	it	it	PRON	_	RP	8	nsubj	_	_
+10	BCBS	bcb	NOUN	_	NS	8	acomp	_	_
+11	not	not	PART	_	B	12	neg	_	_
+12	allowing	allow	VERB	_	BG	10	xcomp	_	_
+13	this	this	DET	_	T	15	det	_	_
+14	Prozac	prozac	PROPN	_	NP	15	compound	_	_
+15	rx	rx	NOUN	_	N	12	ccomp	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = It’s been over 45 days!
+1	It	it	PRON	_	RP	3	nsubj	_	_
+2	’s	’s	AUX	_	BZ	3	auxpass	_	_
+3	been	be	AUX	_	BN	0	root	_	_
+4	over	over	ADP	_	N	5	quantmod	_	_
+5	45	45	NUM	_	D	6	nummod	_	_
+6	days	day	NOUN	_	NS	3	attr	_	_
+7	!	!	PUNCT	_	_	3	punct	_	_
+
+

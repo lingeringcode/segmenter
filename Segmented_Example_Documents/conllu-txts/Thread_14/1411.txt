@@ -1,0 +1,45 @@
+# sent_id = 1
+# text = Thread_14
+1	Thread_14	thread_14	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 1411
+1	1411	1411	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1404
+1	1404	1404	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/abiglumpwithknobs1
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	abiglumpwithknobs1	abiglumpwithknobs1	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = Yeah as much documentation as you can get will help to back up why it was medically necessary.
+1	Yeah	yeah	INTJ	_	H	4	intj	_	_
+2	as	as	ADV	_	B	3	advmod	_	_
+3	much	much	ADJ	_	J	4	amod	_	_
+4	documentation	documentation	NOUN	_	N	10	nsubj	_	_
+5	as	as	SCONJ	_	N	8	mark	_	_
+6	you	you	PRON	_	RP	8	nsubj	_	_
+7	can	can	AUX	_	D	8	aux	_	_
+8	get	get	VERB	_	B	4	advcl	_	_
+9	will	will	AUX	_	D	10	aux	_	_
+10	help	help	VERB	_	B	0	root	_	_
+11	to	to	PART	_	O	12	aux	_	_
+12	back	back	VERB	_	B	10	xcomp	_	_
+13	up	up	ADP	_	P	12	prt	_	_
+14	why	why	SCONJ	_	RB	16	advmod	_	_
+15	it	it	PRON	_	RP	16	nsubj	_	_
+16	was	be	AUX	_	BD	12	ccomp	_	_
+17	medically	medically	ADV	_	B	18	advmod	_	_
+18	necessary	necessary	ADJ	_	J	16	acomp	_	_
+19	.	.	PUNCT	_	_	10	punct	_	_
+
+

@@ -1,0 +1,219 @@
+# sent_id = 1
+# text = Thread_5
+1	Thread_5	thread_5	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 507
+1	507	507	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 500
+1	500	500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/stimpsonj5
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	stimpsonj5	stimpsonj5	NOUN	_	N	1	appos	_	_
+
+
+# sent_id = 5
+# text = This is really absurd, that sucks so much.
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	really	really	ADV	_	B	4	advmod	_	_
+4	absurd	absurd	ADJ	_	J	2	acomp	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	that	that	PRON	_	DT	7	nsubj	_	_
+7	sucks	suck	VERB	_	BZ	2	advcl	_	_
+8	so	so	ADV	_	B	9	advmod	_	_
+9	much	much	ADV	_	B	7	advmod	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = A couple of thoughts came to mind: 1, initiate a retro authorization, and as part of that send them the external review decision.
+1	A	a	DET	_	T	2	det	_	_
+2	couple	couple	NOUN	_	N	5	nsubj	_	_
+3	of	of	ADP	_	N	2	prep	_	_
+4	thoughts	thought	NOUN	_	NS	3	pobj	_	_
+5	came	come	VERB	_	BD	0	root	_	_
+6	to	to	PART	_	O	5	prep	_	_
+7	mind	mind	NOUN	_	N	6	pobj	_	_
+8	:	:	PUNCT	_	_	11	punct	_	_
+9	1	1	X	_	S	11	meta	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	initiate	initiate	VERB	_	BP	5	advcl	_	_
+12	a	a	DET	_	T	14	det	_	_
+13	retro	retro	NOUN	_	N	14	compound	_	_
+14	authorization	authorization	NOUN	_	N	11	dobj	_	_
+15	,	,	PUNCT	_	_	11	punct	_	_
+16	and	and	CCONJ	_	C	11	cc	_	_
+17	as	as	ADP	_	N	21	prep	_	_
+18	part	part	NOUN	_	N	17	pobj	_	_
+19	of	of	ADP	_	N	18	prep	_	_
+20	that	that	PRON	_	T	19	pobj	_	_
+21	send	send	VERB	_	BP	11	conj	_	_
+22	them	they	PRON	_	RP	21	dative	_	_
+23	the	the	DET	_	T	26	det	_	_
+24	external	external	ADJ	_	J	25	amod	_	_
+25	review	review	NOUN	_	N	26	compound	_	_
+26	decision	decision	NOUN	_	N	21	dobj	_	_
+27	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 7
+# text = They may look at it and just decide to approve a retro-auth and be done with it.
+1	They	they	PRON	_	RP	3	nsubj	_	_
+2	may	may	AUX	_	D	3	aux	_	_
+3	look	look	VERB	_	B	0	root	_	_
+4	at	at	ADP	_	N	3	prep	_	_
+5	it	it	PRON	_	RP	4	pobj	_	_
+6	and	and	CCONJ	_	C	3	cc	_	_
+7	just	just	ADV	_	B	8	advmod	_	_
+8	decide	decide	VERB	_	B	3	conj	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	approve	approve	VERB	_	B	8	xcomp	_	_
+11	a	a	DET	_	T	14	det	_	_
+12	retro	retro	NOUN	_	N	14	compound	_	_
+13	-	-	PUNCT	_	YPH	14	punct	_	_
+14	auth	auth	NOUN	_	N	10	dobj	_	_
+15	and	and	CCONJ	_	C	10	cc	_	_
+16	be	be	AUX	_	B	17	auxpass	_	_
+17	done	do	VERB	_	BN	10	conj	_	_
+18	with	with	ADP	_	N	17	prep	_	_
+19	it	it	PRON	_	RP	18	pobj	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = If not and they deny that, then it would not reflect well on them to have an external review that overturned the decision and then still want to play this stupid game.
+1	If	if	SCONJ	_	N	2	mark	_	_
+2	not	not	PART	_	B	12	advcl	_	_
+3	and	and	CCONJ	_	C	2	cc	_	_
+4	they	they	PRON	_	RP	5	nsubj	_	_
+5	deny	deny	VERB	_	BP	2	conj	_	_
+6	that	that	SCONJ	_	N	5	dobj	_	_
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	then	then	ADV	_	B	12	advmod	_	_
+9	it	it	PRON	_	RP	12	nsubj	_	_
+10	would	would	AUX	_	D	12	aux	_	_
+11	not	not	PART	_	B	12	neg	_	_
+12	reflect	reflect	VERB	_	B	0	root	_	_
+13	well	well	ADV	_	B	12	advmod	_	_
+14	on	on	ADP	_	N	12	prep	_	_
+15	them	they	PRON	_	RP	14	pobj	_	_
+16	to	to	PART	_	O	17	aux	_	_
+17	have	have	VERB	_	B	12	xcomp	_	_
+18	an	an	DET	_	T	20	det	_	_
+19	external	external	ADJ	_	J	20	amod	_	_
+20	review	review	NOUN	_	N	17	dobj	_	_
+21	that	that	PRON	_	DT	22	nsubj	_	_
+22	overturned	overturn	VERB	_	BD	20	relcl	_	_
+23	the	the	DET	_	T	24	det	_	_
+24	decision	decision	NOUN	_	N	22	dobj	_	_
+25	and	and	CCONJ	_	C	22	cc	_	_
+26	then	then	ADV	_	B	28	advmod	_	_
+27	still	still	ADV	_	B	28	advmod	_	_
+28	want	want	VERB	_	BP	22	conj	_	_
+29	to	to	PART	_	O	30	aux	_	_
+30	play	play	VERB	_	B	28	xcomp	_	_
+31	this	this	DET	_	T	33	det	_	_
+32	stupid	stupid	ADJ	_	J	33	amod	_	_
+33	game	game	NOUN	_	N	30	dobj	_	_
+34	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 9
+# text = The other thought - depending on whether your plan is self-funded or not, this would be a fun one to get a regulator involved with probably.
+1	The	the	DET	_	T	3	det	_	_
+2	other	other	ADJ	_	J	3	amod	_	_
+3	thought	thought	NOUN	_	N	19	npadvmod	_	_
+4	-	-	PUNCT	_	_	3	punct	_	_
+5	depending	depend	VERB	_	BG	3	prep	_	_
+6	on	on	ADP	_	N	5	prep	_	_
+7	whether	whether	SCONJ	_	N	10	mark	_	_
+8	your	your	PRON	_	RP$	9	poss	_	_
+9	plan	plan	NOUN	_	N	10	nsubj	_	_
+10	is	be	AUX	_	BZ	6	pcomp	_	_
+11	self	self	NOUN	_	N	13	npadvmod	_	_
+12	-	-	PUNCT	_	YPH	13	punct	_	_
+13	funded	fund	VERB	_	BN	10	acomp	_	_
+14	or	or	CCONJ	_	C	13	cc	_	_
+15	not	not	PART	_	B	13	conj	_	_
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	this	this	PRON	_	T	19	nsubj	_	_
+18	would	would	AUX	_	D	19	aux	_	_
+19	be	be	AUX	_	B	0	root	_	_
+20	a	a	DET	_	T	22	det	_	_
+21	fun	fun	NOUN	_	N	22	amod	_	_
+22	one	one	NOUN	_	N	19	attr	_	_
+23	to	to	PART	_	O	24	aux	_	_
+24	get	get	VERB	_	B	22	relcl	_	_
+25	a	a	DET	_	T	26	det	_	_
+26	regulator	regulator	NOUN	_	N	24	dobj	_	_
+27	involved	involve	VERB	_	BN	26	acl	_	_
+28	with	with	ADP	_	N	27	prep	_	_
+29	probably	probably	ADV	_	B	28	pcomp	_	_
+30	.	.	PUNCT	_	_	19	punct	_	_
+
+
+# sent_id = 10
+# text = If its self-funded, its the Department of Labor, if its not, its your state insurance commissioner's office.
+1	If	if	SCONJ	_	N	5	mark	_	_
+2	its	its	PRON	_	RP$	5	poss	_	_
+3	self	self	NOUN	_	N	5	npadvmod	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	funded	fund	VERB	_	BN	9	advcl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	its	its	PRON	_	RP$	9	poss	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	Department	department	PROPN	_	NP	0	root	_	_
+10	of	of	ADP	_	N	9	prep	_	_
+11	Labor	labor	PROPN	_	NP	10	pobj	_	_
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	if	if	SCONJ	_	N	15	mark	_	_
+14	its	its	PRON	_	RP$	15	poss	_	_
+15	not	not	PART	_	B	23	neg	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	its	its	PRON	_	RP$	21	poss	_	_
+18	your	your	PRON	_	RP$	21	poss	_	_
+19	state	state	NOUN	_	N	21	compound	_	_
+20	insurance	insurance	NOUN	_	N	21	compound	_	_
+21	commissioner	commissioner	NOUN	_	N	23	poss	_	_
+22	's	's	PART	_	OS	21	case	_	_
+23	office	office	NOUN	_	N	9	appos	_	_
+24	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 11
+# text = In my experience, the state level folks are far more helpful but sometimes the DoL people can get it rolling quickly too.
+1	In	in	ADP	_	N	9	prep	_	_
+2	my	my	PRON	_	RP$	3	poss	_	_
+3	experience	experience	NOUN	_	N	1	pobj	_	_
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	the	the	DET	_	T	8	det	_	_
+6	state	state	NOUN	_	N	7	compound	_	_
+7	level	level	NOUN	_	N	8	compound	_	_
+8	folks	folk	NOUN	_	NS	9	nsubj	_	_
+9	are	be	AUX	_	BP	0	root	_	_
+10	far	far	ADV	_	B	11	advmod	_	_
+11	more	more	ADV	_	BR	12	advmod	_	_
+12	helpful	helpful	ADJ	_	J	9	acomp	_	_
+13	but	but	CCONJ	_	C	9	cc	_	_
+14	sometimes	sometimes	ADV	_	B	19	advmod	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	DoL	dol	NOUN	_	N	17	compound	_	_
+17	people	people	NOUN	_	NS	19	nsubj	_	_
+18	can	can	AUX	_	D	19	aux	_	_
+19	get	get	VERB	_	B	9	conj	_	_
+20	it	it	PRON	_	RP	21	nsubj	_	_
+21	rolling	roll	VERB	_	BG	19	ccomp	_	_
+22	quickly	quickly	ADV	_	B	21	advmod	_	_
+23	too	too	ADV	_	B	21	advmod	_	_
+24	.	.	PUNCT	_	_	19	punct	_	_
+
+

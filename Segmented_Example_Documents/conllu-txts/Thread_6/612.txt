@@ -1,0 +1,100 @@
+# sent_id = 1
+# text = Thread_6
+1	Thread_6	thread_6	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 612
+1	612	612	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 611
+1	611	611	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/throwfarfaraway1818
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	throwfarfaraway1818	throwfarfaraway1818	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = It says pre-certification at the top of the letter, but it looks like that was hand written.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	says	say	VERB	_	BZ	0	root	_	_
+3	pre	pre	ADJ	_	J	2	dobj	_	_
+4	-	-	NOUN	_	N	2	ccomp	_	_
+5	certification	certification	NOUN	_	N	2	dobj	_	_
+6	at	at	ADP	_	N	2	prep	_	_
+7	the	the	DET	_	T	8	det	_	_
+8	top	top	NOUN	_	N	6	pobj	_	_
+9	of	of	ADP	_	N	8	prep	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	letter	letter	NOUN	_	N	9	pobj	_	_
+12	,	,	PUNCT	_	_	2	punct	_	_
+13	but	but	CCONJ	_	C	2	cc	_	_
+14	it	it	PRON	_	RP	15	nsubj	_	_
+15	looks	look	VERB	_	BZ	2	conj	_	_
+16	like	like	SCONJ	_	N	20	mark	_	_
+17	that	that	PRON	_	T	20	nsubjpass	_	_
+18	was	be	AUX	_	BD	20	auxpass	_	_
+19	hand	hand	NOUN	_	N	20	dep	_	_
+20	written	write	VERB	_	BN	15	advcl	_	_
+21	.	.	PUNCT	_	_	15	punct	_	_
+
+
+# sent_id = 6
+# text = It would be unusual for an insurance company to send a letter generically saying a claim was approved, so it definitely seems to be a pre-authorization.
+1	It	it	PRON	_	RP	3	nsubj	_	_
+2	would	would	AUX	_	D	3	aux	_	_
+3	be	be	AUX	_	B	23	ccomp	_	_
+4	unusual	unusual	ADJ	_	J	3	acomp	_	_
+5	for	for	SCONJ	_	N	10	mark	_	_
+6	an	an	DET	_	T	8	det	_	_
+7	insurance	insurance	NOUN	_	N	8	compound	_	_
+8	company	company	NOUN	_	N	10	nsubj	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	send	send	VERB	_	B	3	advcl	_	_
+11	a	a	DET	_	T	12	det	_	_
+12	letter	letter	NOUN	_	N	10	dobj	_	_
+13	generically	generically	ADV	_	B	14	advmod	_	_
+14	saying	say	VERB	_	BG	12	acl	_	_
+15	a	a	DET	_	T	16	det	_	_
+16	claim	claim	NOUN	_	N	18	nsubjpass	_	_
+17	was	be	AUX	_	BD	18	auxpass	_	_
+18	approved	approve	VERB	_	BN	14	ccomp	_	_
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	so	so	SCONJ	_	N	23	advmod	_	_
+21	it	it	PRON	_	RP	23	nsubj	_	_
+22	definitely	definitely	ADV	_	B	23	advmod	_	_
+23	seems	seem	VERB	_	BZ	0	root	_	_
+24	to	to	PART	_	O	25	aux	_	_
+25	be	be	AUX	_	B	23	xcomp	_	_
+26	a	a	DET	_	T	27	det	_	_
+27	pre	pre	NOUN	_	N	25	attr	_	_
+28	-	-	NOUN	_	N	25	attr	_	_
+29	authorization	authorization	NOUN	_	N	25	attr	_	_
+30	.	.	PUNCT	_	_	23	punct	_	_
+
+
+# sent_id = 7
+# text = Your best (and, really, only) option is to file another appeal
+1	Your	your	PRON	_	RP$	2	poss	_	_
+2	best	good	ADJ	_	JS	11	nsubj	_	_
+3	(	(	PUNCT	_	LRB-	2	punct	_	_
+4	and	and	CCONJ	_	C	2	cc	_	_
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	really	really	ADV	_	B	8	advmod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	only	only	ADV	_	B	10	advmod	_	_
+9	)	)	PUNCT	_	RRB-	10	punct	_	_
+10	option	option	NOUN	_	N	2	conj	_	_
+11	is	be	AUX	_	BZ	0	root	_	_
+12	to	to	PART	_	O	13	aux	_	_
+13	file	file	VERB	_	B	11	xcomp	_	_
+14	another	another	DET	_	T	15	det	_	_
+15	appeal	appeal	NOUN	_	N	13	dobj	_	_
+
+

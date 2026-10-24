@@ -1,0 +1,50 @@
+# sent_id = 1
+# text = Thread_2
+1	Thread_2	thread_2	ADV	_	B	0	root	_	_
+
+
+# sent_id = 2
+# text = 213
+1	213	213	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 200
+1	200	200	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Full-Ordinary-6030
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Full	full	ADJ	_	J	5	amod	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Ordinary-6030	ordinary-6030	NOUN	_	N	1	npadvmod	_	_
+
+
+# sent_id = 5
+# text = What does your EOB say?
+1	What	what	PRON	_	P	5	dobj	_	_
+2	does	do	AUX	_	BZ	5	aux	_	_
+3	your	your	PRON	_	RP$	4	poss	_	_
+4	EOB	eob	PROPN	_	NP	5	nsubj	_	_
+5	say	say	VERB	_	B	0	root	_	_
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = Does it say that you're responsible for the full amount?
+1	Does	do	AUX	_	BZ	3	aux	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	say	say	VERB	_	B	0	root	_	_
+4	that	that	SCONJ	_	N	6	mark	_	_
+5	you	you	PRON	_	RP	6	nsubj	_	_
+6	're	be	AUX	_	BP	3	ccomp	_	_
+7	responsible	responsible	ADJ	_	J	6	acomp	_	_
+8	for	for	ADP	_	N	7	prep	_	_
+9	the	the	DET	_	T	11	det	_	_
+10	full	full	ADJ	_	J	11	amod	_	_
+11	amount	amount	NOUN	_	N	8	pobj	_	_
+12	?	?	PUNCT	_	_	3	punct	_	_
+
+

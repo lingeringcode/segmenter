@@ -1,0 +1,244 @@
+# sent_id = 1
+# text = Thread_16
+1	Thread_16	thread_16	ADJ	_	J	0	root	_	_
+
+
+# sent_id = 2
+# text = 1606
+1	1606	1606	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1600
+1	1600	1600	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/HeyMaxJustice
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	HeyMaxJustice	heymaxjustice	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = This is exactly the kind of insurance BS that drives开关 me crazy.
+1	This	this	PRON	_	T	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	exactly	exactly	ADV	_	B	5	advmod	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	kind	kind	NOUN	_	N	2	attr	_	_
+6	of	of	ADP	_	N	5	prep	_	_
+7	insurance	insurance	NOUN	_	N	8	compound	_	_
+8	BS	bs	NOUN	_	N	6	pobj	_	_
+9	that	that	PRON	_	DT	10	nsubj	_	_
+10	drives开关	drives开关	VERB	_	BP	5	relcl	_	_
+11	me	i	PRON	_	RP	10	dobj	_	_
+12	crazy	crazy	ADJ	_	J	10	advmod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = Your wife is experiencing chest pain, her doctors want answers, and you’re stuck fighting over which tests insurance will cover.
+1	Your	your	PRON	_	RP$	2	poss	_	_
+2	wife	wife	NOUN	_	N	4	nsubj	_	_
+3	is	be	AUX	_	BZ	4	aux	_	_
+4	experiencing	experience	VERB	_	BG	10	ccomp	_	_
+5	chest	chest	NOUN	_	N	6	compound	_	_
+6	pain	pain	NOUN	_	N	4	dobj	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	her	her	PRON	_	RP$	9	poss	_	_
+9	doctors	doctor	NOUN	_	NS	10	nsubj	_	_
+10	want	want	VERB	_	BP	0	root	_	_
+11	answers	answer	NOUN	_	NS	10	dobj	_	_
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	and	and	CCONJ	_	C	10	cc	_	_
+14	you	you	PRON	_	RP	15	nsubj	_	_
+15	’re	’re	AUX	_	BP	16	auxpass	_	_
+16	stuck	stick	VERB	_	BN	10	conj	_	_
+17	fighting	fight	VERB	_	BG	16	xcomp	_	_
+18	over	over	ADP	_	N	23	prep	_	_
+19	which	which	PRON	_	DT	20	nsubj	_	_
+20	tests	test	VERB	_	BZ	18	pcomp	_	_
+21	insurance	insurance	NOUN	_	N	23	nsubj	_	_
+22	will	will	AUX	_	D	23	aux	_	_
+23	cover	cover	VERB	_	B	17	relcl	_	_
+24	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 7
+# text = I’d start by getting the actual denial letters.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	’d	’d	AUX	_	D	3	aux	_	_
+3	start	start	VERB	_	BP	0	root	_	_
+4	by	by	ADP	_	N	3	prep	_	_
+5	getting	get	VERB	_	BG	4	pcomp	_	_
+6	the	the	DET	_	T	9	det	_	_
+7	actual	actual	ADJ	_	J	9	amod	_	_
+8	denial	denial	NOUN	_	N	9	compound	_	_
+9	letters	letter	NOUN	_	NS	5	dobj	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 8
+# text = Find out WHY each test was denied.
+1	Find	find	VERB	_	B	0	root	_	_
+2	out	out	ADP	_	P	1	prt	_	_
+3	WHY	why	SCONJ	_	RB	7	advmod	_	_
+4	each	each	DET	_	T	5	det	_	_
+5	test	test	NOUN	_	N	7	nsubjpass	_	_
+6	was	be	AUX	_	BD	7	auxpass	_	_
+7	denied	deny	VERB	_	BN	1	ccomp	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 9
+# text = Was it medical necessity, prior authorization, or something else?
+1	Was	be	AUX	_	BD	0	root	_	_
+2	it	it	PRON	_	RP	1	nsubj	_	_
+3	medical	medical	ADJ	_	J	4	amod	_	_
+4	necessity	necessity	NOUN	_	N	1	attr	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	prior	prior	ADJ	_	J	7	amod	_	_
+7	authorization	authorization	NOUN	_	N	4	conj	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	or	or	CCONJ	_	C	7	cc	_	_
+10	something	something	PRON	_	N	7	conj	_	_
+11	else	else	ADV	_	B	10	advmod	_	_
+12	?	?	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 10
+# text = What clinical criteria did they use?
+1	What	what	DET	_	DT	3	det	_	_
+2	clinical	clinical	ADJ	_	J	3	amod	_	_
+3	criteria	criterion	NOUN	_	NS	6	dobj	_	_
+4	did	do	AUX	_	BD	6	aux	_	_
+5	they	they	PRON	_	RP	6	nsubj	_	_
+6	use	use	VERB	_	B	0	root	_	_
+7	?	?	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 11
+# text = Then get her cardiologist involved.
+1	Then	then	ADV	_	B	2	advmod	_	_
+2	get	get	VERB	_	B	0	root	_	_
+3	her	her	PRON	_	RP$	4	poss	_	_
+4	cardiologist	cardiologist	NOUN	_	N	5	nsubj	_	_
+5	involved	involve	VERB	_	BN	2	ccomp	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 12
+# text = Ask for a peer-to-peer review and an appeal explaining why the tests are necessary.
+1	Ask	ask	VERB	_	B	0	root	_	_
+2	for	for	ADP	_	N	1	prep	_	_
+3	a	a	DET	_	T	9	det	_	_
+4	peer	peer	NOUN	_	N	9	nmod	_	_
+5	-	-	PUNCT	_	YPH	4	punct	_	_
+6	to	to	ADP	_	N	4	prep	_	_
+7	-	-	PUNCT	_	YPH	6	punct	_	_
+8	peer	peer	NOUN	_	N	6	pobj	_	_
+9	review	review	NOUN	_	N	2	pobj	_	_
+10	and	and	CCONJ	_	C	9	cc	_	_
+11	an	an	DET	_	T	12	det	_	_
+12	appeal	appeal	NOUN	_	N	1	dobj	_	_
+13	explaining	explain	VERB	_	BG	12	acl	_	_
+14	why	why	SCONJ	_	RB	17	advmod	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	tests	test	NOUN	_	NS	17	nsubj	_	_
+17	are	be	AUX	_	BP	13	ccomp	_	_
+18	necessary	necessary	ADJ	_	J	17	acomp	_	_
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 13
+# text = If delaying testing could seriously jeopardize her health, request an expedited review.
+1	If	if	SCONJ	_	N	6	mark	_	_
+2	delaying	delaying	NOUN	_	N	3	compound	_	_
+3	testing	testing	NOUN	_	N	6	nsubj	_	_
+4	could	could	AUX	_	D	6	aux	_	_
+5	seriously	seriously	ADV	_	B	6	advmod	_	_
+6	jeopardize	jeopardize	VERB	_	B	10	advcl	_	_
+7	her	her	PRON	_	RP$	8	poss	_	_
+8	health	health	NOUN	_	N	6	dobj	_	_
+9	,	,	PUNCT	_	_	6	punct	_	_
+10	request	request	VERB	_	B	0	root	_	_
+11	an	an	DET	_	T	13	det	_	_
+12	expedited	expedited	ADJ	_	J	13	amod	_	_
+13	review	review	NOUN	_	N	10	dobj	_	_
+14	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 14
+# text = For the MRI you’ve already had, ask the provider to put the bill on hold while you dispute the denial.
+1	For	for	ADP	_	N	7	prep	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	MRI	mri	PROPN	_	NP	1	pobj	_	_
+4	you	you	PRON	_	RP	7	nsubj	_	_
+5	’ve	’ve	AUX	_	BP	7	aux	_	_
+6	already	already	ADV	_	B	7	advmod	_	_
+7	had	have	AUX	_	BN	9	aux	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	ask	ask	VERB	_	B	0	root	_	_
+10	the	the	DET	_	T	11	det	_	_
+11	provider	provider	NOUN	_	N	9	dobj	_	_
+12	to	to	PART	_	O	13	aux	_	_
+13	put	put	VERB	_	B	9	xcomp	_	_
+14	the	the	DET	_	T	15	det	_	_
+15	bill	bill	NOUN	_	N	13	dobj	_	_
+16	on	on	ADP	_	N	13	prep	_	_
+17	hold	hold	NOUN	_	N	16	pobj	_	_
+18	while	while	SCONJ	_	N	20	mark	_	_
+19	you	you	PRON	_	RP	20	nsubj	_	_
+20	dispute	dispute	VERB	_	BP	13	advcl	_	_
+21	the	the	DET	_	T	22	det	_	_
+22	denial	denial	NOUN	_	N	20	dobj	_	_
+23	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 15
+# text = If the insurer won’t budge, look into an independent external review.
+1	If	if	SCONJ	_	N	6	mark	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	insurer	insurer	NOUN	_	N	6	nsubj	_	_
+4	wo	will	AUX	_	D	6	aux	_	_
+5	n’t	not	PART	_	B	6	neg	_	_
+6	budge	budge	VERB	_	B	8	advcl	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	look	look	VERB	_	B	0	root	_	_
+9	into	into	ADP	_	N	8	prep	_	_
+10	an	an	DET	_	T	13	det	_	_
+11	independent	independent	ADJ	_	J	13	amod	_	_
+12	external	external	ADJ	_	J	13	amod	_	_
+13	review	review	NOUN	_	N	9	pobj	_	_
+14	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 16
+# text = An insurance denial isn’t a medical diagnosis.
+1	An	an	DET	_	T	3	det	_	_
+2	insurance	insurance	NOUN	_	N	3	compound	_	_
+3	denial	denial	NOUN	_	N	4	nsubj	_	_
+4	is	be	AUX	_	BZ	0	root	_	_
+5	n’t	n’t	NOUN	_	N	4	neg	_	_
+6	a	a	DET	_	T	8	det	_	_
+7	medical	medical	ADJ	_	J	8	amod	_	_
+8	diagnosis	diagnosis	NOUN	_	N	4	attr	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 17
+# text = And it damn sure shouldn’t be the final word.
+1	And	and	CCONJ	_	C	7	cc	_	_
+2	it	it	PRON	_	RP	7	nsubj	_	_
+3	damn	damn	ADV	_	B	4	advmod	_	_
+4	sure	sure	ADV	_	B	7	advmod	_	_
+5	should	should	AUX	_	D	7	aux	_	_
+6	n’t	not	PART	_	B	7	neg	_	_
+7	be	be	AUX	_	B	0	root	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	final	final	ADJ	_	J	10	amod	_	_
+10	word	word	NOUN	_	N	7	attr	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+

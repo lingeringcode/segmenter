@@ -1,0 +1,106 @@
+# sent_id = 1
+# text = Thread_5
+1	Thread_5	thread_5	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 504
+1	504	504	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 502
+1	502	502	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Proper-Media2908
+1	u	u	NOUN	_	N	5	meta	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Proper	proper	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Media2908	media2908	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Also, it would have been approved for a July 1 date anyway.
+1	Also	also	ADV	_	B	7	advmod	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	it	it	PRON	_	RP	7	nsubjpass	_	_
+4	would	would	AUX	_	D	7	aux	_	_
+5	have	have	AUX	_	B	7	aux	_	_
+6	been	be	AUX	_	BN	7	auxpass	_	_
+7	approved	approve	VERB	_	BN	0	root	_	_
+8	for	for	ADP	_	N	7	prep	_	_
+9	a	a	DET	_	T	12	det	_	_
+10	July	july	PROPN	_	NP	12	nmod	_	_
+11	1	1	NUM	_	D	10	nummod	_	_
+12	date	date	NOUN	_	N	8	pobj	_	_
+13	anyway	anyway	ADV	_	B	12	advmod	_	_
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 6
+# text = Presumably all the information justifying the surgery in a way that ultimately got it approved were in the external review packet a sent BEFORE the surgery.
+1	Presumably	presumably	ADV	_	B	16	advmod	_	_
+2	all	all	DET	_	DT	4	predet	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	information	information	NOUN	_	N	16	nsubj	_	_
+5	justifying	justify	VERB	_	BG	4	acl	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	surgery	surgery	NOUN	_	N	5	dobj	_	_
+8	in	in	ADP	_	N	5	prep	_	_
+9	a	a	DET	_	T	10	det	_	_
+10	way	way	NOUN	_	N	8	pobj	_	_
+11	that	that	PRON	_	DT	13	nsubj	_	_
+12	ultimately	ultimately	ADV	_	B	13	advmod	_	_
+13	got	get	VERB	_	BD	10	relcl	_	_
+14	it	it	PRON	_	RP	15	nsubj	_	_
+15	approved	approve	VERB	_	BN	13	ccomp	_	_
+16	were	be	AUX	_	BD	0	root	_	_
+17	in	in	ADP	_	N	16	prep	_	_
+18	the	the	DET	_	T	20	det	_	_
+19	external	external	ADJ	_	J	20	amod	_	_
+20	review	review	NOUN	_	N	17	pobj	_	_
+21	packet	packet	VERB	_	B	16	advcl	_	_
+22	a	a	DET	_	T	23	det	_	_
+23	sent	send	VERB	_	BN	21	dobj	_	_
+24	BEFORE	before	ADP	_	N	23	prep	_	_
+25	the	the	DET	_	T	26	det	_	_
+26	surgery	surgery	NOUN	_	N	24	pobj	_	_
+27	.	.	PUNCT	_	_	16	punct	_	_
+
+
+# sent_id = 7
+# text = It's not like the approval was based on some idea that the imaging got worse after July 1, thereby justifying the surgery only after that date.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	's	be	AUX	_	BZ	0	root	_	_
+3	not	not	PART	_	B	2	neg	_	_
+4	like	like	ADP	_	N	2	prep	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	approval	approval	NOUN	_	N	8	nsubjpass	_	_
+7	was	be	AUX	_	BD	8	auxpass	_	_
+8	based	base	VERB	_	BN	2	ccomp	_	_
+9	on	on	ADP	_	N	8	prep	_	_
+10	some	some	DET	_	T	11	det	_	_
+11	idea	idea	NOUN	_	N	9	pobj	_	_
+12	that	that	SCONJ	_	N	15	mark	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	imaging	imaging	NOUN	_	N	15	nsubj	_	_
+15	got	get	VERB	_	BD	11	acl	_	_
+16	worse	bad	ADJ	_	JR	15	acomp	_	_
+17	after	after	ADP	_	N	15	prep	_	_
+18	July	july	PROPN	_	NP	17	pobj	_	_
+19	1	1	NUM	_	D	18	nummod	_	_
+20	,	,	PUNCT	_	_	15	punct	_	_
+21	thereby	thereby	ADV	_	B	22	advmod	_	_
+22	justifying	justify	VERB	_	BG	15	advcl	_	_
+23	the	the	DET	_	T	24	det	_	_
+24	surgery	surgery	NOUN	_	N	22	dobj	_	_
+25	only	only	ADV	_	B	26	advmod	_	_
+26	after	after	ADP	_	N	22	prep	_	_
+27	that	that	DET	_	T	28	det	_	_
+28	date	date	NOUN	_	N	26	pobj	_	_
+29	.	.	PUNCT	_	_	2	punct	_	_
+
+

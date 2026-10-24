@@ -1,0 +1,154 @@
+# sent_id = 1
+# text = Thread_13
+1	Thread_13	thread_13	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 1307
+1	1307	1307	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1306
+1	1306	1306	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Inevitable_Let5373
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	X	_	DD	1	punct	_	_
+3	Inevitable_Let5373	inevitable_let5373	NOUN	_	NS	1	punct	_	_
+
+
+# sent_id = 5
+# text = I do not have written pre-auth approval, the representative assured me I did not need one when asked.
+1	I	i	PRON	_	RP	5	nsubj	_	_
+2	do	do	AUX	_	BP	5	aux	_	_
+3	not	not	PART	_	B	5	neg	_	_
+4	have	have	AUX	_	B	5	aux	_	_
+5	written	write	VERB	_	BN	13	ccomp	_	_
+6	pre	pre	ADJ	_	J	9	amod	_	_
+7	-	-	ADJ	_	J	9	amod	_	_
+8	auth	auth	ADJ	_	J	9	amod	_	_
+9	approval	approval	NOUN	_	N	5	dobj	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	the	the	DET	_	T	12	det	_	_
+12	representative	representative	NOUN	_	N	13	nsubj	_	_
+13	assured	assure	VERB	_	BD	0	root	_	_
+14	me	i	PRON	_	RP	13	dobj	_	_
+15	I	i	PRON	_	RP	18	nsubj	_	_
+16	did	do	AUX	_	BD	18	aux	_	_
+17	not	not	PART	_	B	18	neg	_	_
+18	need	need	VERB	_	B	13	ccomp	_	_
+19	one	one	NUM	_	D	18	dobj	_	_
+20	when	when	SCONJ	_	RB	21	advmod	_	_
+21	asked	ask	VERB	_	BN	18	advcl	_	_
+22	.	.	PUNCT	_	_	13	punct	_	_
+
+
+# sent_id = 6
+# text = I only received the prior authorization number which was not referred to in the denial notification.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	only	only	ADV	_	B	3	advmod	_	_
+3	received	receive	VERB	_	BD	0	root	_	_
+4	the	the	DET	_	T	7	det	_	_
+5	prior	prior	ADJ	_	J	7	amod	_	_
+6	authorization	authorization	NOUN	_	N	7	compound	_	_
+7	number	number	NOUN	_	N	3	dobj	_	_
+8	which	which	PRON	_	DT	11	nsubjpass	_	_
+9	was	be	AUX	_	BD	11	auxpass	_	_
+10	not	not	PART	_	B	11	neg	_	_
+11	referred	refer	VERB	_	BN	7	relcl	_	_
+12	to	to	ADP	_	N	11	prep	_	_
+13	in	in	ADP	_	N	11	prep	_	_
+14	the	the	DET	_	T	16	det	_	_
+15	denial	denial	NOUN	_	N	16	compound	_	_
+16	notification	notification	NOUN	_	N	13	pobj	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = I thought the reason the authorization was rescinded was because it was out of state, but looking closer it says that the doctor is out of network, and that he was informed prior to surgery.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	thought	think	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	reason	reason	NOUN	_	N	9	nsubj	_	_
+5	the	the	DET	_	T	6	det	_	_
+6	authorization	authorization	NOUN	_	N	8	nsubjpass	_	_
+7	was	be	AUX	_	BD	8	auxpass	_	_
+8	rescinded	rescind	VERB	_	BN	4	relcl	_	_
+9	was	be	AUX	_	BD	2	ccomp	_	_
+10	because	because	SCONJ	_	N	12	mark	_	_
+11	it	it	PRON	_	RP	12	nsubj	_	_
+12	was	be	AUX	_	BD	9	advcl	_	_
+13	out	out	ADP	_	N	12	prep	_	_
+14	of	of	ADP	_	N	13	prep	_	_
+15	state	state	NOUN	_	N	14	pobj	_	_
+16	,	,	PUNCT	_	_	2	punct	_	_
+17	but	but	CCONJ	_	C	2	cc	_	_
+18	looking	look	VERB	_	BG	21	advcl	_	_
+19	closer	close	ADV	_	BR	18	advmod	_	_
+20	it	it	PRON	_	RP	21	nsubj	_	_
+21	says	say	VERB	_	BZ	2	conj	_	_
+22	that	that	SCONJ	_	N	25	mark	_	_
+23	the	the	DET	_	T	24	det	_	_
+24	doctor	doctor	NOUN	_	N	25	nsubj	_	_
+25	is	be	AUX	_	BZ	21	ccomp	_	_
+26	out	out	ADP	_	N	25	prep	_	_
+27	of	of	ADP	_	N	26	prep	_	_
+28	network	network	NOUN	_	N	27	pobj	_	_
+29	,	,	PUNCT	_	_	25	punct	_	_
+30	and	and	CCONJ	_	C	25	cc	_	_
+31	that	that	SCONJ	_	N	34	mark	_	_
+32	he	he	PRON	_	RP	34	nsubjpass	_	_
+33	was	be	AUX	_	BD	34	auxpass	_	_
+34	informed	inform	VERB	_	BN	25	conj	_	_
+35	prior	prior	ADV	_	B	34	advmod	_	_
+36	to	to	ADP	_	N	35	prep	_	_
+37	surgery	surgery	NOUN	_	N	36	pobj	_	_
+38	.	.	PUNCT	_	_	21	punct	_	_
+
+
+# sent_id = 8
+# text = I was told by the BCBS rep that the doc and the hospital were in network.
+1	I	i	PRON	_	RP	3	nsubjpass	_	_
+2	was	be	AUX	_	BD	3	auxpass	_	_
+3	told	tell	VERB	_	BN	0	root	_	_
+4	by	by	ADP	_	N	3	agent	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	BCBS	bcbs	PROPN	_	NP	7	compound	_	_
+7	rep	rep	PROPN	_	NP	4	pobj	_	_
+8	that	that	SCONJ	_	N	14	mark	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	doc	doc	PROPN	_	NP	14	nsubj	_	_
+11	and	and	CCONJ	_	C	10	cc	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	hospital	hospital	NOUN	_	N	10	conj	_	_
+14	were	be	AUX	_	BD	3	ccomp	_	_
+15	in	in	ADP	_	N	14	prep	_	_
+16	network	network	NOUN	_	N	15	pobj	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = The doctor staff also told me they were in network.
+1	The	the	DET	_	T	3	det	_	_
+2	doctor	doctor	NOUN	_	N	3	compound	_	_
+3	staff	staff	NOUN	_	N	5	nsubj	_	_
+4	also	also	ADV	_	B	5	advmod	_	_
+5	told	tell	VERB	_	BD	0	root	_	_
+6	me	i	PRON	_	RP	5	dobj	_	_
+7	they	they	PRON	_	RP	8	nsubj	_	_
+8	were	be	AUX	_	BD	5	ccomp	_	_
+9	in	in	ADP	_	N	8	prep	_	_
+10	network	network	NOUN	_	N	9	pobj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 10
+# text = Really confusing.
+1	Really	really	ADV	_	B	2	advmod	_	_
+2	confusing	confusing	ADJ	_	J	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+

@@ -1,0 +1,145 @@
+# sent_id = 1
+# text = Thread_8
+1	Thread_8	thread_8	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 2
+# text = 814
+1	814	814	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 800
+1	800	800	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Jump-Funny
+1	u	u	PROPN	_	NP	5	punct	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Jump	jump	NOUN	_	N	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Funny	funny	ADJ	_	J	0	root	_	_
+
+
+# sent_id = 5
+# text = there is nothing you can do about a peer 2 peer review except keep calling the provider's office.
+1	there	there	PRON	_	X	2	expl	_	_
+2	is	be	VERB	_	BZ	0	root	_	_
+3	nothing	nothing	PRON	_	N	2	attr	_	_
+4	you	you	PRON	_	RP	6	nsubj	_	_
+5	can	can	AUX	_	D	6	aux	_	_
+6	do	do	VERB	_	B	3	relcl	_	_
+7	about	about	ADP	_	N	6	prep	_	_
+8	a	a	DET	_	T	12	det	_	_
+9	peer	peer	NOUN	_	N	12	nmod	_	_
+10	2	2	NUM	_	D	12	nummod	_	_
+11	peer	peer	NOUN	_	N	12	compound	_	_
+12	review	review	NOUN	_	N	7	pobj	_	_
+13	except	except	SCONJ	_	N	14	mark	_	_
+14	keep	keep	VERB	_	B	2	dep	_	_
+15	calling	call	VERB	_	BG	14	xcomp	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	provider	provider	NOUN	_	N	19	poss	_	_
+18	's	's	PART	_	OS	17	case	_	_
+19	office	office	NOUN	_	N	15	dobj	_	_
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = you could ask for the practice manager to see if they have more info for you.
+1	you	you	PRON	_	RP	3	nsubj	_	_
+2	could	could	AUX	_	D	3	aux	_	_
+3	ask	ask	VERB	_	B	0	root	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	practice	practice	NOUN	_	N	7	compound	_	_
+7	manager	manager	NOUN	_	N	4	pobj	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	see	see	VERB	_	B	3	xcomp	_	_
+10	if	if	SCONJ	_	N	12	mark	_	_
+11	they	they	PRON	_	RP	12	nsubj	_	_
+12	have	have	VERB	_	BP	9	ccomp	_	_
+13	more	more	ADJ	_	JR	14	amod	_	_
+14	info	info	NOUN	_	N	12	dobj	_	_
+15	for	for	ADP	_	N	14	prep	_	_
+16	you	you	PRON	_	RP	15	pobj	_	_
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = they may have been trying to get it done, they are sometimes tricky to get scheduled as the reviewer and the dr both have to have availability at the same time.
+1	they	they	PRON	_	RP	5	nsubj	_	_
+2	may	may	AUX	_	D	5	aux	_	_
+3	have	have	AUX	_	B	5	aux	_	_
+4	been	be	AUX	_	BN	5	aux	_	_
+5	trying	try	VERB	_	BG	12	ccomp	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	get	get	VERB	_	B	5	xcomp	_	_
+8	it	it	PRON	_	RP	9	nsubj	_	_
+9	done	do	VERB	_	BN	7	ccomp	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	they	they	PRON	_	RP	12	nsubj	_	_
+12	are	be	AUX	_	BP	0	root	_	_
+13	sometimes	sometimes	ADV	_	B	12	advmod	_	_
+14	tricky	tricky	ADJ	_	J	12	acomp	_	_
+15	to	to	PART	_	O	17	aux	_	_
+16	get	get	AUX	_	B	17	auxpass	_	_
+17	scheduled	schedule	VERB	_	BN	14	xcomp	_	_
+18	as	as	ADP	_	N	17	prep	_	_
+19	the	the	DET	_	T	20	det	_	_
+20	reviewer	reviewer	NOUN	_	N	18	pobj	_	_
+21	and	and	CCONJ	_	C	12	cc	_	_
+22	the	the	DET	_	T	23	det	_	_
+23	dr	dr	NOUN	_	N	25	nsubj	_	_
+24	both	both	PRON	_	T	23	appos	_	_
+25	have	have	VERB	_	BP	12	conj	_	_
+26	to	to	PART	_	O	27	aux	_	_
+27	have	have	VERB	_	B	25	xcomp	_	_
+28	availability	availability	NOUN	_	N	27	dobj	_	_
+29	at	at	ADP	_	N	27	prep	_	_
+30	the	the	DET	_	T	32	det	_	_
+31	same	same	ADJ	_	J	32	amod	_	_
+32	time	time	NOUN	_	N	29	pobj	_	_
+33	.	.	PUNCT	_	_	25	punct	_	_
+
+
+# sent_id = 8
+# text = Just be sure to verify day before with your insurance whether it's approved or not.
+1	Just	just	ADV	_	B	2	advmod	_	_
+2	be	be	AUX	_	B	0	root	_	_
+3	sure	sure	ADJ	_	J	2	acomp	_	_
+4	to	to	PART	_	O	5	aux	_	_
+5	verify	verify	VERB	_	B	3	xcomp	_	_
+6	day	day	NOUN	_	N	5	dobj	_	_
+7	before	before	ADV	_	B	5	advmod	_	_
+8	with	with	ADP	_	N	5	prep	_	_
+9	your	your	PRON	_	RP$	10	poss	_	_
+10	insurance	insurance	NOUN	_	N	8	pobj	_	_
+11	whether	whether	SCONJ	_	N	14	mark	_	_
+12	it	it	PRON	_	RP	14	nsubjpass	_	_
+13	's	be	AUX	_	BZ	14	auxpass	_	_
+14	approved	approve	VERB	_	BN	5	advcl	_	_
+15	or	or	CCONJ	_	C	14	cc	_	_
+16	not	not	PART	_	B	14	conj	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = Hopefully the office will let you know as well and reschedule if necessary.
+1	Hopefully	hopefully	ADV	_	B	5	advmod	_	_
+2	the	the	DET	_	T	3	det	_	_
+3	office	office	NOUN	_	N	5	nsubj	_	_
+4	will	will	AUX	_	D	5	aux	_	_
+5	let	let	VERB	_	B	0	root	_	_
+6	you	you	PRON	_	RP	7	nsubj	_	_
+7	know	know	VERB	_	B	5	ccomp	_	_
+8	as	as	ADV	_	B	9	advmod	_	_
+9	well	well	ADV	_	B	7	advmod	_	_
+10	and	and	CCONJ	_	C	9	cc	_	_
+11	reschedule	reschedule	NOUN	_	N	9	conj	_	_
+12	if	if	SCONJ	_	N	13	mark	_	_
+13	necessary	necessary	ADJ	_	J	7	advcl	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+

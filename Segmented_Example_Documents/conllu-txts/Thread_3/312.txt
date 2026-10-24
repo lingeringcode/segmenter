@@ -1,0 +1,97 @@
+# sent_id = 1
+# text = Thread_3
+1	Thread_3	thread_3	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 312
+1	312	312	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 310
+1	310	310	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/versak
+1	u	u	NOUN	_	N	3	meta	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	versak	versak	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 5
+# text = When I was starting to have issues and brought it up at work, other employees had issues too and were talking about maybe canceling their insurance to get paid the difference and look into getting insurance on their own.
+1	When	when	SCONJ	_	RB	4	advmod	_	_
+2	I	i	PRON	_	RP	4	nsubj	_	_
+3	was	be	AUX	_	BD	4	aux	_	_
+4	starting	start	VERB	_	BG	17	advcl	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	have	have	VERB	_	B	4	xcomp	_	_
+7	issues	issue	NOUN	_	NS	6	dobj	_	_
+8	and	and	CCONJ	_	C	4	cc	_	_
+9	brought	bring	VERB	_	BD	4	conj	_	_
+10	it	it	PRON	_	RP	9	dobj	_	_
+11	up	up	ADP	_	P	9	prt	_	_
+12	at	at	ADP	_	N	9	prep	_	_
+13	work	work	NOUN	_	N	12	pobj	_	_
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	other	other	ADJ	_	J	16	amod	_	_
+16	employees	employee	NOUN	_	NS	17	nsubj	_	_
+17	had	have	VERB	_	BD	0	root	_	_
+18	issues	issue	NOUN	_	NS	17	dobj	_	_
+19	too	too	ADV	_	B	17	advmod	_	_
+20	and	and	CCONJ	_	C	17	cc	_	_
+21	were	be	AUX	_	BD	22	aux	_	_
+22	talking	talk	VERB	_	BG	17	conj	_	_
+23	about	about	ADP	_	N	22	prep	_	_
+24	maybe	maybe	ADV	_	B	25	advmod	_	_
+25	canceling	cancel	VERB	_	BG	23	pcomp	_	_
+26	their	their	PRON	_	RP$	27	poss	_	_
+27	insurance	insurance	NOUN	_	N	25	dobj	_	_
+28	to	to	PART	_	O	30	aux	_	_
+29	get	get	AUX	_	B	30	auxpass	_	_
+30	paid	pay	VERB	_	BN	25	advcl	_	_
+31	the	the	DET	_	T	32	det	_	_
+32	difference	difference	NOUN	_	N	30	dobj	_	_
+33	and	and	CCONJ	_	C	30	cc	_	_
+34	look	look	VERB	_	B	30	conj	_	_
+35	into	into	ADP	_	N	34	prep	_	_
+36	getting	get	VERB	_	BG	35	pcomp	_	_
+37	insurance	insurance	NOUN	_	N	36	dobj	_	_
+38	on	on	ADP	_	N	36	prep	_	_
+39	their	their	PRON	_	RP$	40	poss	_	_
+40	own	own	ADJ	_	J	38	pobj	_	_
+41	.	.	PUNCT	_	_	17	punct	_	_
+
+
+# sent_id = 6
+# text = I started thinking about it too
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	started	start	VERB	_	BD	0	root	_	_
+3	thinking	think	VERB	_	BG	2	xcomp	_	_
+4	about	about	ADP	_	N	3	prep	_	_
+5	it	it	PRON	_	RP	4	pobj	_	_
+6	too	too	ADV	_	B	2	advmod	_	_
+
+
+# sent_id = 7
+# text = but luckily my company was aware of the issues and switched as of September 1.
+1	but	but	CCONJ	_	C	5	cc	_	_
+2	luckily	luckily	ADV	_	B	5	advmod	_	_
+3	my	my	PRON	_	RP$	4	poss	_	_
+4	company	company	NOUN	_	N	5	nsubj	_	_
+5	was	be	AUX	_	BD	0	root	_	_
+6	aware	aware	ADJ	_	J	5	acomp	_	_
+7	of	of	ADP	_	N	6	prep	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	issues	issue	NOUN	_	NS	7	pobj	_	_
+10	and	and	CCONJ	_	C	5	cc	_	_
+11	switched	switch	VERB	_	BD	5	conj	_	_
+12	as	as	ADP	_	N	11	prep	_	_
+13	of	of	ADP	_	N	12	prep	_	_
+14	September	september	PROPN	_	NP	13	pobj	_	_
+15	1	1	NUM	_	D	14	nummod	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+

@@ -1,0 +1,217 @@
+# sent_id = 1
+# text = Thread_18
+1	Thread_18	thread_18	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1816
+1	1816	1816	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1815
+1	1815	1815	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Weekly-Ad-650
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	5	punct	_	_
+3	Weekly	weekly	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Ad-650	ad-650	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = She’s actually a plastic surgeon that doesn’t work with insurance at all.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	’s	’s	VERB	_	BP	0	root	_	_
+3	actually	actually	ADV	_	B	2	advmod	_	_
+4	a	a	DET	_	T	6	det	_	_
+5	plastic	plastic	ADJ	_	J	6	amod	_	_
+6	surgeon	surgeon	NOUN	_	N	2	attr	_	_
+7	that	that	PRON	_	DT	10	nsubj	_	_
+8	does	do	AUX	_	BZ	10	aux	_	_
+9	n’t	n’t	NOUN	_	N	10	neg	_	_
+10	work	work	VERB	_	B	6	relcl	_	_
+11	with	with	ADP	_	N	10	prep	_	_
+12	insurance	insurance	NOUN	_	N	11	pobj	_	_
+13	at	at	ADV	_	B	14	advmod	_	_
+14	all	all	ADV	_	B	10	advmod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 6
+# text = The only in-network lipedema surgeon in my state had a waiting list of two years just for a consultation.
+1	The	the	DET	_	T	7	det	_	_
+2	only	only	ADJ	_	J	7	amod	_	_
+3	in	in	ADP	_	N	7	nmod	_	_
+4	-	-	PUNCT	_	YPH	3	punct	_	_
+5	network	network	NOUN	_	N	3	pobj	_	_
+6	lipedema	lipedema	NOUN	_	N	7	compound	_	_
+7	surgeon	surgeon	NOUN	_	N	11	nsubj	_	_
+8	in	in	ADP	_	N	7	prep	_	_
+9	my	my	PRON	_	RP$	10	poss	_	_
+10	state	state	NOUN	_	N	8	pobj	_	_
+11	had	have	VERB	_	BD	0	root	_	_
+12	a	a	DET	_	T	14	det	_	_
+13	waiting	waiting	NOUN	_	N	14	compound	_	_
+14	list	list	NOUN	_	N	11	dobj	_	_
+15	of	of	ADP	_	N	14	prep	_	_
+16	two	two	NUM	_	D	17	nummod	_	_
+17	years	year	NOUN	_	NS	15	pobj	_	_
+18	just	just	ADV	_	B	19	advmod	_	_
+19	for	for	ADP	_	N	11	prep	_	_
+20	a	a	DET	_	T	21	det	_	_
+21	consultation	consultation	NOUN	_	N	19	pobj	_	_
+22	.	.	PUNCT	_	_	11	punct	_	_
+
+
+# sent_id = 7
+# text = My surgeon is a well known specialist and only 30 minutes from my house
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	surgeon	surgeon	NOUN	_	N	3	nsubj	_	_
+3	is	be	AUX	_	BZ	0	root	_	_
+4	a	a	DET	_	T	7	det	_	_
+5	well	well	ADV	_	B	6	advmod	_	_
+6	known	know	VERB	_	BN	7	amod	_	_
+7	specialist	specialist	NOUN	_	N	3	attr	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	only	only	ADV	_	B	10	advmod	_	_
+10	30	30	NUM	_	D	11	nummod	_	_
+11	minutes	minute	NOUN	_	NS	12	npadvmod	_	_
+12	from	from	ADP	_	N	7	prep	_	_
+13	my	my	PRON	_	RP$	14	poss	_	_
+14	house	house	NOUN	_	N	12	pobj	_	_
+
+
+# sent_id = 8
+# text = so I was very happy to get the gap exception with her approved.
+1	so	so	ADV	_	B	3	advmod	_	_
+2	I	i	PRON	_	RP	3	nsubj	_	_
+3	was	be	AUX	_	BD	0	root	_	_
+4	very	very	ADV	_	B	5	advmod	_	_
+5	happy	happy	ADJ	_	J	3	acomp	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	get	get	VERB	_	B	5	xcomp	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	gap	gap	NOUN	_	N	10	compound	_	_
+10	exception	exception	NOUN	_	N	7	dobj	_	_
+11	with	with	ADP	_	N	10	prep	_	_
+12	her	she	PRON	_	RP	13	nsubj	_	_
+13	approved	approve	VERB	_	BN	11	pcomp	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 9
+# text = She was kind enough to do a p2p when I was fighting for medical necessity and it was a huge hassle
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	was	be	AUX	_	BD	0	root	_	_
+3	kind	kind	ADJ	_	J	2	acomp	_	_
+4	enough	enough	ADV	_	B	3	advmod	_	_
+5	to	to	PART	_	O	6	aux	_	_
+6	do	do	VERB	_	B	3	xcomp	_	_
+7	a	a	DET	_	T	8	det	_	_
+8	p2p	p2p	NOUN	_	N	6	dobj	_	_
+9	when	when	SCONJ	_	RB	12	advmod	_	_
+10	I	i	PRON	_	RP	12	nsubj	_	_
+11	was	be	AUX	_	BD	12	aux	_	_
+12	fighting	fight	VERB	_	BG	6	advcl	_	_
+13	for	for	ADP	_	N	12	prep	_	_
+14	medical	medical	ADJ	_	J	15	amod	_	_
+15	necessity	necessity	NOUN	_	N	13	pobj	_	_
+16	and	and	CCONJ	_	C	2	cc	_	_
+17	it	it	PRON	_	RP	18	nsubj	_	_
+18	was	be	AUX	_	BD	2	conj	_	_
+19	a	a	DET	_	T	21	det	_	_
+20	huge	huge	ADJ	_	J	21	amod	_	_
+21	hassle	hassle	NOUN	_	N	18	attr	_	_
+
+
+# sent_id = 10
+# text = so I don’t see her wanting to do another one.
+1	so	so	SCONJ	_	N	5	mark	_	_
+2	I	i	PRON	_	RP	5	nsubj	_	_
+3	do	do	AUX	_	BP	5	aux	_	_
+4	n’t	not	PART	_	B	5	neg	_	_
+5	see	see	VERB	_	B	0	root	_	_
+6	her	she	PRON	_	RP	7	nsubj	_	_
+7	wanting	want	VERB	_	BG	5	ccomp	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	do	do	VERB	_	B	7	xcomp	_	_
+10	another	another	DET	_	T	11	det	_	_
+11	one	one	NOUN	_	N	9	dobj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 11
+# text = I’m not sure it necessarily needed to be done in-office vs. a facility, she just mainly works with patients that don’t want to be put under.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	’m	’m	VERB	_	BZ	21	ccomp	_	_
+3	not	not	PART	_	B	2	neg	_	_
+4	sure	sure	ADJ	_	J	2	acomp	_	_
+5	it	it	PRON	_	RP	7	nsubj	_	_
+6	necessarily	necessarily	ADV	_	B	7	advmod	_	_
+7	needed	need	VERB	_	BD	4	ccomp	_	_
+8	to	to	PART	_	O	10	aux	_	_
+9	be	be	AUX	_	B	10	auxpass	_	_
+10	done	do	VERB	_	BN	7	xcomp	_	_
+11	in	in	ADP	_	N	10	prep	_	_
+12	-	-	PUNCT	_	YPH	11	punct	_	_
+13	office	office	NOUN	_	N	11	pobj	_	_
+14	vs.	vs.	ADP	_	N	10	prep	_	_
+15	a	a	DET	_	T	16	det	_	_
+16	facility	facility	NOUN	_	N	14	pobj	_	_
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	she	she	PRON	_	RP	21	nsubj	_	_
+19	just	just	ADV	_	B	21	advmod	_	_
+20	mainly	mainly	ADV	_	B	21	advmod	_	_
+21	works	work	VERB	_	BZ	0	root	_	_
+22	with	with	ADP	_	N	21	prep	_	_
+23	patients	patient	NOUN	_	NS	22	pobj	_	_
+24	that	that	PRON	_	DT	27	nsubj	_	_
+25	do	do	AUX	_	BP	27	aux	_	_
+26	n’t	not	PART	_	B	27	neg	_	_
+27	want	want	VERB	_	B	23	relcl	_	_
+28	to	to	PART	_	O	30	aux	_	_
+29	be	be	AUX	_	B	30	auxpass	_	_
+30	put	put	VERB	_	BN	27	xcomp	_	_
+31	under	under	ADV	_	B	30	prt	_	_
+32	.	.	PUNCT	_	_	21	punct	_	_
+
+
+# sent_id = 12
+# text = You’re right though, a facility fee and anesthesia charges would’ve probably made my life easier smh.
+1	You	you	PRON	_	RP	2	nsubj	_	_
+2	’re	’re	VERB	_	BP	15	ccomp	_	_
+3	right	right	ADJ	_	J	2	acomp	_	_
+4	though	though	ADV	_	B	2	advmod	_	_
+5	,	,	PUNCT	_	_	15	punct	_	_
+6	a	a	DET	_	T	8	det	_	_
+7	facility	facility	NOUN	_	N	8	compound	_	_
+8	fee	fee	NOUN	_	N	15	nsubj	_	_
+9	and	and	CCONJ	_	C	8	cc	_	_
+10	anesthesia	anesthesia	NOUN	_	N	11	compound	_	_
+11	charges	charge	NOUN	_	NS	8	conj	_	_
+12	would	would	AUX	_	D	15	aux	_	_
+13	’ve	’ve	NOUN	_	NS	15	nsubj	_	_
+14	probably	probably	ADV	_	B	15	advmod	_	_
+15	made	make	VERB	_	BD	0	root	_	_
+16	my	my	PRON	_	RP$	17	poss	_	_
+17	life	life	NOUN	_	N	18	nsubj	_	_
+18	easier	easy	ADJ	_	JR	19	amod	_	_
+19	smh	smh	NOUN	_	N	15	ccomp	_	_
+20	.	.	PUNCT	_	_	15	punct	_	_
+
+
+# sent_id = 13
+# text = No rhyme or reason to it!
+1	No	no	DET	_	T	2	det	_	_
+2	rhyme	rhyme	NOUN	_	N	0	root	_	_
+3	or	or	CCONJ	_	C	2	cc	_	_
+4	reason	reason	NOUN	_	N	2	conj	_	_
+5	to	to	ADP	_	N	2	prep	_	_
+6	it	it	PRON	_	RP	5	pobj	_	_
+7	!	!	PUNCT	_	_	2	punct	_	_
+
+

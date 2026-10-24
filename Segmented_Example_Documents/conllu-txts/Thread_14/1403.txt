@@ -1,0 +1,74 @@
+# sent_id = 1
+# text = Thread_14
+1	Thread_14	thread_14	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 2
+# text = 1403
+1	1403	1403	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1402
+1	1402	1402	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/No-Produce-6720
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	No	no	NOUN	_	N	1	appos	_	_
+4	-	-	NOUN	_	N	1	punct	_	_
+5	Produce-6720	produce-6720	NOUN	_	N	1	punct	_	_
+
+
+# sent_id = 5
+# text = Yes, exactly.
+1	Yes	yes	INTJ	_	H	3	intj	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	exactly	exactly	ADV	_	B	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = I'm assume the dentist was paid for the extractions already, so they won't be filing their own appeal, but they can get you a letter, and the cardiologist can, as well.
+1	I	i	PRON	_	RP	3	nsubjpass	_	_
+2	'm	be	AUX	_	BP	3	auxpass	_	_
+3	assume	assume	VERB	_	B	0	root	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	dentist	dentist	NOUN	_	N	7	nsubjpass	_	_
+6	was	be	AUX	_	BD	7	auxpass	_	_
+7	paid	pay	VERB	_	BN	3	ccomp	_	_
+8	for	for	ADP	_	N	7	prep	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	extractions	extraction	NOUN	_	NS	8	pobj	_	_
+11	already	already	ADV	_	B	7	advmod	_	_
+12	,	,	PUNCT	_	_	18	punct	_	_
+13	so	so	ADV	_	B	18	advmod	_	_
+14	they	they	PRON	_	RP	18	nsubj	_	_
+15	wo	will	AUX	_	D	18	aux	_	_
+16	n't	not	PART	_	B	18	neg	_	_
+17	be	be	AUX	_	B	18	aux	_	_
+18	filing	file	VERB	_	BG	3	ccomp	_	_
+19	their	their	PRON	_	RP$	21	poss	_	_
+20	own	own	ADJ	_	J	21	amod	_	_
+21	appeal	appeal	NOUN	_	N	18	dobj	_	_
+22	,	,	PUNCT	_	_	18	punct	_	_
+23	but	but	CCONJ	_	C	18	cc	_	_
+24	they	they	PRON	_	RP	26	nsubj	_	_
+25	can	can	AUX	_	D	26	aux	_	_
+26	get	get	VERB	_	B	18	conj	_	_
+27	you	you	PRON	_	RP	26	dative	_	_
+28	a	a	DET	_	T	29	det	_	_
+29	letter	letter	NOUN	_	N	26	dobj	_	_
+30	,	,	PUNCT	_	_	26	punct	_	_
+31	and	and	CCONJ	_	C	26	cc	_	_
+32	the	the	DET	_	T	33	det	_	_
+33	cardiologist	cardiologist	ADJ	_	J	34	nsubj	_	_
+34	can	can	AUX	_	D	26	conj	_	_
+35	,	,	PUNCT	_	_	37	punct	_	_
+36	as	as	ADV	_	B	37	advmod	_	_
+37	well	well	ADV	_	B	34	advmod	_	_
+38	.	.	PUNCT	_	_	26	punct	_	_
+
+

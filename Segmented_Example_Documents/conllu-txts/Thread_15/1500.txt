@@ -1,0 +1,978 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 0
+1	0	0	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Maleficent-Caramel37
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Maleficent	maleficent	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Caramel37	caramel37	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Chances of approval after prior authorization denial.
+1	Chances	chance	NOUN	_	NS	0	root	_	_
+2	of	of	ADP	_	N	1	prep	_	_
+3	approval	approval	NOUN	_	N	2	pobj	_	_
+4	after	after	ADP	_	N	3	prep	_	_
+5	prior	prior	ADJ	_	J	7	amod	_	_
+6	authorization	authorization	NOUN	_	N	7	compound	_	_
+7	denial	denial	NOUN	_	N	4	pobj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = ** edit update* at bottom**
+1	*	*	PUNCT	_	FP	4	punct	_	_
+2	*	*	PUNCT	_	FP	4	amod	_	_
+3	edit	edit	NOUN	_	N	4	compound	_	_
+4	update	update	NOUN	_	N	0	root	_	_
+5	*	*	PUNCT	_	_	4	punct	_	_
+6	at	at	ADP	_	N	4	prep	_	_
+7	bottom	bottom	NOUN	_	N	6	pobj	_	_
+8	*	*	PUNCT	_	FP	4	punct	_	_
+9	*	*	PUNCT	_	FP	4	punct	_	_
+
+
+# sent_id = 7
+# text = My 14yo daughter has been in pain for over a year.
+1	My	my	PRON	_	RP$	3	poss	_	_
+2	14yo	14yo	ADJ	_	J	3	amod	_	_
+3	daughter	daughter	NOUN	_	N	5	nsubj	_	_
+4	has	have	AUX	_	BZ	5	aux	_	_
+5	been	be	AUX	_	BN	0	root	_	_
+6	in	in	ADP	_	N	5	prep	_	_
+7	pain	pain	NOUN	_	N	6	pobj	_	_
+8	for	for	ADP	_	N	5	prep	_	_
+9	over	over	ADP	_	N	10	quantmod	_	_
+10	a	a	PRON	_	T	11	nummod	_	_
+11	year	year	NOUN	_	N	8	pobj	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 8
+# text = Was told, muscle imbalances, week glutes, weak hamstrings.
+1	Was	be	AUX	_	BD	2	auxpass	_	_
+2	told	tell	VERB	_	BN	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	muscle	muscle	NOUN	_	N	5	compound	_	_
+5	imbalances	imbalance	NOUN	_	NS	2	npadvmod	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	week	week	NOUN	_	N	8	compound	_	_
+8	glutes	glute	NOUN	_	NS	2	nsubjpass	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	weak	weak	ADJ	_	J	11	amod	_	_
+11	hamstrings	hamstring	NOUN	_	NS	8	conj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = Pain started in june 2025.
+1	Pain	pain	PROPN	_	NP	2	nsubj	_	_
+2	started	start	VERB	_	BD	0	root	_	_
+3	in	in	ADP	_	N	2	prep	_	_
+4	june	june	PROPN	_	NP	3	pobj	_	_
+5	2025	2025	NUM	_	D	4	nummod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 10
+# text = She would get better, get worse, etc.
+1	She	she	PRON	_	RP	3	nsubj	_	_
+2	would	would	AUX	_	D	3	aux	_	_
+3	get	get	VERB	_	B	0	root	_	_
+4	better	well	ADJ	_	JR	3	acomp	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	get	get	VERB	_	B	3	conj	_	_
+7	worse	bad	ADJ	_	JR	6	acomp	_	_
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	etc	etc	X	_	W	6	conj	_	_
+10	.	.	X	_	W	3	punct	_	_
+
+
+# sent_id = 11
+# text = Come dec 2025 it became unbearable.
+1	Come	come	VERB	_	B	5	advcl	_	_
+2	dec	dec	PROPN	_	NP	1	npadvmod	_	_
+3	2025	2025	NUM	_	D	2	nummod	_	_
+4	it	it	PRON	_	RP	5	nsubj	_	_
+5	became	become	VERB	_	BD	0	root	_	_
+6	unbearable	unbearable	ADJ	_	J	5	acomp	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 12
+# text = Since December we have seen 7 spine surgeons, 4 mris 2 lumbar, 1 thoracic, 1 pelvis.
+1	Since	since	SCONJ	_	N	5	prep	_	_
+2	December	december	PROPN	_	NP	1	pobj	_	_
+3	we	we	PRON	_	RP	5	nsubj	_	_
+4	have	have	AUX	_	BP	5	aux	_	_
+5	seen	see	VERB	_	BN	0	root	_	_
+6	7	7	NUM	_	D	8	nummod	_	_
+7	spine	spine	NOUN	_	N	8	compound	_	_
+8	surgeons	surgeon	NOUN	_	NS	5	dobj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	4	4	NUM	_	D	13	nummod	_	_
+11	mris	mris	NOUN	_	N	13	nmod	_	_
+12	2	2	NUM	_	D	11	nummod	_	_
+13	lumbar	lumbar	NOUN	_	N	8	appos	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	1	1	NUM	_	D	16	nummod	_	_
+16	thoracic	thoracic	VERB	_	BP	8	appos	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	1	1	NUM	_	D	19	nummod	_	_
+19	pelvis	pelvis	X	_	W	5	npadvmod	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 13
+# text = 2 ct scans, nuclear bone scan, pt.
+1	2	2	NUM	_	D	3	nummod	_	_
+2	ct	ct	NOUN	_	N	3	compound	_	_
+3	scans	scan	NOUN	_	NS	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	nuclear	nuclear	ADJ	_	J	6	amod	_	_
+6	bone	bone	NOUN	_	N	7	compound	_	_
+7	scan	scan	PROPN	_	NP	3	appos	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	pt	pt	PROPN	_	NP	7	appos	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 14
+# text = Chiro, 2 epidural pain injections.
+1	Chiro	chiro	PROPN	_	NP	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	2	2	NUM	_	D	6	nummod	_	_
+4	epidural	epidural	ADJ	_	J	6	amod	_	_
+5	pain	pain	NOUN	_	N	6	compound	_	_
+6	injections	injection	NOUN	_	NS	1	appos	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 15
+# text = Both failed.
+1	Both	both	PRON	_	T	2	nsubj	_	_
+2	failed	fail	VERB	_	BD	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 16
+# text = 3 lidocaine diagnostic injections.
+1	3	3	NUM	_	D	4	nummod	_	_
+2	lidocaine	lidocaine	NOUN	_	N	4	nmod	_	_
+3	diagnostic	diagnostic	ADJ	_	J	4	amod	_	_
+4	injections	injection	NOUN	_	NS	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 17
+# text = 1 failed 2 minimal improvement (l4 facet joint), full lso back brace.
+1	1	1	NUM	_	D	2	nsubj	_	_
+2	failed	fail	VERB	_	BD	0	root	_	_
+3	2	2	NUM	_	D	5	nummod	_	_
+4	minimal	minimal	ADJ	_	J	5	amod	_	_
+5	improvement	improvement	NOUN	_	N	2	dobj	_	_
+6	(	(	PUNCT	_	LRB-	5	punct	_	_
+7	l4	l4	PROPN	_	NP	9	compound	_	_
+8	facet	facet	NOUN	_	N	9	npadvmod	_	_
+9	joint	joint	ADJ	_	J	5	appos	_	_
+10	)	)	PUNCT	_	RRB-	9	punct	_	_
+11	,	,	PUNCT	_	_	5	punct	_	_
+12	full	full	ADJ	_	J	13	amod	_	_
+13	lso	lso	ADV	_	B	14	advmod	_	_
+14	back	back	ADV	_	B	15	advmod	_	_
+15	brace	brace	NOUN	_	N	5	appos	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 18
+# text = Nothing has worked.
+1	Nothing	nothing	PRON	_	N	3	nsubj	_	_
+2	has	have	AUX	_	BZ	3	aux	_	_
+3	worked	work	VERB	_	BN	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 19
+# text = Nothing has improved.
+1	Nothing	nothing	PRON	_	N	3	nsubj	_	_
+2	has	have	AUX	_	BZ	3	aux	_	_
+3	improved	improve	VERB	_	BN	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 20
+# text = She has gotten worse.
+1	She	she	PRON	_	RP	3	nsubj	_	_
+2	has	have	AUX	_	BZ	3	aux	_	_
+3	gotten	get	VERB	_	BN	0	root	_	_
+4	worse	bad	ADJ	_	JR	3	acomp	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 21
+# text = She has a chronic back fracture with a bone fragment that chipped off and is sitting in her l4 facet joint.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	has	have	VERB	_	BZ	0	root	_	_
+3	a	a	DET	_	T	6	det	_	_
+4	chronic	chronic	ADJ	_	J	6	amod	_	_
+5	back	back	ADJ	_	J	6	compound	_	_
+6	fracture	fracture	NOUN	_	N	2	dobj	_	_
+7	with	with	ADP	_	N	6	prep	_	_
+8	a	a	DET	_	T	10	det	_	_
+9	bone	bone	NOUN	_	N	10	compound	_	_
+10	fragment	fragment	NOUN	_	N	7	pobj	_	_
+11	that	that	PRON	_	DT	12	nsubj	_	_
+12	chipped	chip	VERB	_	BD	10	relcl	_	_
+13	off	off	ADP	_	P	12	prt	_	_
+14	and	and	CCONJ	_	C	12	cc	_	_
+15	is	be	AUX	_	BZ	16	aux	_	_
+16	sitting	sit	VERB	_	BG	12	conj	_	_
+17	in	in	ADP	_	N	16	prep	_	_
+18	her	her	PRON	_	RP$	21	poss	_	_
+19	l4	l4	PROPN	_	NP	21	compound	_	_
+20	facet	facet	NOUN	_	N	21	compound	_	_
+21	joint	joint	NOUN	_	N	17	pobj	_	_
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 22
+# text = She is schedule for surgery endoscopicly to remove the fragment on July 15th 2026 with a leading nuero spine surgeon out of state that only takes on high complex cases.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	schedule	schedule	NOUN	_	N	2	attr	_	_
+4	for	for	ADP	_	N	3	prep	_	_
+5	surgery	surgery	NOUN	_	N	4	pobj	_	_
+6	endoscopicly	endoscopicly	ADV	_	B	2	advmod	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	remove	remove	VERB	_	B	2	advcl	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	fragment	fragment	NOUN	_	N	8	dobj	_	_
+11	on	on	ADP	_	N	8	prep	_	_
+12	July	july	PROPN	_	NP	13	compound	_	_
+13	15th	15th	NOUN	_	N	11	pobj	_	_
+14	2026	2026	NUM	_	D	13	appos	_	_
+15	with	with	ADP	_	N	8	prep	_	_
+16	a	a	DET	_	T	20	det	_	_
+17	leading	lead	VERB	_	BG	20	amod	_	_
+18	nuero	nuero	NOUN	_	N	19	compound	_	_
+19	spine	spine	NOUN	_	N	20	compound	_	_
+20	surgeon	surgeon	NOUN	_	N	15	pobj	_	_
+21	out	out	ADP	_	N	20	prep	_	_
+22	of	of	ADP	_	N	21	prep	_	_
+23	state	state	NOUN	_	N	22	pobj	_	_
+24	that	that	PRON	_	DT	26	nsubj	_	_
+25	only	only	ADV	_	B	26	advmod	_	_
+26	takes	take	VERB	_	BZ	20	relcl	_	_
+27	on	on	ADP	_	P	26	prt	_	_
+28	high	high	ADJ	_	J	30	amod	_	_
+29	complex	complex	ADJ	_	J	30	amod	_	_
+30	cases	case	NOUN	_	NS	26	dobj	_	_
+31	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 23
+# text = He is in network and so is the hospital surgery is being performed.
+1	He	he	PRON	_	RP	2	nsubj	_	_
+2	is	be	AUX	_	BZ	0	root	_	_
+3	in	in	ADP	_	N	2	prep	_	_
+4	network	network	NOUN	_	N	3	pobj	_	_
+5	and	and	CCONJ	_	C	2	cc	_	_
+6	so	so	ADV	_	B	7	advmod	_	_
+7	is	be	AUX	_	BZ	2	conj	_	_
+8	the	the	DET	_	T	10	det	_	_
+9	hospital	hospital	NOUN	_	N	10	compound	_	_
+10	surgery	surgery	NOUN	_	N	13	nsubjpass	_	_
+11	is	be	AUX	_	BZ	13	aux	_	_
+12	being	be	AUX	_	BG	13	auxpass	_	_
+13	performed	perform	VERB	_	BN	7	ccomp	_	_
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 24
+# text = Its now July 12th
+1	Its	its	PRON	_	RP$	4	poss	_	_
+2	now	now	ADV	_	B	1	advmod	_	_
+3	July	july	PROPN	_	NP	4	compound	_	_
+4	12th	12th	NOUN	_	N	0	root	_	_
+
+
+# sent_id = 25
+# text = and I am just getting the insurance denial.
+1	and	and	CCONJ	_	C	5	cc	_	_
+2	I	i	PRON	_	RP	5	nsubj	_	_
+3	am	be	AUX	_	BP	5	aux	_	_
+4	just	just	ADV	_	B	5	advmod	_	_
+5	getting	get	VERB	_	BG	0	root	_	_
+6	the	the	DET	_	T	8	det	_	_
+7	insurance	insurance	NOUN	_	N	8	compound	_	_
+8	denial	denial	NOUN	_	N	5	dobj	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 26
+# text = Not medically necessary.
+1	Not	not	PART	_	B	2	neg	_	_
+2	medically	medically	ADV	_	B	3	advmod	_	_
+3	necessary	necessary	ADJ	_	J	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 27
+# text = We have flights booked, airbnb booked, and follow up to return.
+1	We	we	PRON	_	RP	2	nsubj	_	_
+2	have	have	VERB	_	BP	0	root	_	_
+3	flights	flight	NOUN	_	NS	2	dobj	_	_
+4	booked	book	VERB	_	BN	3	acl	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	airbnb	airbnb	NOUN	_	N	7	npadvmod	_	_
+7	booked	book	VERB	_	BN	3	acl	_	_
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	and	and	CCONJ	_	C	2	cc	_	_
+10	follow	follow	VERB	_	B	2	conj	_	_
+11	up	up	ADP	_	P	10	prt	_	_
+12	to	to	PART	_	O	13	aux	_	_
+13	return	return	VERB	_	B	10	advcl	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 28
+# text = Bcbs ppo through union.
+1	Bcbs	bcb	NOUN	_	NS	2	compound	_	_
+2	ppo	ppo	PROPN	_	NP	0	root	_	_
+3	through	through	ADP	_	N	2	prep	_	_
+4	union	union	NOUN	_	N	3	pobj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 29
+# text = Self funded.
+1	Self	self	NOUN	_	N	2	nsubj	_	_
+2	funded	fund	VERB	_	BD	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 30
+# text = They have never denied anything.
+1	They	they	PRON	_	RP	4	nsubj	_	_
+2	have	have	AUX	_	BP	4	aux	_	_
+3	never	never	ADV	_	B	4	neg	_	_
+4	denied	deny	VERB	_	BN	0	root	_	_
+5	anything	anything	PRON	_	N	4	dobj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 31
+# text = My husband had a huge health scare that resulted in 15 surgeries for skin biopsies, muscle biopsies, exploratory, etc.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	husband	husband	NOUN	_	N	3	nsubj	_	_
+3	had	have	VERB	_	BD	0	root	_	_
+4	a	a	DET	_	T	7	det	_	_
+5	huge	huge	ADJ	_	J	7	amod	_	_
+6	health	health	NOUN	_	N	7	compound	_	_
+7	scare	scare	NOUN	_	N	3	dobj	_	_
+8	that	that	PRON	_	DT	9	nsubj	_	_
+9	resulted	result	VERB	_	BD	7	relcl	_	_
+10	in	in	ADP	_	N	9	prep	_	_
+11	15	15	NUM	_	D	12	nummod	_	_
+12	surgeries	surgery	NOUN	_	NS	10	pobj	_	_
+13	for	for	ADP	_	N	12	prep	_	_
+14	skin	skin	NOUN	_	N	15	compound	_	_
+15	biopsies	biopsy	NOUN	_	NS	13	pobj	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	muscle	muscle	NOUN	_	N	18	compound	_	_
+18	biopsies	biopsy	NOUN	_	NS	15	conj	_	_
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	exploratory	exploratory	ADJ	_	J	18	conj	_	_
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	etc	etc	X	_	W	20	conj	_	_
+23	.	.	X	_	W	20	conj	_	_
+
+
+# sent_id = 32
+# text = All approved non-issue.
+1	All	all	PRON	_	T	2	dep	_	_
+2	approved	approved	ADJ	_	J	0	root	_	_
+3	non	non	ADJ	_	J	2	dobj	_	_
+4	-	-	NOUN	_	N	2	dobj	_	_
+5	issue	issue	NOUN	_	N	2	dobj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 33
+# text = My Daughter has been in constant 7-9 out of 10 pain daily.
+1	My	my	PRON	_	RP$	2	poss	_	_
+2	Daughter	daughter	NOUN	_	N	4	nsubj	_	_
+3	has	have	AUX	_	BZ	4	aux	_	_
+4	been	be	AUX	_	BN	0	root	_	_
+5	in	in	ADP	_	N	4	prep	_	_
+6	constant	constant	ADJ	_	J	7	amod	_	_
+7	7	7	NUM	_	D	5	pobj	_	_
+8	-	-	SYM	_	YM	9	punct	_	_
+9	9	9	NUM	_	D	7	prep	_	_
+10	out	out	ADP	_	N	7	prep	_	_
+11	of	of	ADP	_	N	10	prep	_	_
+12	10	10	NUM	_	D	13	nummod	_	_
+13	pain	pain	NOUN	_	N	11	pobj	_	_
+14	daily	daily	ADV	_	B	5	pobj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 34
+# text = Missing out on everything.
+1	Missing	miss	VERB	_	BG	0	root	_	_
+2	out	out	ADP	_	P	1	prt	_	_
+3	on	on	ADP	_	N	1	prep	_	_
+4	everything	everything	PRON	_	N	3	pobj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 35
+# text = House bound.
+1	House	house	PROPN	_	NP	2	nsubj	_	_
+2	bound	bind	VERB	_	BN	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 36
+# text = She was a very active athlete with goals to play in college.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	was	be	AUX	_	BD	0	root	_	_
+3	a	a	DET	_	T	6	det	_	_
+4	very	very	ADV	_	B	5	advmod	_	_
+5	active	active	ADJ	_	J	6	amod	_	_
+6	athlete	athlete	NOUN	_	N	2	attr	_	_
+7	with	with	ADP	_	N	2	prep	_	_
+8	goals	goal	NOUN	_	NS	7	pobj	_	_
+9	to	to	PART	_	O	10	aux	_	_
+10	play	play	VERB	_	B	8	relcl	_	_
+11	in	in	ADP	_	N	10	prep	_	_
+12	college	college	NOUN	_	N	11	pobj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 37
+# text = This road block will devastate her.
+1	This	this	DET	_	T	3	det	_	_
+2	road	road	NOUN	_	N	3	compound	_	_
+3	block	block	NOUN	_	N	5	nsubj	_	_
+4	will	will	AUX	_	D	5	aux	_	_
+5	devastate	devastate	VERB	_	B	0	root	_	_
+6	her	she	PRON	_	RP	5	dobj	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 38
+# text = She has had a countdown to this day to finally live a normal life soon.
+1	She	she	PRON	_	RP	3	nsubj	_	_
+2	has	have	AUX	_	BZ	3	aux	_	_
+3	had	have	VERB	_	BN	0	root	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	countdown	countdown	NOUN	_	N	3	dobj	_	_
+6	to	to	ADP	_	N	3	prep	_	_
+7	this	this	DET	_	T	8	det	_	_
+8	day	day	NOUN	_	N	6	pobj	_	_
+9	to	to	PART	_	O	11	aux	_	_
+10	finally	finally	ADV	_	B	11	advmod	_	_
+11	live	live	VERB	_	B	3	advcl	_	_
+12	a	a	DET	_	T	14	det	_	_
+13	normal	normal	ADJ	_	J	14	amod	_	_
+14	life	life	NOUN	_	N	11	dobj	_	_
+15	soon	soon	ADV	_	B	11	advmod	_	_
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 39
+# text = Being its sunday, I plan on calling first thing.
+1	Being	be	AUX	_	BG	6	advcl	_	_
+2	its	its	PRON	_	RP$	3	poss	_	_
+3	sunday	sunday	PROPN	_	NP	1	attr	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	I	i	PRON	_	RP	6	nsubj	_	_
+6	plan	plan	VERB	_	BP	0	root	_	_
+7	on	on	ADP	_	N	6	prep	_	_
+8	calling	call	VERB	_	BG	7	pcomp	_	_
+9	first	first	ADJ	_	J	10	amod	_	_
+10	thing	thing	NOUN	_	N	8	dobj	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 40
+# text = What are our odds here.
+1	What	what	PRON	_	P	2	attr	_	_
+2	are	be	AUX	_	BP	0	root	_	_
+3	our	our	PRON	_	RP$	4	poss	_	_
+4	odds	odd	NOUN	_	NS	2	nsubj	_	_
+5	here	here	ADV	_	B	4	advmod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 41
+# text = I cant devastate this girl.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	ca	can	AUX	_	D	4	aux	_	_
+3	nt	not	PART	_	B	4	neg	_	_
+4	devastate	devastate	VERB	_	B	0	root	_	_
+5	this	this	DET	_	T	6	det	_	_
+6	girl	girl	NOUN	_	N	4	dobj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 42
+# text = We have been fighting for someone to believe her pain is real.
+1	We	we	PRON	_	RP	4	nsubj	_	_
+2	have	have	AUX	_	BP	4	aux	_	_
+3	been	be	AUX	_	BN	4	aux	_	_
+4	fighting	fight	VERB	_	BG	0	root	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	someone	someone	PRON	_	N	5	pobj	_	_
+7	to	to	PART	_	O	8	aux	_	_
+8	believe	believe	VERB	_	B	6	relcl	_	_
+9	her	her	PRON	_	RP$	10	poss	_	_
+10	pain	pain	NOUN	_	N	11	nsubj	_	_
+11	is	be	AUX	_	BZ	8	ccomp	_	_
+12	real	real	ADJ	_	J	11	acomp	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 43
+# text = And when the neuro spine surgeon says this is son rare and debilitating she felt relieved and cried finally answers.
+1	And	and	CCONJ	_	C	7	cc	_	_
+2	when	when	SCONJ	_	RB	7	advmod	_	_
+3	the	the	DET	_	T	6	det	_	_
+4	neuro	neuro	PROPN	_	NP	6	compound	_	_
+5	spine	spine	PROPN	_	NP	6	compound	_	_
+6	surgeon	surgeon	PROPN	_	NP	7	nsubj	_	_
+7	says	say	VERB	_	BZ	0	root	_	_
+8	this	this	PRON	_	T	9	nsubj	_	_
+9	is	be	AUX	_	BZ	7	ccomp	_	_
+10	son	son	NOUN	_	N	20	nsubj	_	_
+11	rare	rare	ADJ	_	J	10	amod	_	_
+12	and	and	CCONJ	_	C	10	cc	_	_
+13	debilitating	debilitate	VERB	_	BG	10	conj	_	_
+14	she	she	PRON	_	RP	15	nsubj	_	_
+15	felt	feel	VERB	_	BD	13	ccomp	_	_
+16	relieved	relieve	VERB	_	BN	15	acomp	_	_
+17	and	and	CCONJ	_	C	15	cc	_	_
+18	cried	cry	VERB	_	BD	15	conj	_	_
+19	finally	finally	ADV	_	B	20	advmod	_	_
+20	answers	answer	VERB	_	BZ	9	attr	_	_
+21	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 44
+# text = How can we have no delays.
+1	How	how	SCONJ	_	RB	4	advmod	_	_
+2	can	can	AUX	_	D	4	aux	_	_
+3	we	we	PRON	_	RP	4	nsubj	_	_
+4	have	have	VERB	_	B	0	root	_	_
+5	no	no	DET	_	T	6	det	_	_
+6	delays	delay	NOUN	_	NS	4	dobj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 45
+# text = Thank-you for your time.
+1	Thank	thank	NOUN	_	N	0	root	_	_
+2	-	-	PUNCT	_	YPH	1	punct	_	_
+3	you	you	PRON	_	RP	1	dobj	_	_
+4	for	for	ADP	_	N	1	prep	_	_
+5	your	your	PRON	_	RP$	6	poss	_	_
+6	time	time	NOUN	_	N	4	pobj	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 46
+# text = Edit to add it is procedure 63047 LAM FACETECTOMY & FORAMOTOMY 1 VRT SGM LUMBAR
+1	Edit	edit	VERB	_	B	6	nsubj	_	_
+2	to	to	PART	_	O	3	aux	_	_
+3	add	add	VERB	_	B	1	xcomp	_	_
+4	it	it	PRON	_	RP	3	dobj	_	_
+5	is	be	AUX	_	BZ	6	aux	_	_
+6	procedure	procedure	NOUN	_	N	0	root	_	_
+7	63047	63047	NUM	_	D	9	nummod	_	_
+8	LAM	lam	PROPN	_	NP	9	compound	_	_
+9	FACETECTOMY	facetectomy	PROPN	_	NP	6	dobj	_	_
+10	&	&	CCONJ	_	C	9	cc	_	_
+11	FORAMOTOMY	foramotomy	PROPN	_	NP	9	conj	_	_
+12	1	1	NUM	_	D	9	conj	_	_
+13	VRT	vrt	PROPN	_	NP	15	compound	_	_
+14	SGM	sgm	PROPN	_	NP	15	compound	_	_
+15	LUMBAR	lumbar	PROPN	_	NP	6	dobj	_	_
+
+
+# sent_id = 47
+# text = Peer to peer was schedule for 3-4 pm 7/13 waited patiently and then surgeons office called at 6pm that the peer carelon scheduled was hung up.
+1	Peer	peer	NOUN	_	N	4	nsubj	_	_
+2	to	to	ADP	_	N	1	prep	_	_
+3	peer	peer	NOUN	_	N	2	pobj	_	_
+4	was	be	AUX	_	BD	0	root	_	_
+5	schedule	schedule	NOUN	_	N	4	attr	_	_
+6	for	for	ADP	_	N	5	prep	_	_
+7	3	3	NUM	_	D	11	nummod	_	_
+8	-	-	SYM	_	YM	9	punct	_	_
+9	4	4	NUM	_	D	7	prep	_	_
+10	pm	pm	NOUN	_	N	11	compound	_	_
+11	7/13	7/13	NUM	_	D	6	pobj	_	_
+12	waited	wait	VERB	_	BD	4	advcl	_	_
+13	patiently	patiently	ADV	_	B	12	advmod	_	_
+14	and	and	CCONJ	_	C	12	cc	_	_
+15	then	then	ADV	_	B	18	advmod	_	_
+16	surgeons	surgeon	NOUN	_	NS	17	compound	_	_
+17	office	office	NOUN	_	N	18	nsubj	_	_
+18	called	call	VERB	_	BD	12	conj	_	_
+19	at	at	ADP	_	N	18	prep	_	_
+20	6	6	NUM	_	D	21	nummod	_	_
+21	pm	pm	ADV	_	B	19	pobj	_	_
+22	that	that	SCONJ	_	N	28	mark	_	_
+23	the	the	DET	_	T	25	det	_	_
+24	peer	peer	NOUN	_	N	25	compound	_	_
+25	carelon	carelon	NOUN	_	N	28	nsubjpass	_	_
+26	scheduled	schedule	VERB	_	BN	25	acl	_	_
+27	was	be	AUX	_	BD	28	auxpass	_	_
+28	hung	hang	VERB	_	BN	18	ccomp	_	_
+29	up	up	ADP	_	P	28	prt	_	_
+30	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 48
+# text = Scheduled for noon on 7/14.
+1	Scheduled	schedule	VERB	_	BN	0	root	_	_
+2	for	for	ADP	_	N	1	prep	_	_
+3	noon	noon	NOUN	_	N	2	pobj	_	_
+4	on	on	ADP	_	N	1	prep	_	_
+5	7/14	7/14	NUM	_	D	4	pobj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 49
+# text = We had flights booked for departure at 325.
+1	We	we	PRON	_	RP	2	nsubj	_	_
+2	had	have	VERB	_	BD	0	root	_	_
+3	flights	flight	NOUN	_	NS	2	dobj	_	_
+4	booked	book	VERB	_	BN	3	acl	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	departure	departure	NOUN	_	N	5	pobj	_	_
+7	at	at	ADP	_	N	4	prep	_	_
+8	325	325	NUM	_	D	7	pobj	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 50
+# text = That peer tonoeer happened and still denied.
+1	That	that	DET	_	T	3	det	_	_
+2	peer	peer	NOUN	_	N	3	compound	_	_
+3	tonoeer	tonoeer	NOUN	_	N	4	nsubj	_	_
+4	happened	happen	VERB	_	BD	0	root	_	_
+5	and	and	CCONJ	_	C	4	cc	_	_
+6	still	still	ADV	_	B	7	advmod	_	_
+7	denied	deny	VERB	_	BN	4	conj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 51
+# text = They advised the surgery to surgeon discussed is fully covered but needs a different cpt code.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	advised	advise	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	surgery	surgery	NOUN	_	N	2	dobj	_	_
+5	to	to	ADP	_	N	2	prep	_	_
+6	surgeon	surgeon	NOUN	_	N	5	pobj	_	_
+7	discussed	discuss	VERB	_	BN	2	advcl	_	_
+8	is	be	AUX	_	BZ	10	auxpass	_	_
+9	fully	fully	ADV	_	B	10	advmod	_	_
+10	covered	cover	VERB	_	BN	2	conj	_	_
+11	but	but	CCONJ	_	C	10	cc	_	_
+12	needs	need	VERB	_	BZ	10	conj	_	_
+13	a	a	DET	_	T	16	det	_	_
+14	different	different	ADJ	_	J	16	amod	_	_
+15	cpt	cpt	PROPN	_	NP	16	compound	_	_
+16	code	code	NOUN	_	N	12	dobj	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 52
+# text = Surgeon explained the urgency and was told to keep sending in cpt codes until excepted.
+1	Surgeon	surgeon	PROPN	_	NP	2	nsubj	_	_
+2	explained	explain	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	4	det	_	_
+4	urgency	urgency	NOUN	_	N	2	dobj	_	_
+5	and	and	CCONJ	_	C	2	cc	_	_
+6	was	be	AUX	_	BD	7	auxpass	_	_
+7	told	tell	VERB	_	BN	2	conj	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	keep	keep	VERB	_	B	7	xcomp	_	_
+10	sending	send	VERB	_	BG	9	xcomp	_	_
+11	in	in	ADP	_	N	10	prep	_	_
+12	cpt	cpt	PROPN	_	NP	13	compound	_	_
+13	codes	code	NOUN	_	NS	11	pobj	_	_
+14	until	until	SCONJ	_	N	15	mark	_	_
+15	excepted	excepted	ADJ	_	J	9	advcl	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 53
+# text = So, let's keep a 14 year old in chronic 7-9 out of 10 pain for God knows how long until they guess the right cpt code now.
+1	So	so	ADV	_	B	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	let	let	VERB	_	B	0	root	_	_
+4	's	us	PRON	_	RP	5	nsubj	_	_
+5	keep	keep	VERB	_	B	3	ccomp	_	_
+6	a	a	DET	_	T	9	det	_	_
+7	14	14	NUM	_	D	8	nummod	_	_
+8	year	year	NOUN	_	N	9	npadvmod	_	_
+9	old	old	ADJ	_	J	5	oprd	_	_
+10	in	in	ADP	_	N	5	prep	_	_
+11	chronic	chronic	ADJ	_	J	10	pobj	_	_
+12	7	7	NUM	_	D	11	nummod	_	_
+13	-	-	SYM	_	YM	14	punct	_	_
+14	9	9	NUM	_	D	12	prep	_	_
+15	out	out	ADP	_	N	5	prep	_	_
+16	of	of	ADP	_	N	15	prep	_	_
+17	10	10	NUM	_	D	18	nummod	_	_
+18	pain	pain	NOUN	_	N	16	pobj	_	_
+19	for	for	ADP	_	N	18	prep	_	_
+20	God	god	PROPN	_	NP	19	pobj	_	_
+21	knows	know	VERB	_	BZ	3	ccomp	_	_
+22	how	how	SCONJ	_	RB	23	advmod	_	_
+23	long	long	ADV	_	B	21	ccomp	_	_
+24	until	until	SCONJ	_	N	26	mark	_	_
+25	they	they	PRON	_	RP	26	nsubj	_	_
+26	guess	guess	VERB	_	BP	23	advcl	_	_
+27	the	the	DET	_	T	30	det	_	_
+28	right	right	ADJ	_	J	30	amod	_	_
+29	cpt	cpt	PROPN	_	NP	30	compound	_	_
+30	code	code	PROPN	_	NP	26	dobj	_	_
+31	now	now	ADV	_	B	26	advmod	_	_
+32	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 54
+# text = We finally broke the news to our daughter at 1235 pm that surgery was canceled and we dont know when exactly it will be approved.
+1	We	we	PRON	_	RP	3	nsubj	_	_
+2	finally	finally	ADV	_	B	3	advmod	_	_
+3	broke	break	VERB	_	BD	0	root	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	news	news	NOUN	_	N	3	dobj	_	_
+6	to	to	ADP	_	N	3	prep	_	_
+7	our	our	PRON	_	RP$	8	poss	_	_
+8	daughter	daughter	NOUN	_	N	6	pobj	_	_
+9	at	at	ADP	_	N	3	prep	_	_
+10	1235	1235	NUM	_	D	11	nummod	_	_
+11	pm	pm	NOUN	_	N	9	pobj	_	_
+12	that	that	DET	_	T	13	det	_	_
+13	surgery	surgery	NOUN	_	N	15	nsubjpass	_	_
+14	was	be	AUX	_	BD	15	auxpass	_	_
+15	canceled	cancel	VERB	_	BN	3	ccomp	_	_
+16	and	and	CCONJ	_	C	3	cc	_	_
+17	we	we	PRON	_	RP	20	nsubj	_	_
+18	do	do	AUX	_	BP	20	aux	_	_
+19	nt	not	PART	_	B	20	neg	_	_
+20	know	know	VERB	_	B	3	conj	_	_
+21	when	when	SCONJ	_	RB	22	advmod	_	_
+22	exactly	exactly	ADV	_	B	26	advmod	_	_
+23	it	it	PRON	_	RP	26	nsubjpass	_	_
+24	will	will	AUX	_	D	26	aux	_	_
+25	be	be	AUX	_	B	26	auxpass	_	_
+26	approved	approve	VERB	_	BN	20	ccomp	_	_
+27	.	.	PUNCT	_	_	20	punct	_	_
+
+
+# sent_id = 55
+# text = The reaction was as heartbreaking as anyone can imagine.
+1	The	the	DET	_	T	2	det	_	_
+2	reaction	reaction	NOUN	_	N	3	nsubj	_	_
+3	was	be	AUX	_	BD	0	root	_	_
+4	as	as	ADV	_	B	5	advmod	_	_
+5	heartbreaking	heartbreaking	ADJ	_	J	3	acomp	_	_
+6	as	as	SCONJ	_	N	9	mark	_	_
+7	anyone	anyone	PRON	_	N	9	nsubj	_	_
+8	can	can	AUX	_	D	9	aux	_	_
+9	imagine	imagine	VERB	_	B	5	advcl	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 56
+# text = Then at 135 pm an 800 number called my phone.
+1	Then	then	ADV	_	B	0	root	_	_
+2	at	at	ADP	_	N	1	prep	_	_
+3	135	135	NUM	_	D	4	nummod	_	_
+4	pm	pm	NOUN	_	N	2	pobj	_	_
+5	an	an	DET	_	T	7	det	_	_
+6	800	800	NUM	_	D	7	nummod	_	_
+7	number	number	NOUN	_	N	4	appos	_	_
+8	called	call	VERB	_	BN	7	acl	_	_
+9	my	my	PRON	_	RP$	10	poss	_	_
+10	phone	phone	NOUN	_	N	8	oprd	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 57
+# text = I never answer 800 numbers but foursome reason this time I did.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	never	never	ADV	_	B	3	neg	_	_
+3	answer	answer	VERB	_	BP	0	root	_	_
+4	800	800	NUM	_	D	5	nummod	_	_
+5	numbers	number	NOUN	_	NS	3	dobj	_	_
+6	but	but	CCONJ	_	C	5	cc	_	_
+7	foursome	foursome	ADJ	_	J	8	amod	_	_
+8	reason	reason	NOUN	_	N	5	conj	_	_
+9	this	this	DET	_	T	10	det	_	_
+10	time	time	NOUN	_	N	3	npadvmod	_	_
+11	I	i	PRON	_	RP	12	nsubj	_	_
+12	did	do	VERB	_	BD	10	relcl	_	_
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 58
+# text = And it was my husband's union,
+1	And	and	CCONJ	_	C	3	cc	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	was	be	AUX	_	BD	0	root	_	_
+4	my	my	PRON	_	RP$	5	poss	_	_
+5	husband	husband	NOUN	_	N	7	poss	_	_
+6	's	's	PART	_	OS	5	case	_	_
+7	union	union	NOUN	_	N	3	attr	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 59
+# text = They did an internal review and it was being over sided internally and apologized profusely that this was even an issue for a child.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	did	do	VERB	_	BD	0	root	_	_
+3	an	an	DET	_	T	5	det	_	_
+4	internal	internal	ADJ	_	J	5	amod	_	_
+5	review	review	NOUN	_	N	2	dobj	_	_
+6	and	and	CCONJ	_	C	2	cc	_	_
+7	it	it	PRON	_	RP	9	nsubj	_	_
+8	was	be	AUX	_	BD	9	aux	_	_
+9	being	be	AUX	_	BG	2	conj	_	_
+10	over	over	ADV	_	B	9	advmod	_	_
+11	sided	side	VERB	_	BN	9	advcl	_	_
+12	internally	internally	ADV	_	B	11	advmod	_	_
+13	and	and	CCONJ	_	C	9	cc	_	_
+14	apologized	apologize	VERB	_	BD	9	conj	_	_
+15	profusely	profusely	ADV	_	B	14	advmod	_	_
+16	that	that	SCONJ	_	N	18	mark	_	_
+17	this	this	PRON	_	T	18	nsubj	_	_
+18	was	be	AUX	_	BD	14	ccomp	_	_
+19	even	even	ADV	_	B	21	advmod	_	_
+20	an	an	DET	_	T	21	det	_	_
+21	issue	issue	NOUN	_	N	18	attr	_	_
+22	for	for	ADP	_	N	21	prep	_	_
+23	a	a	DET	_	T	24	det	_	_
+24	child	child	NOUN	_	N	22	pobj	_	_
+25	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 60
+# text = They called every single person needed to be called and we got the clear for surgery at 4:02 pm on 7/14 for a surgery check in time 515 am on 7/15.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	called	call	VERB	_	BD	0	root	_	_
+3	every	every	DET	_	T	5	det	_	_
+4	single	single	ADJ	_	J	5	amod	_	_
+5	person	person	NOUN	_	N	2	dobj	_	_
+6	needed	need	VERB	_	BN	5	acl	_	_
+7	to	to	PART	_	O	9	aux	_	_
+8	be	be	AUX	_	B	9	auxpass	_	_
+9	called	call	VERB	_	BN	6	xcomp	_	_
+10	and	and	CCONJ	_	C	2	cc	_	_
+11	we	we	PRON	_	RP	12	nsubj	_	_
+12	got	get	VERB	_	BD	2	conj	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	clear	clear	ADJ	_	J	12	dobj	_	_
+15	for	for	ADP	_	N	14	prep	_	_
+16	surgery	surgery	NOUN	_	N	15	pobj	_	_
+17	at	at	ADP	_	N	12	prep	_	_
+18	4:02	4:02	NUM	_	D	19	nummod	_	_
+19	pm	pm	NOUN	_	N	17	pobj	_	_
+20	on	on	ADP	_	N	12	prep	_	_
+21	7/14	7/14	NUM	_	D	20	pobj	_	_
+22	for	for	ADP	_	N	12	prep	_	_
+23	a	a	DET	_	T	25	det	_	_
+24	surgery	surgery	NOUN	_	N	25	compound	_	_
+25	check	check	NOUN	_	N	22	pobj	_	_
+26	in	in	ADP	_	N	25	prep	_	_
+27	time	time	NOUN	_	N	26	pobj	_	_
+28	515	515	NUM	_	D	29	nummod	_	_
+29	am	be	AUX	_	BP	12	ccomp	_	_
+30	on	on	ADP	_	N	29	prep	_	_
+31	7/15	7/15	NUM	_	D	30	pobj	_	_
+32	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 61
+# text = We raced to the airport and to the gate with 10 minutes left of boarding.
+1	We	we	PRON	_	RP	2	nsubj	_	_
+2	raced	race	VERB	_	BD	0	root	_	_
+3	to	to	ADP	_	N	2	prep	_	_
+4	the	the	DET	_	T	5	det	_	_
+5	airport	airport	NOUN	_	N	3	pobj	_	_
+6	and	and	CCONJ	_	C	3	cc	_	_
+7	to	to	ADP	_	N	3	conj	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	gate	gate	NOUN	_	N	7	pobj	_	_
+10	with	with	ADP	_	N	2	prep	_	_
+11	10	10	NUM	_	D	12	nummod	_	_
+12	minutes	minute	NOUN	_	NS	10	pobj	_	_
+13	left	leave	VERB	_	BN	12	acl	_	_
+14	of	of	ADP	_	N	13	prep	_	_
+15	boarding	boarding	NOUN	_	N	14	pobj	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 62
+# text = The tripled flight tickets were all worth it as she has so far had tremendous pain relief.
+1	The	the	DET	_	T	4	det	_	_
+2	tripled	triple	VERB	_	BN	4	amod	_	_
+3	flight	flight	NOUN	_	N	4	compound	_	_
+4	tickets	ticket	NOUN	_	NS	5	nsubj	_	_
+5	were	be	AUX	_	BD	0	root	_	_
+6	all	all	PRON	_	T	5	advmod	_	_
+7	worth	worth	ADJ	_	J	5	acomp	_	_
+8	it	it	PRON	_	RP	7	npadvmod	_	_
+9	as	as	SCONJ	_	N	14	mark	_	_
+10	she	she	PRON	_	RP	14	nsubj	_	_
+11	has	have	AUX	_	BZ	14	aux	_	_
+12	so	so	ADV	_	B	13	advmod	_	_
+13	far	far	ADV	_	B	14	advmod	_	_
+14	had	have	VERB	_	BD	5	advcl	_	_
+15	tremendous	tremendous	ADJ	_	J	17	amod	_	_
+16	pain	pain	NOUN	_	N	17	compound	_	_
+17	relief	relief	NOUN	_	N	14	dobj	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 63
+# text = Tonsee her walk normal for the first time in 8mos is all worth it.
+1	Tonsee	tonsee	PROPN	_	NP	3	npadvmod	_	_
+2	her	her	PRON	_	RP$	3	nsubj	_	_
+3	walk	walk	VERB	_	B	11	csubj	_	_
+4	normal	normal	ADJ	_	J	3	acomp	_	_
+5	for	for	ADP	_	N	3	prep	_	_
+6	the	the	DET	_	T	8	det	_	_
+7	first	first	ADJ	_	J	8	amod	_	_
+8	time	time	NOUN	_	N	5	pobj	_	_
+9	in	in	ADP	_	N	8	prep	_	_
+10	8mos	8mos	PROPN	_	NP	9	pobj	_	_
+11	is	be	AUX	_	BZ	0	root	_	_
+12	all	all	PRON	_	T	11	advmod	_	_
+13	worth	worth	ADJ	_	J	11	acomp	_	_
+14	it	it	PRON	_	RP	13	npadvmod	_	_
+15	.	.	PUNCT	_	_	11	punct	_	_
+
+

@@ -1,0 +1,126 @@
+# sent_id = 1
+# text = Thread_15
+1	Thread_15	thread_15	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1515
+1	1515	1515	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1500
+1	1500	1500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Maleficent-Caramel37
+1	u	u	PROPN	_	NP	5	nmod	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	Maleficent	maleficent	PROPN	_	NP	5	compound	_	_
+4	-	-	PUNCT	_	YPH	5	punct	_	_
+5	Caramel37	caramel37	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Update.....
+1	Update	update	NOUN	_	N	0	root	_	_
+2	.....	.....	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 6
+# text = As of now surgery has been moved.
+1	As	as	ADP	_	N	7	prep	_	_
+2	of	of	ADP	_	N	1	prep	_	_
+3	now	now	ADV	_	B	7	advmod	_	_
+4	surgery	surgery	NOUN	_	N	7	nsubjpass	_	_
+5	has	have	AUX	_	BZ	7	aux	_	_
+6	been	be	AUX	_	BN	7	auxpass	_	_
+7	moved	move	VERB	_	BN	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 7
+# text = Peer-to-peer resulted in denial.
+1	Peer	peer	NOUN	_	N	6	nsubj	_	_
+2	-	-	PUNCT	_	YPH	1	punct	_	_
+3	to	to	ADP	_	N	1	prep	_	_
+4	-	-	PUNCT	_	YPH	3	punct	_	_
+5	peer	peer	NOUN	_	N	3	pobj	_	_
+6	resulted	result	VERB	_	BD	0	root	_	_
+7	in	in	ADP	_	N	6	prep	_	_
+8	denial	denial	NOUN	_	N	7	pobj	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 8
+# text = As the cpt code "didnt match" procedure.
+1	As	as	SCONJ	_	N	8	mark	_	_
+2	the	the	DET	_	T	4	det	_	_
+3	cpt	cpt	PROPN	_	NP	4	compound	_	_
+4	code	code	PROPN	_	NP	8	nsubj	_	_
+5	"	"	PUNCT	_	`	8	punct	_	_
+6	did	do	AUX	_	BD	8	aux	_	_
+7	nt	not	PART	_	B	8	neg	_	_
+8	match	match	VERB	_	B	0	root	_	_
+9	"	"	PUNCT	_	'	8	punct	_	_
+10	procedure	procedure	NOUN	_	N	8	dobj	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = 9
+# text = Surgeon office has been amazing and 7 people between union reps, union president, authorization team, surgical scheduler.
+1	Surgeon	surgeon	PROPN	_	NP	2	compound	_	_
+2	office	office	NOUN	_	N	4	nsubj	_	_
+3	has	have	AUX	_	BZ	4	aux	_	_
+4	been	be	AUX	_	BN	0	root	_	_
+5	amazing	amazing	ADJ	_	J	4	acomp	_	_
+6	and	and	CCONJ	_	C	4	cc	_	_
+7	7	7	NUM	_	D	8	nummod	_	_
+8	people	people	NOUN	_	NS	4	conj	_	_
+9	between	between	ADP	_	N	8	prep	_	_
+10	union	union	PROPN	_	NP	11	compound	_	_
+11	reps	rep	NOUN	_	NS	9	pobj	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	union	union	NOUN	_	N	14	compound	_	_
+14	president	president	NOUN	_	N	11	conj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	authorization	authorization	NOUN	_	N	17	compound	_	_
+17	team	team	NOUN	_	N	14	conj	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	surgical	surgical	ADJ	_	J	20	amod	_	_
+20	scheduler	scheduler	NOUN	_	N	17	appos	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 10
+# text = Basically it comes down to, they want a full open surgery cutting her muscles instead of minimally invasive out patient for removal of bone fragment.
+1	Basically	basically	ADV	_	B	3	advmod	_	_
+2	it	it	PRON	_	RP	3	nsubj	_	_
+3	comes	come	VERB	_	BZ	8	advcl	_	_
+4	down	down	ADP	_	P	3	prt	_	_
+5	to	to	ADP	_	N	3	prep	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	they	they	PRON	_	RP	8	nsubj	_	_
+8	want	want	VERB	_	BP	0	root	_	_
+9	a	a	DET	_	T	12	det	_	_
+10	full	full	ADJ	_	J	12	amod	_	_
+11	open	open	ADJ	_	J	12	amod	_	_
+12	surgery	surgery	NOUN	_	N	8	dobj	_	_
+13	cutting	cut	VERB	_	BG	12	acl	_	_
+14	her	her	PRON	_	RP$	15	poss	_	_
+15	muscles	muscle	NOUN	_	NS	13	dobj	_	_
+16	instead	instead	ADV	_	B	17	advmod	_	_
+17	of	of	ADP	_	N	13	cc	_	_
+18	minimally	minimally	ADV	_	B	19	advmod	_	_
+19	invasive	invasive	ADJ	_	J	8	conj	_	_
+20	out	out	ADP	_	P	19	prt	_	_
+21	patient	patient	NOUN	_	N	19	dobj	_	_
+22	for	for	ADP	_	N	21	prep	_	_
+23	removal	removal	NOUN	_	N	22	pobj	_	_
+24	of	of	ADP	_	N	23	prep	_	_
+25	bone	bone	NOUN	_	N	26	compound	_	_
+26	fragment	fragment	NOUN	_	N	24	pobj	_	_
+27	.	.	PUNCT	_	_	8	punct	_	_
+
+

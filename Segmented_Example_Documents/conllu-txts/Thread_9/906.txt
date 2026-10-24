@@ -1,0 +1,522 @@
+# sent_id = 1
+# text = Thread_9
+1	Thread_9	thread_9	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 906
+1	906	906	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 905
+1	905	905	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/p_kitty
+1	u	u	NOUN	_	N	0	root	_	_
+2	/	/	SYM	_	YM	1	punct	_	_
+3	p_kitty	p_kitty	NOUN	_	N	1	nummod	_	_
+
+
+# sent_id = 5
+# text = The employee benefit manager and broker stopped responding to me when I told them I wasn't comfortable giving them itemized bills.
+1	The	the	DET	_	T	4	det	_	_
+2	employee	employee	NOUN	_	N	3	compound	_	_
+3	benefit	benefit	NOUN	_	N	4	compound	_	_
+4	manager	manager	NOUN	_	N	7	nsubj	_	_
+5	and	and	CCONJ	_	C	4	cc	_	_
+6	broker	broker	NOUN	_	N	4	conj	_	_
+7	stopped	stop	VERB	_	BD	0	root	_	_
+8	responding	respond	VERB	_	BG	7	xcomp	_	_
+9	to	to	ADP	_	N	8	prep	_	_
+10	me	i	PRON	_	RP	9	pobj	_	_
+11	when	when	SCONJ	_	RB	13	advmod	_	_
+12	I	i	PRON	_	RP	13	nsubj	_	_
+13	told	tell	VERB	_	BD	8	advcl	_	_
+14	them	they	PRON	_	RP	13	dobj	_	_
+15	I	i	PRON	_	RP	16	nsubj	_	_
+16	was	be	AUX	_	BD	13	ccomp	_	_
+17	n't	not	PART	_	B	16	neg	_	_
+18	comfortable	comfortable	ADJ	_	J	16	acomp	_	_
+19	giving	give	VERB	_	BG	18	xcomp	_	_
+20	them	they	PRON	_	RP	19	dative	_	_
+21	itemized	itemize	VERB	_	BN	22	amod	_	_
+22	bills	bill	NOUN	_	NS	19	dobj	_	_
+23	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 6
+# text = It took me three months and a sobbing phone call to the operator at the employer to even get someone from HR to call me back in the first place.
+1	It	it	PRON	_	RP	2	nsubj	_	_
+2	took	take	VERB	_	BD	0	root	_	_
+3	me	i	PRON	_	RP	2	dobj	_	_
+4	three	three	NUM	_	D	5	nummod	_	_
+5	months	month	NOUN	_	NS	2	npadvmod	_	_
+6	and	and	CCONJ	_	C	5	cc	_	_
+7	a	a	DET	_	T	10	det	_	_
+8	sobbing	sob	VERB	_	BG	10	amod	_	_
+9	phone	phone	NOUN	_	N	10	compound	_	_
+10	call	call	NOUN	_	N	5	conj	_	_
+11	to	to	ADP	_	N	10	prep	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	operator	operator	NOUN	_	N	11	pobj	_	_
+14	at	at	ADP	_	N	10	prep	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	employer	employer	NOUN	_	N	14	pobj	_	_
+17	to	to	PART	_	O	19	aux	_	_
+18	even	even	ADV	_	B	19	advmod	_	_
+19	get	get	VERB	_	B	2	xcomp	_	_
+20	someone	someone	PRON	_	N	19	dobj	_	_
+21	from	from	ADP	_	N	20	prep	_	_
+22	HR	hr	NOUN	_	N	21	pobj	_	_
+23	to	to	PART	_	O	24	aux	_	_
+24	call	call	VERB	_	B	19	advcl	_	_
+25	me	i	PRON	_	RP	24	dobj	_	_
+26	back	back	ADV	_	B	24	advmod	_	_
+27	in	in	ADP	_	N	24	prep	_	_
+28	the	the	DET	_	T	30	det	_	_
+29	first	first	ADJ	_	J	30	amod	_	_
+30	place	place	NOUN	_	N	27	pobj	_	_
+31	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = I called the US DOL, not the state.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	called	call	VERB	_	BD	0	root	_	_
+3	the	the	DET	_	T	5	det	_	_
+4	US	us	PROPN	_	NP	5	compound	_	_
+5	DOL	dol	PROPN	_	NP	2	dobj	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	not	not	PART	_	B	5	neg	_	_
+8	the	the	DET	_	T	9	det	_	_
+9	state	state	NOUN	_	N	5	appos	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 8
+# text = The state just gave me a scam phone number.
+1	The	the	DET	_	T	2	det	_	_
+2	state	state	NOUN	_	N	4	nsubj	_	_
+3	just	just	ADV	_	B	4	advmod	_	_
+4	gave	give	VERB	_	BD	0	root	_	_
+5	me	i	PRON	_	RP	4	dative	_	_
+6	a	a	DET	_	T	9	det	_	_
+7	scam	scam	NOUN	_	N	9	compound	_	_
+8	phone	phone	NOUN	_	N	9	compound	_	_
+9	number	number	NOUN	_	N	4	dobj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 9
+# text = I have reached out to five or six different ERISA and employment attorneys.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	have	have	AUX	_	BP	3	aux	_	_
+3	reached	reach	VERB	_	BN	0	root	_	_
+4	out	out	ADP	_	P	6	quantmod	_	_
+5	to	to	PART	_	O	6	quantmod	_	_
+6	five	five	NUM	_	D	13	nummod	_	_
+7	or	or	CCONJ	_	C	6	cc	_	_
+8	six	six	NUM	_	D	6	conj	_	_
+9	different	different	ADJ	_	J	13	amod	_	_
+10	ERISA	erisa	PROPN	_	NP	13	nmod	_	_
+11	and	and	CCONJ	_	C	10	cc	_	_
+12	employment	employment	NOUN	_	N	10	conj	_	_
+13	attorneys	attorney	NOUN	_	NS	3	dobj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 10
+# text = Two of them responded asking for more information, one told me the amount in question isn't worth it for him to take the job and the others just ghosted me.
+1	Two	two	NUM	_	D	4	nsubj	_	_
+2	of	of	ADP	_	N	1	prep	_	_
+3	them	they	PRON	_	RP	2	pobj	_	_
+4	responded	respond	VERB	_	BD	11	ccomp	_	_
+5	asking	ask	VERB	_	BG	4	xcomp	_	_
+6	for	for	ADP	_	N	5	prep	_	_
+7	more	more	ADJ	_	JR	8	amod	_	_
+8	information	information	NOUN	_	N	6	pobj	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	one	one	NUM	_	D	11	nsubj	_	_
+11	told	tell	VERB	_	BD	0	root	_	_
+12	me	i	PRON	_	RP	11	dative	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	amount	amount	NOUN	_	N	17	nsubj	_	_
+15	in	in	ADP	_	N	14	prep	_	_
+16	question	question	NOUN	_	N	15	pobj	_	_
+17	is	be	AUX	_	BZ	11	ccomp	_	_
+18	n't	not	PART	_	B	17	neg	_	_
+19	worth	worth	ADJ	_	J	17	acomp	_	_
+20	it	it	PRON	_	RP	19	npadvmod	_	_
+21	for	for	SCONJ	_	N	24	mark	_	_
+22	him	he	PRON	_	RP	24	nsubj	_	_
+23	to	to	PART	_	O	24	aux	_	_
+24	take	take	VERB	_	B	17	advcl	_	_
+25	the	the	DET	_	T	26	det	_	_
+26	job	job	NOUN	_	N	24	dobj	_	_
+27	and	and	CCONJ	_	C	26	cc	_	_
+28	the	the	DET	_	T	29	det	_	_
+29	others	other	NOUN	_	NS	31	nsubj	_	_
+30	just	just	ADV	_	B	31	advmod	_	_
+31	ghosted	ghost	VERB	_	BD	11	conj	_	_
+32	me	i	PRON	_	RP	31	dobj	_	_
+33	.	.	PUNCT	_	_	31	punct	_	_
+
+
+# sent_id = 11
+# text = I spoke to a friend who's an attorney and they confirmed that they doubted anyone world be willing to take on the case because it would take too much work for the payout.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	spoke	speak	VERB	_	BD	0	root	_	_
+3	to	to	ADP	_	N	2	prep	_	_
+4	a	a	DET	_	T	5	det	_	_
+5	friend	friend	NOUN	_	N	3	pobj	_	_
+6	who	who	PRON	_	P	7	nsubj	_	_
+7	's	be	AUX	_	BZ	5	relcl	_	_
+8	an	an	DET	_	T	9	det	_	_
+9	attorney	attorney	NOUN	_	N	7	attr	_	_
+10	and	and	CCONJ	_	C	2	cc	_	_
+11	they	they	PRON	_	RP	12	nsubj	_	_
+12	confirmed	confirm	VERB	_	BD	2	conj	_	_
+13	that	that	SCONJ	_	N	15	mark	_	_
+14	they	they	PRON	_	RP	15	nsubj	_	_
+15	doubted	doubt	VERB	_	BD	12	ccomp	_	_
+16	anyone	anyone	PRON	_	N	17	compound	_	_
+17	world	world	NOUN	_	N	18	nsubj	_	_
+18	be	be	AUX	_	B	15	ccomp	_	_
+19	willing	willing	ADJ	_	J	18	acomp	_	_
+20	to	to	PART	_	O	21	aux	_	_
+21	take	take	VERB	_	B	19	xcomp	_	_
+22	on	on	ADP	_	P	21	prt	_	_
+23	the	the	DET	_	T	24	det	_	_
+24	case	case	NOUN	_	N	21	dobj	_	_
+25	because	because	SCONJ	_	N	28	mark	_	_
+26	it	it	PRON	_	RP	28	nsubj	_	_
+27	would	would	AUX	_	D	28	aux	_	_
+28	take	take	VERB	_	B	15	advcl	_	_
+29	too	too	ADV	_	B	30	advmod	_	_
+30	much	much	ADJ	_	J	31	amod	_	_
+31	work	work	NOUN	_	N	28	dobj	_	_
+32	for	for	ADP	_	N	31	prep	_	_
+33	the	the	DET	_	T	34	det	_	_
+34	payout	payout	NOUN	_	N	32	pobj	_	_
+35	.	.	PUNCT	_	_	12	punct	_	_
+
+
+# sent_id = 12
+# text = They made a call for me, but this isn't their wheelhouse.
+1	They	they	PRON	_	RP	2	nsubj	_	_
+2	made	make	VERB	_	BD	0	root	_	_
+3	a	a	DET	_	T	4	det	_	_
+4	call	call	NOUN	_	N	2	dobj	_	_
+5	for	for	ADP	_	N	4	prep	_	_
+6	me	i	PRON	_	RP	5	pobj	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	but	but	CCONJ	_	C	2	cc	_	_
+9	this	this	PRON	_	T	10	nsubj	_	_
+10	is	be	AUX	_	BZ	2	conj	_	_
+11	n't	not	PART	_	B	10	neg	_	_
+12	their	their	PRON	_	RP$	13	poss	_	_
+13	wheelhouse	wheelhouse	NOUN	_	N	10	attr	_	_
+14	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = 13
+# text = I went on Instagram a few days ago and tagged IBX, the employer and the main BCBS account for the country.
+1	I	i	PRON	_	RP	2	nsubj	_	_
+2	went	go	VERB	_	BD	0	root	_	_
+3	on	on	ADP	_	N	2	prep	_	_
+4	Instagram	instagram	PROPN	_	NP	3	pobj	_	_
+5	a	a	DET	_	T	7	det	_	_
+6	few	few	ADJ	_	J	7	amod	_	_
+7	days	day	NOUN	_	NS	8	npadvmod	_	_
+8	ago	ago	ADV	_	B	2	advmod	_	_
+9	and	and	CCONJ	_	C	2	cc	_	_
+10	tagged	tag	VERB	_	BD	2	conj	_	_
+11	IBX	ibx	PROPN	_	NP	10	dobj	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	the	the	DET	_	T	14	det	_	_
+14	employer	employer	NOUN	_	N	11	appos	_	_
+15	and	and	CCONJ	_	C	14	cc	_	_
+16	the	the	DET	_	T	19	det	_	_
+17	main	main	ADJ	_	J	19	amod	_	_
+18	BCBS	bcbs	PROPN	_	NP	19	compound	_	_
+19	account	account	NOUN	_	N	14	conj	_	_
+20	for	for	ADP	_	N	19	prep	_	_
+21	the	the	DET	_	T	22	det	_	_
+22	country	country	NOUN	_	N	20	pobj	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 14
+# text = Suddenly got a phone call.
+1	Suddenly	suddenly	ADV	_	B	2	advmod	_	_
+2	got	get	VERB	_	BD	0	root	_	_
+3	a	a	DET	_	T	5	det	_	_
+4	phone	phone	NOUN	_	N	5	compound	_	_
+5	call	call	NOUN	_	N	2	dobj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 15
+# text = Apparently she didn't want to call me back with bad news, so she just ignored me.
+1	Apparently	apparently	ADV	_	B	5	advmod	_	_
+2	she	she	PRON	_	RP	5	nsubj	_	_
+3	did	do	AUX	_	BD	5	aux	_	_
+4	n't	not	PART	_	B	5	neg	_	_
+5	want	want	VERB	_	B	17	ccomp	_	_
+6	to	to	PART	_	O	7	aux	_	_
+7	call	call	VERB	_	B	5	xcomp	_	_
+8	me	i	PRON	_	RP	7	dobj	_	_
+9	back	back	ADV	_	B	7	advmod	_	_
+10	with	with	ADP	_	N	7	prep	_	_
+11	bad	bad	ADJ	_	J	12	amod	_	_
+12	news	news	NOUN	_	N	10	pobj	_	_
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	so	so	SCONJ	_	N	17	advmod	_	_
+15	she	she	PRON	_	RP	17	nsubj	_	_
+16	just	just	ADV	_	B	17	advmod	_	_
+17	ignored	ignore	VERB	_	BD	0	root	_	_
+18	me	i	PRON	_	RP	17	dobj	_	_
+19	.	.	PUNCT	_	_	17	punct	_	_
+
+
+# sent_id = 16
+# text = Honestly, I believe her.
+1	Honestly	honestly	ADV	_	B	4	advmod	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	I	i	PRON	_	RP	4	nsubj	_	_
+4	believe	believe	VERB	_	BP	0	root	_	_
+5	her	she	PRON	_	RP	4	dobj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 17
+# text = She sounded so frustrated and upset that all the work she's done is getting the exact same responses that I got.
+1	She	she	PRON	_	RP	2	nsubj	_	_
+2	sounded	sound	VERB	_	BD	0	root	_	_
+3	so	so	ADV	_	B	4	advmod	_	_
+4	frustrated	frustrated	ADJ	_	J	2	acomp	_	_
+5	and	and	CCONJ	_	C	4	cc	_	_
+6	upset	upset	VERB	_	BD	4	conj	_	_
+7	that	that	SCONJ	_	N	15	mark	_	_
+8	all	all	DET	_	DT	10	predet	_	_
+9	the	the	DET	_	T	10	det	_	_
+10	work	work	NOUN	_	N	15	nsubj	_	_
+11	she	she	PRON	_	RP	13	nsubjpass	_	_
+12	's	be	AUX	_	BZ	13	auxpass	_	_
+13	done	do	VERB	_	BN	10	relcl	_	_
+14	is	be	AUX	_	BZ	15	aux	_	_
+15	getting	get	VERB	_	BG	6	ccomp	_	_
+16	the	the	DET	_	T	19	det	_	_
+17	exact	exact	ADJ	_	J	19	amod	_	_
+18	same	same	ADJ	_	J	19	amod	_	_
+19	responses	response	NOUN	_	NS	15	dobj	_	_
+20	that	that	PRON	_	DT	22	dobj	_	_
+21	I	i	PRON	_	RP	22	nsubj	_	_
+22	got	get	VERB	_	BD	19	relcl	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 18
+# text = Cut and paste denials with no clear reason.
+1	Cut	cut	VERB	_	B	0	root	_	_
+2	and	and	CCONJ	_	C	1	cc	_	_
+3	paste	paste	VERB	_	B	1	conj	_	_
+4	denials	denial	NOUN	_	NS	3	dobj	_	_
+5	with	with	ADP	_	N	3	prep	_	_
+6	no	no	DET	_	T	8	det	_	_
+7	clear	clear	ADJ	_	J	8	amod	_	_
+8	reason	reason	NOUN	_	N	5	pobj	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = 19
+# text = 'non covered service' for pathology from an endoscopy.
+1	'	'	PUNCT	_	'	3	punct	_	_
+2	non	non	X	_	W	3	advmod	_	_
+3	covered	cover	VERB	_	BN	0	root	_	_
+4	service	service	NOUN	_	N	3	dobj	_	_
+5	'	'	PUNCT	_	'	4	punct	_	_
+6	for	for	ADP	_	N	3	prep	_	_
+7	pathology	pathology	NOUN	_	N	6	pobj	_	_
+8	from	from	ADP	_	N	7	prep	_	_
+9	an	an	DET	_	T	10	det	_	_
+10	endoscopy	endoscopy	NOUN	_	N	8	pobj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 20
+# text = 'not covered per medical policy' for half a dozen different claims, from standard bloodwork at a well visit to mental health, two visits, for the same thing, at the same facility, with the same doctor.
+1	'	'	PUNCT	_	'	3	punct	_	_
+2	not	not	PART	_	B	3	neg	_	_
+3	covered	cover	VERB	_	BN	0	root	_	_
+4	per	per	ADP	_	N	3	prep	_	_
+5	medical	medical	ADJ	_	J	6	amod	_	_
+6	policy	policy	NOUN	_	N	4	pobj	_	_
+7	'	'	PUNCT	_	'	3	punct	_	_
+8	for	for	ADP	_	N	3	prep	_	_
+9	half	half	DET	_	DT	11	quantmod	_	_
+10	a	a	DET	_	T	11	quantmod	_	_
+11	dozen	dozen	NOUN	_	N	13	nummod	_	_
+12	different	different	ADJ	_	J	13	amod	_	_
+13	claims	claim	NOUN	_	NS	8	pobj	_	_
+14	,	,	PUNCT	_	_	3	punct	_	_
+15	from	from	ADP	_	N	3	prep	_	_
+16	standard	standard	ADJ	_	J	17	amod	_	_
+17	bloodwork	bloodwork	NOUN	_	N	15	pobj	_	_
+18	at	at	ADP	_	N	3	prep	_	_
+19	a	a	DET	_	T	21	det	_	_
+20	well	well	ADJ	_	J	21	amod	_	_
+21	visit	visit	NOUN	_	N	18	pobj	_	_
+22	to	to	ADP	_	N	21	prep	_	_
+23	mental	mental	ADJ	_	J	24	amod	_	_
+24	health	health	NOUN	_	N	22	pobj	_	_
+25	,	,	PUNCT	_	_	3	punct	_	_
+26	two	two	NUM	_	D	27	nummod	_	_
+27	visits	visit	NOUN	_	NS	3	npadvmod	_	_
+28	,	,	PUNCT	_	_	3	punct	_	_
+29	for	for	ADP	_	N	3	prep	_	_
+30	the	the	DET	_	T	32	det	_	_
+31	same	same	ADJ	_	J	32	amod	_	_
+32	thing	thing	NOUN	_	N	29	pobj	_	_
+33	,	,	PUNCT	_	_	3	punct	_	_
+34	at	at	ADP	_	N	3	prep	_	_
+35	the	the	DET	_	T	37	det	_	_
+36	same	same	ADJ	_	J	37	amod	_	_
+37	facility	facility	NOUN	_	N	34	pobj	_	_
+38	,	,	PUNCT	_	_	3	punct	_	_
+39	with	with	ADP	_	N	3	prep	_	_
+40	the	the	DET	_	T	42	det	_	_
+41	same	same	ADJ	_	J	42	amod	_	_
+42	doctor	doctor	NOUN	_	N	39	pobj	_	_
+43	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 21
+# text = One processed as an office visit, one processed as a specialist visit, same codes.
+1	One	one	NUM	_	D	2	nsubj	_	_
+2	processed	process	VERB	_	BD	9	ccomp	_	_
+3	as	as	ADP	_	N	2	prep	_	_
+4	an	an	DET	_	T	6	det	_	_
+5	office	office	NOUN	_	N	6	compound	_	_
+6	visit	visit	NOUN	_	N	3	pobj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	one	one	NUM	_	D	9	nsubj	_	_
+9	processed	process	VERB	_	BD	0	root	_	_
+10	as	as	ADP	_	N	9	prep	_	_
+11	a	a	DET	_	T	13	det	_	_
+12	specialist	specialist	NOUN	_	N	13	compound	_	_
+13	visit	visit	NOUN	_	N	10	pobj	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	same	same	ADJ	_	J	16	amod	_	_
+16	codes	code	NOUN	_	NS	9	npadvmod	_	_
+17	.	.	PUNCT	_	_	9	punct	_	_
+
+
+# sent_id = 22
+# text = A telehealth visit with an in network specialist, where all telehealth has a $20 copay, including, specifically stated, specialists, processed against my deductible.
+1	A	a	DET	_	T	3	det	_	_
+2	telehealth	telehealth	NOUN	_	N	3	compound	_	_
+3	visit	visit	NOUN	_	N	22	nsubj	_	_
+4	with	with	ADP	_	N	3	prep	_	_
+5	an	an	PRON	_	T	4	pobj	_	_
+6	in	in	ADP	_	N	5	prep	_	_
+7	network	network	NOUN	_	N	8	compound	_	_
+8	specialist	specialist	NOUN	_	N	6	pobj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	where	where	SCONJ	_	RB	13	advmod	_	_
+11	all	all	DET	_	T	12	det	_	_
+12	telehealth	telehealth	NOUN	_	N	13	nsubj	_	_
+13	has	have	VERB	_	BZ	8	relcl	_	_
+14	a	a	DET	_	T	17	det	_	_
+15	$	$	SYM	_	_	16	nmod	_	_
+16	20	20	NUM	_	D	17	nummod	_	_
+17	copay	copay	NOUN	_	N	13	dobj	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	including	include	VERB	_	BG	17	prep	_	_
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	specifically	specifically	ADV	_	B	22	advmod	_	_
+22	stated	state	VERB	_	BN	0	root	_	_
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	specialists	specialist	NOUN	_	NS	22	dobj	_	_
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	processed	process	VERB	_	BD	24	acl	_	_
+27	against	against	ADP	_	N	26	prep	_	_
+28	my	my	PRON	_	RP$	29	poss	_	_
+29	deductible	deductible	NOUN	_	N	27	pobj	_	_
+30	.	.	PUNCT	_	_	22	punct	_	_
+
+
+# sent_id = 23
+# text = Every issue gets sent back into some black box at processing and comes back with a cut and paste rejection.
+1	Every	every	DET	_	T	2	det	_	_
+2	issue	issue	NOUN	_	N	4	nsubjpass	_	_
+3	gets	get	AUX	_	BZ	4	auxpass	_	_
+4	sent	send	VERB	_	BN	0	root	_	_
+5	back	back	ADV	_	B	4	advmod	_	_
+6	into	into	ADP	_	N	4	prep	_	_
+7	some	some	DET	_	T	9	det	_	_
+8	black	black	ADJ	_	J	9	amod	_	_
+9	box	box	NOUN	_	N	6	pobj	_	_
+10	at	at	ADP	_	N	4	prep	_	_
+11	processing	processing	NOUN	_	N	10	pobj	_	_
+12	and	and	CCONJ	_	C	4	cc	_	_
+13	comes	come	VERB	_	BZ	4	conj	_	_
+14	back	back	ADV	_	B	13	advmod	_	_
+15	with	with	ADP	_	N	13	prep	_	_
+16	a	a	DET	_	T	20	det	_	_
+17	cut	cut	NOUN	_	N	20	nmod	_	_
+18	and	and	CCONJ	_	C	17	cc	_	_
+19	paste	paste	VERB	_	B	17	conj	_	_
+20	rejection	rejection	NOUN	_	N	15	pobj	_	_
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 24
+# text = The account specialist at IBX told me she had never seen an account this bad, and she doesn't even think anyone is reading the appeals before rejecting them.
+1	The	the	DET	_	T	3	det	_	_
+2	account	account	NOUN	_	N	3	compound	_	_
+3	specialist	specialist	NOUN	_	N	6	nsubj	_	_
+4	at	at	ADP	_	N	3	prep	_	_
+5	IBX	ibx	PROPN	_	NP	4	pobj	_	_
+6	told	tell	VERB	_	BD	0	root	_	_
+7	me	i	PRON	_	RP	6	dobj	_	_
+8	she	she	PRON	_	RP	11	nsubj	_	_
+9	had	have	AUX	_	BD	11	aux	_	_
+10	never	never	ADV	_	B	11	neg	_	_
+11	seen	see	VERB	_	BN	6	ccomp	_	_
+12	an	an	DET	_	T	13	det	_	_
+13	account	account	NOUN	_	N	11	dobj	_	_
+14	this	this	PRON	_	T	15	advmod	_	_
+15	bad	bad	ADJ	_	J	11	oprd	_	_
+16	,	,	PUNCT	_	_	11	punct	_	_
+17	and	and	CCONJ	_	C	11	cc	_	_
+18	she	she	PRON	_	RP	22	nsubj	_	_
+19	does	do	AUX	_	BZ	22	aux	_	_
+20	n't	not	PART	_	B	22	neg	_	_
+21	even	even	ADV	_	B	22	advmod	_	_
+22	think	think	VERB	_	B	11	conj	_	_
+23	anyone	anyone	PRON	_	N	25	nsubj	_	_
+24	is	be	AUX	_	BZ	25	aux	_	_
+25	reading	read	VERB	_	BG	22	ccomp	_	_
+26	the	the	DET	_	T	27	det	_	_
+27	appeals	appeal	NOUN	_	NS	25	dobj	_	_
+28	before	before	ADP	_	N	25	prep	_	_
+29	rejecting	reject	VERB	_	BG	28	pcomp	_	_
+30	them	they	PRON	_	RP	29	dobj	_	_
+31	.	.	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = 25
+# text = That normally she gets things fixed easily
+1	That	that	PRON	_	T	4	nsubj	_	_
+2	normally	normally	ADV	_	B	4	advmod	_	_
+3	she	she	PRON	_	RP	4	nsubj	_	_
+4	gets	get	VERB	_	BZ	0	root	_	_
+5	things	thing	NOUN	_	NS	4	dobj	_	_
+6	fixed	fix	VERB	_	BN	5	acl	_	_
+7	easily	easily	ADV	_	B	6	advmod	_	_
+
+

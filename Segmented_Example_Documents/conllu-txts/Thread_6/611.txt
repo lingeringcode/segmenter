@@ -1,0 +1,193 @@
+# sent_id = 1
+# text = Thread_6
+1	Thread_6	thread_6	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 611
+1	611	611	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 607
+1	607	607	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/Dry_Studio_2114
+1	u	u	PROPN	_	NP	0	root	_	_
+2	/	/	NOUN	_	N	1	punct	_	_
+3	Dry_Studio_2114	dry_studio_2114	PROPN	_	NP	1	nummod	_	_
+
+
+# sent_id = 5
+# text = Appeals Manager --- pre-cert is not a guarantee of payment unfortunately.
+1	Appeals	appeals	PROPN	_	NPS	2	compound	_	_
+2	Manager	manager	PROPN	_	NP	7	nsubj	_	_
+3	---	---	PUNCT	_	_	2	punct	_	_
+4	pre	pre	ADJ	_	J	2	amod	_	_
+5	-	-	ADJ	_	J	7	nsubj	_	_
+6	cert	cert	ADJ	_	J	7	nsubj	_	_
+7	is	be	AUX	_	BZ	0	root	_	_
+8	not	not	PART	_	B	7	neg	_	_
+9	a	a	DET	_	T	10	det	_	_
+10	guarantee	guarantee	NOUN	_	N	7	attr	_	_
+11	of	of	ADP	_	N	10	prep	_	_
+12	payment	payment	NOUN	_	N	11	pobj	_	_
+13	unfortunately	unfortunately	ADV	_	B	7	advmod	_	_
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+
+# sent_id = 6
+# text = That's what the "Please Note" paragraph means at the bottom of the letter.
+1	That	that	PRON	_	T	2	nsubj	_	_
+2	's	be	AUX	_	BZ	0	root	_	_
+3	what	what	PRON	_	P	10	dobj	_	_
+4	the	the	DET	_	T	10	det	_	_
+5	"	"	PUNCT	_	`	7	punct	_	_
+6	Please	please	INTJ	_	H	7	intj	_	_
+7	Note	note	VERB	_	B	10	nmod	_	_
+8	"	"	PUNCT	_	'	10	punct	_	_
+9	paragraph	paragraph	NOUN	_	N	10	compound	_	_
+10	means	mean	NOUN	_	NS	2	ccomp	_	_
+11	at	at	ADP	_	N	10	prep	_	_
+12	the	the	DET	_	T	13	det	_	_
+13	bottom	bottom	NOUN	_	N	11	pobj	_	_
+14	of	of	ADP	_	N	13	prep	_	_
+15	the	the	DET	_	T	16	det	_	_
+16	letter	letter	NOUN	_	N	14	pobj	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 7
+# text = A service can be medically necessary but still be contractually excluded under your plan.
+1	A	a	DET	_	T	2	det	_	_
+2	service	service	NOUN	_	N	4	nsubj	_	_
+3	can	can	AUX	_	D	4	aux	_	_
+4	be	be	AUX	_	B	0	root	_	_
+5	medically	medically	ADV	_	B	6	advmod	_	_
+6	necessary	necessary	ADJ	_	J	4	acomp	_	_
+7	but	but	CCONJ	_	C	4	cc	_	_
+8	still	still	ADV	_	B	11	advmod	_	_
+9	be	be	AUX	_	B	11	auxpass	_	_
+10	contractually	contractually	ADV	_	B	11	advmod	_	_
+11	excluded	exclude	VERB	_	BN	4	conj	_	_
+12	under	under	ADP	_	N	11	prep	_	_
+13	your	your	PRON	_	RP$	14	poss	_	_
+14	plan	plan	NOUN	_	N	12	pobj	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 8
+# text = You need to exhaust the internal appeal process and then request an external review.
+1	You	you	PRON	_	RP	2	nsubj	_	_
+2	need	need	VERB	_	BP	0	root	_	_
+3	to	to	PART	_	O	4	aux	_	_
+4	exhaust	exhaust	VERB	_	B	2	xcomp	_	_
+5	the	the	DET	_	T	8	det	_	_
+6	internal	internal	ADJ	_	J	8	amod	_	_
+7	appeal	appeal	NOUN	_	N	8	compound	_	_
+8	process	process	NOUN	_	N	4	dobj	_	_
+9	and	and	CCONJ	_	C	4	cc	_	_
+10	then	then	ADV	_	B	11	advmod	_	_
+11	request	request	VERB	_	B	4	conj	_	_
+12	an	an	DET	_	T	14	det	_	_
+13	external	external	ADJ	_	J	14	amod	_	_
+14	review	review	NOUN	_	N	11	dobj	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 9
+# text = I would carefully review the summar plan description.
+1	I	i	PRON	_	RP	4	nsubj	_	_
+2	would	would	AUX	_	D	4	aux	_	_
+3	carefully	carefully	ADV	_	B	4	advmod	_	_
+4	review	review	VERB	_	B	0	root	_	_
+5	the	the	DET	_	T	8	det	_	_
+6	summar	summar	PROPN	_	NP	7	compound	_	_
+7	plan	plan	NOUN	_	N	8	compound	_	_
+8	description	description	NOUN	_	N	4	dobj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = 10
+# text = Usually there are only very specific procedures covered in connection with gender affirming surgery and if the specific procedure is not listed as covered it can be denied as a contractual exclusion.
+1	Usually	usually	ADV	_	B	3	advmod	_	_
+2	there	there	PRON	_	X	3	expl	_	_
+3	are	be	VERB	_	BP	0	root	_	_
+4	only	only	ADV	_	B	7	advmod	_	_
+5	very	very	ADV	_	B	6	advmod	_	_
+6	specific	specific	ADJ	_	J	7	amod	_	_
+7	procedures	procedure	NOUN	_	NS	3	attr	_	_
+8	covered	cover	VERB	_	BN	7	acl	_	_
+9	in	in	ADP	_	N	8	prep	_	_
+10	connection	connection	NOUN	_	N	9	pobj	_	_
+11	with	with	ADP	_	N	10	prep	_	_
+12	gender	gender	NOUN	_	N	13	nsubj	_	_
+13	affirming	affirm	VERB	_	BG	11	pcomp	_	_
+14	surgery	surgery	NOUN	_	N	13	dobj	_	_
+15	and	and	CCONJ	_	C	3	cc	_	_
+16	if	if	SCONJ	_	N	22	mark	_	_
+17	the	the	DET	_	T	19	det	_	_
+18	specific	specific	ADJ	_	J	19	amod	_	_
+19	procedure	procedure	NOUN	_	N	22	nsubjpass	_	_
+20	is	be	AUX	_	BZ	22	auxpass	_	_
+21	not	not	PART	_	B	22	neg	_	_
+22	listed	list	VERB	_	BN	28	advcl	_	_
+23	as	as	SCONJ	_	N	24	mark	_	_
+24	covered	cover	VERB	_	BN	22	advcl	_	_
+25	it	it	PRON	_	RP	28	nsubjpass	_	_
+26	can	can	AUX	_	D	28	aux	_	_
+27	be	be	AUX	_	B	28	auxpass	_	_
+28	denied	deny	VERB	_	BN	3	conj	_	_
+29	as	as	ADP	_	N	28	prep	_	_
+30	a	a	DET	_	T	32	det	_	_
+31	contractual	contractual	ADJ	_	J	32	amod	_	_
+32	exclusion	exclusion	NOUN	_	N	29	pobj	_	_
+33	.	.	PUNCT	_	_	28	punct	_	_
+
+
+# sent_id = 11
+# text = The Summary Plan Description is usually 100 pages long and available on the member portal.
+1	The	the	DET	_	T	4	det	_	_
+2	Summary	summary	PROPN	_	NP	3	compound	_	_
+3	Plan	plan	PROPN	_	NP	4	compound	_	_
+4	Description	description	PROPN	_	NP	5	nsubj	_	_
+5	is	be	AUX	_	BZ	0	root	_	_
+6	usually	usually	ADV	_	B	5	advmod	_	_
+7	100	100	NUM	_	D	8	nummod	_	_
+8	pages	page	NOUN	_	NS	9	npadvmod	_	_
+9	long	long	ADJ	_	J	5	acomp	_	_
+10	and	and	CCONJ	_	C	9	cc	_	_
+11	available	available	ADJ	_	J	9	conj	_	_
+12	on	on	ADP	_	N	11	prep	_	_
+13	the	the	DET	_	T	15	det	_	_
+14	member	member	NOUN	_	N	15	compound	_	_
+15	portal	portal	NOUN	_	N	12	pobj	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 12
+# text = Review covered expenses and exclusion sections in connection with gender affirming care.
+1	Review	review	PROPN	_	NP	2	nsubj	_	_
+2	covered	cover	VERB	_	BD	0	root	_	_
+3	expenses	expense	NOUN	_	NS	2	dobj	_	_
+4	and	and	CCONJ	_	C	3	cc	_	_
+5	exclusion	exclusion	NOUN	_	N	6	compound	_	_
+6	sections	section	NOUN	_	NS	3	conj	_	_
+7	in	in	ADP	_	N	2	prep	_	_
+8	connection	connection	NOUN	_	N	7	pobj	_	_
+9	with	with	ADP	_	N	8	prep	_	_
+10	gender	gender	NOUN	_	N	11	compound	_	_
+11	affirming	affirming	NOUN	_	N	12	compound	_	_
+12	care	care	NOUN	_	N	9	pobj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = 13
+# text = Good luck!
+1	Good	good	ADJ	_	J	2	amod	_	_
+2	luck	luck	NOUN	_	N	0	root	_	_
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+

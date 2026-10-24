@@ -1,0 +1,90 @@
+# sent_id = 1
+# text = Thread_11
+1	Thread_11	thread_11	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 1118
+1	1118	1118	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 1117
+1	1117	1117	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/YouCooper
+1	u	u	PROPN	_	NP	3	nmod	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	YouCooper	youcooper	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 5
+# text = Thank you, this is really helpful to know.
+1	Thank	thank	VERB	_	BP	5	advcl	_	_
+2	you	you	PRON	_	RP	1	dobj	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	this	this	PRON	_	T	5	nsubj	_	_
+5	is	be	AUX	_	BZ	0	root	_	_
+6	really	really	ADV	_	B	5	advmod	_	_
+7	helpful	helpful	ADJ	_	J	5	acomp	_	_
+8	to	to	PART	_	O	9	aux	_	_
+9	know	know	VERB	_	B	7	xcomp	_	_
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+
+# sent_id = 6
+# text = I will call each provider this week and ask if they have already filed their own appeal or are planning to.
+1	I	i	PRON	_	RP	3	nsubj	_	_
+2	will	will	AUX	_	D	3	aux	_	_
+3	call	call	VERB	_	B	0	root	_	_
+4	each	each	DET	_	T	5	det	_	_
+5	provider	provider	NOUN	_	N	3	dobj	_	_
+6	this	this	DET	_	T	7	det	_	_
+7	week	week	NOUN	_	N	3	npadvmod	_	_
+8	and	and	CCONJ	_	C	3	cc	_	_
+9	ask	ask	VERB	_	B	3	conj	_	_
+10	if	if	SCONJ	_	N	14	mark	_	_
+11	they	they	PRON	_	RP	14	nsubj	_	_
+12	have	have	AUX	_	BP	14	aux	_	_
+13	already	already	ADV	_	B	14	advmod	_	_
+14	filed	file	VERB	_	BN	9	ccomp	_	_
+15	their	their	PRON	_	RP$	17	poss	_	_
+16	own	own	ADJ	_	J	17	amod	_	_
+17	appeal	appeal	NOUN	_	N	14	dobj	_	_
+18	or	or	CCONJ	_	C	14	cc	_	_
+19	are	be	AUX	_	BP	20	aux	_	_
+20	planning	plan	VERB	_	BG	14	conj	_	_
+21	to	to	PART	_	O	20	xcomp	_	_
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 7
+# text = Do you know if the provider appeal has a different deadline than the patient appeal, or is it the same 90 days?
+1	Do	do	AUX	_	BP	3	aux	_	_
+2	you	you	PRON	_	RP	3	nsubj	_	_
+3	know	know	VERB	_	B	0	root	_	_
+4	if	if	SCONJ	_	N	8	mark	_	_
+5	the	the	DET	_	T	7	det	_	_
+6	provider	provider	NOUN	_	N	7	compound	_	_
+7	appeal	appeal	NOUN	_	N	8	nsubj	_	_
+8	has	have	VERB	_	BZ	3	ccomp	_	_
+9	a	a	DET	_	T	11	det	_	_
+10	different	different	ADJ	_	J	11	amod	_	_
+11	deadline	deadline	NOUN	_	N	8	dobj	_	_
+12	than	than	ADP	_	N	11	prep	_	_
+13	the	the	DET	_	T	15	det	_	_
+14	patient	patient	ADJ	_	J	15	amod	_	_
+15	appeal	appeal	NOUN	_	N	12	pobj	_	_
+16	,	,	PUNCT	_	_	8	punct	_	_
+17	or	or	CCONJ	_	C	8	cc	_	_
+18	is	be	AUX	_	BZ	8	conj	_	_
+19	it	it	PRON	_	RP	18	nsubj	_	_
+20	the	the	DET	_	T	23	det	_	_
+21	same	same	ADJ	_	J	23	amod	_	_
+22	90	90	NUM	_	D	23	nummod	_	_
+23	days	day	NOUN	_	NS	18	attr	_	_
+24	?	?	PUNCT	_	_	3	punct	_	_
+
+

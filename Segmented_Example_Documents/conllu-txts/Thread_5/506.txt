@@ -1,0 +1,79 @@
+# sent_id = 1
+# text = Thread_5
+1	Thread_5	thread_5	PROPN	_	NP	0	root	_	_
+
+
+# sent_id = 2
+# text = 506
+1	506	506	NUM	_	D	0	root	_	_
+
+
+# sent_id = 3
+# text = 500
+1	500	500	NUM	_	D	0	root	_	_
+
+
+# sent_id = 4
+# text = u/rahuliitk
+1	u	u	NOUN	_	N	3	meta	_	_
+2	/	/	SYM	_	YM	3	punct	_	_
+3	rahuliitk	rahuliitk	NOUN	_	NS	0	root	_	_
+
+
+# sent_id = 5
+# text = i’d ask Aetna for the denial and date reasoning in writing, then have the surgeon’s billing team submit a post-service appeal using the external review decision and escalate the full timeline to the plan administrator or regulator overseeing the plan.
+1	i	i	PRON	_	RP	3	nsubj	_	_
+2	’d	’d	AUX	_	D	1	punct	_	_
+3	ask	ask	VERB	_	B	0	root	_	_
+4	Aetna	aetna	PROPN	_	NP	3	dobj	_	_
+5	for	for	ADP	_	N	3	prep	_	_
+6	the	the	DET	_	T	7	det	_	_
+7	denial	denial	NOUN	_	N	5	pobj	_	_
+8	and	and	CCONJ	_	C	7	cc	_	_
+9	date	date	NOUN	_	N	7	conj	_	_
+10	reasoning	reasoning	NOUN	_	N	7	conj	_	_
+11	in	in	ADP	_	N	3	prep	_	_
+12	writing	writing	NOUN	_	N	11	pobj	_	_
+13	,	,	PUNCT	_	_	3	punct	_	_
+14	then	then	ADV	_	B	3	advmod	_	_
+15	have	have	AUX	_	BP	21	aux	_	_
+16	the	the	DET	_	T	17	det	_	_
+17	surgeon	surgeon	NOUN	_	N	20	poss	_	_
+18	’s	’s	PART	_	OS	17	case	_	_
+19	billing	billing	NOUN	_	N	20	compound	_	_
+20	team	team	NOUN	_	N	21	nsubj	_	_
+21	submit	submit	VERB	_	B	3	ccomp	_	_
+22	a	a	DET	_	T	26	det	_	_
+23	post	post	ADJ	_	J	26	amod	_	_
+24	-	-	ADJ	_	J	26	amod	_	_
+25	service	service	ADJ	_	J	26	amod	_	_
+26	appeal	appeal	NOUN	_	N	21	dobj	_	_
+27	using	use	VERB	_	BG	26	acl	_	_
+28	the	the	DET	_	T	31	det	_	_
+29	external	external	ADJ	_	J	30	amod	_	_
+30	review	review	NOUN	_	N	31	compound	_	_
+31	decision	decision	NOUN	_	N	27	dobj	_	_
+32	and	and	CCONJ	_	C	27	cc	_	_
+33	escalate	escalate	VERB	_	B	27	conj	_	_
+34	the	the	DET	_	T	36	det	_	_
+35	full	full	ADJ	_	J	36	amod	_	_
+36	timeline	timeline	NOUN	_	N	33	dobj	_	_
+37	to	to	ADP	_	N	33	prep	_	_
+38	the	the	DET	_	T	40	det	_	_
+39	plan	plan	NOUN	_	N	40	compound	_	_
+40	administrator	administrator	NOUN	_	N	37	pobj	_	_
+41	or	or	CCONJ	_	C	40	cc	_	_
+42	regulator	regulator	NOUN	_	N	40	conj	_	_
+43	overseeing	oversee	VERB	_	BG	40	acl	_	_
+44	the	the	DET	_	T	45	det	_	_
+45	plan	plan	NOUN	_	N	43	dobj	_	_
+46	.	.	PUNCT	_	_	3	punct	_	_
+
+
+# sent_id = 6
+# text = document everything.
+1	document	document	VERB	_	B	0	root	_	_
+2	everything	everything	PRON	_	N	1	dobj	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+
