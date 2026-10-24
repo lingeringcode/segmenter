@@ -1,10 +1,16 @@
 # Segmenter
 
+[![DOI](https://zenodo.org/badge/1432300318.svg)](https://doi.org/10.5281/zenodo.23620926)
+
 **What is it?**: A Python commandline tool developed specifically for qualitative researchers, who need to quickly segment text files either in `.txt` or `.docx` file formats.
 
 **What file formats can I use?**: Segmenter works with pre-existing folder of `.txt` or `.docx` files. It also works well with a pre-existing MAXQDA document system of files, which you can easily export with MAXQDA's `Archive Data` feature.
 
 **Include linguistic CoNLLU-U files**: Segmenter converts all input files into CoNLL-U text files to reliably complete this work, so you can also optionally include these outputs in the output folder with segmented documents.
+
+**How to cite this project**: Please cite this project, if you used it in your research process. Thank you!
+
+- APA format: Lindgren, Chris A. (2026). lingeringcode/segmenter: Segmenter (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.23620926
 
 Read more about how Segmenter works below.
 
